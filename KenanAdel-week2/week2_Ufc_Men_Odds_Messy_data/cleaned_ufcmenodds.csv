@@ -1,0 +1,1489 @@
+fighter_1,fighter_2,fighter_1_odds,fighter_2_odds,winner,win_method,match_date,weight_class,match_duration_minutes
+Faber U.,Saenz F.,1.16,5.12,Faber U.,Decision,2015-12-13,bantamweight-ufc-men,1.0
+Sterling A.,Eduardo J.,1.17,5.17,Sterling A.,Technical Knockout,2015-12-10,bantamweight-ufc-men,23.75
+Guangyou N.,Beltran M.,1.6,2.32,Beltran M.,Decision,2015-11-28,bantamweight-ufc-men,10.0
+Jorgensen S.,Perez A.,1.69,2.15,Perez A.,Submission,2015-11-22,bantamweight-ufc-men,1.0
+Almeida T.,Birchak A.,1.22,4.32,Almeida T.,Knockout,2015-11-08,bantamweight-ufc-men,3.0
+Korea B.,Nicolau M.,2.6,1.52,Nicolau M.,Submission,2015-11-07,bantamweight-ufc-men,23.5
+Mizugaki T.,Roop G.,1.4,2.9,Mizugaki T.,Decision,2015-09-27,bantamweight-ufc-men,2.0
+Rivera F.,Lineker J.,2.18,1.67,Lineker J.,Technical Knockout,2015-09-06,bantamweight-ufc-men,0.0
+Saenz F.,Kakai S.,0.0,0.0,PTS,Decision,2015-08-09,bantamweight-ufc-men,2.0
+Vieira R.,Lopes D.,3.66,1.28,Vieira R.,Decision,2015-08-02,bantamweight-ufc-men,2.0
+Viana H.,Cannetti G.,1.18,4.84,Cannetti G.,Decision,2015-08-01,bantamweight-ufc-men,23.0
+Cruz D.,Garbrandt C.,1.42,2.86,Garbrandt C.,Decision,2016-12-31,bantamweight-ufc-men,3.0
+Faber U.,Pickett B.,1.28,3.66,Faber U.,Decision,2016-12-18,bantamweight-ufc-men,1.0
+Wineland E.,Mizugaki T.,1.54,2.48,Wineland E.,Technical Knockout,2016-12-17,bantamweight-ufc-men,21.5
+Gagnon M.,Lopez M.,1.7,2.15,Lopez M.,Decision,2016-12-11,bantamweight-ufc-men,1.0
+Font R.,Schnell M.,1.36,3.2,Font R.,Knockout,2016-12-04,bantamweight-ufc-men,1.0
+Vera M.,Guangyou N.,1.76,2.06,Vera M.,Decision,2016-11-26,bantamweight-ufc-men,23.5
+Almeida T.,Morales A.,1.31,3.42,Almeida T.,Technical Knockout,2016-11-20,bantamweight-ufc-men,2.0
+Munhoz P.,Scoggins J.,2.15,1.71,Munhoz P.,Submission,2016-11-20,bantamweight-ufc-men,0.0
+Entwistle I.,Font R.,3.4,1.29,canc.,Cancelled,2016-10-09,bantamweight-ufc-men,0.0
+Lineker J.,Dodson J.,2.12,1.73,Lineker J.,Decision,2016-10-02,bantamweight-ufc-men,3.0
+Yahya R.,Tanaka M.,1.84,1.97,Yahya R.,Decision,2016-09-25,bantamweight-ufc-men,0.0
+Quinonez J.,Gomez J.,2.2,1.68,Quinonez J.,Decision,2016-09-18,bantamweight-ufc-men,0.0
+Perez A.,Morales A.,1.86,1.96,Draw,Draw,2016-09-17,bantamweight-ufc-men,23.0
+Faber U.,Rivera J.,2.29,1.6,Rivera J.,Decision,2016-09-11,bantamweight-ufc-men,2.0
+Lapilus T.,Issa L.,1.63,2.27,Lapilus T.,Decision,2016-09-03,bantamweight-ufc-men,15.75
+Guangyou N.,Vera M.,0.0,0.0,canc.,Cancelled,2016-08-27,bantamweight-ufc-men,21.0
+Garbrandt C.,Mizugaki T.,1.17,4.91,Garbrandt C.,Knockout,2016-08-21,bantamweight-ufc-men,0.0
+Rivera F.,Perez E.,2.25,1.68,Perez E.,Decision,2016-07-31,bantamweight-ufc-men,2.0
+Saenz F.,Wineland E.,1.64,2.28,Wineland E.,Technical Knockout,2016-07-23,bantamweight-ufc-men,22.0
+McDonald M.,Lineker J.,2.42,1.58,Lineker J.,Knockout,2016-07-14,bantamweight-ufc-men,1.0
+Yahya R.,Lopez M.,2.33,1.6,Yahya R.,Submission,2016-07-13,bantamweight-ufc-men,21.5
+Dillashaw TJ,Assuncao R.,1.22,4.44,Dillashaw TJ,Decision,2016-07-10,bantamweight-ufc-men,0.0
+Arantes F.,Sanders J.,1.63,2.27,Arantes F.,Submission,2016-07-07,bantamweight-ufc-men,22.5
+Doane R.,Munhoz P.,2.8,1.43,Munhoz P.,Submission,2016-07-07,bantamweight-ufc-men,22.5
+Soto J.,Beal C.,1.78,2.05,Soto J.,Submission,2016-06-19,bantamweight-ufc-men,0.5
+Cruz D.,Faber U.,1.24,4.14,Cruz D.,Decision,2016-06-05,bantamweight-ufc-men,3.5
+Almeida T.,Garbrandt C.,1.54,2.5,Garbrandt C.,Knockout,2016-05-30,bantamweight-ufc-men,1.0
+Sterling A.,Caraway B.,1.26,3.8,Caraway B.,Decision,2016-05-29,bantamweight-ufc-men,22.0
+Lineker J.,Font R.,1.71,2.17,Lineker J.,Decision,2016-05-15,bantamweight-ufc-men,0.0
+Dodson J.,Gamburyan M.,1.18,4.84,Dodson J.,Technical Knockout,2016-04-16,bantamweight-ufc-men,20.0
+Entwistle I.,Perez A.,1.65,2.23,Perez A.,Technical Knockout,2016-04-10,bantamweight-ufc-men,16.0
+Grant D.,Vera M.,1.49,2.6,Grant D.,Decision,2016-02-27,bantamweight-ufc-men,17.75
+Lineker J.,Garbrandt C.,0.0,0.0,canc.,Cancelled,2016-02-22,bantamweight-ufc-men,2.0
+Alcantara Y.,Rivera J.,2.34,1.58,Rivera J.,Decision,2016-01-31,bantamweight-ufc-men,1.0
+Dillashaw TJ,Cruz D.,1.66,2.25,Cruz D.,Decision,2016-01-18,bantamweight-ufc-men,3.0
+Font R.,Gomez J.,1.47,2.75,Font R.,Knockout,2016-01-17,bantamweight-ufc-men,23.0
+McDonald M.,Kanehara M.,1.17,5.07,McDonald M.,Submission,2016-01-03,bantamweight-ufc-men,1.0
+Elliott T.,De La Rosa M.,1.46,2.72,Elliott T.,Submission,2017-12-31,bantamweight-ufc-men,0.5
+Moraes M.,Sterling A.,1.63,2.26,Moraes M.,Knockout,2017-12-10,bantamweight-ufc-men,3.0
+de Tomas C. J.,Perez A.,4.02,1.24,Perez A.,Submission,2017-12-10,bantamweight-ufc-men,1.0
+Sanders L.,Soukhamthath A.,1.37,3.1,Soukhamthath A.,Technical Knockout,2017-12-10,bantamweight-ufc-men,1.0
+Perez A.,Alcantara Y.,2.57,1.5,Perez A.,Decision,2017-12-09,bantamweight-ufc-men,23.5
+O'Malley S.,Ware T.,1.4,2.95,O'Malley S.,Decision,2017-12-02,bantamweight-ufc-men,3.0
+Song Y.,Khandare B.,1.65,2.25,Song Y.,Submission,2017-11-25,bantamweight-ufc-men,8.75
+Assuncao R.,Lopez M.,1.27,3.77,Assuncao R.,Knockout,2017-11-12,bantamweight-ufc-men,3.0
+Garbrandt C.,Dillashaw TJ,1.48,2.64,Dillashaw TJ,Knockout,2017-11-05,bantamweight-ufc-men,2.0
+Zahabi A.,Ramos R.,2.67,1.48,Ramos R.,Knockout,2017-11-04,bantamweight-ufc-men,23.0
+Lineker J.,Vera M.,1.18,4.77,Lineker J.,Decision,2017-10-29,bantamweight-ufc-men,2.0
+Arantes F.,Emmett J.,3.28,1.34,Emmett J.,Decision,2017-10-21,bantamweight-ufc-men,15.75
+Perez A.,Soukhamthath A.,1.68,2.22,Perez A.,Decision,2017-08-06,bantamweight-ufc-men,2.0
+Quinonez J.,Rivas D.,1.39,3.02,Quinonez J.,Decision,2017-08-06,bantamweight-ufc-men,0.0
+Shelton E.,Brooks J.,2.29,1.63,Brooks J.,Decision,2017-07-29,bantamweight-ufc-men,22.5
+Rivera J.,Almeida T.,1.5,2.65,Rivera J.,Decision,2017-07-23,bantamweight-ufc-men,0.0
+Kelleher B.,Vera M.,1.44,2.81,Vera M.,Submission,2017-07-22,bantamweight-ufc-men,20.0
+Johns B.,Morales A.,1.26,3.89,Johns B.,Decision,2017-07-16,bantamweight-ufc-men,16.0
+Ho Kwak K.,Doane R.,1.8,2.02,Doane R.,Knockout,2017-06-17,bantamweight-ufc-men,8.75
+Alcantara Y.,Kelleher B.,1.27,3.9,Kelleher B.,Submission,2017-06-04,bantamweight-ufc-men,0.0
+Eduardo J.,Lopez M.,1.96,1.88,Lopez M.,Technical Knockout,2017-06-04,bantamweight-ufc-men,0.0
+Munhoz P.,Stasiak D.,1.13,6.12,Munhoz P.,Decision,2017-05-28,bantamweight-ufc-men,15.0
+Dodson J.,Wineland E.,1.24,4.23,Dodson J.,Decision,2017-04-23,bantamweight-ufc-men,2.0
+Williams P.,Duquesnoy T.,7.41,1.1,Duquesnoy T.,Technical Knockout,2017-04-15,bantamweight-ufc-men,22.0
+Entwistle I.,Johns B.,4.25,1.23,canc.,Cancelled,2017-03-18,bantamweight-ufc-men,17.5
+Yahya R.,Soto J.,1.44,2.84,Soto J.,Decision,2017-03-12,bantamweight-ufc-men,1.0
+Alcantara Y.,Sanders L.,2.25,1.66,Alcantara Y.,Submission,2017-03-05,bantamweight-ufc-men,1.0
+Morales A.,Soukhamthath A.,1.69,2.2,Morales A.,Decision,2017-03-04,bantamweight-ufc-men,23.5
+Zahabi A.,Vieira R.,1.38,3.07,Zahabi A.,Decision,2017-02-20,bantamweight-ufc-men,0.0
+Ramos R.,Tanaka M.,2.16,1.7,Ramos R.,Decision,2017-02-05,bantamweight-ufc-men,1.0
+Assuncao R.,Sterling A.,1.67,2.21,Assuncao R.,Decision,2017-01-28,bantamweight-ufc-men,22.0
+Saenz F.,Mendes A.,1.6,2.32,Mendes A.,Decision,2017-01-16,bantamweight-ufc-men,1.0
+Andrade D.,Yan P.,3.63,1.29,Yan P.,Technical Knockout,2018-12-30,bantamweight-ufc-men,1.5
+Wood N.,Ewell A.,1.85,1.96,Wood N.,Submission,2018-12-30,bantamweight-ufc-men,0.5
+Font R.,Pettis S.,1.59,2.37,Font R.,Decision,2018-12-16,bantamweight-ufc-men,1.5
+Katona B.,Lopez M.,1.6,2.39,Katona B.,Decision,2018-12-09,bantamweight-ufc-men,0.5
+Munhoz P.,Caraway B.,1.36,3.15,Munhoz P.,Technical Knockout,2018-12-01,bantamweight-ufc-men,4.0
+Barcelos R.,Gutierrez C.,1.19,4.64,Barcelos R.,Submission,2018-11-30,bantamweight-ufc-men,23.5
+Song Y.,Morales V.,1.19,4.8,Song Y.,Decision,2018-11-24,bantamweight-ufc-men,12.0
+Mudaerji S.,Smolka L.,2.46,1.56,Smolka L.,Submission,2018-11-24,bantamweight-ufc-men,8.25
+Cannetti G.,Vera M.,3.58,1.3,Vera M.,Submission,2018-11-18,bantamweight-ufc-men,3.5
+Kelleher B.,Jackson M.,2.3,1.64,canc.,Cancelled,2018-11-03,bantamweight-ufc-men,23.25
+Soukhamthath A.,Martinez J.,1.66,2.3,Soukhamthath A.,Decision,2018-10-28,bantamweight-ufc-men,3.0
+Barao R.,Ewell A.,1.54,2.53,Ewell A.,Decision,2018-09-23,bantamweight-ufc-men,3.0
+Yan P.,Soo Son J.,1.1,7.85,Yan P.,Decision,2018-09-15,bantamweight-ufc-men,17.0
+Sterling A.,Stamann C.,1.58,2.43,Sterling A.,Submission,2018-09-09,bantamweight-ufc-men,1.0
+Sandhagen C.,Alcantara Y.,1.46,2.84,Sandhagen C.,Technical Knockout,2018-08-26,bantamweight-ufc-men,1.0
+Yahya R.,Sanders L.,1.87,1.98,Yahya R.,Submission,2018-08-25,bantamweight-ufc-men,22.5
+Dillashaw TJ,Garbrandt C.,1.72,2.16,Dillashaw TJ,Technical Knockout,2018-08-05,bantamweight-ufc-men,4.0
+Simon R.,Jackson M.,2.01,1.82,Simon R.,Decision,2018-08-05,bantamweight-ufc-men,1.0
+Vera M.,Buren W.,1.21,4.64,Vera M.,Technical Knockout,2018-08-04,bantamweight-ufc-men,22.5
+Bermudez M.,Grant D.,1.33,3.44,Bermudez M.,Submission,2018-07-22,bantamweight-ufc-men,15.58
+Wineland E.,Perez A.,2.49,1.56,Perez A.,Decision,2018-07-15,bantamweight-ufc-men,1.5
+Assuncao R.,Font R.,1.71,2.19,Assuncao R.,Decision,2018-07-08,bantamweight-ufc-men,1.0
+Ishihara T.,Yan P.,5.11,1.19,Yan P.,Knockout,2018-06-23,bantamweight-ufc-men,11.0
+Rivera J.,Moraes M.,1.9,1.93,Moraes M.,Technical Knockout,2018-06-02,bantamweight-ufc-men,4.5
+Eduardo J.,Wood N.,3.11,1.38,Wood N.,Submission,2018-06-01,bantamweight-ufc-men,23.0
+Grant D.,Bermudez M.,2.91,1.35,canc.,Cancelled,2018-05-27,bantamweight-ufc-men,17.5
+Rivas D.,Cannetti G.,1.6,2.38,Cannetti G.,Decision,2018-05-20,bantamweight-ufc-men,2.5
+Briones E.,Saenz F.,3.63,1.3,Saenz F.,Decision,2018-05-19,bantamweight-ufc-men,22.5
+Lineker J.,Kelleher B.,1.38,3.13,Lineker J.,Knockout,2018-05-13,bantamweight-ufc-men,2.5
+Sterling A.,Johns B.,1.89,1.94,Sterling A.,Decision,2018-04-22,bantamweight-ufc-men,2.0
+Lopez M.,Perez A.,0.0,0.0,TKO,Technical Knockout,2018-04-14,bantamweight-ufc-men,23.25
+Duquesnoy T.,Ware T.,1.27,3.77,Duquesnoy T.,Decision,2018-03-17,bantamweight-ufc-men,21.0
+O'Malley S.,Soukhamthath A.,1.77,2.12,O'Malley S.,Decision,2018-03-04,bantamweight-ufc-men,4.0
+Caraway B.,Stamann C.,2.06,1.8,Stamann C.,Decision,2018-03-04,bantamweight-ufc-men,0.5
+Yahya R.,Doane R.,0.0,0.0,SUBM,Submission,2018-02-25,bantamweight-ufc-men,0.5
+Ishihara T.,Quinonez J.,2.35,1.61,Quinonez J.,Decision,2018-02-10,bantamweight-ufc-men,23.5
+Dodson J.,Munhoz P.,0.0,0.0,canc.,Cancelled,2018-02-04,bantamweight-ufc-men,4.0
+Vera M.,Andrade D.,1.64,2.26,Andrade D.,Decision,2018-02-04,bantamweight-ufc-men,0.5
+Kang K. H.,Liu P.,1.38,3.03,Kang K. H.,Decision,2019-12-21,bantamweight-ufc-men,10.0
+Alateng H.,Benoit R.,1.96,1.83,Alateng H.,Decision,2019-12-21,bantamweight-ufc-men,7.0
+Moraes M.,Aldo J.,1.54,2.52,Moraes M.,Decision,2019-12-15,bantamweight-ufc-men,3.5
+Stamann C.,Song Y.,2.67,1.49,Draw,Draw,2019-12-08,bantamweight-ufc-men,2.5
+Andrade D.,Barao R.,1.39,3.02,Andrade D.,Decision,2019-11-16,bantamweight-ufc-men,22.5
+Popov G.,Grant D.,1.6,2.34,Grant D.,Decision,2019-11-09,bantamweight-ufc-men,16.0
+Costa R.,Salmon B.,2.26,1.66,Costa R.,Technical Knockout,2019-10-18,bantamweight-ufc-men,23.5
+Vera M.,Ewell A.,1.66,2.27,Vera M.,Technical Knockout,2019-10-12,bantamweight-ufc-men,22.5
+Taha K.,Silva B.,1.44,2.83,Taha K.,Submission,2019-10-05,bantamweight-ufc-men,22.25
+Shore J.,Hernandez N.,1.47,2.74,Shore J.,Submission,2019-09-28,bantamweight-ufc-men,15.0
+Quinonez J.,Quiroz C. H.,1.61,2.31,Quinonez J.,Decision,2019-09-21,bantamweight-ufc-men,23.5
+Smith C.,Johns M.,2.12,1.73,Johns M.,Decision,2019-09-14,bantamweight-ufc-men,23.0
+Smolka L.,MacDonald R.,1.42,2.91,Smolka L.,Technical Knockout,2019-09-14,bantamweight-ufc-men,21.25
+Taha K.,Silva B.,0.0,0.0,canc.,Cancelled,2019-09-08,bantamweight-ufc-men,2.0
+Mudaerji S.,Soukhamthath A.,2.36,1.6,Mudaerji S.,Decision,2019-08-31,bantamweight-ufc-men,9.0
+Assuncao R.,Sandhagen C.,3.01,1.4,Sandhagen C.,Decision,2019-08-18,bantamweight-ufc-men,1.0
+Kang K. H.,Davis B.,1.48,2.67,Kang K. H.,Decision,2019-08-17,bantamweight-ufc-men,23.0
+de Freitas G.,Gutierrez C.,1.62,2.33,Gutierrez C.,Decision,2019-08-10,bantamweight-ufc-men,22.0
+Borg R.,Silva G.,1.53,2.54,Borg R.,Decision,2019-07-20,bantamweight-ufc-men,22.5
+Pilarte D.,Colares F.,1.28,3.78,Colares F.,Decision,2019-07-20,bantamweight-ufc-men,22.0
+Faber U.,Simon R.,3.66,1.29,Faber U.,Technical Knockout,2019-07-14,bantamweight-ufc-men,1.5
+Liu P.,Martinez J.,1.56,2.42,Martinez J.,Knockout,2019-07-13,bantamweight-ufc-men,21.5
+Lopez B.,Morales V.,1.98,1.82,Lopez B.,Decision,2019-07-13,bantamweight-ufc-men,21.0
+O'Malley S.,Vera M.,0.0,0.0,canc.,Cancelled,2019-07-07,bantamweight-ufc-men,2.0
+Perez A.,Song Y.,2.75,1.46,Song Y.,Knockout,2019-07-07,bantamweight-ufc-men,0.0
+Ramos R.,Newson J.,1.28,3.73,Ramos R.,Decision,2019-06-30,bantamweight-ufc-men,0.5
+Pettis S.,Ramos R.,0.0,0.0,canc.,Cancelled,2019-06-29,bantamweight-ufc-men,22.0
+Font R.,Stamann C.,0.0,0.0,canc.,Cancelled,2019-06-23,bantamweight-ufc-men,1.0
+Ewell A.,dos Santos A.,1.89,1.93,Ewell A.,Decision,2019-06-22,bantamweight-ufc-men,20.0
+Cejudo H.,Moraes M.,2.29,1.65,Cejudo H.,Technical Knockout,2019-06-09,bantamweight-ufc-men,4.0
+Sterling A.,Munhoz P.,1.66,2.27,Sterling A.,Decision,2019-06-09,bantamweight-ufc-men,1.0
+Wineland E.,Popov G.,1.62,2.3,Wineland E.,Technical Knockout,2019-06-08,bantamweight-ufc-men,23.75
+Barcelos R.,Quiroz C. H.,1.11,6.8,Barcelos R.,Technical Knockout,2019-05-11,bantamweight-ufc-men,22.75
+Katona B.,Dvalishvili M.,2.36,1.6,Dvalishvili M.,Decision,2019-05-05,bantamweight-ufc-men,1.0
+Zahabi A.,Morales V.,1.59,2.4,Morales V.,Decision,2019-05-04,bantamweight-ufc-men,23.0
+Lineker J.,Sandhagen C.,1.67,2.22,Sandhagen C.,Decision,2019-04-28,bantamweight-ufc-men,1.5
+Jackson M.,Soukhamthath A.,1.19,4.93,Jackson M.,Decision,2019-04-13,bantamweight-ufc-men,23.25
+Simon R.,Kelleher B.,0.0,0.0,canc.,Cancelled,2020-09-05,bantamweight-ufc-men,23.0
+Edgar F.,Munhoz P.,3.19,1.35,Edgar F.,Decision,2020-08-23,bantamweight-ufc-men,2.5
+Striegl M.,Valiev T.,0.0,0.0,canc.,Cancelled,2020-08-22,bantamweight-ufc-men,21.0
+O'Malley S.,Vera M.,1.34,3.28,Vera M.,Technical Knockout,2020-08-16,bantamweight-ufc-men,3.5
+al-Qaisi A.,Rivera I.,2.45,1.57,Rivera I.,Decision,2020-08-08,bantamweight-ufc-men,22.0
+Saenz F.,Martinez J.,2.99,1.4,Martinez J.,Technical Knockout,2020-08-02,bantamweight-ufc-men,0.5
+Borg R.,Maness N.,0.0,0.0,canc.,Cancelled,2020-08-01,bantamweight-ufc-men,23.5
+Emmers J.,Valiev T.,2.35,1.6,canc.,Cancelled,2020-08-01,bantamweight-ufc-men,22.5
+Nurmagomedov O.,Wood N.,0.0,0.0,canc.,Cancelled,2020-07-26,bantamweight-ufc-men,0.0
+Wood N.,Castaneda J.,1.21,4.41,Wood N.,Decision,2020-07-25,bantamweight-ufc-men,21.0
+Johns B.,Jackson M.,2.92,1.41,Johns B.,Decision,2020-07-18,bantamweight-ufc-men,22.0
+Munhoz P.,Edgar F.,0.0,0.0,canc.,Cancelled,2020-07-16,bantamweight-ufc-men,2.0
+Shore J.,dos Santos A.,0.0,0.0,canc.,Cancelled,2020-07-15,bantamweight-ufc-men,23.42
+Yan P.,Aldo J.,1.37,3.15,Yan P.,Technical Knockout,2020-07-12,bantamweight-ufc-men,3.0
+Day M.,Grant D.,1.67,2.22,Grant D.,Knockout,2020-07-11,bantamweight-ufc-men,22.0
+Borg R.,Dvalishvili M.,0.0,0.0,canc.,Cancelled,2020-06-14,bantamweight-ufc-men,2.0
+Moraes M.,Yan P.,0.0,0.0,canc.,Cancelled,2020-06-13,bantamweight-ufc-men,15.0
+Garbrandt C.,Assuncao R.,1.63,2.31,Garbrandt C.,Knockout,2020-06-07,bantamweight-ufc-men,3.5
+O'Malley S.,Wineland E.,1.18,5.0,O'Malley S.,Knockout,2020-06-07,bantamweight-ufc-men,2.0
+Kenney C.,Smolka L.,1.35,3.22,Kenney C.,Submission,2020-05-30,bantamweight-ufc-men,22.5
+Vera M.,Song Y.,2.62,1.51,Song Y.,Decision,2020-05-17,bantamweight-ufc-men,1.0
+Borg R.,Simon R.,2.37,1.61,Simon R.,Decision,2020-05-14,bantamweight-ufc-men,1.5
+Azure H.,Kelleher B.,1.48,2.67,Kelleher B.,Knockout,2020-05-13,bantamweight-ufc-men,22.5
+Cejudo H.,Cruz D.,1.46,2.78,Cejudo H.,Technical Knockout,2020-05-10,bantamweight-ufc-men,3.5
+Cejudo H.,Aldo J.,0.0,0.0,canc.,Cancelled,2020-05-09,bantamweight-ufc-men,21.0
+Johns B.,Jackson M.,0.0,0.0,canc.,Cancelled,2020-04-25,bantamweight-ufc-men,21.0
+Borg R.,Vera M.,0.0,0.0,canc.,Cancelled,2020-04-19,bantamweight-ufc-men,2.0
+Assuncao R.,Garbrandt C.,2.18,1.67,canc.,Cancelled,2020-03-28,bantamweight-ufc-men,22.0
+Grant D.,Smolka L.,2.9,1.4,postp.,Postponed,2020-03-28,bantamweight-ufc-men,22.0
+Vera M.,Wineland E.,0.0,0.0,postp.,Postponed,2020-03-28,bantamweight-ufc-men,22.0
+Shore J.,de Freitas G.,0.0,0.0,postp.,Postponed,2020-03-21,bantamweight-ufc-men,18.0
+Silva B.,Mudaerji S.,0.0,0.0,canc.,Cancelled,2020-03-14,bantamweight-ufc-men,22.0
+Quinones J.,O'Malley S.,3.52,1.31,O'Malley S.,Technical Knockout,2020-03-08,bantamweight-ufc-men,2.5
+Cannetti G.,Danaa B.,2.1,1.74,Danaa B.,Technical Knockout,2020-03-07,bantamweight-ufc-men,23.25
+Silva G.,Phillips K.,1.8,2.01,Phillips K.,Decision,2020-03-01,bantamweight-ufc-men,0.5
+Dodson J.,Wood N.,2.29,1.63,Dodson J.,Technical Knockout,2020-02-16,bantamweight-ufc-men,0.0
+Johns M.,Bautista M.,1.73,2.14,Bautista M.,Technical Knockout,2020-02-09,bantamweight-ufc-men,1.0
+Pilarte D.,Newson J.,1.79,2.05,Newson J.,Technical Knockout,2020-02-09,bantamweight-ufc-men,0.25
+Miller C.,Alers J.,1.92,1.9,canc.,Cancelled,2015-12-19,featherweight-ufc-men,22.0
+Aldo J.,McGregor C.,1.88,1.94,McGregor C.,Knockout,2015-12-13,featherweight-ufc-men,3.0
+Edgar F.,Mendes C.,1.74,2.09,Edgar F.,Knockout,2015-12-11,featherweight-ufc-men,23.0
+Tukhugov Z.,Nover P.,1.26,4.01,Tukhugov Z.,Decision,2015-12-10,featherweight-ufc-men,23.75
+Choi D. H.,Sicilia S.,1.38,3.04,Choi D. H.,Knockout,2015-11-28,featherweight-ufc-men,13.0
+Lamas R.,Sanchez D.,1.19,4.7,Lamas R.,Decision,2015-11-22,featherweight-ufc-men,3.0
+Guida C.,Tavares T.,1.6,2.35,Tavares T.,Submission,2015-11-08,featherweight-ufc-men,1.0
+Elkins D.,Whiteford R.,1.66,2.17,Elkins D.,Decision,2015-10-24,featherweight-ufc-men,17.0
+Rodriguez Y.,Hooker D.,1.3,3.42,Rodriguez Y.,Decision,2015-10-03,featherweight-ufc-men,23.0
+Hirota M.,Ishihara T.,1.36,3.17,Draw,Draw,2015-09-27,featherweight-ufc-men,2.0
+Collard C.,Trator T.,1.68,2.17,Trator T.,Decision,2015-09-06,featherweight-ufc-men,0.0
+Silva J.,Malegarie N.,2.08,1.73,Silva J.,Decision,2015-09-05,featherweight-ufc-men,23.0
+Holloway M.,Oliveira C.,1.4,2.94,Holloway M.,Technical Knockout,2015-08-24,featherweight-ufc-men,1.0
+Jabouin Y.,Arantes F.,2.7,1.44,Arantes F.,Technical Knockout,2015-08-23,featherweight-ufc-men,23.0
+Miller C.,Hirota M.,1.93,1.88,Hirota M.,Decision,2016-12-17,featherweight-ufc-men,23.0
+Holloway M.,Pettis A.,1.41,2.93,Holloway M.,Technical Knockout,2016-12-11,featherweight-ufc-men,3.0
+Trator T.,Burgos S.,2.44,1.55,Burgos S.,Decision,2016-12-09,featherweight-ufc-men,22.5
+Maynard G.,Hall R.,1.98,1.83,Hall R.,Decision,2016-12-04,featherweight-ufc-men,1.0
+Kasuya Y.,Volkanovski A.,2.47,1.54,Volkanovski A.,Technical Knockout,2016-11-27,featherweight-ufc-men,3.0
+Hooker D.,Knight J.,1.61,2.29,Knight J.,Decision,2016-11-26,featherweight-ufc-men,23.5
+Lobov A.,Ishihara T.,3.07,1.39,Lobov A.,Decision,2016-11-19,featherweight-ufc-men,21.0
+Edgar F.,Stephens J.,1.32,3.46,Edgar F.,Decision,2016-11-13,featherweight-ufc-men,2.5
+Barzola E.,Avila C.,1.19,4.78,Barzola E.,Decision,2016-11-05,featherweight-ufc-men,22.5
+Bektic M.,Doane R.,1.16,5.34,Bektic M.,Submission,2016-10-09,featherweight-ufc-men,2.0
+Dias H.,Fili A.,1.59,2.38,Fili A.,Decision,2016-10-02,featherweight-ufc-men,1.0
+Barao R.,Nover P.,1.17,5.01,Barao R.,Decision,2016-09-25,featherweight-ufc-men,2.0
+Skelly C.,Blanco M.,1.58,2.43,Skelly C.,Submission,2016-09-18,featherweight-ufc-men,2.0
+Buschkamp M.,Enlund A.,0.0,0.0,canc.,Cancelled,2016-09-03,featherweight-ufc-men,15.75
+Pettis A.,Oliveira C.,1.44,2.82,Pettis A.,Submission,2016-08-28,featherweight-ufc-men,0.0
+Barzola E.,Bochniak K.,2.34,1.59,Bochniak K.,Decision,2016-08-27,featherweight-ufc-men,22.0
+Lobov A.,Avila C.,1.75,2.07,Lobov A.,Decision,2016-08-21,featherweight-ufc-men,0.0
+Bermudez D.,Jason R.,1.38,3.09,Bermudez D.,Decision,2016-08-07,featherweight-ufc-men,2.0
+Ishihara T.,Gutierrez H.,1.44,2.81,Ishihara T.,Technical Knockout,2016-08-07,featherweight-ufc-men,0.0
+Swanson C.,Kawajiri T.,1.29,3.59,Swanson C.,Decision,2016-08-06,featherweight-ufc-men,23.0
+Elkins D.,Pepey G.,1.43,2.89,Elkins D.,Decision,2016-07-23,featherweight-ufc-men,22.0
+Aldo J.,Edgar F.,1.94,1.85,Aldo J.,Decision,2016-07-10,featherweight-ufc-men,2.0
+Maynard G.,Bruno F.,1.64,2.32,Maynard G.,Decision,2016-07-09,featherweight-ufc-men,2.0
+Holloway M.,Lamas R.,1.35,3.27,Holloway M.,Decision,2016-06-05,featherweight-ufc-men,2.67
+Miller C.,Caceres A.,1.57,2.43,Caceres A.,Decision,2016-06-05,featherweight-ufc-men,0.0
+Barao R.,Stephens J.,1.6,2.35,Stephens J.,Decision,2016-05-30,featherweight-ufc-men,1.0
+Carneiro R.,Tukhugov Z.,2.09,1.75,Carneiro R.,Decision,2016-05-14,featherweight-ufc-men,22.5
+Rodriguez Y.,Fili A.,1.88,1.93,Rodriguez Y.,Knockout,2016-04-24,featherweight-ufc-men,2.0
+Swanson C.,Dias H.,1.81,1.99,Swanson C.,Decision,2016-04-17,featherweight-ufc-men,0.0
+Whiteford R.,Martins L.,2.0,1.8,Martins L.,Decision,2016-04-10,featherweight-ufc-men,14.5
+Hooker D.,Eddiva M.,1.5,2.58,Hooker D.,Submission,2016-03-19,featherweight-ufc-men,22.5
+Elkins D.,Skelly C.,2.45,1.58,Elkins D.,Decision,2016-03-06,featherweight-ufc-men,1.0
+Erosa J.,Ishihara T.,1.55,2.47,Ishihara T.,Knockout,2016-03-05,featherweight-ufc-men,23.5
+Allen A.,Meza Y.,1.29,3.64,Allen A.,Decision,2016-02-27,featherweight-ufc-men,17.75
+Bermudez D.,Kawajiri T.,1.27,3.79,Bermudez D.,Decision,2016-02-22,featherweight-ufc-men,2.0
+Lahat N.,Rivas D.,1.29,3.66,Rivas D.,Knockout,2016-02-06,featherweight-ufc-men,23.0
+Caceres A.,Fullen M.,1.34,3.25,Caceres A.,Decision,2016-01-30,featherweight-ufc-men,22.0
+Blanco M.,Sanders L.,1.82,2.01,Sanders L.,Submission,2016-01-18,featherweight-ufc-men,1.0
+Rosa C.,Hettes J.,0.0,0.0,canc.,Cancelled,2016-01-17,featherweight-ufc-men,23.0
+Brandao D.,Ortega B.,2.39,1.58,Ortega B.,Submission,2016-01-03,featherweight-ufc-men,3.0
+Jury M.,Glenn R.,1.51,2.61,Jury M.,Decision,2017-12-31,featherweight-ufc-men,1.0
+Lamas R.,Emmett J.,1.35,3.15,Emmett J.,Knockout,2017-12-17,featherweight-ufc-men,1.0
+Knight J.,Benitez G.,1.3,3.48,Benitez G.,Decision,2017-12-10,featherweight-ufc-men,3.0
+Holloway M.,Aldo J.,1.34,3.23,Holloway M.,Technical Knockout,2017-12-03,featherweight-ufc-men,3.0
+Wang G.,Caceres A.,2.2,1.67,Wang G.,Decision,2017-11-25,featherweight-ufc-men,12.0
+Magomedsharipov Z.,Moraes S.,1.17,4.9,Magomedsharipov Z.,Submission,2017-11-25,featherweight-ufc-men,8.75
+Volkanovski A.,Young S.,1.14,5.72,Volkanovski A.,Decision,2017-11-19,featherweight-ufc-men,3.0
+Dias H.,Gordon J.,2.35,1.58,Gordon J.,Decision,2017-10-28,featherweight-ufc-men,23.0
+Lobov A.,Fili A.,2.42,1.55,Fili A.,Decision,2017-10-21,featherweight-ufc-men,15.75
+Duquesnoy T.,Stamann C.,1.58,2.35,Stamann C.,Decision,2017-10-08,featherweight-ufc-men,0.0
+Hirota M.,Rosa C.,0.0,0.0,canc.,Cancelled,2017-09-23,featherweight-ufc-men,2.0
+Stephens J.,Melendez G.,1.92,1.88,Stephens J.,Decision,2017-09-10,featherweight-ufc-men,2.0
+Santiago M.,Magomedsharipov Z.,4.1,1.24,Magomedsharipov Z.,Submission,2017-09-02,featherweight-ufc-men,15.5
+Carneiro R.,Ortega B.,1.54,2.5,Ortega B.,Submission,2017-07-30,featherweight-ufc-men,0.0
+Lamas R.,Knight J.,2.01,1.8,Lamas R.,Technical Knockout,2017-07-30,featherweight-ufc-men,0.0
+Bermudez D.,Elkins D.,1.43,2.87,Elkins D.,Decision,2017-07-23,featherweight-ufc-men,0.0
+Bochniak K.,Kennedy J.,3.2,1.36,Kennedy J.,Decision,2017-07-22,featherweight-ufc-men,20.0
+Stamann C.,Ware T.,1.38,3.14,Stamann C.,Decision,2017-07-08,featherweight-ufc-men,22.5
+Maynard G.,Ishihara T.,3.72,1.29,Maynard G.,Decision,2017-07-07,featherweight-ufc-men,22.0
+Penn BJ,Siver D.,2.26,1.67,Siver D.,Decision,2017-06-26,featherweight-ufc-men,1.0
+Caceres A.,Dy R.,1.31,3.47,Caceres A.,Technical Knockout,2017-06-17,featherweight-ufc-men,8.75
+Volkanovski A.,Hirota M.,1.14,5.8,Volkanovski A.,Decision,2017-06-11,featherweight-ufc-men,2.0
+Aldo J.,Holloway M.,1.64,2.28,Holloway M.,Technical Knockout,2017-06-04,featherweight-ufc-men,2.0
+Edgar F.,Rodriguez Y.,1.73,2.15,Edgar F.,Technical Knockout,2017-05-14,featherweight-ufc-men,2.0
+Benitez G.,Barzola E.,1.69,2.21,Barzola E.,Decision,2017-05-13,featherweight-ufc-men,22.25
+Swanson C.,Lobov A.,1.18,5.05,Swanson C.,Decision,2017-04-23,featherweight-ufc-men,2.0
+Stephens J.,Carneiro R.,1.54,2.51,Carneiro R.,Decision,2017-04-16,featherweight-ufc-men,0.0
+Burgos S.,Rosa C.,1.45,2.84,Burgos S.,Technical Knockout,2017-04-09,featherweight-ufc-men,0.0
+Allen A.,Amirkhani M.,1.93,1.9,Allen A.,Decision,2017-03-18,featherweight-ufc-men,21.25
+Jason R.,Kennedy J.,2.02,1.81,Kennedy J.,Decision,2017-03-12,featherweight-ufc-men,0.0
+Bektic M.,Elkins D.,1.14,5.84,Elkins D.,Technical Knockout,2017-03-05,featherweight-ufc-men,1.0
+Sicilia S.,Tucker G.,2.35,1.6,Tucker G.,Decision,2017-02-20,featherweight-ufc-men,2.0
+Glenn R.,Nover P.,1.55,2.46,Glenn R.,Decision,2017-02-11,featherweight-ufc-men,23.5
+Bermudez D.,Jung C. S.,1.53,2.52,Jung C. S.,Knockout,2017-02-05,featherweight-ufc-men,3.0
+Caceres A.,Knight J.,2.17,1.68,Knight J.,Submission,2017-01-29,featherweight-ufc-men,1.0
+Rodriguez Y.,Penn BJ,1.22,4.26,Rodriguez Y.,Technical Knockout,2017-01-16,featherweight-ufc-men,3.0
+Mendes C.,Volkanovski A.,1.77,2.07,Volkanovski A.,Technical Knockout,2018-12-30,featherweight-ufc-men,3.0
+Ige D.,Griffin J.,1.55,2.46,Ige D.,Decision,2018-12-15,featherweight-ufc-men,22.0
+Holloway M.,Ortega B.,1.91,1.92,Holloway M.,Technical Knockout,2018-12-09,featherweight-ufc-men,5.0
+Mokhtarian S.,Yusuff S.,5.19,1.18,Yusuff S.,Technical Knockout,2018-12-02,featherweight-ufc-men,3.0
+Lamas R.,Elkins D.,1.51,2.64,Lamas R.,Technical Knockout,2018-11-18,featherweight-ufc-men,5.0
+Narimani N.,dos Santos A.,1.25,4.04,Narimani N.,Decision,2018-11-18,featherweight-ufc-men,0.0
+Jung C. S.,Rodriguez Y.,2.05,1.79,Rodriguez Y.,Knockout,2018-11-11,featherweight-ufc-men,5.5
+Knight J.,Rinaldi J.,1.32,3.44,Rinaldi J.,Decision,2018-11-04,featherweight-ufc-men,1.5
+Arce J.,Moraes S.,1.37,3.11,Moraes S.,Decision,2018-11-04,featherweight-ufc-men,0.5
+Johnson M.,Lobov A.,1.17,5.26,Johnson M.,Decision,2018-10-28,featherweight-ufc-men,4.0
+Kattar C.,Fishgold C.,1.41,3.0,Kattar C.,Technical Knockout,2018-10-27,featherweight-ufc-men,23.5
+Magomedsharipov Z.,Davis B.,1.07,9.15,Magomedsharipov Z.,Submission,2018-09-09,featherweight-ufc-men,3.0
+Johnson M.,Fili A.,2.0,1.85,Johnson M.,Decision,2018-08-26,featherweight-ufc-men,4.0
+Swanson C.,Carneiro R.,3.47,1.33,Carneiro R.,Submission,2018-08-05,featherweight-ufc-men,3.0
+Aldo J.,Stephens J.,1.98,1.83,Aldo J.,Technical Knockout,2018-07-29,featherweight-ufc-men,1.0
+Dawodu H.,Arnett A.,1.23,4.41,Dawodu H.,Decision,2018-07-28,featherweight-ufc-men,23.0
+Hein N.,Hadzovic D.,1.64,2.29,Hadzovic D.,Decision,2018-07-22,featherweight-ufc-men,17.58
+Bermudez D.,Glenn R.,1.52,2.58,Glenn R.,Decision,2018-07-15,featherweight-ufc-men,3.5
+Elkins D.,Volkanovski A.,3.0,1.41,Volkanovski A.,Decision,2018-07-15,featherweight-ufc-men,1.0
+Cucciniello J.,Katona B.,3.22,1.37,Katona B.,Decision,2018-07-07,featherweight-ufc-men,3.0
+Diamond T.,Mitchell B.,2.03,1.82,Mitchell B.,Decision,2018-07-06,featherweight-ufc-men,23.5
+Dy R.,Young S.,2.37,1.62,Young S.,Technical Knockout,2018-06-23,featherweight-ufc-men,10.0
+Lamas R.,Bektic M.,3.01,1.4,Bektic M.,Decision,2018-06-10,featherweight-ufc-men,0.0
+Santiago M.,Ige D.,1.99,1.83,Ige D.,Technical Knockout,2018-06-09,featherweight-ufc-men,22.25
+Arce J.,Teymur D.,1.55,2.52,Arce J.,Submission,2018-06-02,featherweight-ufc-men,2.5
+Allen A.,Burnell M.,1.4,2.95,Allen A.,Submission,2018-05-27,featherweight-ufc-men,18.5
+Benitez G.,Bandenay H.,1.61,2.37,Benitez G.,Knockout,2018-05-19,featherweight-ufc-men,23.5
+Edgar F.,Swanson C.,1.39,3.09,Edgar F.,Decision,2018-04-22,featherweight-ufc-men,2.0
+Carneiro R.,Kattar C.,1.87,1.96,Carneiro R.,Decision,2018-04-08,featherweight-ufc-men,3.0
+Magomedsharipov Z.,Bochniak K.,1.13,5.85,Magomedsharipov Z.,Decision,2018-04-07,featherweight-ufc-men,23.25
+Henry D.,Dawodu H.,3.13,1.37,Henry D.,Submission,2018-03-17,featherweight-ufc-men,18.75
+Edgar F.,Ortega B.,1.59,2.4,Ortega B.,Knockout,2018-03-04,featherweight-ufc-men,4.5
+Emmett J.,Stephens J.,0.0,0.0,KO,Knockout,2018-02-25,featherweight-ufc-men,4.0
+Peterson S.,Davis B.,2.5,1.53,Davis B.,Decision,2018-02-18,featherweight-ufc-men,23.25
+Bermudez D.,Fili A.,0.0,0.0,PTS,Decision,2018-01-28,featherweight-ufc-men,4.0
+Arnett A.,Sandhagen C.,2.75,1.4,Sandhagen C.,Technical Knockout,2018-01-27,featherweight-ufc-men,23.0
+Jung C. S.,Edgar F.,1.55,2.52,Jung C. S.,Technical Knockout,2019-12-21,featherweight-ufc-men,12.5
+Mokhtarian S.,Choi S. W.,3.32,1.33,Choi S. W.,Decision,2019-12-21,featherweight-ufc-men,9.0
+Holloway M.,Volkanovski A.,1.53,2.54,Volkanovski A.,Decision,2019-12-15,featherweight-ufc-men,4.5
+Hooper C.,Teymur D.,1.66,2.25,Hooper C.,Technical Knockout,2019-12-15,featherweight-ufc-men,0.5
+Fishgold C.,Quarantillo B.,0.0,0.0,canc.,Cancelled,2019-12-08,featherweight-ufc-men,2.0
+Kilburn J.,Quarantillo B.,3.52,1.31,Quarantillo B.,Submission,2019-12-08,featherweight-ufc-men,0.5
+Ramos R.,Garagorri L. E.,1.27,3.76,Ramos R.,Submission,2019-11-17,featherweight-ufc-men,0.0
+Magomedsharipov Z.,Kattar C.,1.31,3.48,Magomedsharipov Z.,Decision,2019-11-09,featherweight-ufc-men,21.5
+Burgos S.,Amirkhani M.,1.42,2.87,Burgos S.,Technical Knockout,2019-11-03,featherweight-ufc-men,0.5
+Barzola E.,Evloev M.,2.59,1.51,Evloev M.,Decision,2019-10-26,featherweight-ufc-men,11.0
+Rodriguez Y.,Stephens J.,1.77,2.07,Rodriguez Y.,Decision,2019-10-19,featherweight-ufc-men,3.5
+Magomedsharipov Z.,Kattar C.,0.0,0.0,canc.,Cancelled,2019-10-19,featherweight-ufc-men,1.0
+Swanson C.,Gracie K.,2.62,1.51,Swanson C.,Decision,2019-10-13,featherweight-ufc-men,2.5
+Davis B.,Chikadze G.,1.63,2.31,Chikadze G.,Decision,2019-09-28,featherweight-ufc-men,16.0
+Rodriguez Y.,Stephens J.,1.77,2.05,Draw,Draw,2019-09-22,featherweight-ufc-men,2.0
+Reyes M. P.,Nelson K.,1.93,1.87,Nelson K.,Technical Knockout,2019-09-21,featherweight-ufc-men,23.0
+Skelly C.,Griffin J.,2.29,1.64,Skelly C.,Decision,2019-09-14,featherweight-ufc-men,21.5
+Tukhugov Z.,Murphy L.,1.31,3.51,Draw,Draw,2019-09-07,featherweight-ufc-men,17.0
+Lu Zhenhong,Evloev M.,0.0,0.0,canc.,Cancelled,2019-08-31,featherweight-ufc-men,10.5
+Benitez G.,Yusuff S.,3.22,1.36,Yusuff S.,Technical Knockout,2019-08-18,featherweight-ufc-men,2.5
+Garagorri L. E.,Bandenay H.,1.72,2.17,Garagorri L. E.,Decision,2019-08-11,featherweight-ufc-men,1.5
+Holloway M.,Edgar F.,1.28,3.84,Holloway M.,Decision,2019-07-28,featherweight-ufc-men,4.0
+Dawodu H.,Horie Y.,1.25,4.05,Dawodu H.,Technical Knockout,2019-07-28,featherweight-ufc-men,1.0
+Caceres A.,Peterson S.,1.87,1.96,Caceres A.,Decision,2019-07-21,featherweight-ufc-men,0.5
+Emmett J.,Bektic M.,2.33,1.61,Emmett J.,Technical Knockout,2019-07-14,featherweight-ufc-men,1.0
+Fili A.,Moraes S.,1.69,2.18,Fili A.,Knockout,2019-07-13,featherweight-ufc-men,23.0
+Melendez G.,Allen A.,3.7,1.29,Allen A.,Decision,2019-07-07,featherweight-ufc-men,1.5
+Griffin J.,Murdock V.,1.25,4.0,canc.,Cancelled,2019-06-29,featherweight-ufc-men,22.25
+Carneiro R.,Jung C. S.,1.48,2.69,Jung C. S.,Technical Knockout,2019-06-23,featherweight-ufc-men,1.0
+Ige D.,Aguilar K.,2.17,1.69,Ige D.,Decision,2019-06-22,featherweight-ufc-men,22.5
+Lamas R.,Kattar C.,2.36,1.61,Kattar C.,Technical Knockout,2019-06-09,featherweight-ufc-men,0.0
+Amirkhani M.,Fishgold C.,1.82,2.0,Amirkhani M.,Submission,2019-06-01,featherweight-ufc-men,18.0
+Trizano M.,Dawson G.,2.4,1.6,Dawson G.,Submission,2019-05-18,featherweight-ufc-men,23.0
+Aldo J.,Volkanovski A.,1.68,2.23,Volkanovski A.,Decision,2019-05-12,featherweight-ufc-men,3.0
+Swanson C.,Burgos S.,2.37,1.59,Burgos S.,Decision,2019-05-05,featherweight-ufc-men,1.5
+Nelson K.,Sayles M.,2.67,1.48,Sayles M.,Submission,2019-05-04,featherweight-ufc-men,22.0
+Sanchez J.,Herrera G.,1.89,1.91,Herrera G.,Technical Knockout,2015-12-11,flyweight-ufc-men,22.0
+Yao Z.,Serrano F.,2.39,1.57,Serrano F.,Technical Knockout,2015-11-28,flyweight-ufc-men,10.0
+Formiga J.,Cejudo H.,4.84,1.18,Cejudo H.,Decision,2015-11-22,flyweight-ufc-men,3.0
+Vaculik R.,Martinez D.,1.86,1.93,Martinez D.,Decision,2015-11-15,flyweight-ufc-men,1.0
+Nguyen B.,Benoit R.,1.71,2.11,Nguyen B.,Submission,2015-11-14,flyweight-ufc-men,23.25
+Holohan P.,Smolka L.,2.03,1.75,Smolka L.,Submission,2015-10-24,flyweight-ufc-men,20.0
+Benavidez J.,Bagautinov A.,1.3,3.38,Benavidez J.,Decision,2015-10-03,flyweight-ufc-men,23.0
+Horiguchi K.,Camus C.,1.24,4.05,Horiguchi K.,Decision,2015-09-27,flyweight-ufc-men,2.0
+Johnson D.,Dodson J.,1.16,5.05,Johnson D.,Decision,2015-09-06,flyweight-ufc-men,2.0
+Kelades C.,Beal C.,2.33,1.59,Kelades C.,Decision,2015-08-23,flyweight-ufc-men,23.0
+Borg R.,Herrera G.,1.22,4.48,Borg R.,Decision,2015-08-09,flyweight-ufc-men,2.0
+Smolka L.,Borg R.,2.04,1.76,Borg R.,Decision,2016-12-31,flyweight-ufc-men,3.0
+Sandoval H.,Serrano F.,1.8,2.01,Sandoval H.,Decision,2016-12-17,flyweight-ufc-men,21.5
+Makovsky Z.,Ortiz D.,1.64,2.27,Ortiz D.,Decision,2016-12-10,flyweight-ufc-men,23.5
+Benavidez J.,Cejudo H.,1.5,2.62,Benavidez J.,Decision,2016-12-04,flyweight-ufc-men,3.0
+Moreno B.,Benoit R.,1.58,2.45,Moreno B.,Decision,2016-12-04,flyweight-ufc-men,3.0
+Nguyen B.,Herrera G.,1.78,2.05,Nguyen B.,Decision,2016-11-27,flyweight-ufc-men,1.0
+Yao Z.,Lausa J.,2.12,1.73,Lausa J.,Decision,2016-11-26,flyweight-ufc-men,23.5
+Horiguchi K.,Bagautinov A.,1.5,2.58,Horiguchi K.,Decision,2016-11-19,flyweight-ufc-men,17.25
+Smolka L.,Moreno B.,1.19,4.79,Moreno B.,Submission,2016-10-02,flyweight-ufc-men,3.0
+Formiga J.,Ortiz D.,1.49,2.66,Formiga J.,Decision,2016-09-25,flyweight-ufc-men,0.0
+McCall I.,Borg R.,0.0,0.0,canc.,Cancelled,2016-09-11,flyweight-ufc-men,0.0
+Benoit R.,Serrano F.,1.94,1.88,Benoit R.,Decision,2016-07-31,flyweight-ufc-men,2.0
+Reis W.,Sandoval H.,1.28,3.71,Reis W.,Submission,2016-07-31,flyweight-ufc-men,0.0
+Nguyen B.,Smolka L.,1.77,2.05,Smolka L.,Technical Knockout,2016-07-14,flyweight-ufc-men,1.0
+Moraga J.,Nicolau M.,0.0,0.0,PTS,Decision,2016-07-09,flyweight-ufc-men,2.0
+Bagautinov A.,Herrera G.,1.32,3.41,Bagautinov A.,Decision,2016-06-18,flyweight-ufc-men,22.75
+Horiguchi K.,Seery N.,1.17,5.06,Horiguchi K.,Decision,2016-05-08,flyweight-ufc-men,14.5
+Johnson D.,Cejudo H.,1.25,3.96,Johnson D.,Technical Knockout,2016-04-24,flyweight-ufc-men,2.0
+Rivera F.,Pickett B.,1.59,2.34,Pickett B.,Decision,2016-02-27,flyweight-ufc-men,21.0
+Benavidez J.,Makovsky Z.,1.25,4.21,Benavidez J.,Decision,2016-02-07,flyweight-ufc-men,4.0
+Borg R.,Scoggins J.,1.42,2.87,Scoggins J.,Decision,2016-02-06,flyweight-ufc-men,23.0
+Ortiz D.,Reis W.,1.42,2.86,Reis W.,Decision,2016-01-30,flyweight-ufc-men,22.0
+Smolka L.,Nicolau M.,2.88,1.42,Nicolau M.,Decision,2017-12-31,flyweight-ufc-men,1.0
+Elliott T.,Menga P.,1.37,3.02,canc.,Cancelled,2017-12-16,flyweight-ufc-men,22.0
+Cejudo H.,Pettis S.,1.33,3.24,Cejudo H.,Decision,2017-12-03,flyweight-ufc-men,3.0
+Benoit R.,Mokhtarian A.,1.33,3.24,Benoit R.,Knockout,2017-11-19,flyweight-ufc-men,1.0
+Lausa J.,Shelton E.,3.88,1.26,Shelton E.,Decision,2017-11-18,flyweight-ufc-men,23.5
+Figueiredo D.,Brooks J.,2.34,1.59,Figueiredo D.,Decision,2017-10-28,flyweight-ufc-men,22.0
+Johnson D.,Borg R.,1.08,7.59,Johnson D.,Submission,2017-10-08,flyweight-ufc-men,2.0
+Moraga J.,Bibulatov M.,5.2,1.16,Moraga J.,Knockout,2017-10-07,flyweight-ufc-men,22.5
+Formiga J.,Sasaki Y.,1.24,4.12,Formiga J.,Submission,2017-09-23,flyweight-ufc-men,0.0
+Johnson D.,Borg R.,0.0,0.0,canc.,Cancelled,2017-09-10,flyweight-ufc-men,2.0
+Pettis S.,Moreno B.,2.42,1.57,Pettis S.,Decision,2017-08-06,flyweight-ufc-men,2.0
+Morales J.,Sanchez R.,1.99,1.82,Morales J.,Submission,2017-08-05,flyweight-ufc-men,23.0
+Pantoja A.,Seery N.,1.28,3.68,Pantoja A.,Submission,2017-07-16,flyweight-ufc-men,17.0
+Inoue N.,de Tomas C. J.,1.35,3.31,Inoue N.,Decision,2017-06-17,flyweight-ufc-men,8.75
+Elliott T.,Nguyen B.,1.51,2.66,Nguyen B.,Submission,2017-06-11,flyweight-ufc-men,2.0
+Beltran M.,Figueiredo D.,2.23,1.69,Figueiredo D.,Technical Knockout,2017-06-03,flyweight-ufc-men,22.5
+Ortiz D.,Moreno B.,1.81,2.02,Moreno B.,Submission,2017-04-23,flyweight-ufc-men,0.0
+Sandoval H.,Schnell M.,2.24,1.67,Sandoval H.,Knockout,2017-04-22,flyweight-ufc-men,22.5
+Johnson D.,Reis W.,1.11,6.8,Johnson D.,Submission,2017-04-16,flyweight-ufc-men,0.0
+Smolka L.,Elliott T.,2.6,1.5,Elliott T.,Decision,2017-04-15,flyweight-ufc-men,22.0
+Lausa J.,Bibulatov M.,5.29,1.17,Bibulatov M.,Decision,2017-04-08,flyweight-ufc-men,22.25
+Formiga J.,Borg R.,2.06,1.79,Borg R.,Decision,2017-03-12,flyweight-ufc-men,3.0
+McCall I.,Brooks J.,2.0,1.72,canc.,Cancelled,2017-02-12,flyweight-ufc-men,1.0
+Pantoja A.,Shelton E.,2.0,1.79,Pantoja A.,Decision,2017-01-28,flyweight-ufc-men,21.0
+Moraga J.,Pettis S.,2.21,1.67,Pettis S.,Decision,2017-01-16,flyweight-ufc-men,3.0
+Reis W.,Nguyen B.,2.19,1.68,Reis W.,Decision,2018-12-02,flyweight-ufc-men,2.0
+Benavidez J.,Perez A.,2.07,1.75,Benavidez J.,Technical Knockout,2018-12-01,flyweight-ufc-men,2.0
+Pantoja A.,Sasaki Y.,1.3,3.61,Pantoja A.,Submission,2018-11-18,flyweight-ufc-men,2.0
+Morales J.,Shelton E.,2.22,1.67,Shelton E.,Decision,2018-11-11,flyweight-ufc-men,0.5
+Pettis S.,Formiga J.,1.52,2.58,Formiga J.,Decision,2018-10-07,flyweight-ufc-men,1.5
+Sanchez R.,Brooks J.,3.31,1.35,Brooks J.,Decision,2018-09-08,flyweight-ufc-men,22.5
+Moraga J.,Figueiredo D.,2.42,1.6,Figueiredo D.,Technical Knockout,2018-08-26,flyweight-ufc-men,2.5
+Johnson D.,Cejudo H.,1.21,4.7,Cejudo H.,Decision,2018-08-05,flyweight-ufc-men,3.5
+Perez A.,Torres J.,1.67,2.24,Perez A.,Knockout,2018-08-04,flyweight-ufc-men,23.5
+Ortiz D.,Nicolau M.,2.59,1.53,Ortiz D.,Knockout,2018-07-28,flyweight-ufc-men,21.0
+Scoggins J.,Nurmagomedov S.,2.01,1.82,Nurmagomedov S.,Decision,2018-07-15,flyweight-ufc-men,0.5
+De La Rosa M.,Garcia E.,2.21,1.69,De La Rosa M.,Submission,2018-07-14,flyweight-ufc-men,23.0
+Schnell M.,Inoue N.,2.6,1.52,Schnell M.,Decision,2018-06-23,flyweight-ufc-men,8.0
+Benavidez J.,Pettis S.,1.49,2.7,Pettis S.,Decision,2018-06-09,flyweight-ufc-men,22.75
+Brooks J.,Torres J.,2.29,1.65,Torres J.,Knockout,2018-06-01,flyweight-ufc-men,22.5
+Moreno B.,Pantoja A.,1.96,1.87,Pantoja A.,Decision,2018-05-20,flyweight-ufc-men,0.5
+Bibulatov M.,Sasaki Y.,0.0,0.0,canc.,Cancelled,2018-04-22,flyweight-ufc-men,0.5
+Reis W.,Moraga J.,0.0,0.0,PTS,Decision,2018-04-15,flyweight-ufc-men,1.0
+Shelton E.,Perez A.,0.0,0.0,PTS,Decision,2018-02-25,flyweight-ufc-men,0.25
+Sanchez R.,Sanchez J.,2.24,1.66,Sanchez R.,Submission,2018-02-19,flyweight-ufc-men,0.0
+Formiga J.,Nguyen B.,1.83,1.96,Formiga J.,Submission,2018-02-11,flyweight-ufc-men,0.0
+Figueiredo D.,Morales J.,1.63,2.27,Figueiredo D.,Knockout,2018-02-03,flyweight-ufc-men,23.5
+Ortiz D.,Pantoja A.,2.0,1.8,Ortiz D.,Decision,2018-01-21,flyweight-ufc-men,0.5
+Pantoja A.,Schnell M.,1.4,2.94,Pantoja A.,Knockout,2019-12-21,flyweight-ufc-men,8.0
+Pettis S.,Kara-France K.,0.0,0.0,canc.,Cancelled,2019-12-15,flyweight-ufc-men,3.0
+Moreno B.,Kara-France K.,2.33,1.6,Moreno B.,Decision,2019-12-15,flyweight-ufc-men,0.0
+Figueiredo D.,Elliott T.,1.53,2.6,Figueiredo D.,Submission,2019-10-12,flyweight-ufc-men,23.0
+Moreno B.,Askarov A.,2.38,1.59,Draw,Draw,2019-09-22,flyweight-ufc-men,1.0
+Pettis S.,Nam T.,1.3,3.48,Pettis S.,Decision,2019-09-21,flyweight-ufc-men,22.0
+Kara-France K.,De La Rosa M.,1.49,2.69,Kara-France K.,Decision,2019-08-31,flyweight-ufc-men,11.0
+Bontorin R.,Paiva R.,1.92,1.88,Bontorin R.,Technical Knockout,2019-08-10,flyweight-ufc-men,22.5
+Espinosa J.,Schnell M.,1.7,2.15,Schnell M.,Submission,2019-08-03,flyweight-ufc-men,17.5
+Pantoja A.,Figueiredo D.,1.79,2.05,Figueiredo D.,Decision,2019-07-28,flyweight-ufc-men,0.0
+Formiga J.,Benavidez J.,2.16,1.71,Benavidez J.,Technical Knockout,2019-06-30,flyweight-ufc-men,3.0
+Reis W.,Pantoja A.,2.35,1.62,Pantoja A.,Technical Knockout,2019-04-14,flyweight-ufc-men,1.0
+Formiga J.,Figueiredo D.,2.33,1.61,Formiga J.,Decision,2019-03-24,flyweight-ufc-men,1.0
+Shelton E.,Espinosa J.,1.68,2.19,Espinosa J.,Decision,2019-03-23,flyweight-ufc-men,21.0
+Kara-France K.,Paiva R.,1.4,3.01,Kara-France K.,Decision,2019-02-10,flyweight-ufc-men,1.5
+Bontorin R.,Bibulatov M.,3.72,1.28,Bontorin R.,Decision,2019-02-02,flyweight-ufc-men,22.0
+Cejudo H.,Dillashaw TJ,2.92,1.42,Cejudo H.,Technical Knockout,2019-01-20,flyweight-ufc-men,5.5
+Schnell M.,Nam T.,1.9,1.8,canc.,Cancelled,2020-09-12,flyweight-ufc-men,23.5
+Kape M.,Bontorin R.,0.0,0.0,canc.,Cancelled,2020-08-15,flyweight-ufc-men,23.0
+Figueiredo D.,Benavidez J.,1.41,2.87,Figueiredo D.,Submission,2020-07-19,flyweight-ufc-men,2.0
+Doskalchuk A.,Ulanbekov T.,0.0,0.0,canc.,Cancelled,2020-07-18,flyweight-ufc-men,21.83
+Gordon M.,Albazi A.,2.22,1.67,Albazi A.,Submission,2020-07-18,flyweight-ufc-men,21.5
+Elliott T.,Benoit R.,1.66,2.26,Elliott T.,Decision,2020-07-16,flyweight-ufc-men,3.5
+Zhumagalov Z.,Paiva R.,2.29,1.63,Paiva R.,Decision,2020-07-11,flyweight-ufc-men,23.0
+Espinosa J.,De La Rosa M.,1.59,2.39,Espinosa J.,Decision,2020-06-14,flyweight-ufc-men,1.0
+Nam T.,Adashev Z.,1.71,2.17,Nam T.,Knockout,2020-06-13,flyweight-ufc-men,23.25
+Zhumagalov Z.,Espinosa J.,0.0,0.0,canc.,Cancelled,2020-06-13,flyweight-ufc-men,15.0
+Formiga J.,Perez A.,2.11,1.74,Perez A.,Technical Knockout,2020-06-06,flyweight-ufc-men,23.0
+Elliott T.,Royval B.,1.62,2.33,Royval B.,Submission,2020-05-30,flyweight-ufc-men,23.0
+Kara-France K.,Perez A.,0.0,0.0,canc.,Cancelled,2020-05-16,flyweight-ufc-men,21.0
+Formiga J.,Moreno B.,1.55,2.48,Moreno B.,Decision,2020-03-14,flyweight-ufc-men,21.75
+Benavidez J.,Figueiredo D.,1.64,2.27,Figueiredo D.,Technical Knockout,2020-03-01,flyweight-ufc-men,3.0
+Kara-France K.,Nam T.,1.37,3.08,Kara-France K.,Decision,2020-02-22,flyweight-ufc-men,22.0
+Borg R.,Bontorin R.,1.67,2.22,Borg R.,Decision,2020-02-16,flyweight-ufc-men,1.5
+De La Rosa M.,Paiva R.,3.09,1.38,Paiva R.,Knockout,2020-02-15,flyweight-ufc-men,22.0
+Espinosa J.,Perez A.,3.03,1.38,Perez A.,Submission,2020-01-26,flyweight-ufc-men,2.0
+Elliott T.,Askarov A.,2.24,1.65,Askarov A.,Decision,2020-01-19,flyweight-ufc-men,1.5
+Dos Santos J.,Overeem A.,1.39,3.01,Overeem A.,Technical Knockout,2015-12-20,heavyweight-ufc-men,1.0
+Henrique L.,Ngannou F.,2.12,1.73,Ngannou F.,Knockout,2015-12-19,heavyweight-ufc-men,20.5
+Gonzaga G.,Erokhin K.,2.04,1.8,Gonzaga G.,Decision,2015-12-11,heavyweight-ufc-men,22.0
+Hunt M.,Silva A.,1.36,3.12,Hunt M.,Technical Knockout,2015-11-15,heavyweight-ufc-men,3.0
+Jordan S.,Magomedov R.,2.56,1.5,Magomedov R.,Decision,2015-10-03,heavyweight-ufc-men,23.0
+Barnett J.,Nelson R.,1.31,3.37,Barnett J.,Decision,2015-09-27,heavyweight-ufc-men,2.0
+Arlovski A.,Mir F.,1.59,2.33,Arlovski A.,Decision,2015-09-06,heavyweight-ufc-men,2.0
+Rosholt J.,Johnson T.,1.35,3.21,Rosholt J.,Decision,2015-08-09,heavyweight-ufc-men,2.0
+Silva A.,Palelei S.,2.62,1.48,Silva A.,Technical Knockout,2015-08-02,heavyweight-ufc-men,2.0
+Lewis D.,Abdurahimov S.,1.43,2.85,Lewis D.,Technical Knockout,2016-12-10,heavyweight-ufc-men,2.0
+Henrique L.,Colombo C.,1.36,2.9,Henrique L.,Submission,2016-11-20,heavyweight-ufc-men,2.0
+Johnson T.,Volkov A.,1.71,2.16,Volkov A.,Decision,2016-11-19,heavyweight-ufc-men,21.0
+Struve S.,Omielanczuk D.,1.53,2.54,Struve S.,Submission,2016-10-09,heavyweight-ufc-men,2.0
+Abdurahimov S.,Harris W.,1.68,2.13,Abdurahimov S.,Decision,2016-10-02,heavyweight-ufc-men,1.0
+East C.,Blaydes C.,2.91,1.42,Blaydes C.,Technical Knockout,2016-10-01,heavyweight-ufc-men,23.25
+Nelson R.,Silva A.,1.23,4.21,Nelson R.,Knockout,2016-09-25,heavyweight-ufc-men,2.0
+Miocic S.,Overeem A.,1.84,2.0,Miocic S.,Knockout,2016-09-11,heavyweight-ufc-men,2.0
+Arlovski A.,Barnett J.,2.2,1.67,Barnett J.,Submission,2016-09-03,heavyweight-ufc-men,19.0
+Pesta V.,Tybura M.,2.0,1.82,Tybura M.,Knockout,2016-08-07,heavyweight-ufc-men,0.0
+Sherman C.,Ledet J.,2.03,1.79,Ledet J.,Decision,2016-08-06,heavyweight-ufc-men,23.0
+Hamilton A.,Grabowski D.,1.81,2.02,Hamilton A.,Knockout,2016-07-31,heavyweight-ufc-men,0.0
+Ngannou F.,Mihajlovic B.,1.16,5.39,Ngannou F.,Technical Knockout,2016-07-24,heavyweight-ufc-men,0.0
+Henrique L.,Smoliakov D.,2.15,1.7,Henrique L.,Submission,2016-07-23,heavyweight-ufc-men,20.0
+Oleynik A.,Omielanczuk D.,1.46,2.72,Omielanczuk D.,Decision,2016-07-14,heavyweight-ufc-men,1.0
+Lesnar B.,Hunt M.,2.28,1.64,Lesnar B.,Decision,2016-07-10,heavyweight-ufc-men,2.0
+Nelson R.,Lewis D.,1.8,2.04,Lewis D.,Decision,2016-07-08,heavyweight-ufc-men,2.0
+De La Rocha Ch.,Milstead A.,3.2,1.35,Milstead A.,Technical Knockout,2016-05-29,heavyweight-ufc-men,22.0
+Werdum F.,Miocic S.,1.57,2.47,Miocic S.,Knockout,2016-05-15,heavyweight-ufc-men,4.0
+Overeem A.,Arlovski A.,1.42,2.85,Overeem A.,Technical Knockout,2016-05-08,heavyweight-ufc-men,18.0
+Harris W.,East C.,2.35,1.58,Harris W.,Technical Knockout,2016-04-23,heavyweight-ufc-men,22.5
+Johnson T.,Tybura M.,2.19,1.68,Johnson T.,Decision,2016-04-10,heavyweight-ufc-men,18.0
+Ngannou F.,Blaydes C.,2.15,1.7,Ngannou F.,Technical Knockout,2016-04-10,heavyweight-ufc-men,18.0
+Cannonier J.,Asker C.,1.6,2.31,Cannonier J.,Knockout,2016-04-10,heavyweight-ufc-men,14.5
+Hunt M.,Mir F.,1.78,2.02,Hunt M.,Knockout,2016-03-20,heavyweight-ufc-men,2.0
+Omielanczuk D.,Danho J.,1.81,1.98,Omielanczuk D.,Decision,2016-02-27,heavyweight-ufc-men,17.75
+Hamilton A.,Abdurahimov S.,0.0,0.0,PTS,Decision,2016-02-22,heavyweight-ufc-men,2.0
+Nelson R.,Rosholt J.,1.71,2.19,Nelson R.,Decision,2016-02-07,heavyweight-ufc-men,3.0
+Barnett J.,Rothwell B.,1.73,2.09,Rothwell B.,Submission,2016-01-31,heavyweight-ufc-men,1.0
+Browne T.,Mitrione M.,1.57,2.42,Browne T.,Knockout,2016-01-18,heavyweight-ufc-men,3.0
+Miocic S.,Arlovski A.,1.47,2.71,Miocic S.,Technical Knockout,2016-01-03,heavyweight-ufc-men,3.0
+Overeem A.,Ngannou F.,2.78,1.43,Ngannou F.,Knockout,2017-12-03,heavyweight-ufc-men,3.0
+Asker C.,Hu Y.,1.39,3.02,Asker C.,Submission,2017-11-25,heavyweight-ufc-men,8.75
+Werdum F.,Tybura M.,1.28,3.63,Werdum F.,Decision,2017-11-19,heavyweight-ufc-men,3.0
+Hamilton A.,Wieczorek A.,2.4,1.57,Wieczorek A.,Decision,2017-11-18,heavyweight-ufc-men,23.5
+Albini J.,Arlovski A.,1.3,3.47,Arlovski A.,Decision,2017-11-12,heavyweight-ufc-men,3.0
+Harris W.,Godbeer M.,1.26,3.82,Godbeer M.,Technical Knockout,2017-11-05,heavyweight-ufc-men,0.0
+Golm M.,Colombo C.,1.42,2.88,Golm M.,Submission,2017-10-28,heavyweight-ufc-men,22.0
+Werdum F.,Harris W.,1.39,3.07,Werdum F.,Submission,2017-10-08,heavyweight-ufc-men,2.0
+Harris W.,Godbeer M.,1.28,3.64,canc.,Cancelled,2017-10-07,heavyweight-ufc-men,22.5
+Ledet J.,Anyanwu A.,1.24,4.13,Ledet J.,Decision,2017-09-17,heavyweight-ufc-men,2.0
+Henrique L.,Bhullar A.,2.67,1.48,Bhullar A.,Decision,2017-09-09,heavyweight-ufc-men,22.5
+Volkov A.,Struve S.,1.78,2.01,Volkov A.,Technical Knockout,2017-09-02,heavyweight-ufc-men,19.0
+Grabowski D.,Sherman C.,3.0,1.4,Sherman C.,Decision,2017-07-22,heavyweight-ufc-men,22.0
+Mulheron J.,Willis J.,2.52,1.53,Willis J.,Decision,2017-07-16,heavyweight-ufc-men,19.0
+Omielanczuk D.,Blaydes C.,5.97,1.14,Blaydes C.,Decision,2017-07-09,heavyweight-ufc-men,2.0
+Browne T.,Oleynik A.,1.37,3.1,Oleynik A.,Submission,2017-07-09,heavyweight-ufc-men,0.0
+Johnson J.,Fortuna M.,1.47,2.72,Johnson J.,Decision,2017-07-08,heavyweight-ufc-men,1.0
+Arlovski A.,Tybura M.,2.86,1.44,Tybura M.,Decision,2017-06-17,heavyweight-ufc-men,13.33
+Lewis D.,Hunt M.,1.59,2.4,Hunt M.,Technical Knockout,2017-06-11,heavyweight-ufc-men,2.0
+Miocic S.,Dos Santos J.,1.69,2.2,Miocic S.,Technical Knockout,2017-05-14,heavyweight-ufc-men,2.0
+Sherman C.,Coulter R.,1.89,1.92,Sherman C.,Knockout,2017-05-13,heavyweight-ufc-men,22.25
+Volkov A.,Nelson R.,1.61,2.33,Volkov A.,Decision,2017-04-15,heavyweight-ufc-men,22.0
+Omielanczuk D.,Johnson T.,2.67,1.48,Johnson T.,Decision,2017-03-18,heavyweight-ufc-men,19.75
+Overeem A.,Hunt M.,1.68,2.23,Overeem A.,Knockout,2017-03-05,heavyweight-ufc-men,3.0
+Tybura M.,Henrique L.,1.6,2.36,Tybura M.,Technical Knockout,2017-03-05,heavyweight-ufc-men,1.0
+Lewis D.,Browne T.,1.88,1.94,Lewis D.,Knockout,2017-02-20,heavyweight-ufc-men,2.0
+Tybura M.,Willis J.,0.0,0.0,canc.,Cancelled,2017-02-11,heavyweight-ufc-men,23.5
+Hamilton A.,Fortuna M.,1.45,2.77,Fortuna M.,Knockout,2017-02-05,heavyweight-ufc-men,3.0
+Arlovski A.,Ngannou F.,3.91,1.25,Ngannou F.,Technical Knockout,2017-01-29,heavyweight-ufc-men,1.0
+Oleynik A.,Pesta V.,1.67,2.19,Oleynik A.,Submission,2017-01-16,heavyweight-ufc-men,1.0
+Harris W.,Sherman C.,1.69,2.16,Harris W.,Knockout,2017-01-15,heavyweight-ufc-men,23.25
+Arlovski A.,Harris W.,2.61,1.5,Harris W.,Decision,2018-12-30,heavyweight-ufc-men,2.5
+De La Rocha Ch.,Adams J.,4.25,1.22,Adams J.,Technical Knockout,2018-12-15,heavyweight-ufc-men,20.5
+Dos Santos J.,Tuivasa T.,1.63,2.31,Dos Santos J.,Technical Knockout,2018-12-02,heavyweight-ufc-men,5.5
+Frazier J.,Espino J.,2.4,1.57,Espino J.,Submission,2018-12-01,heavyweight-ufc-men,5.0
+Blaydes C.,Ngannou F.,1.44,2.85,Ngannou F.,Technical Knockout,2018-11-24,heavyweight-ufc-men,13.0
+Cormier D.,Lewis D.,1.23,4.34,Cormier D.,Submission,2018-11-04,heavyweight-ufc-men,4.0
+Wieczorek A.,Rogerio de Lima M.,1.57,2.51,Rogerio de Lima M.,Decision,2018-11-03,heavyweight-ufc-men,23.0
+Bhullar A.,Golm M.,1.63,2.32,Bhullar A.,Decision,2018-10-27,heavyweight-ufc-men,22.0
+Lewis D.,Volkov A.,2.43,1.58,Lewis D.,Knockout,2018-10-07,heavyweight-ufc-men,2.5
+Sakai A.,Sherman C.,1.46,2.8,Sakai A.,Technical Knockout,2018-09-23,heavyweight-ufc-men,0.5
+Hunt M.,Oleynik A.,1.77,2.05,Oleynik A.,Submission,2018-09-15,heavyweight-ufc-men,19.5
+Tybura M.,Struve S.,1.46,2.77,Tybura M.,Decision,2018-07-22,heavyweight-ufc-men,19.08
+Dos Santos J.,Ivanov B.,1.54,2.58,Dos Santos J.,Decision,2018-07-15,heavyweight-ufc-men,4.5
+Miocic S.,Cormier D.,1.49,2.71,Cormier D.,Knockout,2018-07-08,heavyweight-ufc-men,4.0
+Arlovski A.,Tuivasa T.,2.81,1.46,Tuivasa T.,Decision,2018-06-10,heavyweight-ufc-men,2.0
+Coulter R.,De La Rocha Ch.,1.78,2.06,De La Rocha Ch.,Technical Knockout,2018-06-09,heavyweight-ufc-men,23.5
+Harris W.,Spitz D.,1.43,2.87,Harris W.,Technical Knockout,2018-06-02,heavyweight-ufc-men,3.5
+Oleynik A.,Albini J.,2.29,1.64,Oleynik A.,Submission,2018-05-13,heavyweight-ufc-men,1.5
+Willis J.,Sherman C.,1.31,3.54,Willis J.,Decision,2018-04-22,heavyweight-ufc-men,2.0
+Bhullar A.,Wieczorek A.,0.0,0.0,SUBM,Submission,2018-04-14,heavyweight-ufc-men,23.5
+Werdum F.,Volkov A.,1.48,2.7,Volkov A.,Knockout,2018-03-17,heavyweight-ufc-men,22.0
+Struve S.,Arlovski A.,1.53,2.53,Arlovski A.,Decision,2018-03-04,heavyweight-ufc-men,3.5
+Lewis D.,Tybura M.,2.0,1.81,Lewis D.,Technical Knockout,2018-02-19,heavyweight-ufc-men,3.0
+Hunt M.,Blaydes C.,2.44,1.58,Blaydes C.,Decision,2018-02-11,heavyweight-ufc-men,4.0
+Johnson T.,Golm M.,2.44,1.56,Johnson T.,Decision,2018-02-04,heavyweight-ufc-men,2.5
+Miocic S.,Ngannou F.,2.52,1.56,Miocic S.,Decision,2018-01-21,heavyweight-ufc-men,4.5
+Gane C.,Boser T.,1.15,5.31,Gane C.,Decision,2019-12-21,heavyweight-ufc-men,9.5
+Overeem A.,Rozenstruik J.,2.09,1.75,Rozenstruik J.,Knockout,2019-12-08,heavyweight-ufc-men,4.5
+Overeem A.,Harris W.,0.0,0.0,canc.,Cancelled,2019-12-08,heavyweight-ufc-men,2.0
+Volkov A.,Hardy G.,1.31,3.5,Volkov A.,Decision,2019-11-09,heavyweight-ufc-men,21.0
+Lewis D.,Ivanov B.,1.94,1.89,Lewis D.,Decision,2019-11-03,heavyweight-ufc-men,2.5
+Arlovski A.,Rozenstruik J.,2.24,1.65,Rozenstruik J.,Knockout,2019-11-03,heavyweight-ufc-men,0.0
+Hardy G.,Danho J.,0.0,0.0,canc.,Cancelled,2019-10-26,heavyweight-ufc-men,21.0
+Pavlovich S.,Greene M.,1.42,2.93,Pavlovich S.,Technical Knockout,2019-10-26,heavyweight-ufc-men,10.5
+Hardy G.,Sosoli B.,1.28,3.71,Draw,Draw,2019-10-19,heavyweight-ufc-men,3.0
+Spitz D.,Boser T.,2.15,1.71,Boser T.,Decision,2019-10-18,heavyweight-ufc-men,22.0
+Tuivasa T.,Spivak S.,1.32,3.45,Spivak S.,Submission,2019-10-06,heavyweight-ufc-men,2.5
+Duffee T.,Hughes J.,2.08,1.77,Draw,Draw,2019-09-15,heavyweight-ufc-men,1.5
+Tybura M.,Sakai A.,2.0,1.82,Sakai A.,Knockout,2019-09-14,heavyweight-ufc-men,23.5
+Blaydes C.,Abdurahimov S.,1.2,4.61,Blaydes C.,Technical Knockout,2019-09-07,heavyweight-ufc-men,18.5
+Cormier D.,Miocic S.,1.73,2.13,Miocic S.,Technical Knockout,2019-08-18,heavyweight-ufc-men,4.0
+Gane C.,Pessoa R.,1.21,4.41,Gane C.,Submission,2019-08-10,heavyweight-ufc-men,23.5
+Boser T.,Lemos G.,1.62,2.35,canc.,Cancelled,2019-07-27,heavyweight-ufc-men,22.5
+Oleynik A.,Harris W.,2.37,1.61,Harris W.,Knockout,2019-07-21,heavyweight-ufc-men,3.0
+Arlovski A.,Rothwell B.,2.53,1.54,Arlovski A.,Decision,2019-07-21,heavyweight-ufc-men,1.0
+Ngannou F.,Dos Santos J.,1.45,2.82,Ngannou F.,Technical Knockout,2019-06-30,heavyweight-ufc-men,3.5
+Greene M.,Albini J.,1.85,1.98,Greene M.,Technical Knockout,2019-06-29,heavyweight-ufc-men,22.0
+Crowder A.,Rozenstruik J.,2.89,1.42,Rozenstruik J.,Knockout,2019-06-22,heavyweight-ufc-men,21.0
+Tuivasa T.,Ivanov B.,1.63,2.31,Ivanov B.,Decision,2019-06-09,heavyweight-ufc-men,2.0
+Harris W.,Spivak S.,1.57,2.41,Harris W.,Technical Knockout,2019-05-05,heavyweight-ufc-men,0.5
+Bhullar A.,Adams J.,2.11,1.73,Bhullar A.,Decision,2019-05-04,heavyweight-ufc-men,21.5
+Hardy G.,Smoliakov D.,1.31,3.53,Hardy G.,Technical Knockout,2019-04-28,heavyweight-ufc-men,3.0
+Overeem A.,Oleynik A.,1.41,2.96,Overeem A.,Technical Knockout,2019-04-20,heavyweight-ufc-men,19.5
+Tybura M.,Abdurahimov S.,1.72,2.14,Abdurahimov S.,Technical Knockout,2019-04-20,heavyweight-ufc-men,15.25
+Blaydes C.,Willis J.,1.36,3.14,Blaydes C.,Decision,2019-03-24,heavyweight-ufc-men,2.0
+Lewis D.,Dos Santos J.,2.83,1.45,Dos Santos J.,Technical Knockout,2019-03-10,heavyweight-ufc-men,4.0
+Ivanov B.,Rothwell B.,2.0,1.85,Ivanov B.,Decision,2019-03-10,heavyweight-ufc-men,2.5
+Greene M.,Hughes J.,3.05,1.4,Greene M.,Decision,2019-03-09,heavyweight-ufc-men,23.5
+Struve S.,Rogerio de Lima M.,1.9,1.93,Struve S.,Submission,2019-02-23,heavyweight-ufc-men,21.0
+Ngannou F.,Velasquez C.,2.55,1.52,Ngannou F.,Knockout,2019-02-18,heavyweight-ufc-men,4.5
+Albini J.,Sosnovskiy D.,0.0,0.0,canc.,Cancelled,2019-02-03,heavyweight-ufc-men,2.0
+Albini J.,Rozenstruik J.,1.73,2.13,Rozenstruik J.,Technical Knockout,2019-02-02,heavyweight-ufc-men,23.5
+Hardy G.,Crowder A.,1.2,4.71,Crowder A.,Disqualification,2019-01-20,heavyweight-ufc-men,5.0
+Romanov A.,Martinez R.,1.21,4.3,Romanov A.,Submission,2020-09-12,heavyweight-ufc-men,21.25
+Overeem A.,Sakai A.,1.58,2.39,Overeem A.,Technical Knockout,2020-09-06,heavyweight-ufc-men,1.5
+Rogerio de Lima M.,Romanov A.,2.25,1.63,canc.,Cancelled,2020-09-05,heavyweight-ufc-men,22.5
+Saint Preux O.,Gamzatov S.,0.0,0.0,canc.,Cancelled,2020-08-22,heavyweight-ufc-men,23.0
+Miocic S.,Cormier D.,1.93,1.91,Miocic S.,Decision,2020-08-16,heavyweight-ufc-men,4.0
+Daukaus C.,Porter P.,1.96,1.86,Daukaus C.,Technical Knockout,2020-08-15,heavyweight-ufc-men,23.5
+Lewis D.,Oleynik A.,1.49,2.68,Lewis D.,Technical Knockout,2020-08-09,heavyweight-ufc-men,3.0
+Pavlovich S.,Gane C.,0.0,0.0,canc.,Cancelled,2020-08-08,heavyweight-ufc-men,23.0
+Werdum F.,Gustafsson A.,3.48,1.31,Werdum F.,Submission,2020-07-26,heavyweight-ufc-men,2.0
+Collier J.,Aspinall T.,3.49,1.31,Aspinall T.,Technical Knockout,2020-07-25,heavyweight-ufc-men,22.5
+Spivak S.,Felipe C.,1.55,2.46,Spivak S.,Decision,2020-07-18,heavyweight-ufc-men,21.0
+Tybura M.,Grishin M.,1.72,2.13,Tybura M.,Decision,2020-07-11,heavyweight-ufc-men,23.5
+Tybura M.,Romanov A.,1.94,1.8,canc.,Cancelled,2020-07-11,heavyweight-ufc-men,23.0
+Villante G.,Greene M.,3.12,1.37,Greene M.,Submission,2020-06-28,heavyweight-ufc-men,1.5
+Blaydes C.,Volkov A.,1.25,3.96,Blaydes C.,Decision,2020-06-21,heavyweight-ufc-men,2.0
+Ivanov B.,Sakai A.,1.97,1.85,Sakai A.,Decision,2020-05-31,heavyweight-ufc-men,2.5
+Overeem A.,Harris W.,2.28,1.65,Overeem A.,Technical Knockout,2020-05-17,heavyweight-ufc-men,3.0
+Mayes D.,Nascimento R.,1.9,1.91,Nascimento R.,Submission,2020-05-16,heavyweight-ufc-men,22.0
+Rothwell B.,Saint Preux O.,2.23,1.69,Rothwell B.,Decision,2020-05-14,heavyweight-ufc-men,2.5
+Sherman C.,Villanueva I.,1.63,2.32,Sherman C.,Technical Knockout,2020-05-13,heavyweight-ufc-men,22.0
+Ngannou F.,Rozenstruik J.,1.38,3.11,Ngannou F.,Knockout,2020-05-10,heavyweight-ufc-men,3.0
+Werdum F.,Oleynik A.,1.31,3.5,Oleynik A.,Decision,2020-05-10,heavyweight-ufc-men,1.0
+Spivak S.,Felipe C.,0.0,0.0,canc.,Cancelled,2020-05-09,heavyweight-ufc-men,21.0
+Arlovski A.,Lins P.,0.0,0.0,canc.,Cancelled,2020-05-02,heavyweight-ufc-men,21.0
+Pessoa R.,Romanov A.,0.0,0.0,canc.,Cancelled,2020-04-25,heavyweight-ufc-men,21.0
+Hardy G.,De Castro Y.,0.0,0.0,canc.,Cancelled,2020-04-19,heavyweight-ufc-men,2.0
+Rothwell B.,Villante G.,0.0,0.0,canc.,Cancelled,2020-04-19,heavyweight-ufc-men,2.0
+Overeem A.,Harris W.,2.31,1.63,postp.,Postponed,2020-04-11,heavyweight-ufc-men,21.0
+Boser T.,Hughes J.,0.0,0.0,postp.,Postponed,2020-03-28,heavyweight-ufc-men,22.0
+Hardy G.,De Castro Y.,1.55,2.42,postp.,Postponed,2020-03-28,heavyweight-ufc-men,22.0
+Collier J.,Aspinall T.,0.0,0.0,postp.,Postponed,2020-03-21,heavyweight-ufc-men,18.0
+Tybura M.,Spivak S.,1.92,1.87,Tybura M.,Decision,2020-02-29,heavyweight-ufc-men,23.5
+Rogerio de Lima M.,Sosoli B.,1.63,2.32,Rogerio de Lima M.,Technical Knockout,2020-02-23,heavyweight-ufc-men,1.0
+Tafa J.,Adams J.,3.01,1.4,Tafa J.,Technical Knockout,2020-02-09,heavyweight-ufc-men,4.0
+Perosh A.,Villante G.,4.82,1.18,Villante G.,Knockout,2015-11-15,light-heavyweight-ufc-men,1.0
+Maldonado F.,Anderson C.,4.97,1.18,Anderson C.,Decision,2015-11-08,light-heavyweight-ufc-men,3.0
+Bader R.,Evans R.,2.12,1.69,Bader R.,Decision,2015-10-03,light-heavyweight-ufc-men,23.0
+Blachowicz J.,Anderson C.,1.81,2.0,Anderson C.,Decision,2015-09-06,light-heavyweight-ufc-men,2.0
+Rogerio de Lima M.,Krylov N.,1.56,2.38,Krylov N.,Technical Knockout,2015-08-23,light-heavyweight-ufc-men,23.0
+Teixeira G.,Saint Preux O.,1.96,1.83,Teixeira G.,Technical Knockout,2015-08-09,light-heavyweight-ufc-men,2.0
+Rua M.,Nogueira A. R.,1.47,2.64,canc.,Cancelled,2015-08-02,light-heavyweight-ufc-men,2.0
+Da Silva L. H.,Craig P.,1.43,2.84,Craig P.,Submission,2016-12-17,light-heavyweight-ufc-men,23.0
+Krylov N.,Cirkunov M.,1.9,1.89,Cirkunov M.,Submission,2016-12-11,light-heavyweight-ufc-men,1.0
+Anderson C.,O'Connell S.,1.24,4.03,Anderson C.,Technical Knockout,2016-12-10,light-heavyweight-ufc-men,2.0
+Cutelaba I.,Cannonier J.,1.43,2.89,Cannonier J.,Decision,2016-12-04,light-heavyweight-ufc-men,3.0
+Stansbury J.,Clark D.,1.97,1.85,Clark D.,Decision,2016-12-04,light-heavyweight-ufc-men,0.0
+Rountree K.,Pedro T.,1.9,1.91,Pedro T.,Submission,2016-11-27,light-heavyweight-ufc-men,3.0
+Bader R.,Nogueira A. R.,1.28,3.67,Bader R.,Technical Knockout,2016-11-20,light-heavyweight-ufc-men,2.0
+Barroso F.,Stewart D.,1.65,2.1,Stewart D.,Technical Knockout,2016-11-20,light-heavyweight-ufc-men,0.0
+Saint Preux O.,Manuwa J.,1.62,2.33,Manuwa J.,Knockout,2016-10-09,light-heavyweight-ufc-men,2.0
+Da Silva L. H.,Christensen J.,1.85,1.95,Da Silva L. H.,Submission,2016-10-02,light-heavyweight-ufc-men,1.0
+Wilson J.,Cutelaba I.,2.21,1.67,Cutelaba I.,Decision,2016-10-01,light-heavyweight-ufc-men,23.25
+Trinaldo F.,Felder P.,1.75,2.1,Trinaldo F.,Technical Knockout,2016-09-25,light-heavyweight-ufc-men,2.0
+Bader R.,Latifi I.,1.54,2.54,Bader R.,Technical Knockout,2016-09-03,light-heavyweight-ufc-men,19.0
+Johnson A.,Teixeira G.,1.43,2.84,Johnson A.,Knockout,2016-08-21,light-heavyweight-ufc-men,2.0
+Krylov N.,Herman E.,1.42,2.9,Krylov N.,Knockout,2016-07-31,light-heavyweight-ufc-men,0.0
+Clark D.,Nicholson A.,1.44,2.84,Nicholson A.,Knockout,2016-07-13,light-heavyweight-ufc-men,21.5
+Cormier D.,Jones J.,0.0,0.0,canc.,Cancelled,2016-07-10,light-heavyweight-ufc-men,2.0
+Bosse S.,O'Connell S.,1.69,2.19,Bosse S.,Decision,2016-06-19,light-heavyweight-ufc-men,2.5
+Rua M.,Anderson C.,2.33,1.63,Rua M.,Decision,2016-05-15,light-heavyweight-ufc-men,2.5
+Nogueira A. R.,Cummins P.,2.9,1.42,Nogueira A. R.,Knockout,2016-05-14,light-heavyweight-ufc-men,23.5
+Krylov N.,Barroso F.,1.5,2.57,Krylov N.,Submission,2016-05-08,light-heavyweight-ufc-men,18.0
+Jones J.,Saint Preux O.,1.14,5.88,Jones J.,Decision,2016-04-24,light-heavyweight-ufc-men,2.0
+Rogerio de Lima M.,Hester C.,1.78,2.04,Rogerio de Lima M.,Submission,2016-04-23,light-heavyweight-ufc-men,22.5
+Teixeira G.,Evans R.,1.47,2.7,Teixeira G.,Knockout,2016-04-17,light-heavyweight-ufc-men,0.0
+Pokrajac I.,Blachowicz J.,3.73,1.27,Blachowicz J.,Decision,2016-04-10,light-heavyweight-ufc-men,18.0
+Anderson C.,Lawlor T.,1.33,3.38,Anderson C.,Decision,2016-03-06,light-heavyweight-ufc-men,3.0
+Saint Preux O.,Cavalcante R.,1.27,3.91,Saint Preux O.,Decision,2016-02-07,light-heavyweight-ufc-men,4.0
+Johnson A.,Bader R.,1.38,3.05,Johnson A.,Knockout,2016-01-31,light-heavyweight-ufc-men,1.0
+Barroso F.,Edilov A.,0.0,0.0,canc.,Cancelled,2016-01-17,light-heavyweight-ufc-men,23.0
+Latifi I.,O'Connell S.,1.36,3.13,Latifi I.,Knockout,2016-01-17,light-heavyweight-ufc-men,23.0
+Rountree K.,Oleksiejczuk M.,1.29,3.54,Oleksiejczuk M.,Decision,2017-12-31,light-heavyweight-ufc-men,1.0
+Teixeira G.,Cirkunov M.,2.35,1.58,Teixeira G.,Technical Knockout,2017-12-17,light-heavyweight-ufc-men,1.0
+Cannonier J.,Blachowicz J.,1.51,2.49,Blachowicz J.,Decision,2017-12-16,light-heavyweight-ufc-men,22.0
+Kimball J.,Reyes D.,0.0,0.0,SUBM,Submission,2017-12-03,light-heavyweight-ufc-men,1.0
+Collier J.,Fortuna M.,2.96,1.4,Collier J.,Decision,2017-11-11,light-heavyweight-ufc-men,23.5
+Saint Preux O.,Anderson C.,1.6,2.33,Saint Preux O.,Knockout,2017-11-05,light-heavyweight-ufc-men,0.0
+Blachowicz J.,Clark D.,2.26,1.62,Blachowicz J.,Submission,2017-10-21,light-heavyweight-ufc-men,19.0
+Saint Preux O.,Okami Y.,1.2,4.49,Saint Preux O.,Submission,2017-09-23,light-heavyweight-ufc-men,2.0
+Latifi I.,Pedro T.,2.17,1.69,Latifi I.,Decision,2017-09-10,light-heavyweight-ufc-men,2.0
+Barroso F.,Rakic A.,2.22,1.66,Rakic A.,Decision,2017-09-02,light-heavyweight-ufc-men,15.5
+Cormier D.,Jones J.,3.23,1.35,Draw,Draw,2017-07-30,light-heavyweight-ufc-men,2.0
+Cummins P.,Villante G.,2.67,1.49,Cummins P.,Decision,2017-07-23,light-heavyweight-ufc-men,0.0
+Rountree K.,Craig P.,1.59,2.4,Rountree K.,Knockout,2017-07-16,light-heavyweight-ufc-men,19.0
+Bochnovic J.,Giles T.,3.25,1.36,Giles T.,Knockout,2017-07-08,light-heavyweight-ufc-men,22.5
+Herman E.,Dollaway CB,2.46,1.56,Dollaway CB,Decision,2017-07-07,light-heavyweight-ufc-men,23.0
+Christensen J.,Reyes D.,3.63,1.31,Reyes D.,Technical Knockout,2017-06-26,light-heavyweight-ufc-men,1.0
+Stansbury J.,Kimball J.,1.61,2.37,Kimball J.,Technical Knockout,2017-06-25,light-heavyweight-ufc-men,21.5
+Cutelaba I.,Da Silva L. H.,1.35,3.35,Cutelaba I.,Knockout,2017-06-11,light-heavyweight-ufc-men,2.0
+Gustafsson A.,Teixeira G.,1.34,3.39,Gustafsson A.,Knockout,2017-05-28,light-heavyweight-ufc-men,17.0
+Christensen J.,Antigulov G.,4.23,1.24,Antigulov G.,Submission,2017-05-13,light-heavyweight-ufc-men,22.25
+Saint Preux O.,Rogerio de Lima M.,1.58,2.39,Saint Preux O.,Submission,2017-04-23,light-heavyweight-ufc-men,2.0
+Clark D.,Collier J.,1.71,2.15,Clark D.,Decision,2017-04-15,light-heavyweight-ufc-men,20.0
+Cormier D.,Johnson A.,2.08,1.76,Cormier D.,Submission,2017-04-09,light-heavyweight-ufc-men,2.0
+Manuwa J.,Anderson C.,1.64,2.34,Manuwa J.,Knockout,2017-03-18,light-heavyweight-ufc-men,22.92
+Rua M.,Villante G.,1.66,2.24,Rua M.,Technical Knockout,2017-03-12,light-heavyweight-ufc-men,3.0
+Evans R.,Kelly D.,1.43,2.91,Kelly D.,Decision,2017-03-05,light-heavyweight-ufc-men,3.0
+Pedro T.,Craig P.,1.73,2.14,Pedro T.,Technical Knockout,2017-03-04,light-heavyweight-ufc-men,23.5
+Teixeira G.,Cannonier J.,1.44,2.85,Teixeira G.,Decision,2017-02-12,light-heavyweight-ufc-men,3.0
+Saint Preux O.,Oezdemir V.,1.28,3.7,Oezdemir V.,Decision,2017-02-05,light-heavyweight-ufc-men,3.0
+Jolly D.,Rountree K.,2.42,1.57,Rountree K.,Knockout,2017-02-05,light-heavyweight-ufc-men,0.0
+Da Silva L. H.,Johnson J.,2.67,1.47,Johnson J.,Decision,2017-01-28,light-heavyweight-ufc-men,22.0
+Mihajlovic B.,Christensen J.,2.91,1.41,Christensen J.,Technical Knockout,2017-01-15,light-heavyweight-ufc-men,23.25
+Jones J.,Gustafsson A.,1.33,3.36,Jones J.,Technical Knockout,2018-12-30,light-heavyweight-ufc-men,5.0
+Milstead A.,Rodriguez M.,1.81,2.01,Rodriguez M.,Technical Knockout,2018-12-15,light-heavyweight-ufc-men,21.5
+Manuwa J.,Santos T.,2.6,1.51,Santos T.,Knockout,2018-12-09,light-heavyweight-ufc-men,3.0
+Clark D.,Rakic A.,5.1,1.17,Rakic A.,Technical Knockout,2018-12-08,light-heavyweight-ufc-men,23.0
+Rua M.,Pedro T.,4.74,1.19,Rua M.,Technical Knockout,2018-12-02,light-heavyweight-ufc-men,4.5
+Rountree K.,Walker J.,1.52,2.62,Walker J.,Knockout,2018-11-18,light-heavyweight-ufc-men,4.5
+Oezdemir V.,Smith A.,1.62,2.37,Smith A.,Submission,2018-10-28,light-heavyweight-ufc-men,4.5
+Villante G.,Herman E.,1.43,2.88,Villante G.,Decision,2018-10-28,light-heavyweight-ufc-men,2.5
+Saint Preux O.,Reyes D.,3.04,1.4,Reyes D.,Decision,2018-10-07,light-heavyweight-ufc-men,3.0
+Santos T.,Anders E.,1.53,2.61,Santos T.,Technical Knockout,2018-09-23,light-heavyweight-ufc-men,4.5
+Henrique L.,Spann R.,2.17,1.71,Spann R.,Decision,2018-09-23,light-heavyweight-ufc-men,1.0
+Blachowicz J.,Krylov N.,2.25,1.64,Blachowicz J.,Submission,2018-09-15,light-heavyweight-ufc-men,19.0
+Antigulov G.,Cutelaba I.,2.0,1.85,Cutelaba I.,Technical Knockout,2018-07-28,light-heavyweight-ufc-men,22.0
+Rua M.,Smith A.,2.38,1.61,Smith A.,Knockout,2018-07-22,light-heavyweight-ufc-men,20.58
+Ledet J.,Rakic A.,1.87,1.93,Rakic A.,Decision,2018-07-22,light-heavyweight-ufc-men,16.0
+Saki G.,Rountree K.,1.67,2.24,Rountree K.,Technical Knockout,2018-07-08,light-heavyweight-ufc-men,2.0
+Saint Preux O.,Pedro T.,2.24,1.68,Saint Preux O.,Submission,2018-06-23,light-heavyweight-ufc-men,12.5
+Evans R.,Smith A.,2.92,1.43,Smith A.,Knockout,2018-06-09,light-heavyweight-ufc-men,23.0
+Villante G.,Alvey S.,2.22,1.67,Alvey S.,Decision,2018-06-02,light-heavyweight-ufc-men,2.0
+Cannonier J.,Reyes D.,2.79,1.48,Reyes D.,Technical Knockout,2018-05-20,light-heavyweight-ufc-men,3.0
+Anderson C.,Cummins P.,1.68,2.25,Anderson C.,Decision,2018-04-22,light-heavyweight-ufc-men,0.0
+Clark D.,Rodriguez M.,1.97,1.87,Clark D.,Decision,2018-04-07,light-heavyweight-ufc-men,23.0
+Manuwa J.,Blachowicz J.,1.54,2.48,Blachowicz J.,Decision,2018-03-17,light-heavyweight-ufc-men,21.5
+Johnson J.,Milstead A.,1.39,3.02,Johnson J.,Decision,2018-03-04,light-heavyweight-ufc-men,0.0
+Saint Preux O.,Latifi I.,0.0,0.0,SUBM,Submission,2018-02-25,light-heavyweight-ufc-men,3.0
+Alvey S.,Prachnio M.,0.0,0.0,KO,Knockout,2018-02-25,light-heavyweight-ufc-men,0.75
+Pedro T.,Safarov S.,1.33,3.31,Pedro T.,Submission,2018-02-11,light-heavyweight-ufc-men,2.0
+Cormier D.,Oezdemir V.,1.28,3.77,Cormier D.,Technical Knockout,2018-01-21,light-heavyweight-ufc-men,4.0
+Oezdemir V.,Rakic A.,2.26,1.66,Oezdemir V.,Decision,2019-12-21,light-heavyweight-ufc-men,12.0
+Menifield A.,Smith T.,0.0,0.0,canc.,Cancelled,2019-12-08,light-heavyweight-ufc-men,2.0
+Blachowicz J.,Souza R.,1.6,2.36,Blachowicz J.,Decision,2019-11-17,light-heavyweight-ufc-men,3.0
+Nogueira A. R.,Smith T.,0.0,0.0,canc.,Cancelled,2019-11-16,light-heavyweight-ufc-men,22.0
+Ibragimov K.,Herman E.,1.5,2.59,Herman E.,Decision,2019-11-09,light-heavyweight-ufc-men,20.0
+Herman E.,Antigulov G.,0.0,0.0,canc.,Cancelled,2019-11-09,light-heavyweight-ufc-men,17.0
+Anderson C.,Walker J.,2.4,1.57,Anderson C.,Technical Knockout,2019-11-03,light-heavyweight-ufc-men,1.0
+Weidman C.,Reyes D.,2.52,1.54,Reyes D.,Knockout,2019-10-19,light-heavyweight-ufc-men,4.0
+Clark D.,Spann R.,2.46,1.58,Spann R.,Submission,2019-10-13,light-heavyweight-ufc-men,0.0
+Cutelaba I.,Rountree K.,1.96,1.88,Cutelaba I.,Technical Knockout,2019-09-28,light-heavyweight-ufc-men,19.0
+Moreira V.,Craig P.,1.9,1.91,Craig P.,Submission,2019-09-21,light-heavyweight-ufc-men,21.5
+Teixeira G.,Krylov N.,1.99,1.85,Teixeira G.,Decision,2019-09-15,light-heavyweight-ufc-men,2.0
+Jung D. U.,Ibragimov K.,3.13,1.38,Jung D. U.,Submission,2019-08-31,light-heavyweight-ufc-men,8.5
+Safarov S.,Jung D. U.,0.0,0.0,canc.,Cancelled,2019-08-31,light-heavyweight-ufc-men,7.0
+Oezdemir V.,Latifi I.,1.59,2.39,Oezdemir V.,Knockout,2019-08-11,light-heavyweight-ufc-men,1.0
+Alvey S.,Farias de Abreu K.,2.48,1.56,Farias de Abreu K.,Decision,2019-07-20,light-heavyweight-ufc-men,23.5
+Rodriguez M.,Allan J.,1.23,4.25,Allan J.,Decision,2019-07-13,light-heavyweight-ufc-men,23.5
+Jones J.,Santos T.,1.17,5.13,Jones J.,Decision,2019-07-07,light-heavyweight-ufc-men,4.0
+Ledet J.,Lungiambula D.,0.0,0.0,canc.,Cancelled,2019-06-30,light-heavyweight-ufc-men,1.0
+Anders E.,Moreira V.,1.3,3.58,Anders E.,Knockout,2019-06-30,light-heavyweight-ufc-men,0.0
+Lungiambula D.,Townsend D.,1.28,3.76,Lungiambula D.,Technical Knockout,2019-06-29,light-heavyweight-ufc-men,23.0
+Gustafsson A.,Smith A.,1.32,3.38,Smith A.,Submission,2019-06-01,light-heavyweight-ufc-men,19.0
+Clark D.,Stosic D.,1.87,1.93,Clark D.,Decision,2019-06-01,light-heavyweight-ufc-men,14.5
+Cummins P.,Herman E.,1.39,2.97,Herman E.,Technical Knockout,2019-05-18,light-heavyweight-ufc-men,22.0
+Barcelos R.,Nurmagomedov S.,0.0,0.0,canc.,Cancelled,2019-05-12,light-heavyweight-ufc-men,2.0
+Teixeira G.,Cutelaba I.,1.86,1.98,Teixeira G.,Submission,2019-04-28,light-heavyweight-ufc-men,2.0
+Edilov A.,Clark D.,0.0,0.0,canc.,Cancelled,2019-04-20,light-heavyweight-ufc-men,18.0
+Antigulov G.,Dolidze R.,0.0,0.0,canc.,Cancelled,2019-04-20,light-heavyweight-ufc-men,14.75
+Anders E.,Rountree K.,1.53,2.56,Rountree K.,Decision,2019-04-14,light-heavyweight-ufc-men,3.0
+Nzechukwu K.,Craig P.,1.54,2.5,Craig P.,Submission,2019-03-30,light-heavyweight-ufc-men,23.5
+Oezdemir V.,Reyes D.,3.04,1.38,Reyes D.,Decision,2019-03-16,light-heavyweight-ufc-men,21.5
+Safarov S.,Saki G.,0.0,0.0,canc.,Cancelled,2019-03-16,light-heavyweight-ufc-men,17.0
+Jones J.,Smith A.,1.13,6.38,Jones J.,Decision,2019-03-03,light-heavyweight-ufc-men,5.0
+Herman E.,Rodriguez M.,2.96,1.41,Herman E.,Submission,2020-09-13,light-heavyweight-ufc-men,1.0
+Herman E.,Allan J.,0.0,0.0,canc.,Cancelled,2020-09-12,light-heavyweight-ufc-men,22.0
+Smith A.,Rakic A.,3.08,1.38,Rakic A.,Decision,2020-08-30,light-heavyweight-ufc-men,3.0
+Rodriguez M.,Prachnio M.,1.41,2.91,Rodriguez M.,Technical Knockout,2020-08-23,light-heavyweight-ufc-men,1.5
+Villanueva I.,Wright J.,1.96,1.84,Wright J.,Technical Knockout,2020-08-22,light-heavyweight-ufc-men,23.0
+Herman E.,Meerschaert G.,2.34,1.58,canc.,Cancelled,2020-08-02,light-heavyweight-ufc-men,0.0
+Jung D. U.,Herman E.,0.0,0.0,canc.,Cancelled,2020-08-01,light-heavyweight-ufc-men,23.0
+Rua M.,Nogueira A. R.,1.45,2.83,Rua M.,Decision,2020-07-26,light-heavyweight-ufc-men,2.5
+Ibragimov K.,Dolidze R.,2.31,1.61,Dolidze R.,Technical Knockout,2020-07-18,light-heavyweight-ufc-men,23.5
+Bukauskas M.,Moreira V.,0.0,0.0,canc.,Cancelled,2020-07-16,light-heavyweight-ufc-men,0.67
+Gonzalez J.,Bergh K.,0.0,0.0,canc.,Cancelled,2020-07-15,light-heavyweight-ufc-men,23.0
+Oezdemir V.,Prochazka J.,1.55,2.48,Prochazka J.,Knockout,2020-07-12,light-heavyweight-ufc-men,1.5
+Antigulov G.,Farias de Abreu K.,0.0,0.0,canc.,Cancelled,2020-06-13,light-heavyweight-ufc-men,15.0
+Menifield A.,Clark D.,1.42,2.88,Clark D.,Decision,2020-06-06,light-heavyweight-ufc-men,22.5
+Hill J.,Farias de Abreu K.,1.76,2.08,Hill J.,Technical Knockout,2020-05-30,light-heavyweight-ufc-men,23.5
+Smith A.,Teixeira G.,1.47,2.75,Teixeira G.,Technical Knockout,2020-05-14,light-heavyweight-ufc-men,3.0
+Spann R.,Alvey S.,1.26,4.0,Spann R.,Decision,2020-05-09,light-heavyweight-ufc-men,22.5
+Jung D. U.,Herman E.,0.0,0.0,canc.,Cancelled,2020-05-02,light-heavyweight-ufc-men,21.0
+Cutelaba I.,Saint Preux O.,0.0,0.0,canc.,Cancelled,2020-04-25,light-heavyweight-ufc-men,21.0
+Teixeira G.,Smith A.,0.0,0.0,canc.,Cancelled,2020-04-25,light-heavyweight-ufc-men,21.0
+Cutelaba I.,Ankalaev M.,0.0,0.0,canc.,Cancelled,2020-04-19,light-heavyweight-ufc-men,2.0
+Rountree K.,Alvey S.,1.34,3.2,postp.,Postponed,2020-03-28,light-heavyweight-ufc-men,22.0
+Craig P.,Spann R.,0.0,0.0,postp.,Postponed,2020-03-21,light-heavyweight-ufc-men,18.0
+Walker J.,Krylov N.,1.62,2.34,Krylov N.,Decision,2020-03-14,light-heavyweight-ufc-men,22.83
+Cutelaba I.,Ankalaev M.,2.69,1.47,Ankalaev M.,Technical Knockout,2020-03-01,light-heavyweight-ufc-men,2.0
+Crute J.,Oleksiejczuk M.,1.98,1.84,Crute J.,Submission,2020-02-23,light-heavyweight-ufc-men,2.0
+Pedro T.,Moreira V.,0.0,0.0,canc.,Cancelled,2020-02-22,light-heavyweight-ufc-men,20.0
+Anderson C.,Blachowicz J.,1.43,2.85,Blachowicz J.,Knockout,2020-02-16,light-heavyweight-ufc-men,3.5
+Clark D.,Townsend D.,1.24,4.07,Clark D.,Decision,2020-02-15,light-heavyweight-ufc-men,23.0
+Jones J.,Reyes D.,1.19,4.78,Jones J.,Decision,2020-02-09,light-heavyweight-ufc-men,5.0
+Saint Preux O.,Spann R.,0.0,0.0,canc.,Cancelled,2020-02-08,light-heavyweight-ufc-men,22.0
+Hill J.,Stosic D.,1.74,2.06,Hill J.,Decision,2020-01-26,light-heavyweight-ufc-men,1.0
+Camur A.,Ledet J.,1.79,2.04,Camur A.,Decision,2020-01-19,light-heavyweight-ufc-men,0.5
+Freire P.,Anderson D.,1.77,2.03,Anderson D.,Decision,2015-12-05,lightweight-bellator-men,2.0
+Thomson J.,Villaseca P.,1.06,8.15,Thomson J.,Technical Knockout,2015-12-05,lightweight-bellator-men,2.0
+Girtz B.,Campos D.,1.62,2.23,Girtz B.,Technical Knockout,2015-11-21,lightweight-bellator-men,2.0
+Brooks W.,Held M.,1.3,3.32,Brooks W.,Decision,2015-11-07,lightweight-bellator-men,1.0
+Couture R.,Gonzalez N.,0.0,0.0,canc.,Cancelled,2015-09-26,lightweight-bellator-men,1.0
+Thomson J.,Bronzoulis M.,1.09,6.5,Thomson J.,Technical Knockout,2015-09-20,lightweight-bellator-men,1.0
+Anderson D.,Primus B.,0.0,0.0,PTS,Decision,2015-08-29,lightweight-bellator-men,1.0
+Guillard M.,Girtz B.,1.27,3.5,Girtz B.,Decision,2015-08-29,lightweight-bellator-men,1.0
+Yamauchi G.,Mircea V.,1.16,5.28,Yamauchi G.,Submission,2016-12-10,lightweight-bellator-men,21.0
+Chandler M.,Henderson B.,1.57,2.35,Chandler M.,Decision,2016-11-20,lightweight-bellator-men,2.0
+Yamauchi G.,Couture R.,1.31,3.53,Yamauchi G.,Submission,2016-10-22,lightweight-bellator-men,1.0
+Campos D.,Chan D.,1.77,2.03,Campos D.,Decision,2016-09-17,lightweight-bellator-men,1.0
+Henderson B.,Freire P.,1.36,3.15,Henderson B.,Technical Knockout,2016-08-27,lightweight-bellator-men,2.0
+Guillard M.,Rickels D.,2.33,1.58,Guillard M.,Knockout,2016-07-23,lightweight-bellator-men,1.0
+Chandler M.,Freire P.,1.35,2.91,Chandler M.,Knockout,2016-06-25,lightweight-bellator-men,1.0
+Held M.,Jansen D.,0.0,0.0,PTS,Decision,2016-05-21,lightweight-bellator-men,1.0
+Piccolotti A.,Wood R.,1.22,4.14,Piccolotti A.,Submission,2016-05-15,lightweight-bellator-men,0.0
+Primus B.,Santos G.,1.48,2.55,Primus B.,Decision,2016-04-23,lightweight-bellator-men,0.0
+Rickels D.,Cooper B.,1.17,4.83,Rickels D.,Technical Knockout,2016-02-27,lightweight-bellator-men,2.0
+Petley J.,Monarch L.,0.0,0.0,PTS,Decision,2017-12-15,lightweight-bellator-men,21.0
+Girtz B.,Jelcic L.,0.0,0.0,KO,Knockout,2017-12-09,lightweight-bellator-men,20.0
+Awad S.,Freeman Z.,0.0,0.0,TKO,Technical Knockout,2017-11-04,lightweight-bellator-men,2.0
+Quinn R.,Surin M.,1.67,2.18,Quinn R.,Decision,2017-10-21,lightweight-bellator-men,1.0
+Kozola S.,Banks C.,0.0,0.0,PTS,Decision,2017-10-07,lightweight-bellator-men,1.0
+Henderson B.,Freire P.,1.46,2.7,Freire P.,Decision,2017-09-24,lightweight-bellator-men,1.0
+Girtz B.,Campos D.,2.19,1.66,Campos D.,Technical Knockout,2017-07-15,lightweight-bellator-men,1.0
+Chandler M.,Primus B.,1.13,6.05,Primus B.,Technical Knockout,2017-06-25,lightweight-bellator-men,2.0
+Desir B.,Grebb N.,0.0,0.0,KO,Knockout,2017-06-24,lightweight-bellator-men,22.0
+Chan D.,Mircea V.,0.0,0.0,PTS,Decision,2017-04-08,lightweight-bellator-men,20.0
+Kozola S.,Roberts J.,1.56,2.45,Kozola S.,Technical Knockout,2017-04-01,lightweight-bellator-men,1.0
+Pfister C.,Gary J.,0.0,0.0,SUBM,Submission,2017-03-04,lightweight-bellator-men,2.0
+Jackson N.,Gonzalez C.,0.0,0.0,PTS,Decision,2017-02-19,lightweight-bellator-men,2.0
+Farley C.,Breeden M.,0.0,0.0,TKO,Technical Knockout,2017-01-28,lightweight-bellator-men,2.0
+Campos D.,Anderson D.,2.75,1.44,Campos D.,Decision,2017-01-22,lightweight-bellator-men,2.0
+Segura M.,Aaron T.,0.0,0.0,KO,Knockout,2017-01-22,lightweight-bellator-men,2.0
+Barca D.,Hopps I.,0.0,0.0,PTS,Decision,2018-12-16,lightweight-bellator-men,2.0
+Dung N.,Oliveira K.,3.0,1.3,Dung N.,Technical Knockout,2018-12-16,lightweight-bellator-men,2.0
+Pieper B.,Avila C.,1.45,2.41,Avila C.,Submission,2018-12-15,lightweight-bellator-men,2.0
+Henderson B.,Awad S.,1.26,3.88,Henderson B.,Decision,2018-10-14,lightweight-bellator-men,2.5
+Ferguson K.,Browning C.,1.11,6.58,Browning C.,Technical Knockout,2018-10-13,lightweight-bellator-men,1.5
+Freire P.,Huerta R.,1.08,8.62,Freire P.,Knockout,2018-09-22,lightweight-bellator-men,1.0
+Edminister B.,Taylor L.,0.0,0.0,SUBM,Submission,2018-09-21,lightweight-bellator-men,23.25
+Nawrocki T.,Morales O.,0.0,0.0,KO,Knockout,2018-08-18,lightweight-bellator-men,0.0
+Peatrowsky M.,Phathaem K.,0.0,0.0,PTS,Decision,2018-08-17,lightweight-bellator-men,23.75
+Morris W.,Williams C.,1.12,5.25,Morris W.,Decision,2018-07-13,lightweight-bellator-men,22.5
+Kozola S.,Walker R.,1.5,2.4,Kozola S.,Technical Knockout,2018-07-13,lightweight-bellator-men,21.0
+Rosales J.,Jones J.,0.0,0.0,PTS,Decision,2018-06-30,lightweight-bellator-men,3.5
+Leary C.,Green T.,0.0,0.0,TKO,Technical Knockout,2018-05-25,lightweight-bellator-men,20.0
+Banks C.,Piccolotti A.,0.0,0.0,SUBM,Submission,2018-05-13,lightweight-bellator-men,4.0
+Bennett J.,Stusse D.,0.0,0.0,TKO,Technical Knockout,2018-04-28,lightweight-bellator-men,22.0
+Chandler M.,Girtz B.,1.11,6.45,Chandler M.,Submission,2018-04-14,lightweight-bellator-men,1.0
+Henderson B.,Huerta R.,1.09,6.0,Henderson B.,Submission,2018-04-06,lightweight-bellator-men,20.0
+Freire P.,Campos D.,1.46,2.7,Freire P.,Technical Knockout,2018-02-17,lightweight-bellator-men,2.0
+Richardson R.,Leon R. A.,0.0,0.0,TKO,Technical Knockout,2018-02-17,lightweight-bellator-men,2.0
+Awad S.,Ambrose J. J.,1.41,2.79,Awad S.,Decision,2018-01-27,lightweight-bellator-men,2.0
+Padilla C.,Green G.,0.0,0.0,SUBM,Submission,2018-01-21,lightweight-bellator-men,3.0
+Chandler M.,Yamauchi G.,1.39,2.93,Chandler M.,Decision,2018-01-21,lightweight-bellator-men,2.0
+Henderson B.,Chandler M.,0.0,0.0,canc.,Cancelled,2019-12-29,lightweight-bellator-men,12.0
+Uesako H.,Yachi Y.,0.0,0.0,TKO,Technical Knockout,2019-12-29,lightweight-bellator-men,6.0
+Yamauchi G.,Cruickshank D.,1.21,4.4,Yamauchi G.,Submission,2019-12-29,lightweight-bellator-men,3.0
+Dung N.,Zane Z.,0.0,0.0,PTS,Decision,2019-12-22,lightweight-bellator-men,3.0
+Brazier T.,Bak S.,2.02,1.79,Bak S.,Decision,2019-11-23,lightweight-bellator-men,22.0
+Bungard C.,Brander B.,0.0,0.0,SUBM,Submission,2019-11-23,lightweight-bellator-men,17.75
+Wilde T.,Leary C.,1.73,2.04,Wilde T.,Decision,2019-11-23,lightweight-bellator-men,16.75
+Huerta R.,Outlaw S.,4.65,1.18,Outlaw S.,Decision,2019-11-14,lightweight-bellator-men,20.5
+Newell N.,Muro M.,0.0,0.0,PTS,Decision,2019-10-27,lightweight-bellator-men,3.5
+Surin M.,Powell D.,0.0,0.0,SUBM,Submission,2019-10-27,lightweight-bellator-men,1.75
+Nallo M.,Mota K.,0.0,0.0,TKO,Technical Knockout,2019-10-26,lightweight-bellator-men,0.0
+Mousah K.,Macedo da Silva R.,0.0,0.0,PTS,Decision,2019-10-12,lightweight-bellator-men,20.0
+Tokov V.,Hastings B.,0.0,0.0,PTS,Decision,2019-10-05,lightweight-bellator-men,3.75
+Awad S.,Yamauchi G.,4.35,1.22,Yamauchi G.,Submission,2019-10-05,lightweight-bellator-men,2.0
+Jones J.,Clark D.,0.0,0.0,SUBM,Submission,2019-09-29,lightweight-bellator-men,1.25
+Henderson B.,Jury M.,0.0,0.0,PTS,Decision,2019-09-28,lightweight-bellator-men,3.0
+Scope R.,Queally P.,1.39,2.98,Queally P.,Technical Knockout,2019-09-27,lightweight-bellator-men,21.08
+Piccolotti A.,Smith J.,0.0,0.0,SUBM,Submission,2019-09-08,lightweight-bellator-men,0.67
+Gozali A.,Muravitskiy E.,0.0,0.0,SUBM,Submission,2019-08-25,lightweight-bellator-men,0.0
+Newell N.,Browning C.,0.0,0.0,SUBM,Submission,2019-08-24,lightweight-bellator-men,22.25
+Agazarm A.,Landin J.,0.0,0.0,SUBM,Submission,2019-07-13,lightweight-bellator-men,0.5
+Varga G.,Taylor J.,0.0,0.0,TKO,Technical Knockout,2019-07-12,lightweight-bellator-men,23.67
+Chalmers A.,Freeman F.,0.0,0.0,SUBM,Submission,2019-06-22,lightweight-bellator-men,21.25
+Brazier T.,Botti A.,0.0,0.0,SUBM,Submission,2019-06-22,lightweight-bellator-men,16.0
+Chandler M.,Freire P.,0.0,0.0,TKO,Technical Knockout,2019-05-12,lightweight-bellator-men,3.0
+Primus B.,Wilde T.,1.2,4.33,Primus B.,Submission,2019-05-04,lightweight-bellator-men,22.5
+Henderson B.,Piccolotti A.,1.27,3.78,Henderson B.,Decision,2019-04-28,lightweight-bellator-men,2.5
+Awad S.,Girtz B.,1.43,2.78,Girtz B.,Decision,2019-03-30,lightweight-bellator-men,2.5
+Tokov V.,Walker R.,0.0,0.0,PTS,Decision,2019-03-22,lightweight-bellator-men,23.0
+Queally P.,Price M.,1.22,4.0,Price M.,Decision,2019-02-23,lightweight-bellator-men,22.0
+Freire P.,Scope R.,1.2,4.56,Freire P.,Decision,2019-02-09,lightweight-bellator-men,23.5
+Brazier T.,Bungard C.,1.13,6.13,Bungard C.,Submission,2019-02-09,lightweight-bellator-men,22.5
+Campos D.,Diggs K.,2.01,1.8,Diggs K.,Knockout,2020-09-13,lightweight-bellator-men,2.0
+Tokov V.,Gonzalez C.,0.0,0.0,PTS,Decision,2020-08-22,lightweight-bellator-men,1.0
+Piccolotti A.,Outlaw S.,1.66,2.2,Outlaw S.,Decision,2020-08-21,lightweight-bellator-men,23.5
+Chandler M.,Henderson B.,1.4,2.9,Chandler M.,Knockout,2020-08-08,lightweight-bellator-men,3.5
+Dung N.,Campbell C.,0.0,0.0,TKO,Technical Knockout,2020-08-07,lightweight-bellator-men,23.75
+Chandler M.,Henderson B.,0.0,0.0,canc.,Cancelled,2020-06-06,lightweight-bellator-men,21.0
+Davis A.,Wilde T.,0.0,0.0,postp.,Postponed,2020-05-16,lightweight-bellator-men,15.0
+Outlaw S.,Piccolotti A.,0.0,0.0,canc.,Cancelled,2020-05-09,lightweight-bellator-men,21.0
+Newell N.,Zane Z.,1.55,2.52,postp.,Postponed,2020-03-14,lightweight-bellator-men,2.0
+Mota K.,Andrews N.,0.0,0.0,postp.,Postponed,2020-03-14,lightweight-bellator-men,0.25
+Primus B.,Bungard C.,0.0,0.0,SUBM,Submission,2020-02-23,lightweight-bellator-men,5.0
+Chalmers A.,Clem A.,1.44,2.76,Clem A.,Decision,2020-02-22,lightweight-bellator-men,22.0
+Mulpeter P.,Crawford D.,0.0,0.0,canc.,Cancelled,2020-02-22,lightweight-bellator-men,20.0
+Taylor A.,Avila C.,0.0,0.0,PTS,Decision,2020-01-26,lightweight-bellator-men,2.25
+Seixas R.,Clark D.,1.67,2.23,Seixas R.,Knockout,2020-01-26,lightweight-bellator-men,0.75
+Dos Anjos R.,Cerrone D.,1.52,2.57,Dos Anjos R.,Technical Knockout,2015-12-20,lightweight-ufc-men,1.0
+Lentz N.,Castillo D.,1.8,2.04,Lentz N.,Decision,2015-12-19,lightweight-ufc-men,22.0
+Santos L.,Lee K.,5.35,1.17,Santos L.,Technical Knockout,2015-12-13,lightweight-ufc-men,1.0
+Makdessi J.,Medeiros Y.,1.57,2.38,Medeiros Y.,Decision,2015-12-12,lightweight-ufc-men,23.0
+Barboza E.,Ferguson T.,2.48,1.54,Ferguson T.,Submission,2015-12-11,lightweight-ufc-men,23.0
+Miller J.,Chiesa M.,2.13,1.71,Chiesa M.,Technical Knockout,2015-12-11,lightweight-ufc-men,3.0
+Bang T. H.,Kuntz L.,4.23,1.22,Bang T. H.,Decision,2015-11-28,lightweight-ufc-men,10.0
+Escudero E.,Silva L.,2.23,1.67,Silva L.,Decision,2015-11-22,lightweight-ufc-men,3.0
+Lazaro V.,Prazeres M.,2.02,1.78,Prazeres M.,Decision,2015-11-22,lightweight-ufc-men,0.0
+Matthews J.,Arreola A.,1.09,7.15,Matthews J.,Technical Knockout,2015-11-15,lightweight-ufc-men,1.0
+Moontasri J.,Zafir A.,1.26,3.77,Moontasri J.,Technical Knockout,2015-11-14,lightweight-ufc-men,23.25
+Burns G.,Magomedov R.,2.67,1.49,Magomedov R.,Decision,2015-11-08,lightweight-ufc-men,3.0
+Cabral Y.,Case J.,3.08,1.37,Case J.,Decision,2015-11-08,lightweight-ufc-men,1.0
+Parke N.,Madadi R.,1.44,2.74,Parke N.,Decision,2015-10-24,lightweight-ufc-men,20.0
+Ray S.,Lebout M.,1.18,4.61,Ray S.,Decision,2015-10-24,lightweight-ufc-men,17.0
+Martins A.,Makhachev I.,2.25,1.64,Martins A.,Knockout,2015-10-03,lightweight-ufc-men,23.0
+Hein N.,Kasuya Y.,1.27,3.59,Hein N.,Decision,2015-09-27,lightweight-ufc-men,0.0
+Pearson R.,Felder P.,4.28,1.21,Pearson R.,Decision,2015-09-06,lightweight-ufc-men,0.0
+Laprise C.,Trinaldo F.,1.26,3.79,Trinaldo F.,Technical Knockout,2015-08-24,lightweight-ufc-men,1.0
+Stout S.,Perez F.,2.06,1.72,Perez F.,Technical Knockout,2015-08-23,lightweight-ufc-men,23.0
+Johnson M.,Dariush B.,1.6,2.3,Dariush B.,Decision,2015-08-09,lightweight-ufc-men,2.0
+Franca G.,Bruno F.,1.54,2.46,Franca G.,Technical Knockout,2015-08-02,lightweight-ufc-men,2.0
+Emmett J.,Holtzman S.,1.53,2.53,Emmett J.,Decision,2016-12-17,lightweight-ufc-men,23.0
+Aubin-Mercier O.,Dober D.,1.56,2.41,Aubin-Mercier O.,Submission,2016-12-11,lightweight-ufc-men,1.0
+Makdessi J.,Vannata L.,2.61,1.49,Vannata L.,Knockout,2016-12-10,lightweight-ufc-men,23.5
+Perez F.,Diakiese M.,3.3,1.33,Diakiese M.,Decision,2016-12-09,lightweight-ufc-men,22.5
+Matthews J.,Holbrook A.,1.21,4.42,Holbrook A.,Decision,2016-11-27,lightweight-ufc-men,3.0
+Pearson R.,Ray S.,1.91,1.89,Ray S.,Decision,2016-11-19,lightweight-ufc-men,21.0
+Alvarez E.,McGregor C.,2.48,1.57,McGregor C.,Technical Knockout,2016-11-13,lightweight-ufc-men,6.33
+Bravo M.,Puelles C.,1.86,1.94,Bravo M.,Technical Knockout,2016-11-06,lightweight-ufc-men,2.0
+Dos Anjos R.,Ferguson T.,1.68,2.19,Ferguson T.,Decision,2016-11-06,lightweight-ufc-men,2.0
+Reyes M. P.,Novelli J.,1.54,2.49,Reyes M. P.,Decision,2016-11-05,lightweight-ufc-men,22.5
+Sajewski L.,Diakiese M.,3.37,1.32,Diakiese M.,Technical Knockout,2016-10-08,lightweight-ufc-men,22.5
+Brooks W.,Oliveira A.,1.32,3.43,Oliveira A.,Technical Knockout,2016-10-02,lightweight-ufc-men,3.0
+Burns G.,Prazeres M.,1.41,2.89,Prazeres M.,Decision,2016-09-25,lightweight-ufc-men,0.0
+Franca G.,Gillespie G.,1.72,2.12,Gillespie G.,Decision,2016-09-24,lightweight-ufc-men,22.5
+Dunham E.,Glenn R.,1.28,3.75,Dunham E.,Decision,2016-09-18,lightweight-ufc-men,2.0
+Wade C.,Makhachev I.,2.1,1.72,Makhachev I.,Decision,2016-09-18,lightweight-ufc-men,2.0
+Dober D.,Gonzalez J.,1.63,2.33,Dober D.,Knockout,2016-09-11,lightweight-ufc-men,0.0
+Medeiros Y.,Spencer S.,1.73,2.11,Medeiros Y.,Submission,2016-09-10,lightweight-ufc-men,23.0
+Hein N.,Bang T. H.,1.31,3.56,Hein N.,Decision,2016-09-03,lightweight-ufc-men,19.0
+Lauzon J.,Miller J.,1.68,2.22,Miller J.,Decision,2016-08-28,lightweight-ufc-men,0.0
+Campbell S.,Silva F.,1.66,2.23,Silva F.,Technical Knockout,2016-08-27,lightweight-ufc-men,22.0
+Laprise C.,Gouti T.,1.31,3.4,Laprise C.,Technical Knockout,2016-08-27,lightweight-ufc-men,21.0
+Teymur D.,Novelli J.,1.72,2.12,Teymur D.,Technical Knockout,2016-08-07,lightweight-ufc-men,0.0
+Arzamendia C.,Brown D.,1.97,1.83,Brown D.,Knockout,2016-07-30,lightweight-ufc-men,23.0
+Barboza E.,Melendez G.,1.44,2.86,Barboza E.,Decision,2016-07-24,lightweight-ufc-men,0.0
+Prazeres M.,Cottrell J.,1.42,2.87,Prazeres M.,Decision,2016-07-23,lightweight-ufc-men,22.0
+Ferguson T.,Chiesa M.,0.0,0.0,canc.,Cancelled,2016-07-14,lightweight-ufc-men,1.0
+Holtzman S.,Pfister C.,1.36,3.19,Holtzman S.,Decision,2016-07-13,lightweight-ufc-men,23.0
+Northcutt S.,Marin E.,1.21,4.53,Northcutt S.,Decision,2016-07-10,lightweight-ufc-men,0.0
+Gomi T.,Miller J.,3.29,1.34,Miller J.,Technical Knockout,2016-07-09,lightweight-ufc-men,22.5
+Brooks W.,Pearson R.,1.27,3.94,Brooks W.,Decision,2016-07-09,lightweight-ufc-men,2.0
+Matthews J.,Lee K.,1.64,2.3,Lee K.,Knockout,2016-07-09,lightweight-ufc-men,0.0
+Dos Anjos R.,Alvarez E.,1.3,3.59,Alvarez E.,Knockout,2016-07-08,lightweight-ufc-men,2.0
+Burns G.,Sajewski L.,1.37,3.15,Burns G.,Submission,2016-07-07,lightweight-ufc-men,22.5
+Hooker D.,Diakiese M.,2.53,1.52,Hooker D.,Submission,2017-12-31,lightweight-ufc-men,3.0
+Makdessi J.,Trujillo A.,2.42,1.55,Makdessi J.,Decision,2017-12-16,lightweight-ufc-men,22.0
+Holtzman S.,Horcher D.,1.73,2.1,Holtzman S.,Decision,2017-12-10,lightweight-ufc-men,3.0
+Gruetzemacher C.,Ramos D.,4.06,1.23,Ramos D.,Submission,2017-12-09,lightweight-ufc-men,23.5
+Alvarez E.,Gaethje J.,2.48,1.54,Alvarez E.,Knockout,2017-12-03,lightweight-ufc-men,3.0
+Teymur D.,Klose D.,1.72,2.15,Teymur D.,Decision,2017-12-03,lightweight-ufc-men,1.0
+Lentz N.,Brooks W.,4.47,1.2,Lentz N.,Submission,2017-11-19,lightweight-ufc-men,1.0
+Lauzon J.,Guida C.,1.99,1.81,Guida C.,Technical Knockout,2017-11-12,lightweight-ufc-men,3.0
+Northcutt S.,Quinones M.,1.53,2.53,Northcutt S.,Decision,2017-11-12,lightweight-ufc-men,1.0
+Vick J.,Duffy J.,2.36,1.59,Vick J.,Technical Knockout,2017-11-05,lightweight-ufc-men,0.0
+Trinaldo F.,Miller J.,1.46,2.68,Trinaldo F.,Decision,2017-10-29,lightweight-ufc-men,2.0
+Held M.,Haqparast N.,1.22,4.15,Held M.,Decision,2017-10-21,lightweight-ufc-men,15.75
+Dariush B.,Dunham E.,1.42,2.81,Draw,Draw,2017-10-08,lightweight-ufc-men,2.0
+Brooks W.,Lentz N.,1.25,3.93,canc.,Cancelled,2017-10-08,lightweight-ufc-men,0.0
+Gomi T.,Kim D. H.,3.96,1.25,Kim D. H.,Technical Knockout,2017-09-23,lightweight-ufc-men,2.0
+Gillespie G.,Gonzalez J.,1.21,4.38,Gillespie G.,Submission,2017-09-17,lightweight-ufc-men,2.0
+Saggo J.,Burns G.,2.24,1.65,Burns G.,Knockout,2017-09-16,lightweight-ufc-men,23.5
+Clarke M.,White A.,2.72,1.45,White A.,Technical Knockout,2017-09-09,lightweight-ufc-men,22.5
+Gouti T.,Holbrook A.,2.44,1.56,Gouti T.,Technical Knockout,2017-09-02,lightweight-ufc-men,15.5
+Prazeres M.,Burnell M.,1.28,3.75,Prazeres M.,Submission,2017-09-02,lightweight-ufc-men,15.5
+Bravo M.,Bandenay H.,1.32,3.46,Bandenay H.,Knockout,2017-08-06,lightweight-ufc-men,2.0
+Herrera A.,Rinaldi J.,2.78,1.46,Rinaldi J.,Submission,2017-08-05,lightweight-ufc-men,23.0
+Burkman J.,Dober D.,3.47,1.31,Dober D.,Knockout,2017-07-29,lightweight-ufc-men,22.5
+Wade C.,Perez F.,1.31,3.58,Wade C.,Decision,2017-07-22,lightweight-ufc-men,20.0
+Ray S.,Felder P.,1.55,2.51,Felder P.,Knockout,2017-07-16,lightweight-ufc-men,19.0
+Pettis A.,Miller J.,1.44,2.88,Pettis A.,Decision,2017-07-09,lightweight-ufc-men,2.0
+Diakiese M.,Klose D.,1.4,2.98,Klose D.,Decision,2017-07-08,lightweight-ufc-men,1.0
+Chiesa M.,Lee K.,2.06,1.78,Lee K.,Submission,2017-06-26,lightweight-ufc-men,1.0
+Guida C.,Koch E.,3.79,1.28,Guida C.,Decision,2017-06-25,lightweight-ufc-men,23.0
+Martin A.,Case J.,1.77,2.09,Martin A.,Decision,2017-06-25,lightweight-ufc-men,21.5
+Gomi T.,Tuck J.,3.56,1.3,Tuck J.,Submission,2017-06-17,lightweight-ufc-men,11.5
+Hooker D.,Pearson R.,1.67,2.23,Hooker D.,Knockout,2017-06-11,lightweight-ufc-men,2.0
+Kim D. H.,Gouti T.,1.8,2.0,canc.,Cancelled,2017-06-10,lightweight-ufc-men,23.0
+Madadi R.,Silva J.,2.41,1.58,Silva J.,Decision,2017-05-28,lightweight-ufc-men,15.0
+Alvarez E.,Poirier D.,2.04,1.8,Draw,Draw,2017-05-14,lightweight-ufc-men,0.0
+Penn BJ,Hall R.,4.42,1.21,Hall R.,Submission,2018-12-30,lightweight-ufc-men,1.0
+Lee K.,Iaquinta A.,1.3,3.56,Iaquinta A.,Decision,2018-12-16,lightweight-ufc-men,2.5
+Miller J.,Oliveira C.,3.39,1.32,Oliveira C.,Submission,2018-12-16,lightweight-ufc-men,1.0
+Green B.,Klose D.,3.01,1.38,Klose D.,Decision,2018-12-15,lightweight-ufc-men,23.5
+Aubin-Mercier O.,Burns G.,1.75,2.09,Burns G.,Decision,2018-12-09,lightweight-ufc-men,2.0
+Hirota M.,Giagos C.,0.0,0.0,PTS,Decision,2018-12-02,lightweight-ufc-men,1.5
+Ismagulov D.,Gorgees A.,1.18,4.78,Ismagulov D.,Decision,2018-12-02,lightweight-ufc-men,0.0
+Roberts R.,Horcher D.,1.31,3.47,Roberts R.,Submission,2018-12-01,lightweight-ufc-men,0.5
+Powell D.,Pinedo J.,2.75,1.47,Pinedo J.,Decision,2018-11-18,lightweight-ufc-men,0.5
+Dariush B.,Moises T.,1.63,2.31,Dariush B.,Decision,2018-11-11,lightweight-ufc-men,4.0
+Ramos D.,Gunther J.,1.1,7.17,Ramos D.,Submission,2018-11-11,lightweight-ufc-men,1.5
+Frevola M.,Vannata L.,3.09,1.39,Draw,Draw,2018-11-03,lightweight-ufc-men,23.75
+Gouti T.,Haqparast N.,6.32,1.13,Haqparast N.,Decision,2018-10-28,lightweight-ufc-men,1.0
+Edwards T.,Madge D.,1.22,4.42,Madge D.,Knockout,2018-10-27,lightweight-ufc-men,22.5
+Nurmagomedov K.,McGregor C.,1.53,2.66,Nurmagomedov K.,Submission,2018-10-07,lightweight-ufc-men,4.5
+Holtzman S.,Patrick A.,3.39,1.33,Holtzman S.,Knockout,2018-10-07,lightweight-ufc-men,0.0
+Maynard G.,Lentz N.,2.88,1.43,Lentz N.,Technical Knockout,2018-10-06,lightweight-ufc-men,23.0
+Oliveira C.,Giagos C.,1.23,4.27,Oliveira C.,Submission,2018-09-23,lightweight-ufc-men,2.0
+Khabilov R.,Johnson K.,1.14,6.19,Khabilov R.,Decision,2018-09-15,lightweight-ufc-men,16.5
+Miller J.,White A.,2.47,1.58,Miller J.,Submission,2018-09-08,lightweight-ufc-men,23.5
+Gaethje J.,Vick J.,2.24,1.69,Gaethje J.,Knockout,2018-08-26,lightweight-ufc-men,4.5
+Dober D.,Tuck J.,1.43,2.95,Dober D.,Decision,2018-08-25,lightweight-ufc-men,23.0
+Alvarez E.,Poirier D.,2.45,1.57,Poirier D.,Technical Knockout,2018-07-29,lightweight-ufc-men,1.5
+Johnson K.,Makhachev I.,5.32,1.17,Makhachev I.,Submission,2018-07-28,lightweight-ufc-men,22.5
+Powell D.,Herrera A.,1.9,1.92,Powell D.,Technical Knockout,2018-07-28,lightweight-ufc-men,20.0
+Haqparast N.,Diakiese M.,2.45,1.57,Haqparast N.,Decision,2018-07-22,lightweight-ufc-men,18.58
+Chiesa M.,Pettis A.,1.57,2.5,Pettis A.,Submission,2018-07-08,lightweight-ufc-men,2.5
+Hooker D.,Burns G.,1.86,1.99,Hooker D.,Knockout,2018-07-07,lightweight-ufc-men,23.5
+Pena L.,Smullen R.,1.26,4.1,Pena L.,Submission,2018-07-07,lightweight-ufc-men,0.5
+Guida C.,Oliveira C.,2.2,1.69,Oliveira C.,Submission,2018-06-09,lightweight-ufc-men,22.5
+Gillespie G.,Pichel V.,1.22,4.36,Gillespie G.,Submission,2018-06-02,lightweight-ufc-men,4.0
+Green D.,Tibau G.,1.31,3.54,Green D.,Decision,2018-06-02,lightweight-ufc-men,0.0
+Puelles C.,Silva F.,3.5,1.32,Puelles C.,Submission,2018-05-19,lightweight-ufc-men,22.0
+Ramos D.,Hein N.,1.56,2.49,Ramos D.,Submission,2018-05-13,lightweight-ufc-men,1.0
+Barboza E.,Lee K.,2.28,1.63,Lee K.,Technical Knockout,2018-04-22,lightweight-ufc-men,2.0
+Morales O.,Ma Dong Hyun,1.46,2.71,Morales O.,Decision,2019-12-21,lightweight-ufc-men,8.5
+Solecki J.,Wiman M.,1.27,3.77,Solecki J.,Decision,2019-12-07,lightweight-ufc-men,23.5
+Oliveira C.,Gordon J.,1.24,4.02,Oliveira C.,Knockout,2019-11-17,lightweight-ufc-men,2.0
+Trinaldo F.,Green B.,1.73,2.11,Trinaldo F.,Decision,2019-11-16,lightweight-ufc-men,23.5
+Khabilov R.,Khandozhko S.,1.41,2.92,Khabilov R.,Decision,2019-11-09,lightweight-ufc-men,18.0
+Yakovlev A.,Roberts R.,2.07,1.76,Roberts R.,Decision,2019-11-09,lightweight-ufc-men,16.5
+Lee K.,Gillespie G.,2.36,1.6,Lee K.,Knockout,2019-11-03,lightweight-ufc-men,2.0
+Johnson M.,Ray S.,1.38,3.14,Ray S.,Decision,2019-10-26,lightweight-ufc-men,14.0
+Fiziev R.,White A.,1.52,2.57,Fiziev R.,Decision,2019-10-26,lightweight-ufc-men,11.5
+Lauzon J.,Pearce J.,2.51,1.55,Lauzon J.,Technical Knockout,2019-10-19,lightweight-ufc-men,2.5
+Pena L.,Frevola M.,1.58,2.48,Frevola M.,Decision,2019-10-13,lightweight-ufc-men,1.5
+Gifford T.,Davis M.,3.32,1.34,Davis M.,Knockout,2019-10-12,lightweight-ufc-men,21.0
+Iaquinta A.,Hooker D.,2.16,1.72,Hooker D.,Decision,2019-10-06,lightweight-ufc-men,3.0
+Mullarkey J.,Riddell B.,2.39,1.59,Riddell B.,Decision,2019-10-05,lightweight-ufc-men,23.25
+O. Madsen M.,Belluardo D.,1.14,5.75,O. Madsen M.,Technical Knockout,2019-09-28,lightweight-ufc-men,20.0
+Puelles C.,Mariano M.,1.3,3.54,Puelles C.,Decision,2019-09-21,lightweight-ufc-men,21.0
+Cerrone D.,Gaethje J.,2.52,1.55,Gaethje J.,Technical Knockout,2019-09-15,lightweight-ufc-men,2.5
+Prepolec K.,Hubbard A.,2.11,1.74,Hubbard A.,Decision,2019-09-14,lightweight-ufc-men,21.0
+Madge D.,Mustafaev M.,0.0,0.0,canc.,Cancelled,2019-09-08,lightweight-ufc-men,2.0
+Nurmagomedov K.,Poirier D.,1.23,4.38,Nurmagomedov K.,Submission,2019-09-07,lightweight-ufc-men,20.0
+Makhachev I.,Ramos D.,1.26,3.99,Makhachev I.,Decision,2019-09-07,lightweight-ufc-men,19.0
+Azaitar O.,Packalen T.,1.48,2.66,Azaitar O.,Knockout,2019-09-07,lightweight-ufc-men,16.0
+Ismagulov D.,Moises T.,1.46,2.75,Ismagulov D.,Decision,2019-08-31,lightweight-ufc-men,8.0
+Makdessi J.,Smith D.,0.0,0.0,canc.,Cancelled,2019-08-18,lightweight-ufc-men,2.0
+Smith D.,Worthy K.,1.1,7.04,Worthy K.,Technical Knockout,2019-08-18,lightweight-ufc-men,1.5
+Vargas R.,Silva A.,3.42,1.32,Silva A.,Decision,2019-08-10,lightweight-ufc-men,21.5
+Miller J.,Guida C.,1.64,2.3,Miller J.,Submission,2019-08-03,lightweight-ufc-men,21.0
+Holtzman S.,Kim D. H.,1.23,4.19,Holtzman S.,Technical Knockout,2019-08-03,lightweight-ufc-men,19.5
+Aubin-Mercier O.,Tsarukyan A.,2.41,1.59,Tsarukyan A.,Decision,2019-07-28,lightweight-ufc-men,2.5
+Vick J.,Hooker D.,2.17,1.72,Hooker D.,Knockout,2019-07-21,lightweight-ufc-men,2.0
+Dariush B.,Klose D.,0.0,0.0,canc.,Cancelled,2019-07-13,lightweight-ufc-men,21.0
+Roberts R.,Pichel V.,1.37,3.16,Pichel V.,Decision,2019-06-30,lightweight-ufc-men,2.0
+Gordon J.,Moret D.,1.29,3.67,Gordon J.,Decision,2019-06-29,lightweight-ufc-men,23.5
+Wiman M.,Pena L.,3.87,1.26,Pena L.,Technical Knockout,2019-06-22,lightweight-ufc-men,21.5
+Ferguson T.,Cerrone D.,1.49,2.71,Ferguson T.,Technical Knockout,2019-06-09,lightweight-ufc-men,3.0
+Giagos C.,Hadzovic D.,2.4,1.58,Giagos C.,Decision,2019-06-01,lightweight-ufc-men,17.5
+Worthy K.,Azaitar O.,1.87,1.93,Azaitar O.,Technical Knockout,2020-09-13,lightweight-ufc-men,2.0
+Patrick A.,Vargas R.,0.0,0.0,canc.,Cancelled,2020-09-13,lightweight-ufc-men,0.0
+Roberts R.,Croom K.,1.2,4.57,Croom K.,Submission,2020-09-12,lightweight-ufc-men,22.5
+Weaver B.,Turner J.,3.98,1.25,Turner J.,Submission,2020-09-12,lightweight-ufc-men,22.0
+Moises T.,Turner J.,1.59,2.33,canc.,Cancelled,2020-09-06,lightweight-ufc-men,0.0
+Hubbard A.,Solecki J.,1.85,1.95,Solecki J.,Submission,2020-08-22,lightweight-ufc-men,23.5
+Miller J.,Pichel V.,2.05,1.78,Pichel V.,Decision,2020-08-16,lightweight-ufc-men,1.5
+Dariush B.,Holtzman S.,1.47,2.73,Dariush B.,Knockout,2020-08-09,lightweight-ufc-men,1.0
+Haqparast N.,Munoz A.,1.39,2.95,Haqparast N.,Decision,2020-08-08,lightweight-ufc-men,23.5
+Green B.,Vannata L.,2.24,1.65,Green B.,Decision,2020-08-02,lightweight-ufc-men,1.5
+Trinaldo F.,Herbert J.,1.96,1.84,Trinaldo F.,Technical Knockout,2020-07-25,lightweight-ufc-men,23.5
+Diakiese M.,Fiziev R.,1.57,2.42,Fiziev R.,Decision,2020-07-19,lightweight-ufc-men,1.0
+Alvarez J.,Duffy J.,3.35,1.33,Alvarez J.,Submission,2020-07-18,lightweight-ufc-men,22.5
+Santos L.,Bogatov R.,1.54,2.5,Santos L.,Decision,2020-07-12,lightweight-ufc-men,0.0
+Poirier D.,Hooker D.,1.41,2.93,Poirier D.,Decision,2020-06-28,lightweight-ufc-men,2.5
+Pena L.,Worthy K.,1.39,2.99,Worthy K.,Submission,2020-06-27,lightweight-ufc-men,23.5
+Roberts R.,Miller J.,1.39,3.01,Miller J.,Submission,2020-06-21,lightweight-ufc-men,0.0
+Guida C.,Green B.,3.18,1.36,Green B.,Decision,2020-06-20,lightweight-ufc-men,23.5
+Camacho F.,Jaynes J.,1.3,3.53,Jaynes J.,Technical Knockout,2020-06-20,lightweight-ufc-men,21.5
+Hubbard A.,Solecki J.,0.0,0.0,canc.,Cancelled,2020-06-20,lightweight-ufc-men,21.0
+Rosa C.,Aguilar K.,2.52,1.54,Rosa C.,Decision,2020-06-14,lightweight-ufc-men,2.0
+Dunham E.,Burns H.,2.91,1.42,Burns H.,Submission,2020-06-06,lightweight-ufc-men,22.0
+Roberts R.,Weaver B.,1.28,3.75,Roberts R.,Submission,2020-05-31,lightweight-ufc-men,1.5
+Poirier D.,Hooker D.,0.0,0.0,canc.,Cancelled,2020-05-16,lightweight-ufc-men,21.0
+Dober D.,Hernandez A.,1.71,2.19,Dober D.,Technical Knockout,2020-05-14,lightweight-ufc-men,2.0
+Benitez G.,Morales O.,2.41,1.58,Morales O.,Decision,2020-05-13,lightweight-ufc-men,23.0
+Ferguson T.,Gaethje J.,1.43,2.92,Gaethje J.,Technical Knockout,2020-05-10,lightweight-ufc-men,4.0
+Ferreira C. D.,Dober D.,0.0,0.0,canc.,Cancelled,2020-05-02,lightweight-ufc-men,21.0
+Frevola M.,Roberts R.,0.0,0.0,canc.,Cancelled,2020-04-25,lightweight-ufc-men,21.0
+Johnson M.,Dunham E.,0.0,0.0,canc.,Cancelled,2020-04-25,lightweight-ufc-men,21.0
+Ferguson T.,Gaethje J.,0.0,0.0,canc.,Cancelled,2020-04-19,lightweight-ufc-men,2.0
+Johnson M.,Worthy K.,0.0,0.0,canc.,Cancelled,2020-04-19,lightweight-ufc-men,2.0
+Nurmagomedov K.,Ferguson T.,1.32,3.45,canc.,Cancelled,2020-04-19,lightweight-ufc-men,2.0
+Ramos D.,Tsarukyan A.,0.0,0.0,postp.,Postponed,2020-04-11,lightweight-ufc-men,21.0
+Diakiese M.,Herbert J.,0.0,0.0,postp.,Postponed,2020-03-21,lightweight-ufc-men,18.0
+Lee K.,Oliveira C.,1.7,2.19,Oliveira C.,Submission,2020-03-15,lightweight-ufc-men,0.08
+Dollaway CB,Marquardt N.,1.24,4.15,Marquardt N.,Knockout,2015-12-19,middleweight-ufc-men,22.0
+Souza R.,Romero Y.,1.68,2.19,Romero Y.,Decision,2015-12-13,middleweight-ufc-men,3.0
+Alves W.,Covington C.,1.98,1.82,Alves W.,Submission,2015-12-13,middleweight-ufc-men,1.0
+Theodorou E.,Santos T.,1.43,2.87,Santos T.,Decision,2015-12-11,middleweight-ufc-men,3.0
+Carlos Junior A.,Casey K.,1.31,3.45,Draw,Draw,2015-12-10,middleweight-ufc-men,23.75
+Yang D.,Collier J.,2.06,1.76,Yang D.,Technical Knockout,2015-11-28,middleweight-ufc-men,10.0
+Urbina H.,Fabinski B.,2.78,1.43,Fabinski B.,Decision,2015-11-22,middleweight-ufc-men,1.0
+Hall U.,Whittaker R.,1.6,2.34,Whittaker R.,Decision,2015-11-15,middleweight-ufc-men,3.0
+Kelly D.,Montgomery S.,3.07,1.37,Kelly D.,Decision,2015-11-14,middleweight-ufc-men,23.25
+Belfort V.,Henderson D.,1.3,3.51,Belfort V.,Knockout,2015-11-08,middleweight-ufc-men,3.0
+Askham S.,Jotko K.,1.68,2.14,Jotko K.,Decision,2015-10-24,middleweight-ufc-men,17.0
+Mousasi G.,Hall U.,1.18,4.65,Hall U.,Technical Knockout,2015-09-27,middleweight-ufc-men,2.0
+Riggs J.,Stallings R.,2.75,1.45,Riggs J.,Technical Knockout,2015-09-05,middleweight-ufc-men,23.0
+Brunson D.,Alvey S.,1.23,4.16,Brunson D.,Knockout,2015-08-09,middleweight-ufc-men,2.0
+Hall U.,Bamgbose O.,1.25,4.0,Hall U.,Knockout,2015-08-09,middleweight-ufc-men,2.0
+Miranda V.,Hester C.,2.19,1.66,Miranda V.,Technical Knockout,2015-08-01,middleweight-ufc-men,23.0
+Carlos Junior A.,Vettori M.,1.76,2.06,Carlos Junior A.,Decision,2016-12-31,middleweight-ufc-men,1.0
+Kennedy T.,Gastelum K.,1.74,2.1,Gastelum K.,Technical Knockout,2016-12-11,middleweight-ufc-men,3.0
+Berish K.,Janes R.,2.71,1.46,Janes R.,Decision,2016-12-09,middleweight-ufc-men,22.5
+Sanchez A.,Smith T.,1.49,2.6,Sanchez A.,Decision,2016-12-09,middleweight-ufc-men,22.5
+Mutapcic E.,Smith A.,1.99,1.84,Smith A.,Technical Knockout,2016-12-04,middleweight-ufc-men,0.0
+Brunson D.,Whittaker R.,1.9,1.91,Whittaker R.,Technical Knockout,2016-11-27,middleweight-ufc-men,3.0
+Ferreira C.,Hermansson J.,2.14,1.7,Ferreira C.,Submission,2016-11-20,middleweight-ufc-men,2.0
+Mousasi G.,Hall U.,1.17,5.05,Mousasi G.,Technical Knockout,2016-11-19,middleweight-ufc-men,21.0
+Weidman C.,Romero Y.,1.45,2.82,Romero Y.,Knockout,2016-11-13,middleweight-ufc-men,3.92
+Alvey S.,Nicholson A.,1.49,2.61,Alvey S.,Decision,2016-11-05,middleweight-ufc-men,22.5
+Belfort V.,Mousasi G.,3.51,1.31,Mousasi G.,Technical Knockout,2016-10-09,middleweight-ufc-men,2.0
+Marquardt N.,McCrory T.,2.18,1.7,Marquardt N.,Knockout,2016-10-01,middleweight-ufc-men,23.25
+Santos T.,Spicely E.,1.15,5.71,Spicely E.,Submission,2016-09-25,middleweight-ufc-men,2.0
+Hall U.,Brunson D.,2.62,1.5,Brunson D.,Technical Knockout,2016-09-18,middleweight-ufc-men,2.0
+Dollaway CB,Barroso F.,0.0,0.0,canc.,Cancelled,2016-09-11,middleweight-ufc-men,0.0
+Askham S.,Hermansson J.,1.92,1.88,Hermansson J.,Decision,2016-09-03,middleweight-ufc-men,15.75
+Alvey S.,Casey K.,1.41,2.9,Alvey S.,Technical Knockout,2016-08-27,middleweight-ufc-men,22.0
+Janes R.,Hunter A.,0.0,0.0,canc.,Cancelled,2016-08-27,middleweight-ufc-men,21.0
+Uda A.,Vettori M.,2.37,1.59,Vettori M.,Submission,2016-08-20,middleweight-ufc-men,22.5
+Leites T.,Camozzi Ch.,1.54,2.51,Leites T.,Submission,2016-08-07,middleweight-ufc-men,2.0
+Boetsch T.,Samman J.,2.91,1.41,Boetsch T.,Technical Knockout,2016-07-14,middleweight-ufc-men,1.0
+Alvey S.,Spicely E.,1.35,3.23,Alvey S.,Submission,2016-07-13,middleweight-ufc-men,23.0
+Mousasi G.,Santos T.,1.38,3.07,Mousasi G.,Knockout,2016-07-09,middleweight-ufc-men,22.5
+McCrory T.,Jotko K.,1.56,2.44,Jotko K.,Knockout,2016-06-19,middleweight-ufc-men,0.5
+Theodorou E.,Alvey S.,1.4,2.98,Theodorou E.,Decision,2016-06-18,middleweight-ufc-men,22.75
+Rockhold L.,Bisping M.,1.15,5.89,Bisping M.,Knockout,2016-06-05,middleweight-ufc-men,4.0
+Casey K.,Mutapcic E.,2.19,1.68,Draw,Draw,2016-06-04,middleweight-ufc-men,22.75
+Camozzi Ch.,Miranda V.,2.11,1.72,Camozzi Ch.,Decision,2016-05-30,middleweight-ufc-men,1.0
+Collier J.,Uda A.,2.0,1.8,Collier J.,Knockout,2016-05-29,middleweight-ufc-men,23.0
+Souza R.,Belfort V.,1.33,3.47,Souza R.,Knockout,2016-05-15,middleweight-ufc-men,3.5
+Marquardt N.,Santos T.,3.76,1.29,Santos T.,Knockout,2016-05-15,middleweight-ufc-men,1.0
+Cedenblad M.,McLellan G.,1.32,3.34,Cedenblad M.,Technical Knockout,2016-05-08,middleweight-ufc-men,16.0
+Whittaker R.,Natal R.,1.3,3.53,Whittaker R.,Decision,2016-04-24,middleweight-ufc-men,2.0
+Ferreira C.,Bamgbose O.,2.57,1.5,Ferreira C.,Decision,2016-04-16,middleweight-ufc-men,20.0
+Di Chirico A.,Velickovic B.,2.53,1.52,Velickovic B.,Decision,2016-04-10,middleweight-ufc-men,14.5
+Te-Huna J.,Bosse S.,1.39,2.99,Bosse S.,Knockout,2016-03-20,middleweight-ufc-men,2.0
+Miranda V.,Guimaraes M.,1.31,3.52,Miranda V.,Technical Knockout,2016-03-06,middleweight-ufc-men,1.0
+Vettori M.,Akhmedov O.,1.42,2.86,Draw,Draw,2017-12-31,middleweight-ufc-men,1.0
+Di Chirico A.,Bamgbose O.,1.74,2.07,Di Chirico A.,Knockout,2017-12-16,middleweight-ufc-men,22.0
+Anders E.,Perez Echeimberg M.,1.25,3.9,Anders E.,Decision,2017-12-10,middleweight-ufc-men,3.0
+Neto A. B.,Giles T.,3.1,1.36,Giles T.,Knockout,2017-12-09,middleweight-ufc-men,23.5
+Sanchez A.,Janes R.,1.18,5.0,Janes R.,Technical Knockout,2017-12-02,middleweight-ufc-men,3.0
+Bisping M.,Gastelum K.,3.29,1.33,Gastelum K.,Knockout,2017-11-25,middleweight-ufc-men,12.0
+Theodorou E.,Kelly D.,1.32,3.36,Theodorou E.,Decision,2017-11-19,middleweight-ufc-men,3.0
+Marquardt N.,Ferreira C.,3.19,1.34,Ferreira C.,Decision,2017-11-12,middleweight-ufc-men,3.0
+Stewart D.,Roberson K.,2.81,1.44,Roberson K.,Submission,2017-11-11,middleweight-ufc-men,23.5
+Bisping M.,St-Pierre G.,1.9,1.89,St-Pierre G.,Submission,2017-11-05,middleweight-ufc-men,2.0
+Brunson D.,Machida L.,1.6,2.34,Brunson D.,Knockout,2017-10-29,middleweight-ufc-men,2.0
+Carlos Junior A.,Marshman J.,1.2,4.38,Carlos Junior A.,Submission,2017-10-28,middleweight-ufc-men,23.0
+Alvey S.,Emeev R.,2.33,1.59,Emeev R.,Decision,2017-10-21,middleweight-ufc-men,15.75
+Leites T.,Tavares B.,2.47,1.53,Tavares B.,Decision,2017-10-07,middleweight-ufc-men,22.5
+Lombard H.,Smith A.,2.3,1.63,Smith A.,Knockout,2017-09-17,middleweight-ufc-men,2.0
+Jotko K.,Hall U.,1.47,2.69,Hall U.,Technical Knockout,2017-09-17,middleweight-ufc-men,0.0
+Bahadurzada S.,Wilkinson R.,1.71,2.13,Bahadurzada S.,Technical Knockout,2017-09-02,middleweight-ufc-men,19.0
+Alvey S.,Evans R.,1.73,2.14,Alvey S.,Decision,2017-08-06,middleweight-ufc-men,2.0
+Weidman C.,Gastelum K.,2.31,1.63,Weidman C.,Submission,2017-07-23,middleweight-ufc-men,0.0
+Natal R.,Anders E.,2.01,1.81,Anders E.,Knockout,2017-07-22,middleweight-ufc-men,22.0
+Marshman J.,Janes R.,1.19,4.83,Marshman J.,Decision,2017-07-16,middleweight-ufc-men,19.0
+Romero Y.,Whittaker R.,2.0,1.83,Whittaker R.,Decision,2017-07-09,middleweight-ufc-men,2.0
+Tavares B.,Theodorou E.,1.91,1.91,Tavares B.,Decision,2017-07-08,middleweight-ufc-men,1.0
+Boetsch T.,Hendricks J.,2.31,1.62,Boetsch T.,Technical Knockout,2017-06-26,middleweight-ufc-men,1.0
+Miranda V.,Vettori M.,3.84,1.28,Vettori M.,Decision,2017-06-25,middleweight-ufc-men,23.0
+Brunson D.,Kelly D.,1.36,3.21,Brunson D.,Knockout,2017-06-11,middleweight-ufc-men,2.0
+Belfort V.,Marquardt N.,1.58,2.42,Belfort V.,Decision,2017-06-04,middleweight-ufc-men,2.0
+Carlos Junior A.,Spicely E.,1.31,3.53,Carlos Junior A.,Submission,2017-06-04,middleweight-ufc-men,0.0
+Hermansson J.,Nicholson A.,1.6,2.37,Hermansson J.,Technical Knockout,2017-05-28,middleweight-ufc-men,17.0
+Jotko K.,Branch D.,1.62,2.36,Branch D.,Decision,2017-05-14,middleweight-ufc-men,2.0
+Leites T.,Alvey S.,1.81,1.99,Leites T.,Decision,2017-04-23,middleweight-ufc-men,0.0
+Souza R.,Whittaker R.,1.37,3.12,Whittaker R.,Technical Knockout,2017-04-16,middleweight-ufc-men,0.0
+Smith A.,Sanchez A.,3.62,1.29,Smith A.,Knockout,2017-04-15,middleweight-ufc-men,20.0
+Weidman C.,Mousasi G.,2.01,1.8,Mousasi G.,Technical Knockout,2017-04-09,middleweight-ufc-men,2.0
+Scott B.,Askham S.,2.3,1.62,Scott B.,Decision,2017-03-18,middleweight-ufc-men,18.42
+Belfort V.,Gastelum K.,3.8,1.28,Gastelum K.,Technical Knockout,2017-03-12,middleweight-ufc-men,3.0
+McLellan G.,Costa P. H.,3.59,1.3,Costa P. H.,Technical Knockout,2017-03-12,middleweight-ufc-men,0.0
+Hendricks J.,Lombard H.,1.94,1.87,Hendricks J.,Decision,2017-02-20,middleweight-ufc-men,2.0
+Marshman J.,Santos T.,2.4,1.59,Santos T.,Technical Knockout,2017-02-20,middleweight-ufc-men,0.0
+Hall U.,Lewis B.,2.24,1.67,Hall U.,Knockout,2018-12-30,middleweight-ufc-men,0.0
+Meerschaert G.,Hermansson J.,2.37,1.58,Hermansson J.,Submission,2018-12-15,middleweight-ufc-men,22.5
+Theodorou E.,Anders E.,1.79,2.03,Theodorou E.,Decision,2018-12-09,middleweight-ufc-men,1.0
+Stewart D.,Shahbazyan E.,1.92,1.9,Shahbazyan E.,Decision,2018-12-01,middleweight-ufc-men,3.5
+Holland K.,Phillips J.,1.18,4.95,Holland K.,Submission,2018-11-24,middleweight-ufc-men,8.75
+Ferreira C.,Heinisch I.,1.51,2.6,Heinisch I.,Decision,2018-11-18,middleweight-ufc-men,4.0
+Weidman C.,Souza R.,1.57,2.44,Souza R.,Technical Knockout,2018-11-04,middleweight-ufc-men,3.5
+Roberson K.,Marshman J.,1.31,3.55,Roberson K.,Decision,2018-11-04,middleweight-ufc-men,2.5
+Leites T.,Lombard H.,1.71,2.2,Leites T.,Decision,2018-09-22,middleweight-ufc-men,23.0
+Murtazaliev K.,Dollaway CB,1.58,2.44,Murtazaliev K.,Technical Knockout,2018-09-15,middleweight-ufc-men,17.5
+Byrd C.,Stewart D.,1.52,2.6,Stewart D.,Technical Knockout,2018-09-09,middleweight-ufc-men,0.0
+Anders E.,Williams T.,1.1,7.71,Anders E.,Knockout,2018-08-26,middleweight-ufc-men,2.0
+Santos T.,Holland K.,1.29,3.71,Santos T.,Decision,2018-08-05,middleweight-ufc-men,2.0
+Miranda V.,Azaitar A.,2.74,1.47,Azaitar A.,Decision,2018-07-22,middleweight-ufc-men,19.58
+Hall U.,Costa P. H.,3.59,1.31,Costa P. H.,Technical Knockout,2018-07-08,middleweight-ufc-men,1.5
+Tavares B.,Adesanya I.,1.95,1.89,Adesanya I.,Decision,2018-07-07,middleweight-ufc-men,4.0
+Meerschaert G.,Piechota O.,2.94,1.42,Meerschaert G.,Submission,2018-07-06,middleweight-ufc-men,22.5
+Whittaker R.,Romero Y.,1.38,3.15,Whittaker R.,Decision,2018-06-10,middleweight-ufc-men,4.0
+Spicely E.,Stewart D.,1.59,2.37,Stewart D.,Technical Knockout,2018-05-27,middleweight-ufc-men,17.0
+Theodorou E.,Smith T.,1.25,3.95,Theodorou E.,Decision,2018-05-27,middleweight-ufc-men,14.5
+Souza R.,Gastelum K.,1.8,2.05,Gastelum K.,Decision,2018-05-13,middleweight-ufc-men,3.5
+Ferreira C.,Roberson K.,1.74,2.15,Ferreira C.,Submission,2018-05-13,middleweight-ufc-men,1.75
+Leites T.,Hermansson J.,2.14,1.74,Hermansson J.,Technical Knockout,2018-05-12,middleweight-ufc-men,23.5
+Branch D.,Santos T.,2.48,1.56,Branch D.,Knockout,2018-04-22,middleweight-ufc-men,2.0
+Adesanya I.,Vettori M.,1.39,3.08,Adesanya I.,Decision,2018-04-15,middleweight-ufc-men,2.5
+Jotko K.,Tavares B.,0.0,0.0,TKO,Technical Knockout,2018-04-15,middleweight-ufc-men,0.5
+Phillips J.,Byrd C.,1.9,1.91,Byrd C.,Submission,2018-03-17,middleweight-ufc-men,20.0
+Dollaway CB,Lombard H.,2.01,1.8,Dollaway CB,Technical Knockout,2018-03-04,middleweight-ufc-men,1.5
+Burkman J.,Morono A.,3.7,1.28,Morono A.,Submission,2018-02-18,middleweight-ufc-men,23.0
+Romero Y.,Rockhold L.,2.55,1.54,Romero Y.,Knockout,2018-02-11,middleweight-ufc-men,5.0
+Machida L.,Anders E.,3.15,1.38,Machida L.,Decision,2018-02-04,middleweight-ufc-men,4.5
+Souza R.,Brunson D.,1.9,1.9,Souza R.,Knockout,2018-01-28,middleweight-ufc-men,4.5
+Park J. Y.,Barriault M.,2.06,1.76,Park J. Y.,Decision,2019-12-21,middleweight-ufc-men,10.5
+Heinisch I.,Akhmedov O.,1.8,2.02,Akhmedov O.,Decision,2019-12-15,middleweight-ufc-men,1.5
+Soriano P.,Piechota O.,1.88,1.93,Soriano P.,Knockout,2019-12-14,middleweight-ufc-men,23.5
+Muradov M.,Smith T.,1.22,4.27,Muradov M.,Knockout,2019-12-07,middleweight-ufc-men,22.5
+Arroyo A.,Muniz A.,2.04,1.8,Muniz A.,Decision,2019-11-17,middleweight-ufc-men,1.5
+Arroyo A.,Holland K.,0.0,0.0,canc.,Cancelled,2019-11-16,middleweight-ufc-men,22.0
+Gamzatov S.,Farias de Abreu K.,1.65,2.17,Gamzatov S.,Decision,2019-11-09,middleweight-ufc-men,19.0
+Gastelum K.,Till D.,1.46,2.77,Till D.,Decision,2019-11-03,middleweight-ufc-men,3.5
+Tavares B.,Shahbazyan E.,2.29,1.62,Shahbazyan E.,Knockout,2019-11-03,middleweight-ufc-men,0.0
+Heinisch I.,Tavares B.,0.0,0.0,canc.,Cancelled,2019-10-26,middleweight-ufc-men,12.0
+Winn D.,Stewart D.,1.79,2.06,Stewart D.,Decision,2019-10-19,middleweight-ufc-men,1.5
+Holland K.,Allen B.,1.63,2.32,Allen B.,Submission,2019-10-18,middleweight-ufc-men,22.5
+Anders E.,Meerschaert G.,1.71,2.17,Anders E.,Decision,2019-10-13,middleweight-ufc-men,1.0
+Vettori M.,Sanchez A.,1.26,3.92,Vettori M.,Decision,2019-10-12,middleweight-ufc-men,21.5
+Whittaker R.,Adesanya I.,1.96,1.86,Adesanya I.,Knockout,2019-10-06,middleweight-ufc-men,3.5
+Di Chirico A.,Sobotta P.,0.0,0.0,canc.,Cancelled,2019-09-28,middleweight-ufc-men,21.0
+Amedovski A.,Phillips J.,1.78,2.06,Phillips J.,Knockout,2019-09-28,middleweight-ufc-men,17.5
+Hall U.,Carlos Junior A.,3.08,1.39,Hall U.,Decision,2019-09-15,middleweight-ufc-men,0.5
+Sanchez A.,Vettori M.,0.0,0.0,canc.,Cancelled,2019-09-14,middleweight-ufc-men,22.5
+Yandiev A.,Soriano P.,0.0,0.0,canc.,Cancelled,2019-09-08,middleweight-ufc-men,2.0
+Akhmedov O.,Cummings Z.,1.81,1.99,Akhmedov O.,Decision,2019-09-07,middleweight-ufc-men,14.5
+Park J. Y.,Hernandez A.,2.25,1.66,Hernandez A.,Submission,2019-08-31,middleweight-ufc-men,9.5
+Romero Y.,Costa P. H.,1.67,2.24,Costa P. H.,Decision,2019-08-18,middleweight-ufc-men,3.0
+Vieira R.,Piechota O.,1.45,2.77,Vieira R.,Submission,2019-08-11,middleweight-ufc-men,0.5
+Giles T.,Meerschaert G.,1.57,2.45,Meerschaert G.,Submission,2019-08-03,middleweight-ufc-men,20.0
+Barriault M.,Jotko K.,2.44,1.58,Jotko K.,Decision,2019-07-28,middleweight-ufc-men,2.0
+Roberson K.,Turman W.,1.47,2.71,Roberson K.,Decision,2019-07-14,middleweight-ufc-men,0.5
+Roberson K.,Phillips J.,0.0,0.0,canc.,Cancelled,2019-07-13,middleweight-ufc-men,21.0
+Shahbazyan E.,Marshman J.,1.16,5.37,Shahbazyan E.,Submission,2019-07-06,middleweight-ufc-men,23.25
+Winn D.,Perez Echeimberg M.,0.0,0.0,canc.,Cancelled,2019-06-23,middleweight-ufc-men,1.0
+Holland K.,Di Chirico A.,1.45,2.78,Holland K.,Decision,2019-06-22,middleweight-ufc-men,23.0
+Lewis B.,Stewart D.,1.57,2.44,Stewart D.,Decision,2019-06-08,middleweight-ufc-men,22.75
+Carlos Junior A.,Heinisch I.,1.57,2.4,Heinisch I.,Decision,2019-05-19,middleweight-ufc-men,1.0
+Cummings Z.,Giles T.,2.41,1.57,Cummings Z.,Submission,2019-05-18,middleweight-ufc-men,21.25
+Cannonier J.,Silva A.,1.85,1.98,Cannonier J.,Technical Knockout,2019-05-12,middleweight-ufc-men,3.5
+Brunson D.,Theodorou E.,1.93,1.87,Brunson D.,Decision,2019-05-05,middleweight-ufc-men,2.0
+Souza R.,Hermansson J.,1.46,2.78,Hermansson J.,Decision,2019-04-28,middleweight-ufc-men,3.5
+Fabinski B.,Muniz A.,1.66,2.21,Muniz A.,Submission,2020-09-05,middleweight-ufc-men,23.0
+Pitolo M.,Kasanganay I.,2.22,1.66,Kasanganay I.,Decision,2020-08-30,middleweight-ufc-men,0.5
+Cummings Z.,Di Chirico A.,2.11,1.73,Cummings Z.,Decision,2020-08-29,middleweight-ufc-men,23.5
+Romero Y.,Hall U.,0.0,0.0,canc.,Cancelled,2020-08-22,middleweight-ufc-men,23.0
+Whittaker R.,Till D.,0.0,0.0,canc.,Cancelled,2020-08-15,middleweight-ufc-men,23.0
+Akhmedov O.,Weidman C.,2.22,1.67,Weidman C.,Decision,2020-08-09,middleweight-ufc-men,2.5
+Holland K.,Buckley J.,1.21,4.49,Holland K.,Technical Knockout,2020-08-09,middleweight-ufc-men,0.0
+Sanchez A.,Turman W.,2.16,1.7,Sanchez A.,Knockout,2020-08-08,middleweight-ufc-men,23.0
+Brunson D.,Shahbazyan E.,3.87,1.26,Brunson D.,Technical Knockout,2020-08-02,middleweight-ufc-men,3.0
+Giles T.,Park J. Y.,0.0,0.0,canc.,Cancelled,2020-08-01,middleweight-ufc-men,23.0
+Whittaker R.,Till D.,1.73,2.14,Whittaker R.,Decision,2020-07-26,middleweight-ufc-men,3.0
+Hermansson J.,Gastelum K.,1.9,1.91,Hermansson J.,Submission,2020-07-19,middleweight-ufc-men,1.5
+Phillips J.,Chimaev K.,4.5,1.21,Chimaev K.,Submission,2020-07-16,middleweight-ufc-men,1.5
+Allen B.,Daukaus K.,1.32,3.37,Allen B.,Decision,2020-06-28,middleweight-ufc-men,1.0
+Heinisch I.,Allen B.,0.0,0.0,canc.,Cancelled,2020-06-27,middleweight-ufc-men,21.0
+Barriault M.,Piechota O.,1.8,2.01,Barriault M.,Technical Knockout,2020-06-20,middleweight-ufc-men,22.5
+Roberson K.,Vettori M.,2.8,1.46,Vettori M.,Submission,2020-06-14,middleweight-ufc-men,2.5
+Heinisch I.,Meerschaert G.,1.73,2.13,Heinisch I.,Technical Knockout,2020-06-07,middleweight-ufc-men,1.0
+Anders E.,Jotko K.,2.11,1.74,Jotko K.,Decision,2020-05-17,middleweight-ufc-men,1.5
+Soriano P.,Hernandez A.,0.0,0.0,canc.,Cancelled,2020-05-16,middleweight-ufc-men,21.0
+Roberson K.,Vettori M.,2.62,1.52,canc.,Cancelled,2020-05-14,middleweight-ufc-men,1.0
+Hall U.,Souza R.,0.0,0.0,canc.,Cancelled,2020-05-10,middleweight-ufc-men,0.0
+Weidman C.,Hermansson J.,0.0,0.0,canc.,Cancelled,2020-05-02,middleweight-ufc-men,21.0
+Cummings Z.,Sanchez A.,0.0,0.0,canc.,Cancelled,2020-04-25,middleweight-ufc-men,21.0
+Muradov M.,Roberson K.,0.0,0.0,canc.,Cancelled,2020-04-19,middleweight-ufc-men,2.0
+Brunson D.,Shahbazyan E.,2.82,1.42,postp.,Postponed,2020-04-11,middleweight-ufc-men,21.0
+Soriano P.,Spicely E.,0.0,0.0,canc.,Cancelled,2020-03-28,middleweight-ufc-men,22.0
+Holland K.,Marshman J.,0.0,0.0,postp.,Postponed,2020-03-21,middleweight-ufc-men,18.0
+Stewart D.,Vettori M.,0.0,0.0,postp.,Postponed,2020-03-21,middleweight-ufc-men,18.0
+Tavares B.,Carlos Junior A.,0.0,0.0,canc.,Cancelled,2020-03-14,middleweight-ufc-men,22.0
+Adesanya I.,Romero Y.,1.33,3.27,Adesanya I.,Decision,2020-03-08,middleweight-ufc-men,5.0
+Winn D.,Meerschaert G.,1.74,2.1,Meerschaert G.,Submission,2020-03-08,middleweight-ufc-men,1.0
+Brunson D.,Shahbazyan E.,0.0,0.0,canc.,Cancelled,2020-03-07,middleweight-ufc-men,22.0
+Allen B.,Breese T.,2.22,1.66,Allen B.,Technical Knockout,2020-03-01,middleweight-ufc-men,0.0
+Giles T.,Arroyo A.,0.0,0.0,canc.,Cancelled,2020-02-09,middleweight-ufc-men,2.5
+Lewis B.,Townsend D.,1.24,3.99,Lewis B.,Decision,2020-01-26,middleweight-ufc-men,0.5
+Edwards L.,Usman K.,3.18,1.36,Usman K.,Decision,2015-12-19,welterweight-ufc-men,20.5
+Maia D.,Nelson G.,2.02,1.8,Maia D.,Decision,2015-12-13,welterweight-ufc-men,3.0
+McGee C.,Junior M. A.,1.56,2.43,McGee C.,Decision,2015-12-12,welterweight-ufc-men,23.0
+LaFlare R.,Pierce M.,1.44,2.83,LaFlare R.,Decision,2015-12-11,welterweight-ufc-men,23.0
+Akhmedov O.,Moraes S.,1.71,2.14,Moraes S.,Technical Knockout,2015-12-10,welterweight-ufc-men,23.75
+Ponzinibbio S.,Stahl A.,1.52,2.55,Ponzinibbio S.,Technical Knockout,2015-12-10,welterweight-ufc-men,23.75
+Kim D. H.,Waters D.,0.0,0.0,KO,Knockout,2015-11-28,welterweight-ufc-men,20.0
+Henderson B.,Masvidal J.,1.41,2.91,Henderson B.,Decision,2015-11-28,welterweight-ufc-men,13.0
+Magny N.,Gastelum K.,3.36,1.32,Magny N.,Decision,2015-11-22,welterweight-ufc-men,3.0
+Ramos V.,Herrera A.,1.57,2.37,Herrera A.,Knockout,2015-11-22,welterweight-ufc-men,0.0
+Noke K.,Sobotta P.,2.81,1.43,Noke K.,Technical Knockout,2015-11-15,welterweight-ufc-men,1.0
+Walsh R.,Kennedy S.,1.26,3.79,Walsh R.,Decision,2015-11-14,welterweight-ufc-men,23.25
+Andrade V.,Umalatov G.,2.05,1.75,Andrade V.,Decision,2015-11-07,welterweight-ufc-men,23.5
+Dalby N.,Till D.,1.97,1.78,Draw,Draw,2015-10-24,welterweight-ufc-men,20.0
+Hendricks J.,Woodley T.,0.0,0.0,canc.,Cancelled,2015-10-03,welterweight-ufc-men,23.0
+Anzai S.,Zapata R.,1.85,1.92,Anzai S.,Technical Knockout,2015-09-27,welterweight-ufc-men,0.0
+Aubin-Mercier O.,Sims T.,1.41,2.84,Aubin-Mercier O.,Decision,2015-08-24,welterweight-ufc-men,1.0
+Magny N.,Silva E.,2.51,1.51,Magny N.,Decision,2015-08-24,welterweight-ufc-men,1.0
+Alves W.,Taleb N.,1.35,3.16,Alves W.,Technical Knockout,2015-08-02,welterweight-ufc-men,0.0
+Kim D. H.,Saffiedine T.,1.67,2.19,Kim D. H.,Decision,2016-12-31,welterweight-ufc-men,3.0
+Pyle M.,Garcia A.,2.58,1.5,Garcia A.,Knockout,2016-12-31,welterweight-ufc-men,1.0
+Oliveira A.,Means T.,1.68,2.17,Draw,Draw,2016-12-31,welterweight-ufc-men,0.5
+Jouban A.,Perry M.,2.15,1.7,Jouban A.,Decision,2016-12-18,welterweight-ufc-men,1.0
+Barberena B.,Covington C.,3.88,1.26,Covington C.,Decision,2016-12-17,welterweight-ufc-men,23.0
+Velickovic B.,Aliev S.,0.0,0.0,PTS,Decision,2016-12-17,welterweight-ufc-men,21.5
+Cerrone D.,Brown M.,1.32,3.36,Cerrone D.,Knockout,2016-12-11,welterweight-ufc-men,3.0
+Brown R.,Camozzi B.,1.59,2.34,Brown R.,Technical Knockout,2016-12-09,welterweight-ufc-men,22.5
+Ellenberger J.,Masvidal J.,2.84,1.43,Masvidal J.,Technical Knockout,2016-12-04,welterweight-ufc-men,3.0
+Noke K.,Akhmedov O.,2.06,1.77,Akhmedov O.,Decision,2016-11-27,welterweight-ufc-men,3.0
+Alves W.,Usman K.,2.62,1.49,Usman K.,Decision,2016-11-20,welterweight-ufc-men,2.0
+Cummings Z.,Yakovlev A.,1.58,2.38,Cummings Z.,Submission,2016-11-19,welterweight-ufc-men,17.25
+Woodley T.,Thompson S.,2.92,1.46,Draw,Draw,2016-11-13,welterweight-ufc-men,5.5
+Luque V.,Muhammad B.,1.85,1.96,Luque V.,Knockout,2016-11-13,welterweight-ufc-men,1.0
+Montano E.,Griffin M.,2.15,1.7,Griffin M.,Technical Knockout,2016-11-06,welterweight-ufc-men,0.0
+Edwards L.,Tumenov A.,2.96,1.4,Edwards L.,Submission,2016-10-09,welterweight-ufc-men,0.0
+Roberts D.,Perry M.,1.86,1.94,Perry M.,Knockout,2016-10-08,welterweight-ufc-men,22.5
+Burkman J.,Ottow Z.,1.4,2.98,Ottow Z.,Decision,2016-10-02,welterweight-ufc-men,3.0
+Silva E.,Chagas L.,2.07,1.76,Silva E.,Decision,2016-09-25,welterweight-ufc-men,0.0
+Luque V.,Urbina H.,1.18,4.93,Luque V.,Knockout,2016-09-24,welterweight-ufc-men,22.5
+Carneiro R.,Robertson K.,2.04,1.8,Carneiro R.,Decision,2016-09-18,welterweight-ufc-men,2.0
+Montano E.,Brown R.,4.77,1.19,Brown R.,Submission,2016-09-17,welterweight-ufc-men,23.0
+Brooks P.,Gall M.,4.07,1.24,Gall M.,Submission,2016-09-11,welterweight-ufc-men,2.0
+Ayari J.,Wallhead J.,2.15,1.69,Ayari J.,Decision,2016-09-03,welterweight-ufc-men,15.75
+Maia D.,Condit C.,1.98,1.83,Maia D.,Submission,2016-08-28,welterweight-ufc-men,0.0
+Diaz N.,McGregor C.,2.21,1.68,McGregor C.,Decision,2016-08-21,welterweight-ufc-men,2.0
+Means T.,Homasi S.,1.24,4.15,Means T.,Knockout,2016-08-21,welterweight-ufc-men,2.0
+Story R.,Cerrone D.,2.1,1.71,Cerrone D.,Knockout,2016-08-21,welterweight-ufc-men,2.0
+Covington C.,Griffin M.,1.29,3.63,Covington C.,Technical Knockout,2016-08-20,welterweight-ufc-men,22.5
+Ponzinibbio S.,Cummings Z.,1.79,2.05,Ponzinibbio S.,Decision,2016-08-07,welterweight-ufc-men,2.0
+Brown M.,Ellenberger J.,1.33,3.34,Ellenberger J.,Technical Knockout,2016-07-31,welterweight-ufc-men,2.0
+Pearson R.,Masvidal J.,3.06,1.39,Masvidal J.,Decision,2016-07-31,welterweight-ufc-men,0.0
+Graves M.,Velickovic B.,1.42,2.9,Draw,Draw,2016-07-30,welterweight-ufc-men,23.0
+Condit C.,Magny N.,1.69,2.19,Magny N.,Decision,2017-12-31,welterweight-ufc-men,3.0
+Lawler R.,Dos Anjos R.,1.94,1.85,Dos Anjos R.,Decision,2017-12-17,welterweight-ufc-men,1.0
+Laprise C.,Bofando G.,1.63,2.26,Laprise C.,Technical Knockout,2017-12-16,welterweight-ufc-men,22.0
+Taleb N.,Roberts D.,1.66,2.19,Taleb N.,Knockout,2017-12-16,welterweight-ufc-men,21.0
+Homasi S.,Alhassan R.,0.0,0.0,TKO,Technical Knockout,2017-12-03,welterweight-ufc-men,1.0
+Salikhov M.,Garcia A.,1.45,2.76,Garcia A.,Submission,2017-11-25,welterweight-ufc-men,12.0
+Matthews J.,Velickovic B.,1.67,2.18,Matthews J.,Decision,2017-11-19,welterweight-ufc-men,3.0
+Brown D.,Camacho F.,2.13,1.72,Camacho F.,Decision,2017-11-19,welterweight-ufc-men,1.0
+Brown M.,Sanchez D.,1.26,3.69,Brown M.,Knockout,2017-11-12,welterweight-ufc-men,3.0
+McGee C.,Strickland S.,3.2,1.34,Strickland S.,Decision,2017-11-11,welterweight-ufc-men,23.5
+Thompson S.,Masvidal J.,1.53,2.49,Thompson S.,Decision,2017-11-05,welterweight-ufc-men,2.0
+Brown R.,Gall M.,1.96,1.84,Brown R.,Decision,2017-11-05,welterweight-ufc-men,0.0
+Maia D.,Covington C.,2.05,1.77,Covington C.,Decision,2017-10-29,welterweight-ufc-men,2.0
+Luque V.,Price N.,1.73,2.08,Luque V.,Submission,2017-10-28,welterweight-ufc-men,23.0
+Cerrone D.,Till D.,1.64,2.27,Till D.,Technical Knockout,2017-10-21,welterweight-ufc-men,19.0
+Anzai S.,Jumeau L.,3.01,1.39,Anzai S.,Decision,2017-09-23,welterweight-ufc-men,0.0
+Abe D.,Lim H. G.,2.03,1.8,Abe D.,Decision,2017-09-22,welterweight-ufc-men,23.5
+Perry M.,Reyes A.,1.2,4.59,Perry M.,Knockout,2017-09-17,welterweight-ufc-men,2.0
+Magny N.,Dos Anjos R.,2.62,1.48,Dos Anjos R.,Submission,2017-09-10,welterweight-ufc-men,2.0
+Edwards L.,Barberena B.,1.37,3.04,Edwards L.,Decision,2017-09-02,welterweight-ufc-men,19.0
+Jouban A.,Price N.,1.57,2.41,Price N.,Technical Knockout,2017-08-06,welterweight-ufc-men,2.0
+Lawler R.,Cerrone D.,1.61,2.33,Lawler R.,Decision,2017-07-30,welterweight-ufc-men,2.0
+Good L.,Zaleski E.,1.59,2.37,Zaleski E.,Decision,2017-07-22,welterweight-ufc-men,22.0
+Nelson G.,Ponzinibbio S.,1.55,2.49,Ponzinibbio S.,Knockout,2017-07-16,welterweight-ufc-men,19.0
+Ward C.,Bofando G.,2.7,1.48,Bofando G.,Knockout,2017-07-16,welterweight-ufc-men,17.0
+Mein J.,Muhammad B.,2.13,1.74,Muhammad B.,Decision,2017-07-09,welterweight-ufc-men,0.0
+Lima D.,Taylor J.,2.23,1.66,Taylor J.,Submission,2017-07-08,welterweight-ufc-men,1.0
+Krause J.,Gallicchio T.,1.21,4.48,Krause J.,Decision,2017-07-07,welterweight-ufc-men,23.0
+Means T.,Garcia A.,1.33,3.44,Means T.,Decision,2017-06-26,welterweight-ufc-men,1.0
+Kim D. H.,Covington C.,3.0,1.42,Covington C.,Decision,2017-06-17,welterweight-ufc-men,12.75
+Jumeau L.,Steele D.,2.5,1.56,Jumeau L.,Decision,2017-06-11,welterweight-ufc-men,0.0
+Medeiros Y.,Silva E.,1.72,2.17,Medeiros Y.,Technical Knockout,2017-06-04,welterweight-ufc-men,2.0
+Chagas L.,Wallhead J.,1.37,3.24,Chagas L.,Submission,2017-06-03,welterweight-ufc-men,22.5
+Alhassan R.,Akhmedov O.,1.39,3.05,Akhmedov O.,Decision,2017-05-28,welterweight-ufc-men,17.0
+Condit C.,Chiesa M.,2.1,1.76,Chiesa M.,Submission,2018-12-30,welterweight-ufc-men,4.0
+Millender C.,Bahadurzada S.,1.65,2.24,Millender C.,Decision,2018-12-29,welterweight-ufc-men,23.5
+Ottow Z.,Grant D.,3.29,1.34,Ottow Z.,Decision,2018-12-16,welterweight-ufc-men,0.5
+Oliveira A.,Nelson G.,2.21,1.68,Nelson G.,Submission,2018-12-09,welterweight-ufc-men,4.0
+Laprise C.,Lima D.,1.25,4.03,Lima D.,Knockout,2018-12-09,welterweight-ufc-men,0.5
+Matthews J.,Martin A.,1.73,2.13,Martin A.,Submission,2018-12-02,welterweight-ufc-men,4.0
+Nakamura K.,Touahri S.,1.58,2.4,Nakamura K.,Decision,2018-12-02,welterweight-ufc-men,0.5
+Means T.,Rainey R.,1.26,3.77,Means T.,Technical Knockout,2018-12-01,welterweight-ufc-men,0.0
+Jingliang L.,Zawada D.,1.51,2.59,Jingliang L.,Technical Knockout,2018-11-24,welterweight-ufc-men,11.5
+Magny N.,Ponzinibbio S.,2.95,1.42,Ponzinibbio S.,Knockout,2018-11-18,welterweight-ufc-men,5.5
+Staropoli L.,Aldana H.,1.98,1.89,Staropoli L.,Decision,2018-11-18,welterweight-ufc-men,1.0
+Cerrone D.,Perry M.,2.69,1.48,Cerrone D.,Submission,2018-11-11,welterweight-ufc-men,5.0
+Good L.,Saunders B.,1.15,5.41,Good L.,Knockout,2018-11-04,welterweight-ufc-men,0.0
+Garcia A.,McGee C.,1.42,2.92,McGee C.,Decision,2018-10-28,welterweight-ufc-men,2.0
+Luque V.,Turner J.,1.14,5.88,Luque V.,Knockout,2018-10-07,welterweight-ufc-men,1.0
+LaFlare R.,Martin A.,1.74,2.11,Martin A.,Knockout,2018-10-06,welterweight-ufc-men,22.5
+Oliveira A.,Pedersoli C.,1.21,4.68,Oliveira A.,Technical Knockout,2018-09-23,welterweight-ufc-men,4.0
+Zaleski E.,Vendramini L.,1.11,7.04,Zaleski E.,Knockout,2018-09-22,welterweight-ufc-men,22.75
+Kunchenko A.,Alves T.,1.2,4.66,Kunchenko A.,Decision,2018-09-15,welterweight-ufc-men,18.0
+Woodley T.,Till D.,1.93,1.92,Woodley T.,Submission,2018-09-09,welterweight-ufc-men,4.0
+Sanchez D.,White C.,2.73,1.48,Sanchez D.,Decision,2018-09-08,welterweight-ufc-men,23.75
+Ellenberger J.,Barberena B.,4.37,1.24,Barberena B.,Technical Knockout,2018-08-26,welterweight-ufc-men,3.0
+Gall M.,Sullivan G.,1.3,3.7,Gall M.,Submission,2018-08-26,welterweight-ufc-men,0.0
+Mein J.,Morono A.,1.71,2.2,Mein J.,Decision,2018-07-28,welterweight-ufc-men,23.5
+Zawada D.,Roberts D.,2.93,1.42,Roberts D.,Decision,2018-07-22,welterweight-ufc-men,18.08
+Northcutt S.,Ottow Z.,1.73,2.17,Northcutt S.,Knockout,2018-07-15,welterweight-ufc-men,4.0
+Felder P.,Perry M.,1.63,2.36,Perry M.,Decision,2018-07-08,welterweight-ufc-men,3.0
+Cerrone D.,Edwards L.,2.89,1.45,Edwards L.,Decision,2018-06-23,welterweight-ufc-men,13.0
+Song K.,Aldana H.,1.36,3.28,Song K.,Technical Knockout,2018-06-23,welterweight-ufc-men,9.5
+Dos Anjos R.,Covington C.,2.22,1.69,Covington C.,Decision,2018-06-10,welterweight-ufc-men,3.0
+Ellenberger J.,Saunders B.,1.56,2.44,Saunders B.,Technical Knockout,2018-06-02,welterweight-ufc-men,3.0
+Thompson S.,Till D.,1.66,2.27,Till D.,Decision,2018-05-27,welterweight-ufc-men,19.5
+Usman K.,Covington C.,1.49,2.68,Usman K.,Technical Knockout,2019-12-15,welterweight-ufc-men,5.0
+Neal G.,Perry M.,1.37,3.14,Neal G.,Technical Knockout,2019-12-15,welterweight-ufc-men,2.5
+Condit C.,Gall M.,0.0,0.0,canc.,Cancelled,2019-12-08,welterweight-ufc-men,2.0
+Moraes S.,Krause J.,2.6,1.5,Krause J.,Knockout,2019-11-17,welterweight-ufc-men,0.5
+Imadaev Z.,Roberts D.,1.44,2.81,Roberts D.,Knockout,2019-11-09,welterweight-ufc-men,20.5
+Nurmagomedov A.,Zawada D.,1.3,3.5,Zawada D.,Submission,2019-11-09,welterweight-ufc-men,17.0
+Masvidal J.,Diaz N.,1.68,2.22,Masvidal J.,Technical Knockout,2019-11-03,welterweight-ufc-men,4.0
+Good L.,Rencountre C.,1.83,1.98,Good L.,Technical Knockout,2019-11-02,welterweight-ufc-men,23.0
+Maia D.,Askren B.,2.36,1.62,Maia D.,Submission,2019-10-26,welterweight-ufc-men,14.5
+Brady S.,McGee C.,1.53,2.59,Brady S.,Decision,2019-10-18,welterweight-ufc-men,23.0
+Vick J.,Price N.,2.25,1.66,Price N.,Knockout,2019-10-13,welterweight-ufc-men,0.5
+Griffin M.,Morono A.,1.76,2.05,Morono A.,Decision,2019-10-12,welterweight-ufc-men,23.5
+Jumeau L.,Lima D.,2.23,1.68,Lima D.,Decision,2019-10-06,welterweight-ufc-men,2.0
+Potter C.,Pitolo M.,3.67,1.29,Potter C.,Decision,2019-10-06,welterweight-ufc-men,0.5
+Nelson G.,Alves T.,0.0,0.0,canc.,Cancelled,2019-09-28,welterweight-ufc-men,21.0
+Dalby N.,Oliveira A.,2.22,1.69,Dalby N.,Decision,2019-09-28,welterweight-ufc-men,18.0
+Pereira M.,Connelly T.,1.18,4.92,Connelly T.,Decision,2019-09-15,welterweight-ufc-men,1.0
+Pereira M.,Khandozhko S.,0.0,0.0,canc.,Cancelled,2019-09-14,welterweight-ufc-men,1.0
+Muhammad B.,Sato T.,1.26,3.99,Muhammad B.,Submission,2019-09-07,welterweight-ufc-men,15.5
+Jingliang L.,Zaleski E.,3.22,1.36,Jingliang L.,Technical Knockout,2019-08-31,welterweight-ufc-men,11.5
+Pettis A.,Diaz N.,1.74,2.12,Diaz N.,Decision,2019-08-18,welterweight-ufc-men,3.5
+Luque V.,Perry M.,1.43,2.86,Luque V.,Decision,2019-08-11,welterweight-ufc-men,2.0
+Burns G.,Kunchenko A.,2.19,1.68,Burns G.,Decision,2019-08-10,welterweight-ufc-men,21.25
+da Silva C. H.,Emeev R.,0.0,0.0,canc.,Cancelled,2019-08-04,welterweight-ufc-men,0.0
+Covington C.,Lawler R.,1.35,3.29,Covington C.,Decision,2019-08-03,welterweight-ufc-men,21.5
+Gall M.,Touahri S.,2.01,1.81,Gall M.,Decision,2019-08-03,welterweight-ufc-men,18.5
+Neal G.,Price N.,1.29,3.67,Neal G.,Technical Knockout,2019-07-28,welterweight-ufc-men,3.5
+Koch E.,Stewart K.,1.84,2.0,Koch E.,Decision,2019-07-27,welterweight-ufc-men,23.0
+Dos Anjos R.,Edwards L.,1.98,1.85,Edwards L.,Decision,2019-07-21,welterweight-ufc-men,3.5
+Masvidal J.,Askren B.,2.81,1.45,Masvidal J.,Knockout,2019-07-07,welterweight-ufc-men,3.0
+Naurdiev I.,Rencountre C.,1.17,5.12,Rencountre C.,Decision,2019-07-06,welterweight-ufc-men,22.75
+Maia D.,Martin A.,1.55,2.49,Maia D.,Decision,2019-06-30,welterweight-ufc-men,2.5
+Barberena B.,Ivy A.,1.4,2.96,Barberena B.,Decision,2020-09-12,welterweight-ufc-men,21.5
+Pereira M.,Imadaev Z.,1.72,2.12,Pereira M.,Submission,2020-09-06,welterweight-ufc-men,0.5
+Lawler R.,Magny N.,2.97,1.4,Magny N.,Decision,2020-08-30,welterweight-ufc-men,2.5
+Neal G.,Magny N.,0.0,0.0,canc.,Cancelled,2020-08-29,welterweight-ufc-men,23.0
+Grant D.,Rodriguez D.,2.65,1.48,Rodriguez D.,Knockout,2020-08-23,welterweight-ufc-men,0.5
+Grant D.,Born C.,0.0,0.0,canc.,Cancelled,2020-08-22,welterweight-ufc-men,23.0
+Semelsberger M.,Rowe P.,0.0,0.0,canc.,Cancelled,2020-08-22,welterweight-ufc-men,23.0
+Staropoli L.,Imadaev Z.,0.0,0.0,canc.,Cancelled,2020-08-15,welterweight-ufc-men,23.0
+Means T.,Staropoli L.,2.24,1.66,Means T.,Decision,2020-08-09,welterweight-ufc-men,0.5
+Luque V.,Brown R.,1.51,2.58,Luque V.,Knockout,2020-08-02,welterweight-ufc-men,2.0
+Oliveira A.,Sobotta P.,1.74,2.13,Oliveira A.,Decision,2020-07-26,welterweight-ufc-men,0.5
+Emeev R.,Rakhmonov S.,0.0,0.0,canc.,Cancelled,2020-07-26,welterweight-ufc-men,0.0
+Dalby N.,Ronson J.,1.35,3.21,Ronson J.,Submission,2020-07-25,welterweight-ufc-men,23.0
+Alhassan R.,Lazzez M.,1.29,3.66,Lazzez M.,Decision,2020-07-16,welterweight-ufc-men,2.0
+Usman K.,Masvidal J.,1.36,3.25,Usman K.,Decision,2020-07-12,welterweight-ufc-men,4.0
+Usman K.,Burns G.,0.0,0.0,canc.,Cancelled,2020-07-11,welterweight-ufc-men,23.0
+Perry M.,Gall M.,1.31,3.48,Perry M.,Decision,2020-06-28,welterweight-ufc-men,2.0
+Sato T.,Witt J.,1.37,3.07,Sato T.,Knockout,2020-06-27,welterweight-ufc-men,23.0
+Good L.,Muhammad B.,2.01,1.81,Muhammad B.,Decision,2020-06-21,welterweight-ufc-men,0.5
+Aguilera C.,Ivy A.,2.66,1.49,Aguilera C.,Technical Knockout,2020-06-13,welterweight-ufc-men,23.0
+Magny N.,Martin A.,1.69,2.18,Magny N.,Decision,2020-06-07,welterweight-ufc-men,2.5
+Woodley T.,Burns G.,1.54,2.52,Burns G.,Decision,2020-05-31,welterweight-ufc-men,3.0
+Holland K.,Rodriguez D.,0.0,0.0,canc.,Cancelled,2020-05-30,welterweight-ufc-men,21.0
+Brown M.,Baeza M.,2.24,1.66,Baeza M.,Knockout,2020-05-17,welterweight-ufc-men,0.5
+Cerrone D.,Pettis A.,2.2,1.7,Pettis A.,Decision,2020-05-10,welterweight-ufc-men,1.5
+Luque V.,Price N.,1.39,3.09,Luque V.,Technical Knockout,2020-05-09,welterweight-ufc-men,23.5
+Martin A.,Zawada D.,0.0,0.0,canc.,Cancelled,2020-04-25,welterweight-ufc-men,21.0
+Good L.,Muhammad B.,0.0,0.0,canc.,Cancelled,2020-04-19,welterweight-ufc-men,2.0
+Luque V.,Brown R.,1.55,2.42,postp.,Postponed,2020-04-11,welterweight-ufc-men,21.0
+Williams C.,Rowe P.,0.0,0.0,postp.,Postponed,2020-04-11,welterweight-ufc-men,21.0
+Brown M.,Baeza M.,2.68,1.46,postp.,Postponed,2020-03-28,welterweight-ufc-men,22.0
+Rakhmonov S.,Fabinski B.,0.0,0.0,postp.,Postponed,2020-03-21,welterweight-ufc-men,18.0
+Woodley T.,Edwards L.,0.0,0.0,postp.,Postponed,2020-03-21,welterweight-ufc-men,18.0
+Maia D.,Burns G.,2.26,1.64,Burns G.,Technical Knockout,2020-03-14,welterweight-ufc-men,23.75
+Magny N.,Jingliang L.,2.44,1.57,Magny N.,Decision,2020-03-08,welterweight-ufc-men,3.5

@@ -1,0 +1,2268 @@
+fighter1,fighter2,odds1,odds2,winner,score,time,date,class
+Faber U.,Saenz F.,1.16,5.12,Faber U.,PTS,01:00,13 Dec 2015,bantamweight-ufc-men
+Sterling A.,Eduardo J.,1.17,5.17,Sterling A.,TKO,23:45,10 Dec 2015,bantamweight-ufc-men
+Guangyou N.,Beltran M.,1.6,2.32,Beltran M.,PTS,10:00,28 Nov 2015,bantamweight-ufc-men
+Jorgensen S.,Perez A.,1.69,2.15,Perez A.,SUBM,01:00,22 Nov 2015,bantamweight-ufc-men
+Almeida T.,Birchak A.,1.22,4.32,Almeida T.,KO,03:00,08 Nov 2015,bantamweight-ufc-men
+Korea B.,Nicolau M.,2.6,1.52,Nicolau M.,SUBM,23:30,07 Nov 2015,bantamweight-ufc-men
+Mizugaki T.,Roop G.,1.4,2.9,Mizugaki T.,PTS,02:00,27 Sep 2015,bantamweight-ufc-men
+Rivera F.,Lineker J.,2.18,1.67,Lineker J.,TKO,00:00,06 Sep 2015,bantamweight-ufc-men
+Saenz F.,Kakai S.,,,PTS,PTS,02:00,09 Aug 2015,bantamweight-ufc-men
+Vieira R.,Lopes D.,3.66,1.28,Vieira R.,PTS,02:00,02 Aug 2015,bantamweight-ufc-men
+Viana H.,Cannetti G.,1.18,4.84,Cannetti G.,PTS,23:00,01 Aug 2015,bantamweight-ufc-men
+Cruz D.,Garbrandt C.,1.42,2.86,Garbrandt C.,PTS,03:00,31 Dec 2016,bantamweight-ufc-men
+Faber U.,Pickett B.,1.28,3.66,Faber U.,PTS,01:00,18 Dec 2016,bantamweight-ufc-men
+Wineland E.,Mizugaki T.,1.54,2.48,Wineland E.,TKO,21:30,17 Dec 2016,bantamweight-ufc-men
+Gagnon M.,Lopez M.,1.7,2.15,Lopez M.,PTS,01:00,11 Dec 2016,bantamweight-ufc-men
+Font R.,Schnell M.,1.36,3.2,Font R.,KO,01:00,04 Dec 2016,bantamweight-ufc-men
+Vera M.,Guangyou N.,1.76,2.06,Vera M.,PTS,23:30,26 Nov 2016,bantamweight-ufc-men
+Almeida T.,Morales A.,1.31,3.42,Almeida T.,TKO,02:00,20 Nov 2016,bantamweight-ufc-men
+Munhoz P.,Scoggins J.,2.15,1.71,Munhoz P.,SUBM,00:00,20 Nov 2016,bantamweight-ufc-men
+Entwistle I.,Font R.,3.4,1.29,canc.,canc.,00:00,09 Oct 2016,bantamweight-ufc-men
+Lineker J.,Dodson J.,2.12,1.73,Lineker J.,PTS,03:00,02 Oct 2016,bantamweight-ufc-men
+Yahya R.,Tanaka M.,1.84,1.97,Yahya R.,PTS,00:00,25 Sep 2016,bantamweight-ufc-men
+Quinonez J.,Gomez J.,2.2,1.68,Quinonez J.,PTS,00:00,18 Sep 2016,bantamweight-ufc-men
+Perez A.,Morales A.,1.86,1.96,Draw,Draw,23:00,17 Sep 2016,bantamweight-ufc-men
+Faber U.,Rivera J.,2.29,1.6,Rivera J.,PTS,02:00,11 Sep 2016,bantamweight-ufc-men
+Lapilus T.,Issa L.,1.63,2.27,Lapilus T.,PTS,15:45,03 Sep 2016,bantamweight-ufc-men
+Guangyou N.,Vera M.,,,canc.,canc.,21:00,27 Aug 2016,bantamweight-ufc-men
+Garbrandt C.,Mizugaki T.,1.17,4.91,Garbrandt C.,KO,00:00,21 Aug 2016,bantamweight-ufc-men
+Rivera F.,Perez E.,2.25,1.68,Perez E.,PTS,02:00,31 Jul 2016,bantamweight-ufc-men
+Saenz F.,Wineland E.,1.64,2.28,Wineland E.,TKO,22:00,23 Jul 2016,bantamweight-ufc-men
+McDonald M.,Lineker J.,2.42,1.58,Lineker J.,KO,01:00,14 Jul 2016,bantamweight-ufc-men
+Yahya R.,Lopez M.,2.33,1.6,Yahya R.,SUBM,21:30,13 Jul 2016,bantamweight-ufc-men
+Dillashaw TJ,Assuncao R.,1.22,4.44,Dillashaw TJ,PTS,00:00,10 Jul 2016,bantamweight-ufc-men
+Arantes F.,Sanders J.,1.63,2.27,Arantes F.,SUBM,22:30,07 Jul 2016,bantamweight-ufc-men
+Doane R.,Munhoz P.,2.8,1.43,Munhoz P.,SUBM,22:30,07 Jul 2016,bantamweight-ufc-men
+Soto J.,Beal C.,1.78,2.05,Soto J.,SUBM,00:30,19 Jun 2016,bantamweight-ufc-men
+Cruz D.,Faber U.,1.24,4.14,Cruz D.,PTS,03:30,05 Jun 2016,bantamweight-ufc-men
+Almeida T.,Garbrandt C.,1.54,2.5,Garbrandt C.,KO,01:00,30 May 2016,bantamweight-ufc-men
+Sterling A.,Caraway B.,1.26,3.8,Caraway B.,PTS,22:00,29 May 2016,bantamweight-ufc-men
+Lineker J.,Font R.,1.71,2.17,Lineker J.,PTS,00:00,15 May 2016,bantamweight-ufc-men
+Dodson J.,Gamburyan M.,1.18,4.84,Dodson J.,TKO,20:00,16 Apr 2016,bantamweight-ufc-men
+Entwistle I.,Perez A.,1.65,2.23,Perez A.,TKO,16:00,10 Apr 2016,bantamweight-ufc-men
+Grant D.,Vera M.,1.49,2.6,Grant D.,PTS,17:45,27 Feb 2016,bantamweight-ufc-men
+Lineker J.,Garbrandt C.,,,canc.,canc.,02:00,22 Feb 2016,bantamweight-ufc-men
+Alcantara Y.,Rivera J.,2.34,1.58,Rivera J.,PTS,01:00,31 Jan 2016,bantamweight-ufc-men
+Dillashaw TJ,Cruz D.,1.66,2.25,Cruz D.,PTS,03:00,18 Jan 2016,bantamweight-ufc-men
+Font R.,Gomez J.,1.47,2.75,Font R.,KO,23:00,17 Jan 2016,bantamweight-ufc-men
+McDonald M.,Kanehara M.,1.17,5.07,McDonald M.,SUBM,01:00,03 Jan 2016,bantamweight-ufc-men
+Elliott T.,De La Rosa M.,1.46,2.72,Elliott T.,SUBM,00:30,31 Dec 2017,bantamweight-ufc-men
+Moraes M.,Sterling A.,1.63,2.26,Moraes M.,KO,03:00,10 Dec 2017,bantamweight-ufc-men
+de Tomas C. J.,Perez A.,4.02,1.24,Perez A.,SUBM,01:00,10 Dec 2017,bantamweight-ufc-men
+Sanders L.,Soukhamthath A.,1.37,3.1,Soukhamthath A.,TKO,01:00,10 Dec 2017,bantamweight-ufc-men
+Perez A.,Alcantara Y.,2.57,1.5,Perez A.,PTS,23:30,09 Dec 2017,bantamweight-ufc-men
+O'Malley S.,Ware T.,1.4,2.95,O'Malley S.,PTS,03:00,02 Dec 2017,bantamweight-ufc-men
+Song Y.,Khandare B.,1.65,2.25,Song Y.,SUBM,08:45,25 Nov 2017,bantamweight-ufc-men
+Assuncao R.,Lopez M.,1.27,3.77,Assuncao R.,KO,03:00,12 Nov 2017,bantamweight-ufc-men
+Garbrandt C.,Dillashaw TJ,1.48,2.64,Dillashaw TJ,KO,02:00,05 Nov 2017,bantamweight-ufc-men
+Zahabi A.,Ramos R.,2.67,1.48,Ramos R.,KO,23:00,04 Nov 2017,bantamweight-ufc-men
+Lineker J.,Vera M.,1.18,4.77,Lineker J.,PTS,02:00,29 Oct 2017,bantamweight-ufc-men
+Arantes F.,Emmett J.,3.28,1.34,Emmett J.,PTS,15:45,21 Oct 2017,bantamweight-ufc-men
+Perez A.,Soukhamthath A.,1.68,2.22,Perez A.,PTS,02:00,06 Aug 2017,bantamweight-ufc-men
+Quinonez J.,Rivas D.,1.39,3.02,Quinonez J.,PTS,00:00,06 Aug 2017,bantamweight-ufc-men
+Shelton E.,Brooks J.,2.29,1.63,Brooks J.,PTS,22:30,29 Jul 2017,bantamweight-ufc-men
+Rivera J.,Almeida T.,1.5,2.65,Rivera J.,PTS,00:00,23 Jul 2017,bantamweight-ufc-men
+Kelleher B.,Vera M.,1.44,2.81,Vera M.,SUBM,20:00,22 Jul 2017,bantamweight-ufc-men
+Johns B.,Morales A.,1.26,3.89,Johns B.,PTS,16:00,16 Jul 2017,bantamweight-ufc-men
+Ho Kwak K.,Doane R.,1.8,2.02,Doane R.,KO,08:45,17 Jun 2017,bantamweight-ufc-men
+Alcantara Y.,Kelleher B.,1.27,3.9,Kelleher B.,SUBM,00:00,04 Jun 2017,bantamweight-ufc-men
+Eduardo J.,Lopez M.,1.96,1.88,Lopez M.,TKO,00:00,04 Jun 2017,bantamweight-ufc-men
+Munhoz P.,Stasiak D.,1.13,6.12,Munhoz P.,PTS,15:00,28 May 2017,bantamweight-ufc-men
+Dodson J.,Wineland E.,1.24,4.23,Dodson J.,PTS,02:00,23 Apr 2017,bantamweight-ufc-men
+Williams P.,Duquesnoy T.,7.41,1.1,Duquesnoy T.,TKO,22:00,15 Apr 2017,bantamweight-ufc-men
+Entwistle I.,Johns B.,4.25,1.23,canc.,canc.,17:30,18 Mar 2017,bantamweight-ufc-men
+Yahya R.,Soto J.,1.44,2.84,Soto J.,PTS,01:00,12 Mar 2017,bantamweight-ufc-men
+Alcantara Y.,Sanders L.,2.25,1.66,Alcantara Y.,SUBM,01:00,05 Mar 2017,bantamweight-ufc-men
+Morales A.,Soukhamthath A.,1.69,2.2,Morales A.,PTS,23:30,04 Mar 2017,bantamweight-ufc-men
+Zahabi A.,Vieira R.,1.38,3.07,Zahabi A.,PTS,00:00,20 Feb 2017,bantamweight-ufc-men
+Ramos R.,Tanaka M.,2.16,1.7,Ramos R.,PTS,01:00,05 Feb 2017,bantamweight-ufc-men
+Assuncao R.,Sterling A.,1.67,2.21,Assuncao R.,PTS,22:00,28 Jan 2017,bantamweight-ufc-men
+Saenz F.,Mendes A.,1.6,2.32,Mendes A.,PTS,01:00,16 Jan 2017,bantamweight-ufc-men
+Andrade D.,Yan P.,3.63,1.29,Yan P.,TKO,01:30,30 Dec 2018,bantamweight-ufc-men
+Wood N.,Ewell A.,1.85,1.96,Wood N.,SUBM,00:30,30 Dec 2018,bantamweight-ufc-men
+Font R.,Pettis S.,1.59,2.37,Font R.,PTS,01:30,16 Dec 2018,bantamweight-ufc-men
+Katona B.,Lopez M.,1.6,2.39,Katona B.,PTS,00:30,09 Dec 2018,bantamweight-ufc-men
+Munhoz P.,Caraway B.,1.36,3.15,Munhoz P.,TKO,04:00,01 Dec 2018,bantamweight-ufc-men
+Barcelos R.,Gutierrez C.,1.19,4.64,Barcelos R.,SUBM,23:30,30 Nov 2018,bantamweight-ufc-men
+Song Y.,Morales V.,1.19,4.8,Song Y.,PTS,12:00,24 Nov 2018,bantamweight-ufc-men
+Mudaerji S.,Smolka L.,2.46,1.56,Smolka L.,SUBM,08:15,24 Nov 2018,bantamweight-ufc-men
+Cannetti G.,Vera M.,3.58,1.3,Vera M.,SUBM,03:30,18 Nov 2018,bantamweight-ufc-men
+Kelleher B.,Jackson M.,2.3,1.64,canc.,canc.,23:15,03 Nov 2018,bantamweight-ufc-men
+Soukhamthath A.,Martinez J.,1.66,2.3,Soukhamthath A.,PTS,03:00,28 Oct 2018,bantamweight-ufc-men
+Barao R.,Ewell A.,1.54,2.53,Ewell A.,PTS,03:00,23 Sep 2018,bantamweight-ufc-men
+Yan P.,Soo Son J.,1.1,7.85,Yan P.,PTS,17:00,15 Sep 2018,bantamweight-ufc-men
+Sterling A.,Stamann C.,1.58,2.43,Sterling A.,SUBM,01:00,09 Sep 2018,bantamweight-ufc-men
+Sandhagen C.,Alcantara Y.,1.46,2.84,Sandhagen C.,TKO,01:00,26 Aug 2018,bantamweight-ufc-men
+Yahya R.,Sanders L.,1.87,1.98,Yahya R.,SUBM,22:30,25 Aug 2018,bantamweight-ufc-men
+Dillashaw TJ,Garbrandt C.,1.72,2.16,Dillashaw TJ,TKO,04:00,05 Aug 2018,bantamweight-ufc-men
+Simon R.,Jackson M.,2.01,1.82,Simon R.,PTS,01:00,05 Aug 2018,bantamweight-ufc-men
+Vera M.,Buren W.,1.21,4.64,Vera M.,TKO,22:30,04 Aug 2018,bantamweight-ufc-men
+Bermudez M.,Grant D.,1.33,3.44,Bermudez M.,SUBM,15:35,22 Jul 2018,bantamweight-ufc-men
+Wineland E.,Perez A.,2.49,1.56,Perez A.,PTS,01:30,15 Jul 2018,bantamweight-ufc-men
+Assuncao R.,Font R.,1.71,2.19,Assuncao R.,PTS,01:00,08 Jul 2018,bantamweight-ufc-men
+Ishihara T.,Yan P.,5.11,1.19,Yan P.,KO,11:00,23 Jun 2018,bantamweight-ufc-men
+Rivera J.,Moraes M.,1.9,1.93,Moraes M.,TKO,04:30,02 Jun 2018,bantamweight-ufc-men
+Eduardo J.,Wood N.,3.11,1.38,Wood N.,SUBM,23:00,01 Jun 2018,bantamweight-ufc-men
+Grant D.,Bermudez M.,2.91,1.35,canc.,canc.,17:30,27 May 2018,bantamweight-ufc-men
+Rivas D.,Cannetti G.,1.6,2.38,Cannetti G.,PTS,02:30,20 May 2018,bantamweight-ufc-men
+Briones E.,Saenz F.,3.63,1.3,Saenz F.,PTS,22:30,19 May 2018,bantamweight-ufc-men
+Lineker J.,Kelleher B.,1.38,3.13,Lineker J.,KO,02:30,13 May 2018,bantamweight-ufc-men
+Sterling A.,Johns B.,1.89,1.94,Sterling A.,PTS,02:00,22 Apr 2018,bantamweight-ufc-men
+Lopez M.,Perez A.,,,TKO,TKO,23:15,14 Apr 2018,bantamweight-ufc-men
+Duquesnoy T.,Ware T.,1.27,3.77,Duquesnoy T.,PTS,21:00,17 Mar 2018,bantamweight-ufc-men
+O'Malley S.,Soukhamthath A.,1.77,2.12,O'Malley S.,PTS,04:00,04 Mar 2018,bantamweight-ufc-men
+Caraway B.,Stamann C.,2.06,1.8,Stamann C.,PTS,00:30,04 Mar 2018,bantamweight-ufc-men
+Yahya R.,Doane R.,,,SUBM,SUBM,00:30,25 Feb 2018,bantamweight-ufc-men
+Ishihara T.,Quinonez J.,2.35,1.61,Quinonez J.,PTS,23:30,10 Feb 2018,bantamweight-ufc-men
+Dodson J.,Munhoz P.,,,canc.,canc.,04:00,04 Feb 2018,bantamweight-ufc-men
+Vera M.,Andrade D.,1.64,2.26,Andrade D.,PTS,00:30,04 Feb 2018,bantamweight-ufc-men
+Andrade D.,Yan P.,3.63,1.29,Yan P.,TKO,01:30,30 Dec 2018,bantamweight-ufc-men
+Wood N.,Ewell A.,1.85,1.96,Wood N.,SUBM,00:30,30 Dec 2018,bantamweight-ufc-men
+Font R.,Pettis S.,1.59,2.37,Font R.,PTS,01:30,16 Dec 2018,bantamweight-ufc-men
+Katona B.,Lopez M.,1.6,2.39,Katona B.,PTS,00:30,09 Dec 2018,bantamweight-ufc-men
+Munhoz P.,Caraway B.,1.36,3.15,Munhoz P.,TKO,04:00,01 Dec 2018,bantamweight-ufc-men
+Barcelos R.,Gutierrez C.,1.19,4.64,Barcelos R.,SUBM,23:30,30 Nov 2018,bantamweight-ufc-men
+Song Y.,Morales V.,1.19,4.8,Song Y.,PTS,12:00,24 Nov 2018,bantamweight-ufc-men
+Mudaerji S.,Smolka L.,2.46,1.56,Smolka L.,SUBM,08:15,24 Nov 2018,bantamweight-ufc-men
+Cannetti G.,Vera M.,3.58,1.3,Vera M.,SUBM,03:30,18 Nov 2018,bantamweight-ufc-men
+Kelleher B.,Jackson M.,2.3,1.64,canc.,canc.,23:15,03 Nov 2018,bantamweight-ufc-men
+Soukhamthath A.,Martinez J.,1.66,2.3,Soukhamthath A.,PTS,03:00,28 Oct 2018,bantamweight-ufc-men
+Barao R.,Ewell A.,1.54,2.53,Ewell A.,PTS,03:00,23 Sep 2018,bantamweight-ufc-men
+Yan P.,Soo Son J.,1.1,7.85,Yan P.,PTS,17:00,15 Sep 2018,bantamweight-ufc-men
+Sterling A.,Stamann C.,1.58,2.43,Sterling A.,SUBM,01:00,09 Sep 2018,bantamweight-ufc-men
+Sandhagen C.,Alcantara Y.,1.46,2.84,Sandhagen C.,TKO,01:00,26 Aug 2018,bantamweight-ufc-men
+Yahya R.,Sanders L.,1.87,1.98,Yahya R.,SUBM,22:30,25 Aug 2018,bantamweight-ufc-men
+Dillashaw TJ,Garbrandt C.,1.72,2.16,Dillashaw TJ,TKO,04:00,05 Aug 2018,bantamweight-ufc-men
+Simon R.,Jackson M.,2.01,1.82,Simon R.,PTS,01:00,05 Aug 2018,bantamweight-ufc-men
+Vera M.,Buren W.,1.21,4.64,Vera M.,TKO,22:30,04 Aug 2018,bantamweight-ufc-men
+Bermudez M.,Grant D.,1.33,3.44,Bermudez M.,SUBM,15:35,22 Jul 2018,bantamweight-ufc-men
+Wineland E.,Perez A.,2.49,1.56,Perez A.,PTS,01:30,15 Jul 2018,bantamweight-ufc-men
+Assuncao R.,Font R.,1.71,2.19,Assuncao R.,PTS,01:00,08 Jul 2018,bantamweight-ufc-men
+Ishihara T.,Yan P.,5.11,1.19,Yan P.,KO,11:00,23 Jun 2018,bantamweight-ufc-men
+Rivera J.,Moraes M.,1.9,1.93,Moraes M.,TKO,04:30,02 Jun 2018,bantamweight-ufc-men
+Eduardo J.,Wood N.,3.11,1.38,Wood N.,SUBM,23:00,01 Jun 2018,bantamweight-ufc-men
+Grant D.,Bermudez M.,2.91,1.35,canc.,canc.,17:30,27 May 2018,bantamweight-ufc-men
+Rivas D.,Cannetti G.,1.6,2.38,Cannetti G.,PTS,02:30,20 May 2018,bantamweight-ufc-men
+Briones E.,Saenz F.,3.63,1.3,Saenz F.,PTS,22:30,19 May 2018,bantamweight-ufc-men
+Lineker J.,Kelleher B.,1.38,3.13,Lineker J.,KO,02:30,13 May 2018,bantamweight-ufc-men
+Sterling A.,Johns B.,1.89,1.94,Sterling A.,PTS,02:00,22 Apr 2018,bantamweight-ufc-men
+Lopez M.,Perez A.,,,TKO,TKO,23:15,14 Apr 2018,bantamweight-ufc-men
+Duquesnoy T.,Ware T.,1.27,3.77,Duquesnoy T.,PTS,21:00,17 Mar 2018,bantamweight-ufc-men
+O'Malley S.,Soukhamthath A.,1.77,2.12,O'Malley S.,PTS,04:00,04 Mar 2018,bantamweight-ufc-men
+Caraway B.,Stamann C.,2.06,1.8,Stamann C.,PTS,00:30,04 Mar 2018,bantamweight-ufc-men
+Yahya R.,Doane R.,,,SUBM,SUBM,00:30,25 Feb 2018,bantamweight-ufc-men
+Ishihara T.,Quinonez J.,2.35,1.61,Quinonez J.,PTS,23:30,10 Feb 2018,bantamweight-ufc-men
+Dodson J.,Munhoz P.,,,canc.,canc.,04:00,04 Feb 2018,bantamweight-ufc-men
+Vera M.,Andrade D.,1.64,2.26,Andrade D.,PTS,00:30,04 Feb 2018,bantamweight-ufc-men
+Kang K. H.,Liu P.,1.38,3.03,Kang K. H.,PTS,10:00,21 Dec 2019,bantamweight-ufc-men
+Alateng H.,Benoit R.,1.96,1.83,Alateng H.,PTS,07:00,21 Dec 2019,bantamweight-ufc-men
+Moraes M.,Aldo J.,1.54,2.52,Moraes M.,PTS,03:30,15 Dec 2019,bantamweight-ufc-men
+Stamann C.,Song Y.,2.67,1.49,Draw,Draw,02:30,08 Dec 2019,bantamweight-ufc-men
+Andrade D.,Barao R.,1.39,3.02,Andrade D.,PTS,22:30,16 Nov 2019,bantamweight-ufc-men
+Popov G.,Grant D.,1.6,2.34,Grant D.,PTS,16:00,09 Nov 2019,bantamweight-ufc-men
+Costa R.,Salmon B.,2.26,1.66,Costa R.,TKO,23:30,18 Oct 2019,bantamweight-ufc-men
+Vera M.,Ewell A.,1.66,2.27,Vera M.,TKO,22:30,12 Oct 2019,bantamweight-ufc-men
+Taha K.,Silva B.,1.44,2.83,Taha K.,SUBM,22:15,05 Oct 2019,bantamweight-ufc-men
+Shore J.,Hernandez N.,1.47,2.74,Shore J.,SUBM,15:00,28 Sep 2019,bantamweight-ufc-men
+Quinonez J.,Quiroz C. H.,1.61,2.31,Quinonez J.,PTS,23:30,21 Sep 2019,bantamweight-ufc-men
+Smith C.,Johns M.,2.12,1.73,Johns M.,PTS,23:00,14 Sep 2019,bantamweight-ufc-men
+Smolka L.,MacDonald R.,1.42,2.91,Smolka L.,TKO,21:15,14 Sep 2019,bantamweight-ufc-men
+Taha K.,Silva B.,,,canc.,canc.,02:00,08 Sep 2019,bantamweight-ufc-men
+Mudaerji S.,Soukhamthath A.,2.36,1.6,Mudaerji S.,PTS,09:00,31 Aug 2019,bantamweight-ufc-men
+Assuncao R.,Sandhagen C.,3.01,1.4,Sandhagen C.,PTS,01:00,18 Aug 2019,bantamweight-ufc-men
+Kang K. H.,Davis B.,1.48,2.67,Kang K. H.,PTS,23:00,17 Aug 2019,bantamweight-ufc-men
+de Freitas G.,Gutierrez C.,1.62,2.33,Gutierrez C.,PTS,22:00,10 Aug 2019,bantamweight-ufc-men
+Borg R.,Silva G.,1.53,2.54,Borg R.,PTS,22:30,20 Jul 2019,bantamweight-ufc-men
+Pilarte D.,Colares F.,1.28,3.78,Colares F.,PTS,22:00,20 Jul 2019,bantamweight-ufc-men
+Faber U.,Simon R.,3.66,1.29,Faber U.,TKO,01:30,14 Jul 2019,bantamweight-ufc-men
+Liu P.,Martinez J.,1.56,2.42,Martinez J.,KO,21:30,13 Jul 2019,bantamweight-ufc-men
+Lopez B.,Morales V.,1.98,1.82,Lopez B.,PTS,21:00,13 Jul 2019,bantamweight-ufc-men
+O'Malley S.,Vera M.,,,canc.,canc.,02:00,07 Jul 2019,bantamweight-ufc-men
+Perez A.,Song Y.,2.75,1.46,Song Y.,KO,00:00,07 Jul 2019,bantamweight-ufc-men
+Ramos R.,Newson J.,1.28,3.73,Ramos R.,PTS,00:30,30 Jun 2019,bantamweight-ufc-men
+Pettis S.,Ramos R.,,,canc.,canc.,22:00,29 Jun 2019,bantamweight-ufc-men
+Font R.,Stamann C.,,,canc.,canc.,01:00,23 Jun 2019,bantamweight-ufc-men
+Ewell A.,dos Santos A.,1.89,1.93,Ewell A.,PTS,20:00,22 Jun 2019,bantamweight-ufc-men
+Cejudo H.,Moraes M.,2.29,1.65,Cejudo H.,TKO,04:00,09 Jun 2019,bantamweight-ufc-men
+Sterling A.,Munhoz P.,1.66,2.27,Sterling A.,PTS,01:00,09 Jun 2019,bantamweight-ufc-men
+Wineland E.,Popov G.,1.62,2.3,Wineland E.,TKO,23:45,08 Jun 2019,bantamweight-ufc-men
+Barcelos R.,Quiroz C. H.,1.11,6.8,Barcelos R.,TKO,22:45,11 May 2019,bantamweight-ufc-men
+Katona B.,Dvalishvili M.,2.36,1.6,Dvalishvili M.,PTS,01:00,05 May 2019,bantamweight-ufc-men
+Zahabi A.,Morales V.,1.59,2.4,Morales V.,PTS,23:00,04 May 2019,bantamweight-ufc-men
+Lineker J.,Sandhagen C.,1.67,2.22,Sandhagen C.,PTS,01:30,28 Apr 2019,bantamweight-ufc-men
+Jackson M.,Soukhamthath A.,1.19,4.93,Jackson M.,PTS,23:15,13 Apr 2019,bantamweight-ufc-men
+Kang K. H.,Liu P.,1.38,3.03,Kang K. H.,PTS,10:00,21 Dec 2019,bantamweight-ufc-men
+Alateng H.,Benoit R.,1.96,1.83,Alateng H.,PTS,07:00,21 Dec 2019,bantamweight-ufc-men
+Moraes M.,Aldo J.,1.54,2.52,Moraes M.,PTS,03:30,15 Dec 2019,bantamweight-ufc-men
+Stamann C.,Song Y.,2.67,1.49,Draw,Draw,02:30,08 Dec 2019,bantamweight-ufc-men
+Andrade D.,Barao R.,1.39,3.02,Andrade D.,PTS,22:30,16 Nov 2019,bantamweight-ufc-men
+Popov G.,Grant D.,1.6,2.34,Grant D.,PTS,16:00,09 Nov 2019,bantamweight-ufc-men
+Costa R.,Salmon B.,2.26,1.66,Costa R.,TKO,23:30,18 Oct 2019,bantamweight-ufc-men
+Vera M.,Ewell A.,1.66,2.27,Vera M.,TKO,22:30,12 Oct 2019,bantamweight-ufc-men
+Taha K.,Silva B.,1.44,2.83,Taha K.,SUBM,22:15,05 Oct 2019,bantamweight-ufc-men
+Shore J.,Hernandez N.,1.47,2.74,Shore J.,SUBM,15:00,28 Sep 2019,bantamweight-ufc-men
+Quinonez J.,Quiroz C. H.,1.61,2.31,Quinonez J.,PTS,23:30,21 Sep 2019,bantamweight-ufc-men
+Smith C.,Johns M.,2.12,1.73,Johns M.,PTS,23:00,14 Sep 2019,bantamweight-ufc-men
+Smolka L.,MacDonald R.,1.42,2.91,Smolka L.,TKO,21:15,14 Sep 2019,bantamweight-ufc-men
+Taha K.,Silva B.,,,canc.,canc.,02:00,08 Sep 2019,bantamweight-ufc-men
+Mudaerji S.,Soukhamthath A.,2.36,1.6,Mudaerji S.,PTS,09:00,31 Aug 2019,bantamweight-ufc-men
+Assuncao R.,Sandhagen C.,3.01,1.4,Sandhagen C.,PTS,01:00,18 Aug 2019,bantamweight-ufc-men
+Kang K. H.,Davis B.,1.48,2.67,Kang K. H.,PTS,23:00,17 Aug 2019,bantamweight-ufc-men
+de Freitas G.,Gutierrez C.,1.62,2.33,Gutierrez C.,PTS,22:00,10 Aug 2019,bantamweight-ufc-men
+Borg R.,Silva G.,1.53,2.54,Borg R.,PTS,22:30,20 Jul 2019,bantamweight-ufc-men
+Pilarte D.,Colares F.,1.28,3.78,Colares F.,PTS,22:00,20 Jul 2019,bantamweight-ufc-men
+Faber U.,Simon R.,3.66,1.29,Faber U.,TKO,01:30,14 Jul 2019,bantamweight-ufc-men
+Liu P.,Martinez J.,1.56,2.42,Martinez J.,KO,21:30,13 Jul 2019,bantamweight-ufc-men
+Lopez B.,Morales V.,1.98,1.82,Lopez B.,PTS,21:00,13 Jul 2019,bantamweight-ufc-men
+O'Malley S.,Vera M.,,,canc.,canc.,02:00,07 Jul 2019,bantamweight-ufc-men
+Perez A.,Song Y.,2.75,1.46,Song Y.,KO,00:00,07 Jul 2019,bantamweight-ufc-men
+Ramos R.,Newson J.,1.28,3.73,Ramos R.,PTS,00:30,30 Jun 2019,bantamweight-ufc-men
+Pettis S.,Ramos R.,,,canc.,canc.,22:00,29 Jun 2019,bantamweight-ufc-men
+Font R.,Stamann C.,,,canc.,canc.,01:00,23 Jun 2019,bantamweight-ufc-men
+Ewell A.,dos Santos A.,1.89,1.93,Ewell A.,PTS,20:00,22 Jun 2019,bantamweight-ufc-men
+Cejudo H.,Moraes M.,2.29,1.65,Cejudo H.,TKO,04:00,09 Jun 2019,bantamweight-ufc-men
+Sterling A.,Munhoz P.,1.66,2.27,Sterling A.,PTS,01:00,09 Jun 2019,bantamweight-ufc-men
+Wineland E.,Popov G.,1.62,2.3,Wineland E.,TKO,23:45,08 Jun 2019,bantamweight-ufc-men
+Barcelos R.,Quiroz C. H.,1.11,6.8,Barcelos R.,TKO,22:45,11 May 2019,bantamweight-ufc-men
+Katona B.,Dvalishvili M.,2.36,1.6,Dvalishvili M.,PTS,01:00,05 May 2019,bantamweight-ufc-men
+Zahabi A.,Morales V.,1.59,2.4,Morales V.,PTS,23:00,04 May 2019,bantamweight-ufc-men
+Lineker J.,Sandhagen C.,1.67,2.22,Sandhagen C.,PTS,01:30,28 Apr 2019,bantamweight-ufc-men
+Jackson M.,Soukhamthath A.,1.19,4.93,Jackson M.,PTS,23:15,13 Apr 2019,bantamweight-ufc-men
+Simon R.,Kelleher B.,,,canc.,canc.,23:00,05 Sep 2020,bantamweight-ufc-men
+Edgar F.,Munhoz P.,3.19,1.35,Edgar F.,PTS,02:30,23 Aug 2020,bantamweight-ufc-men
+Striegl M.,Valiev T.,,,canc.,canc.,21:00,22 Aug 2020,bantamweight-ufc-men
+O'Malley S.,Vera M.,1.34,3.28,Vera M.,TKO,03:30,16 Aug 2020,bantamweight-ufc-men
+al-Qaisi A.,Rivera I.,2.45,1.57,Rivera I.,PTS,22:00,08 Aug 2020,bantamweight-ufc-men
+Saenz F.,Martinez J.,2.99,1.4,Martinez J.,TKO,00:30,02 Aug 2020,bantamweight-ufc-men
+Borg R.,Maness N.,,,canc.,canc.,23:30,01 Aug 2020,bantamweight-ufc-men
+Emmers J.,Valiev T.,2.35,1.6,canc.,canc.,22:30,01 Aug 2020,bantamweight-ufc-men
+Nurmagomedov O.,Wood N.,,,canc.,canc.,00:00,26 Jul 2020,bantamweight-ufc-men
+Wood N.,Castaneda J.,1.21,4.41,Wood N.,PTS,21:00,25 Jul 2020,bantamweight-ufc-men
+Johns B.,Jackson M.,2.92,1.41,Johns B.,PTS,22:00,18 Jul 2020,bantamweight-ufc-men
+Munhoz P.,Edgar F.,,,canc.,canc.,02:00,16 Jul 2020,bantamweight-ufc-men
+Shore J.,dos Santos A.,,,canc.,canc.,23:25,15 Jul 2020,bantamweight-ufc-men
+Yan P.,Aldo J.,1.37,3.15,Yan P.,TKO,03:00,12 Jul 2020,bantamweight-ufc-men
+Day M.,Grant D.,1.67,2.22,Grant D.,KO,22:00,11 Jul 2020,bantamweight-ufc-men
+Borg R.,Dvalishvili M.,,,canc.,canc.,02:00,14 Jun 2020,bantamweight-ufc-men
+Moraes M.,Yan P.,,,canc.,canc.,15:00,13 Jun 2020,bantamweight-ufc-men
+Garbrandt C.,Assuncao R.,1.63,2.31,Garbrandt C.,KO,03:30,07 Jun 2020,bantamweight-ufc-men
+O'Malley S.,Wineland E.,1.18,5.0,O'Malley S.,KO,02:00,07 Jun 2020,bantamweight-ufc-men
+Kenney C.,Smolka L.,1.35,3.22,Kenney C.,SUBM,22:30,30 May 2020,bantamweight-ufc-men
+Vera M.,Song Y.,2.62,1.51,Song Y.,PTS,01:00,17 May 2020,bantamweight-ufc-men
+Borg R.,Simon R.,2.37,1.61,Simon R.,PTS,01:30,14 May 2020,bantamweight-ufc-men
+Azure H.,Kelleher B.,1.48,2.67,Kelleher B.,KO,22:30,13 May 2020,bantamweight-ufc-men
+Cejudo H.,Cruz D.,1.46,2.78,Cejudo H.,TKO,03:30,10 May 2020,bantamweight-ufc-men
+Cejudo H.,Aldo J.,,,canc.,canc.,21:00,09 May 2020,bantamweight-ufc-men
+Johns B.,Jackson M.,,,canc.,canc.,21:00,25 Apr 2020,bantamweight-ufc-men
+Borg R.,Vera M.,,,canc.,canc.,02:00,19 Apr 2020,bantamweight-ufc-men
+Assuncao R.,Garbrandt C.,2.18,1.67,canc.,canc.,22:00,28 Mar 2020,bantamweight-ufc-men
+Grant D.,Smolka L.,2.9,1.4,postp.,postp.,22:00,28 Mar 2020,bantamweight-ufc-men
+Vera M.,Wineland E.,,,postp.,postp.,22:00,28 Mar 2020,bantamweight-ufc-men
+Shore J.,de Freitas G.,,,postp.,postp.,18:00,21 Mar 2020,bantamweight-ufc-men
+Silva B.,Mudaerji S.,,,canc.,canc.,22:00,14 Mar 2020,bantamweight-ufc-men
+Quinones J.,O'Malley S.,3.52,1.31,O'Malley S.,TKO,02:30,08 Mar 2020,bantamweight-ufc-men
+Cannetti G.,Danaa B.,2.1,1.74,Danaa B.,TKO,23:15,07 Mar 2020,bantamweight-ufc-men
+Silva G.,Phillips K.,1.8,2.01,Phillips K.,PTS,00:30,01 Mar 2020,bantamweight-ufc-men
+Dodson J.,Wood N.,2.29,1.63,Dodson J.,TKO,00:00,16 Feb 2020,bantamweight-ufc-men
+Johns M.,Bautista M.,1.73,2.14,Bautista M.,TKO,01:00,09 Feb 2020,bantamweight-ufc-men
+Pilarte D.,Newson J.,1.79,2.05,Newson J.,TKO,00:15,09 Feb 2020,bantamweight-ufc-men
+Simon R.,Kelleher B.,,,canc.,canc.,23:00,05 Sep 2020,bantamweight-ufc-men
+Edgar F.,Munhoz P.,3.19,1.35,Edgar F.,PTS,02:30,23 Aug 2020,bantamweight-ufc-men
+Striegl M.,Valiev T.,,,canc.,canc.,21:00,22 Aug 2020,bantamweight-ufc-men
+O'Malley S.,Vera M.,1.34,3.28,Vera M.,TKO,03:30,16 Aug 2020,bantamweight-ufc-men
+al-Qaisi A.,Rivera I.,2.45,1.57,Rivera I.,PTS,22:00,08 Aug 2020,bantamweight-ufc-men
+Saenz F.,Martinez J.,2.99,1.4,Martinez J.,TKO,00:30,02 Aug 2020,bantamweight-ufc-men
+Borg R.,Maness N.,,,canc.,canc.,23:30,01 Aug 2020,bantamweight-ufc-men
+Emmers J.,Valiev T.,2.35,1.6,canc.,canc.,22:30,01 Aug 2020,bantamweight-ufc-men
+Nurmagomedov O.,Wood N.,,,canc.,canc.,00:00,26 Jul 2020,bantamweight-ufc-men
+Wood N.,Castaneda J.,1.21,4.41,Wood N.,PTS,21:00,25 Jul 2020,bantamweight-ufc-men
+Johns B.,Jackson M.,2.92,1.41,Johns B.,PTS,22:00,18 Jul 2020,bantamweight-ufc-men
+Munhoz P.,Edgar F.,,,canc.,canc.,02:00,16 Jul 2020,bantamweight-ufc-men
+Shore J.,dos Santos A.,,,canc.,canc.,23:25,15 Jul 2020,bantamweight-ufc-men
+Yan P.,Aldo J.,1.37,3.15,Yan P.,TKO,03:00,12 Jul 2020,bantamweight-ufc-men
+Day M.,Grant D.,1.67,2.22,Grant D.,KO,22:00,11 Jul 2020,bantamweight-ufc-men
+Borg R.,Dvalishvili M.,,,canc.,canc.,02:00,14 Jun 2020,bantamweight-ufc-men
+Moraes M.,Yan P.,,,canc.,canc.,15:00,13 Jun 2020,bantamweight-ufc-men
+Garbrandt C.,Assuncao R.,1.63,2.31,Garbrandt C.,KO,03:30,07 Jun 2020,bantamweight-ufc-men
+O'Malley S.,Wineland E.,1.18,5.0,O'Malley S.,KO,02:00,07 Jun 2020,bantamweight-ufc-men
+Kenney C.,Smolka L.,1.35,3.22,Kenney C.,SUBM,22:30,30 May 2020,bantamweight-ufc-men
+Vera M.,Song Y.,2.62,1.51,Song Y.,PTS,01:00,17 May 2020,bantamweight-ufc-men
+Borg R.,Simon R.,2.37,1.61,Simon R.,PTS,01:30,14 May 2020,bantamweight-ufc-men
+Azure H.,Kelleher B.,1.48,2.67,Kelleher B.,KO,22:30,13 May 2020,bantamweight-ufc-men
+Cejudo H.,Cruz D.,1.46,2.78,Cejudo H.,TKO,03:30,10 May 2020,bantamweight-ufc-men
+Cejudo H.,Aldo J.,,,canc.,canc.,21:00,09 May 2020,bantamweight-ufc-men
+Johns B.,Jackson M.,,,canc.,canc.,21:00,25 Apr 2020,bantamweight-ufc-men
+Borg R.,Vera M.,,,canc.,canc.,02:00,19 Apr 2020,bantamweight-ufc-men
+Assuncao R.,Garbrandt C.,2.18,1.67,canc.,canc.,22:00,28 Mar 2020,bantamweight-ufc-men
+Grant D.,Smolka L.,2.9,1.4,postp.,postp.,22:00,28 Mar 2020,bantamweight-ufc-men
+Vera M.,Wineland E.,,,postp.,postp.,22:00,28 Mar 2020,bantamweight-ufc-men
+Shore J.,de Freitas G.,,,postp.,postp.,18:00,21 Mar 2020,bantamweight-ufc-men
+Silva B.,Mudaerji S.,,,canc.,canc.,22:00,14 Mar 2020,bantamweight-ufc-men
+Quinones J.,O'Malley S.,3.52,1.31,O'Malley S.,TKO,02:30,08 Mar 2020,bantamweight-ufc-men
+Cannetti G.,Danaa B.,2.1,1.74,Danaa B.,TKO,23:15,07 Mar 2020,bantamweight-ufc-men
+Silva G.,Phillips K.,1.8,2.01,Phillips K.,PTS,00:30,01 Mar 2020,bantamweight-ufc-men
+Dodson J.,Wood N.,2.29,1.63,Dodson J.,TKO,00:00,16 Feb 2020,bantamweight-ufc-men
+Johns M.,Bautista M.,1.73,2.14,Bautista M.,TKO,01:00,09 Feb 2020,bantamweight-ufc-men
+Pilarte D.,Newson J.,1.79,2.05,Newson J.,TKO,00:15,09 Feb 2020,bantamweight-ufc-men
+Miller C.,Alers J.,1.92,1.9,canc.,canc.,22:00,19 Dec 2015,featherweight-ufc-men
+Aldo J.,McGregor C.,1.88,1.94,McGregor C.,KO,03:00,13 Dec 2015,featherweight-ufc-men
+Edgar F.,Mendes C.,1.74,2.09,Edgar F.,KO,23:00,11 Dec 2015,featherweight-ufc-men
+Tukhugov Z.,Nover P.,1.26,4.01,Tukhugov Z.,PTS,23:45,10 Dec 2015,featherweight-ufc-men
+Choi D. H.,Sicilia S.,1.38,3.04,Choi D. H.,KO,13:00,28 Nov 2015,featherweight-ufc-men
+Lamas R.,Sanchez D.,1.19,4.7,Lamas R.,PTS,03:00,22 Nov 2015,featherweight-ufc-men
+Guida C.,Tavares T.,1.6,2.35,Tavares T.,SUBM,01:00,08 Nov 2015,featherweight-ufc-men
+Elkins D.,Whiteford R.,1.66,2.17,Elkins D.,PTS,17:00,24 Oct 2015,featherweight-ufc-men
+Rodriguez Y.,Hooker D.,1.3,3.42,Rodriguez Y.,PTS,23:00,03 Oct 2015,featherweight-ufc-men
+Hirota M.,Ishihara T.,1.36,3.17,Draw,Draw,02:00,27 Sep 2015,featherweight-ufc-men
+Collard C.,Trator T.,1.68,2.17,Trator T.,PTS,00:00,06 Sep 2015,featherweight-ufc-men
+Silva J.,Malegarie N.,2.08,1.73,Silva J.,PTS,23:00,05 Sep 2015,featherweight-ufc-men
+Holloway M.,Oliveira C.,1.4,2.94,Holloway M.,TKO,01:00,24 Aug 2015,featherweight-ufc-men
+Jabouin Y.,Arantes F.,2.7,1.44,Arantes F.,TKO,23:00,23 Aug 2015,featherweight-ufc-men
+Miller C.,Hirota M.,1.93,1.88,Hirota M.,PTS,23:00,17 Dec 2016,featherweight-ufc-men
+Holloway M.,Pettis A.,1.41,2.93,Holloway M.,TKO,03:00,11 Dec 2016,featherweight-ufc-men
+Trator T.,Burgos S.,2.44,1.55,Burgos S.,PTS,22:30,09 Dec 2016,featherweight-ufc-men
+Maynard G.,Hall R.,1.98,1.83,Hall R.,PTS,01:00,04 Dec 2016,featherweight-ufc-men
+Kasuya Y.,Volkanovski A.,2.47,1.54,Volkanovski A.,TKO,03:00,27 Nov 2016,featherweight-ufc-men
+Hooker D.,Knight J.,1.61,2.29,Knight J.,PTS,23:30,26 Nov 2016,featherweight-ufc-men
+Lobov A.,Ishihara T.,3.07,1.39,Lobov A.,PTS,21:00,19 Nov 2016,featherweight-ufc-men
+Edgar F.,Stephens J.,1.32,3.46,Edgar F.,PTS,02:30,13 Nov 2016,featherweight-ufc-men
+Barzola E.,Avila C.,1.19,4.78,Barzola E.,PTS,22:30,05 Nov 2016,featherweight-ufc-men
+Bektic M.,Doane R.,1.16,5.34,Bektic M.,SUBM,02:00,09 Oct 2016,featherweight-ufc-men
+Dias H.,Fili A.,1.59,2.38,Fili A.,PTS,01:00,02 Oct 2016,featherweight-ufc-men
+Barao R.,Nover P.,1.17,5.01,Barao R.,PTS,02:00,25 Sep 2016,featherweight-ufc-men
+Skelly C.,Blanco M.,1.58,2.43,Skelly C.,SUBM,02:00,18 Sep 2016,featherweight-ufc-men
+Buschkamp M.,Enlund A.,,,canc.,canc.,15:45,03 Sep 2016,featherweight-ufc-men
+Pettis A.,Oliveira C.,1.44,2.82,Pettis A.,SUBM,00:00,28 Aug 2016,featherweight-ufc-men
+Barzola E.,Bochniak K.,2.34,1.59,Bochniak K.,PTS,22:00,27 Aug 2016,featherweight-ufc-men
+Lobov A.,Avila C.,1.75,2.07,Lobov A.,PTS,00:00,21 Aug 2016,featherweight-ufc-men
+Bermudez D.,Jason R.,1.38,3.09,Bermudez D.,PTS,02:00,07 Aug 2016,featherweight-ufc-men
+Ishihara T.,Gutierrez H.,1.44,2.81,Ishihara T.,TKO,00:00,07 Aug 2016,featherweight-ufc-men
+Swanson C.,Kawajiri T.,1.29,3.59,Swanson C.,PTS,23:00,06 Aug 2016,featherweight-ufc-men
+Elkins D.,Pepey G.,1.43,2.89,Elkins D.,PTS,22:00,23 Jul 2016,featherweight-ufc-men
+Aldo J.,Edgar F.,1.94,1.85,Aldo J.,PTS,02:00,10 Jul 2016,featherweight-ufc-men
+Maynard G.,Bruno F.,1.64,2.32,Maynard G.,PTS,02:00,09 Jul 2016,featherweight-ufc-men
+Holloway M.,Lamas R.,1.35,3.27,Holloway M.,PTS,02:40,05 Jun 2016,featherweight-ufc-men
+Miller C.,Caceres A.,1.57,2.43,Caceres A.,PTS,00:00,05 Jun 2016,featherweight-ufc-men
+Barao R.,Stephens J.,1.6,2.35,Stephens J.,PTS,01:00,30 May 2016,featherweight-ufc-men
+Carneiro R.,Tukhugov Z.,2.09,1.75,Carneiro R.,PTS,22:30,14 May 2016,featherweight-ufc-men
+Rodriguez Y.,Fili A.,1.88,1.93,Rodriguez Y.,KO,02:00,24 Apr 2016,featherweight-ufc-men
+Swanson C.,Dias H.,1.81,1.99,Swanson C.,PTS,00:00,17 Apr 2016,featherweight-ufc-men
+Whiteford R.,Martins L.,2.0,1.8,Martins L.,PTS,14:30,10 Apr 2016,featherweight-ufc-men
+Hooker D.,Eddiva M.,1.5,2.58,Hooker D.,SUBM,22:30,19 Mar 2016,featherweight-ufc-men
+Elkins D.,Skelly C.,2.45,1.58,Elkins D.,PTS,01:00,06 Mar 2016,featherweight-ufc-men
+Erosa J.,Ishihara T.,1.55,2.47,Ishihara T.,KO,23:30,05 Mar 2016,featherweight-ufc-men
+Allen A.,Meza Y.,1.29,3.64,Allen A.,PTS,17:45,27 Feb 2016,featherweight-ufc-men
+Bermudez D.,Kawajiri T.,1.27,3.79,Bermudez D.,PTS,02:00,22 Feb 2016,featherweight-ufc-men
+Lahat N.,Rivas D.,1.29,3.66,Rivas D.,KO,23:00,06 Feb 2016,featherweight-ufc-men
+Caceres A.,Fullen M.,1.34,3.25,Caceres A.,PTS,22:00,30 Jan 2016,featherweight-ufc-men
+Blanco M.,Sanders L.,1.82,2.01,Sanders L.,SUBM,01:00,18 Jan 2016,featherweight-ufc-men
+Rosa C.,Hettes J.,,,canc.,canc.,23:00,17 Jan 2016,featherweight-ufc-men
+Brandao D.,Ortega B.,2.39,1.58,Ortega B.,SUBM,03:00,03 Jan 2016,featherweight-ufc-men
+Jury M.,Glenn R.,1.51,2.61,Jury M.,PTS,01:00,31 Dec 2017,featherweight-ufc-men
+Lamas R.,Emmett J.,1.35,3.15,Emmett J.,KO,01:00,17 Dec 2017,featherweight-ufc-men
+Knight J.,Benitez G.,1.3,3.48,Benitez G.,PTS,03:00,10 Dec 2017,featherweight-ufc-men
+Holloway M.,Aldo J.,1.34,3.23,Holloway M.,TKO,03:00,03 Dec 2017,featherweight-ufc-men
+Wang G.,Caceres A.,2.2,1.67,Wang G.,PTS,12:00,25 Nov 2017,featherweight-ufc-men
+Magomedsharipov Z.,Moraes S.,1.17,4.9,Magomedsharipov Z.,SUBM,08:45,25 Nov 2017,featherweight-ufc-men
+Volkanovski A.,Young S.,1.14,5.72,Volkanovski A.,PTS,03:00,19 Nov 2017,featherweight-ufc-men
+Dias H.,Gordon J.,2.35,1.58,Gordon J.,PTS,23:00,28 Oct 2017,featherweight-ufc-men
+Lobov A.,Fili A.,2.42,1.55,Fili A.,PTS,15:45,21 Oct 2017,featherweight-ufc-men
+Duquesnoy T.,Stamann C.,1.58,2.35,Stamann C.,PTS,00:00,08 Oct 2017,featherweight-ufc-men
+Hirota M.,Rosa C.,,,canc.,canc.,02:00,23 Sep 2017,featherweight-ufc-men
+Stephens J.,Melendez G.,1.92,1.88,Stephens J.,PTS,02:00,10 Sep 2017,featherweight-ufc-men
+Santiago M.,Magomedsharipov Z.,4.1,1.24,Magomedsharipov Z.,SUBM,15:30,02 Sep 2017,featherweight-ufc-men
+Carneiro R.,Ortega B.,1.54,2.5,Ortega B.,SUBM,00:00,30 Jul 2017,featherweight-ufc-men
+Lamas R.,Knight J.,2.01,1.8,Lamas R.,TKO,00:00,30 Jul 2017,featherweight-ufc-men
+Bermudez D.,Elkins D.,1.43,2.87,Elkins D.,PTS,00:00,23 Jul 2017,featherweight-ufc-men
+Bochniak K.,Kennedy J.,3.2,1.36,Kennedy J.,PTS,20:00,22 Jul 2017,featherweight-ufc-men
+Stamann C.,Ware T.,1.38,3.14,Stamann C.,PTS,22:30,08 Jul 2017,featherweight-ufc-men
+Maynard G.,Ishihara T.,3.72,1.29,Maynard G.,PTS,22:00,07 Jul 2017,featherweight-ufc-men
+Penn BJ,Siver D.,2.26,1.67,Siver D.,PTS,01:00,26 Jun 2017,featherweight-ufc-men
+Caceres A.,Dy R.,1.31,3.47,Caceres A.,TKO,08:45,17 Jun 2017,featherweight-ufc-men
+Volkanovski A.,Hirota M.,1.14,5.8,Volkanovski A.,PTS,02:00,11 Jun 2017,featherweight-ufc-men
+Aldo J.,Holloway M.,1.64,2.28,Holloway M.,TKO,02:00,04 Jun 2017,featherweight-ufc-men
+Edgar F.,Rodriguez Y.,1.73,2.15,Edgar F.,TKO,02:00,14 May 2017,featherweight-ufc-men
+Benitez G.,Barzola E.,1.69,2.21,Barzola E.,PTS,22:15,13 May 2017,featherweight-ufc-men
+Swanson C.,Lobov A.,1.18,5.05,Swanson C.,PTS,02:00,23 Apr 2017,featherweight-ufc-men
+Stephens J.,Carneiro R.,1.54,2.51,Carneiro R.,PTS,00:00,16 Apr 2017,featherweight-ufc-men
+Burgos S.,Rosa C.,1.45,2.84,Burgos S.,TKO,00:00,09 Apr 2017,featherweight-ufc-men
+Allen A.,Amirkhani M.,1.93,1.9,Allen A.,PTS,21:15,18 Mar 2017,featherweight-ufc-men
+Jason R.,Kennedy J.,2.02,1.81,Kennedy J.,PTS,00:00,12 Mar 2017,featherweight-ufc-men
+Bektic M.,Elkins D.,1.14,5.84,Elkins D.,TKO,01:00,05 Mar 2017,featherweight-ufc-men
+Sicilia S.,Tucker G.,2.35,1.6,Tucker G.,PTS,02:00,20 Feb 2017,featherweight-ufc-men
+Glenn R.,Nover P.,1.55,2.46,Glenn R.,PTS,23:30,11 Feb 2017,featherweight-ufc-men
+Bermudez D.,Jung C. S.,1.53,2.52,Jung C. S.,KO,03:00,05 Feb 2017,featherweight-ufc-men
+Caceres A.,Knight J.,2.17,1.68,Knight J.,SUBM,01:00,29 Jan 2017,featherweight-ufc-men
+Rodriguez Y.,Penn BJ,1.22,4.26,Rodriguez Y.,TKO,03:00,16 Jan 2017,featherweight-ufc-men
+Mendes C.,Volkanovski A.,1.77,2.07,Volkanovski A.,TKO,03:00,30 Dec 2018,featherweight-ufc-men
+Ige D.,Griffin J.,1.55,2.46,Ige D.,PTS,22:00,15 Dec 2018,featherweight-ufc-men
+Holloway M.,Ortega B.,1.91,1.92,Holloway M.,TKO,05:00,09 Dec 2018,featherweight-ufc-men
+Mokhtarian S.,Yusuff S.,5.19,1.18,Yusuff S.,TKO,03:00,02 Dec 2018,featherweight-ufc-men
+Lamas R.,Elkins D.,1.51,2.64,Lamas R.,TKO,05:00,18 Nov 2018,featherweight-ufc-men
+Narimani N.,dos Santos A.,1.25,4.04,Narimani N.,PTS,00:00,18 Nov 2018,featherweight-ufc-men
+Jung C. S.,Rodriguez Y.,2.05,1.79,Rodriguez Y.,KO,05:30,11 Nov 2018,featherweight-ufc-men
+Knight J.,Rinaldi J.,1.32,3.44,Rinaldi J.,PTS,01:30,04 Nov 2018,featherweight-ufc-men
+Arce J.,Moraes S.,1.37,3.11,Moraes S.,PTS,00:30,04 Nov 2018,featherweight-ufc-men
+Johnson M.,Lobov A.,1.17,5.26,Johnson M.,PTS,04:00,28 Oct 2018,featherweight-ufc-men
+Kattar C.,Fishgold C.,1.41,3.0,Kattar C.,TKO,23:30,27 Oct 2018,featherweight-ufc-men
+Magomedsharipov Z.,Davis B.,1.07,9.15,Magomedsharipov Z.,SUBM,03:00,09 Sep 2018,featherweight-ufc-men
+Johnson M.,Fili A.,2.0,1.85,Johnson M.,PTS,04:00,26 Aug 2018,featherweight-ufc-men
+Swanson C.,Carneiro R.,3.47,1.33,Carneiro R.,SUBM,03:00,05 Aug 2018,featherweight-ufc-men
+Aldo J.,Stephens J.,1.98,1.83,Aldo J.,TKO,01:00,29 Jul 2018,featherweight-ufc-men
+Dawodu H.,Arnett A.,1.23,4.41,Dawodu H.,PTS,23:00,28 Jul 2018,featherweight-ufc-men
+Hein N.,Hadzovic D.,1.64,2.29,Hadzovic D.,PTS,17:35,22 Jul 2018,featherweight-ufc-men
+Bermudez D.,Glenn R.,1.52,2.58,Glenn R.,PTS,03:30,15 Jul 2018,featherweight-ufc-men
+Elkins D.,Volkanovski A.,3.0,1.41,Volkanovski A.,PTS,01:00,15 Jul 2018,featherweight-ufc-men
+Cucciniello J.,Katona B.,3.22,1.37,Katona B.,PTS,03:00,07 Jul 2018,featherweight-ufc-men
+Diamond T.,Mitchell B.,2.03,1.82,Mitchell B.,PTS,23:30,06 Jul 2018,featherweight-ufc-men
+Dy R.,Young S.,2.37,1.62,Young S.,TKO,10:00,23 Jun 2018,featherweight-ufc-men
+Lamas R.,Bektic M.,3.01,1.4,Bektic M.,PTS,00:00,10 Jun 2018,featherweight-ufc-men
+Santiago M.,Ige D.,1.99,1.83,Ige D.,TKO,22:15,09 Jun 2018,featherweight-ufc-men
+Arce J.,Teymur D.,1.55,2.52,Arce J.,SUBM,02:30,02 Jun 2018,featherweight-ufc-men
+Allen A.,Burnell M.,1.4,2.95,Allen A.,SUBM,18:30,27 May 2018,featherweight-ufc-men
+Benitez G.,Bandenay H.,1.61,2.37,Benitez G.,KO,23:30,19 May 2018,featherweight-ufc-men
+Edgar F.,Swanson C.,1.39,3.09,Edgar F.,PTS,02:00,22 Apr 2018,featherweight-ufc-men
+Carneiro R.,Kattar C.,1.87,1.96,Carneiro R.,PTS,03:00,08 Apr 2018,featherweight-ufc-men
+Magomedsharipov Z.,Bochniak K.,1.13,5.85,Magomedsharipov Z.,PTS,23:15,07 Apr 2018,featherweight-ufc-men
+Henry D.,Dawodu H.,3.13,1.37,Henry D.,SUBM,18:45,17 Mar 2018,featherweight-ufc-men
+Edgar F.,Ortega B.,1.59,2.4,Ortega B.,KO,04:30,04 Mar 2018,featherweight-ufc-men
+Emmett J.,Stephens J.,,,KO,KO,04:00,25 Feb 2018,featherweight-ufc-men
+Peterson S.,Davis B.,2.5,1.53,Davis B.,PTS,23:15,18 Feb 2018,featherweight-ufc-men
+Bermudez D.,Fili A.,,,PTS,PTS,04:00,28 Jan 2018,featherweight-ufc-men
+Arnett A.,Sandhagen C.,2.75,1.4,Sandhagen C.,TKO,23:00,27 Jan 2018,featherweight-ufc-men
+Mendes C.,Volkanovski A.,1.77,2.07,Volkanovski A.,TKO,03:00,30 Dec 2018,featherweight-ufc-men
+Ige D.,Griffin J.,1.55,2.46,Ige D.,PTS,22:00,15 Dec 2018,featherweight-ufc-men
+Holloway M.,Ortega B.,1.91,1.92,Holloway M.,TKO,05:00,09 Dec 2018,featherweight-ufc-men
+Mokhtarian S.,Yusuff S.,5.19,1.18,Yusuff S.,TKO,03:00,02 Dec 2018,featherweight-ufc-men
+Lamas R.,Elkins D.,1.51,2.64,Lamas R.,TKO,05:00,18 Nov 2018,featherweight-ufc-men
+Narimani N.,dos Santos A.,1.25,4.04,Narimani N.,PTS,00:00,18 Nov 2018,featherweight-ufc-men
+Jung C. S.,Rodriguez Y.,2.05,1.79,Rodriguez Y.,KO,05:30,11 Nov 2018,featherweight-ufc-men
+Knight J.,Rinaldi J.,1.32,3.44,Rinaldi J.,PTS,01:30,04 Nov 2018,featherweight-ufc-men
+Arce J.,Moraes S.,1.37,3.11,Moraes S.,PTS,00:30,04 Nov 2018,featherweight-ufc-men
+Johnson M.,Lobov A.,1.17,5.26,Johnson M.,PTS,04:00,28 Oct 2018,featherweight-ufc-men
+Kattar C.,Fishgold C.,1.41,3.0,Kattar C.,TKO,23:30,27 Oct 2018,featherweight-ufc-men
+Magomedsharipov Z.,Davis B.,1.07,9.15,Magomedsharipov Z.,SUBM,03:00,09 Sep 2018,featherweight-ufc-men
+Johnson M.,Fili A.,2.0,1.85,Johnson M.,PTS,04:00,26 Aug 2018,featherweight-ufc-men
+Swanson C.,Carneiro R.,3.47,1.33,Carneiro R.,SUBM,03:00,05 Aug 2018,featherweight-ufc-men
+Aldo J.,Stephens J.,1.98,1.83,Aldo J.,TKO,01:00,29 Jul 2018,featherweight-ufc-men
+Dawodu H.,Arnett A.,1.23,4.41,Dawodu H.,PTS,23:00,28 Jul 2018,featherweight-ufc-men
+Hein N.,Hadzovic D.,1.64,2.29,Hadzovic D.,PTS,17:35,22 Jul 2018,featherweight-ufc-men
+Bermudez D.,Glenn R.,1.52,2.58,Glenn R.,PTS,03:30,15 Jul 2018,featherweight-ufc-men
+Elkins D.,Volkanovski A.,3.0,1.41,Volkanovski A.,PTS,01:00,15 Jul 2018,featherweight-ufc-men
+Cucciniello J.,Katona B.,3.22,1.37,Katona B.,PTS,03:00,07 Jul 2018,featherweight-ufc-men
+Diamond T.,Mitchell B.,2.03,1.82,Mitchell B.,PTS,23:30,06 Jul 2018,featherweight-ufc-men
+Dy R.,Young S.,2.37,1.62,Young S.,TKO,10:00,23 Jun 2018,featherweight-ufc-men
+Lamas R.,Bektic M.,3.01,1.4,Bektic M.,PTS,00:00,10 Jun 2018,featherweight-ufc-men
+Santiago M.,Ige D.,1.99,1.83,Ige D.,TKO,22:15,09 Jun 2018,featherweight-ufc-men
+Arce J.,Teymur D.,1.55,2.52,Arce J.,SUBM,02:30,02 Jun 2018,featherweight-ufc-men
+Allen A.,Burnell M.,1.4,2.95,Allen A.,SUBM,18:30,27 May 2018,featherweight-ufc-men
+Benitez G.,Bandenay H.,1.61,2.37,Benitez G.,KO,23:30,19 May 2018,featherweight-ufc-men
+Edgar F.,Swanson C.,1.39,3.09,Edgar F.,PTS,02:00,22 Apr 2018,featherweight-ufc-men
+Carneiro R.,Kattar C.,1.87,1.96,Carneiro R.,PTS,03:00,08 Apr 2018,featherweight-ufc-men
+Magomedsharipov Z.,Bochniak K.,1.13,5.85,Magomedsharipov Z.,PTS,23:15,07 Apr 2018,featherweight-ufc-men
+Henry D.,Dawodu H.,3.13,1.37,Henry D.,SUBM,18:45,17 Mar 2018,featherweight-ufc-men
+Edgar F.,Ortega B.,1.59,2.4,Ortega B.,KO,04:30,04 Mar 2018,featherweight-ufc-men
+Emmett J.,Stephens J.,,,KO,KO,04:00,25 Feb 2018,featherweight-ufc-men
+Peterson S.,Davis B.,2.5,1.53,Davis B.,PTS,23:15,18 Feb 2018,featherweight-ufc-men
+Bermudez D.,Fili A.,,,PTS,PTS,04:00,28 Jan 2018,featherweight-ufc-men
+Arnett A.,Sandhagen C.,2.75,1.4,Sandhagen C.,TKO,23:00,27 Jan 2018,featherweight-ufc-men
+Jung C. S.,Edgar F.,1.55,2.52,Jung C. S.,TKO,12:30,21 Dec 2019,featherweight-ufc-men
+Mokhtarian S.,Choi S. W.,3.32,1.33,Choi S. W.,PTS,09:00,21 Dec 2019,featherweight-ufc-men
+Holloway M.,Volkanovski A.,1.53,2.54,Volkanovski A.,PTS,04:30,15 Dec 2019,featherweight-ufc-men
+Hooper C.,Teymur D.,1.66,2.25,Hooper C.,TKO,00:30,15 Dec 2019,featherweight-ufc-men
+Fishgold C.,Quarantillo B.,,,canc.,canc.,02:00,08 Dec 2019,featherweight-ufc-men
+Kilburn J.,Quarantillo B.,3.52,1.31,Quarantillo B.,SUBM,00:30,08 Dec 2019,featherweight-ufc-men
+Ramos R.,Garagorri L. E.,1.27,3.76,Ramos R.,SUBM,00:00,17 Nov 2019,featherweight-ufc-men
+Magomedsharipov Z.,Kattar C.,1.31,3.48,Magomedsharipov Z.,PTS,21:30,09 Nov 2019,featherweight-ufc-men
+Burgos S.,Amirkhani M.,1.42,2.87,Burgos S.,TKO,00:30,03 Nov 2019,featherweight-ufc-men
+Barzola E.,Evloev M.,2.59,1.51,Evloev M.,PTS,11:00,26 Oct 2019,featherweight-ufc-men
+Rodriguez Y.,Stephens J.,1.77,2.07,Rodriguez Y.,PTS,03:30,19 Oct 2019,featherweight-ufc-men
+Magomedsharipov Z.,Kattar C.,,,canc.,canc.,01:00,19 Oct 2019,featherweight-ufc-men
+Swanson C.,Gracie K.,2.62,1.51,Swanson C.,PTS,02:30,13 Oct 2019,featherweight-ufc-men
+Davis B.,Chikadze G.,1.63,2.31,Chikadze G.,PTS,16:00,28 Sep 2019,featherweight-ufc-men
+Rodriguez Y.,Stephens J.,1.77,2.05,Draw,Draw,02:00,22 Sep 2019,featherweight-ufc-men
+Reyes M. P.,Nelson K.,1.93,1.87,Nelson K.,TKO,23:00,21 Sep 2019,featherweight-ufc-men
+Skelly C.,Griffin J.,2.29,1.64,Skelly C.,PTS,21:30,14 Sep 2019,featherweight-ufc-men
+Tukhugov Z.,Murphy L.,1.31,3.51,Draw,Draw,17:00,07 Sep 2019,featherweight-ufc-men
+Lu Zhenhong,Evloev M.,,,canc.,canc.,10:30,31 Aug 2019,featherweight-ufc-men
+Benitez G.,Yusuff S.,3.22,1.36,Yusuff S.,TKO,02:30,18 Aug 2019,featherweight-ufc-men
+Garagorri L. E.,Bandenay H.,1.72,2.17,Garagorri L. E.,PTS,01:30,11 Aug 2019,featherweight-ufc-men
+Holloway M.,Edgar F.,1.28,3.84,Holloway M.,PTS,04:00,28 Jul 2019,featherweight-ufc-men
+Dawodu H.,Horie Y.,1.25,4.05,Dawodu H.,TKO,01:00,28 Jul 2019,featherweight-ufc-men
+Caceres A.,Peterson S.,1.87,1.96,Caceres A.,PTS,00:30,21 Jul 2019,featherweight-ufc-men
+Emmett J.,Bektic M.,2.33,1.61,Emmett J.,TKO,01:00,14 Jul 2019,featherweight-ufc-men
+Fili A.,Moraes S.,1.69,2.18,Fili A.,KO,23:00,13 Jul 2019,featherweight-ufc-men
+Melendez G.,Allen A.,3.7,1.29,Allen A.,PTS,01:30,07 Jul 2019,featherweight-ufc-men
+Griffin J.,Murdock V.,1.25,4.0,canc.,canc.,22:15,29 Jun 2019,featherweight-ufc-men
+Carneiro R.,Jung C. S.,1.48,2.69,Jung C. S.,TKO,01:00,23 Jun 2019,featherweight-ufc-men
+Ige D.,Aguilar K.,2.17,1.69,Ige D.,PTS,22:30,22 Jun 2019,featherweight-ufc-men
+Lamas R.,Kattar C.,2.36,1.61,Kattar C.,TKO,00:00,09 Jun 2019,featherweight-ufc-men
+Amirkhani M.,Fishgold C.,1.82,2.0,Amirkhani M.,SUBM,18:00,01 Jun 2019,featherweight-ufc-men
+Trizano M.,Dawson G.,2.4,1.6,Dawson G.,SUBM,23:00,18 May 2019,featherweight-ufc-men
+Aldo J.,Volkanovski A.,1.68,2.23,Volkanovski A.,PTS,03:00,12 May 2019,featherweight-ufc-men
+Swanson C.,Burgos S.,2.37,1.59,Burgos S.,PTS,01:30,05 May 2019,featherweight-ufc-men
+Nelson K.,Sayles M.,2.67,1.48,Sayles M.,SUBM,22:00,04 May 2019,featherweight-ufc-men
+Jung C. S.,Edgar F.,1.55,2.52,Jung C. S.,TKO,12:30,21 Dec 2019,featherweight-ufc-men
+Mokhtarian S.,Choi S. W.,3.32,1.33,Choi S. W.,PTS,09:00,21 Dec 2019,featherweight-ufc-men
+Holloway M.,Volkanovski A.,1.53,2.54,Volkanovski A.,PTS,04:30,15 Dec 2019,featherweight-ufc-men
+Hooper C.,Teymur D.,1.66,2.25,Hooper C.,TKO,00:30,15 Dec 2019,featherweight-ufc-men
+Fishgold C.,Quarantillo B.,,,canc.,canc.,02:00,08 Dec 2019,featherweight-ufc-men
+Kilburn J.,Quarantillo B.,3.52,1.31,Quarantillo B.,SUBM,00:30,08 Dec 2019,featherweight-ufc-men
+Ramos R.,Garagorri L. E.,1.27,3.76,Ramos R.,SUBM,00:00,17 Nov 2019,featherweight-ufc-men
+Magomedsharipov Z.,Kattar C.,1.31,3.48,Magomedsharipov Z.,PTS,21:30,09 Nov 2019,featherweight-ufc-men
+Burgos S.,Amirkhani M.,1.42,2.87,Burgos S.,TKO,00:30,03 Nov 2019,featherweight-ufc-men
+Barzola E.,Evloev M.,2.59,1.51,Evloev M.,PTS,11:00,26 Oct 2019,featherweight-ufc-men
+Rodriguez Y.,Stephens J.,1.77,2.07,Rodriguez Y.,PTS,03:30,19 Oct 2019,featherweight-ufc-men
+Magomedsharipov Z.,Kattar C.,,,canc.,canc.,01:00,19 Oct 2019,featherweight-ufc-men
+Swanson C.,Gracie K.,2.62,1.51,Swanson C.,PTS,02:30,13 Oct 2019,featherweight-ufc-men
+Davis B.,Chikadze G.,1.63,2.31,Chikadze G.,PTS,16:00,28 Sep 2019,featherweight-ufc-men
+Rodriguez Y.,Stephens J.,1.77,2.05,Draw,Draw,02:00,22 Sep 2019,featherweight-ufc-men
+Reyes M. P.,Nelson K.,1.93,1.87,Nelson K.,TKO,23:00,21 Sep 2019,featherweight-ufc-men
+Skelly C.,Griffin J.,2.29,1.64,Skelly C.,PTS,21:30,14 Sep 2019,featherweight-ufc-men
+Tukhugov Z.,Murphy L.,1.31,3.51,Draw,Draw,17:00,07 Sep 2019,featherweight-ufc-men
+Lu Zhenhong,Evloev M.,,,canc.,canc.,10:30,31 Aug 2019,featherweight-ufc-men
+Benitez G.,Yusuff S.,3.22,1.36,Yusuff S.,TKO,02:30,18 Aug 2019,featherweight-ufc-men
+Garagorri L. E.,Bandenay H.,1.72,2.17,Garagorri L. E.,PTS,01:30,11 Aug 2019,featherweight-ufc-men
+Holloway M.,Edgar F.,1.28,3.84,Holloway M.,PTS,04:00,28 Jul 2019,featherweight-ufc-men
+Dawodu H.,Horie Y.,1.25,4.05,Dawodu H.,TKO,01:00,28 Jul 2019,featherweight-ufc-men
+Caceres A.,Peterson S.,1.87,1.96,Caceres A.,PTS,00:30,21 Jul 2019,featherweight-ufc-men
+Emmett J.,Bektic M.,2.33,1.61,Emmett J.,TKO,01:00,14 Jul 2019,featherweight-ufc-men
+Fili A.,Moraes S.,1.69,2.18,Fili A.,KO,23:00,13 Jul 2019,featherweight-ufc-men
+Melendez G.,Allen A.,3.7,1.29,Allen A.,PTS,01:30,07 Jul 2019,featherweight-ufc-men
+Griffin J.,Murdock V.,1.25,4.0,canc.,canc.,22:15,29 Jun 2019,featherweight-ufc-men
+Carneiro R.,Jung C. S.,1.48,2.69,Jung C. S.,TKO,01:00,23 Jun 2019,featherweight-ufc-men
+Ige D.,Aguilar K.,2.17,1.69,Ige D.,PTS,22:30,22 Jun 2019,featherweight-ufc-men
+Lamas R.,Kattar C.,2.36,1.61,Kattar C.,TKO,00:00,09 Jun 2019,featherweight-ufc-men
+Amirkhani M.,Fishgold C.,1.82,2.0,Amirkhani M.,SUBM,18:00,01 Jun 2019,featherweight-ufc-men
+Trizano M.,Dawson G.,2.4,1.6,Dawson G.,SUBM,23:00,18 May 2019,featherweight-ufc-men
+Aldo J.,Volkanovski A.,1.68,2.23,Volkanovski A.,PTS,03:00,12 May 2019,featherweight-ufc-men
+Swanson C.,Burgos S.,2.37,1.59,Burgos S.,PTS,01:30,05 May 2019,featherweight-ufc-men
+Nelson K.,Sayles M.,2.67,1.48,Sayles M.,SUBM,22:00,04 May 2019,featherweight-ufc-men
+Jung C. S.,Edgar F.,1.55,2.52,Jung C. S.,TKO,12:30,21 Dec 2019,featherweight-ufc-men
+Mokhtarian S.,Choi S. W.,3.32,1.33,Choi S. W.,PTS,09:00,21 Dec 2019,featherweight-ufc-men
+Holloway M.,Volkanovski A.,1.53,2.54,Volkanovski A.,PTS,04:30,15 Dec 2019,featherweight-ufc-men
+Hooper C.,Teymur D.,1.66,2.25,Hooper C.,TKO,00:30,15 Dec 2019,featherweight-ufc-men
+Fishgold C.,Quarantillo B.,,,canc.,canc.,02:00,08 Dec 2019,featherweight-ufc-men
+Kilburn J.,Quarantillo B.,3.52,1.31,Quarantillo B.,SUBM,00:30,08 Dec 2019,featherweight-ufc-men
+Ramos R.,Garagorri L. E.,1.27,3.76,Ramos R.,SUBM,00:00,17 Nov 2019,featherweight-ufc-men
+Magomedsharipov Z.,Kattar C.,1.31,3.48,Magomedsharipov Z.,PTS,21:30,09 Nov 2019,featherweight-ufc-men
+Burgos S.,Amirkhani M.,1.42,2.87,Burgos S.,TKO,00:30,03 Nov 2019,featherweight-ufc-men
+Barzola E.,Evloev M.,2.59,1.51,Evloev M.,PTS,11:00,26 Oct 2019,featherweight-ufc-men
+Rodriguez Y.,Stephens J.,1.77,2.07,Rodriguez Y.,PTS,03:30,19 Oct 2019,featherweight-ufc-men
+Magomedsharipov Z.,Kattar C.,,,canc.,canc.,01:00,19 Oct 2019,featherweight-ufc-men
+Swanson C.,Gracie K.,2.62,1.51,Swanson C.,PTS,02:30,13 Oct 2019,featherweight-ufc-men
+Davis B.,Chikadze G.,1.63,2.31,Chikadze G.,PTS,16:00,28 Sep 2019,featherweight-ufc-men
+Rodriguez Y.,Stephens J.,1.77,2.05,Draw,Draw,02:00,22 Sep 2019,featherweight-ufc-men
+Reyes M. P.,Nelson K.,1.93,1.87,Nelson K.,TKO,23:00,21 Sep 2019,featherweight-ufc-men
+Skelly C.,Griffin J.,2.29,1.64,Skelly C.,PTS,21:30,14 Sep 2019,featherweight-ufc-men
+Tukhugov Z.,Murphy L.,1.31,3.51,Draw,Draw,17:00,07 Sep 2019,featherweight-ufc-men
+Lu Zhenhong,Evloev M.,,,canc.,canc.,10:30,31 Aug 2019,featherweight-ufc-men
+Benitez G.,Yusuff S.,3.22,1.36,Yusuff S.,TKO,02:30,18 Aug 2019,featherweight-ufc-men
+Garagorri L. E.,Bandenay H.,1.72,2.17,Garagorri L. E.,PTS,01:30,11 Aug 2019,featherweight-ufc-men
+Holloway M.,Edgar F.,1.28,3.84,Holloway M.,PTS,04:00,28 Jul 2019,featherweight-ufc-men
+Dawodu H.,Horie Y.,1.25,4.05,Dawodu H.,TKO,01:00,28 Jul 2019,featherweight-ufc-men
+Caceres A.,Peterson S.,1.87,1.96,Caceres A.,PTS,00:30,21 Jul 2019,featherweight-ufc-men
+Emmett J.,Bektic M.,2.33,1.61,Emmett J.,TKO,01:00,14 Jul 2019,featherweight-ufc-men
+Fili A.,Moraes S.,1.69,2.18,Fili A.,KO,23:00,13 Jul 2019,featherweight-ufc-men
+Melendez G.,Allen A.,3.7,1.29,Allen A.,PTS,01:30,07 Jul 2019,featherweight-ufc-men
+Griffin J.,Murdock V.,1.25,4.0,canc.,canc.,22:15,29 Jun 2019,featherweight-ufc-men
+Carneiro R.,Jung C. S.,1.48,2.69,Jung C. S.,TKO,01:00,23 Jun 2019,featherweight-ufc-men
+Ige D.,Aguilar K.,2.17,1.69,Ige D.,PTS,22:30,22 Jun 2019,featherweight-ufc-men
+Lamas R.,Kattar C.,2.36,1.61,Kattar C.,TKO,00:00,09 Jun 2019,featherweight-ufc-men
+Amirkhani M.,Fishgold C.,1.82,2.0,Amirkhani M.,SUBM,18:00,01 Jun 2019,featherweight-ufc-men
+Trizano M.,Dawson G.,2.4,1.6,Dawson G.,SUBM,23:00,18 May 2019,featherweight-ufc-men
+Aldo J.,Volkanovski A.,1.68,2.23,Volkanovski A.,PTS,03:00,12 May 2019,featherweight-ufc-men
+Swanson C.,Burgos S.,2.37,1.59,Burgos S.,PTS,01:30,05 May 2019,featherweight-ufc-men
+Nelson K.,Sayles M.,2.67,1.48,Sayles M.,SUBM,22:00,04 May 2019,featherweight-ufc-men
+Sanchez J.,Herrera G.,1.89,1.91,Herrera G.,TKO,22:00,11 Dec 2015,flyweight-ufc-men
+Yao Z.,Serrano F.,2.39,1.57,Serrano F.,TKO,10:00,28 Nov 2015,flyweight-ufc-men
+Formiga J.,Cejudo H.,4.84,1.18,Cejudo H.,PTS,03:00,22 Nov 2015,flyweight-ufc-men
+Vaculik R.,Martinez D.,1.86,1.93,Martinez D.,PTS,01:00,15 Nov 2015,flyweight-ufc-men
+Nguyen B.,Benoit R.,1.71,2.11,Nguyen B.,SUBM,23:15,14 Nov 2015,flyweight-ufc-men
+Holohan P.,Smolka L.,2.03,1.75,Smolka L.,SUBM,20:00,24 Oct 2015,flyweight-ufc-men
+Benavidez J.,Bagautinov A.,1.3,3.38,Benavidez J.,PTS,23:00,03 Oct 2015,flyweight-ufc-men
+Horiguchi K.,Camus C.,1.24,4.05,Horiguchi K.,PTS,02:00,27 Sep 2015,flyweight-ufc-men
+Johnson D.,Dodson J.,1.16,5.05,Johnson D.,PTS,02:00,06 Sep 2015,flyweight-ufc-men
+Kelades C.,Beal C.,2.33,1.59,Kelades C.,PTS,23:00,23 Aug 2015,flyweight-ufc-men
+Borg R.,Herrera G.,1.22,4.48,Borg R.,PTS,02:00,09 Aug 2015,flyweight-ufc-men
+Smolka L.,Borg R.,2.04,1.76,Borg R.,PTS,03:00,31 Dec 2016,flyweight-ufc-men
+Sandoval H.,Serrano F.,1.8,2.01,Sandoval H.,PTS,21:30,17 Dec 2016,flyweight-ufc-men
+Makovsky Z.,Ortiz D.,1.64,2.27,Ortiz D.,PTS,23:30,10 Dec 2016,flyweight-ufc-men
+Benavidez J.,Cejudo H.,1.5,2.62,Benavidez J.,PTS,03:00,04 Dec 2016,flyweight-ufc-men
+Moreno B.,Benoit R.,1.58,2.45,Moreno B.,PTS,03:00,04 Dec 2016,flyweight-ufc-men
+Nguyen B.,Herrera G.,1.78,2.05,Nguyen B.,PTS,01:00,27 Nov 2016,flyweight-ufc-men
+Yao Z.,Lausa J.,2.12,1.73,Lausa J.,PTS,23:30,26 Nov 2016,flyweight-ufc-men
+Horiguchi K.,Bagautinov A.,1.5,2.58,Horiguchi K.,PTS,17:15,19 Nov 2016,flyweight-ufc-men
+Smolka L.,Moreno B.,1.19,4.79,Moreno B.,SUBM,03:00,02 Oct 2016,flyweight-ufc-men
+Formiga J.,Ortiz D.,1.49,2.66,Formiga J.,PTS,00:00,25 Sep 2016,flyweight-ufc-men
+McCall I.,Borg R.,,,canc.,canc.,00:00,11 Sep 2016,flyweight-ufc-men
+Benoit R.,Serrano F.,1.94,1.88,Benoit R.,PTS,02:00,31 Jul 2016,flyweight-ufc-men
+Reis W.,Sandoval H.,1.28,3.71,Reis W.,SUBM,00:00,31 Jul 2016,flyweight-ufc-men
+Nguyen B.,Smolka L.,1.77,2.05,Smolka L.,TKO,01:00,14 Jul 2016,flyweight-ufc-men
+Moraga J.,Nicolau M.,,,PTS,PTS,02:00,09 Jul 2016,flyweight-ufc-men
+Bagautinov A.,Herrera G.,1.32,3.41,Bagautinov A.,PTS,22:45,18 Jun 2016,flyweight-ufc-men
+Horiguchi K.,Seery N.,1.17,5.06,Horiguchi K.,PTS,14:30,08 May 2016,flyweight-ufc-men
+Johnson D.,Cejudo H.,1.25,3.96,Johnson D.,TKO,02:00,24 Apr 2016,flyweight-ufc-men
+Rivera F.,Pickett B.,1.59,2.34,Pickett B.,PTS,21:00,27 Feb 2016,flyweight-ufc-men
+Benavidez J.,Makovsky Z.,1.25,4.21,Benavidez J.,PTS,04:00,07 Feb 2016,flyweight-ufc-men
+Borg R.,Scoggins J.,1.42,2.87,Scoggins J.,PTS,23:00,06 Feb 2016,flyweight-ufc-men
+Ortiz D.,Reis W.,1.42,2.86,Reis W.,PTS,22:00,30 Jan 2016,flyweight-ufc-men
+Smolka L.,Nicolau M.,2.88,1.42,Nicolau M.,PTS,01:00,31 Dec 2017,flyweight-ufc-men
+Elliott T.,Menga P.,1.37,3.02,canc.,canc.,22:00,16 Dec 2017,flyweight-ufc-men
+Cejudo H.,Pettis S.,1.33,3.24,Cejudo H.,PTS,03:00,03 Dec 2017,flyweight-ufc-men
+Benoit R.,Mokhtarian A.,1.33,3.24,Benoit R.,KO,01:00,19 Nov 2017,flyweight-ufc-men
+Lausa J.,Shelton E.,3.88,1.26,Shelton E.,PTS,23:30,18 Nov 2017,flyweight-ufc-men
+Figueiredo D.,Brooks J.,2.34,1.59,Figueiredo D.,PTS,22:00,28 Oct 2017,flyweight-ufc-men
+Johnson D.,Borg R.,1.08,7.59,Johnson D.,SUBM,02:00,08 Oct 2017,flyweight-ufc-men
+Moraga J.,Bibulatov M.,5.2,1.16,Moraga J.,KO,22:30,07 Oct 2017,flyweight-ufc-men
+Formiga J.,Sasaki Y.,1.24,4.12,Formiga J.,SUBM,00:00,23 Sep 2017,flyweight-ufc-men
+Johnson D.,Borg R.,,,canc.,canc.,02:00,10 Sep 2017,flyweight-ufc-men
+Pettis S.,Moreno B.,2.42,1.57,Pettis S.,PTS,02:00,06 Aug 2017,flyweight-ufc-men
+Morales J.,Sanchez R.,1.99,1.82,Morales J.,SUBM,23:00,05 Aug 2017,flyweight-ufc-men
+Pantoja A.,Seery N.,1.28,3.68,Pantoja A.,SUBM,17:00,16 Jul 2017,flyweight-ufc-men
+Inoue N.,de Tomas C. J.,1.35,3.31,Inoue N.,PTS,08:45,17 Jun 2017,flyweight-ufc-men
+Elliott T.,Nguyen B.,1.51,2.66,Nguyen B.,SUBM,02:00,11 Jun 2017,flyweight-ufc-men
+Beltran M.,Figueiredo D.,2.23,1.69,Figueiredo D.,TKO,22:30,03 Jun 2017,flyweight-ufc-men
+Ortiz D.,Moreno B.,1.81,2.02,Moreno B.,SUBM,00:00,23 Apr 2017,flyweight-ufc-men
+Sandoval H.,Schnell M.,2.24,1.67,Sandoval H.,KO,22:30,22 Apr 2017,flyweight-ufc-men
+Johnson D.,Reis W.,1.11,6.8,Johnson D.,SUBM,00:00,16 Apr 2017,flyweight-ufc-men
+Smolka L.,Elliott T.,2.6,1.5,Elliott T.,PTS,22:00,15 Apr 2017,flyweight-ufc-men
+Lausa J.,Bibulatov M.,5.29,1.17,Bibulatov M.,PTS,22:15,08 Apr 2017,flyweight-ufc-men
+Formiga J.,Borg R.,2.06,1.79,Borg R.,PTS,03:00,12 Mar 2017,flyweight-ufc-men
+McCall I.,Brooks J.,2.0,1.72,canc.,canc.,01:00,12 Feb 2017,flyweight-ufc-men
+Pantoja A.,Shelton E.,2.0,1.79,Pantoja A.,PTS,21:00,28 Jan 2017,flyweight-ufc-men
+Moraga J.,Pettis S.,2.21,1.67,Pettis S.,PTS,03:00,16 Jan 2017,flyweight-ufc-men
+Reis W.,Nguyen B.,2.19,1.68,Reis W.,PTS,02:00,02 Dec 2018,flyweight-ufc-men
+Benavidez J.,Perez A.,2.07,1.75,Benavidez J.,TKO,02:00,01 Dec 2018,flyweight-ufc-men
+Pantoja A.,Sasaki Y.,1.3,3.61,Pantoja A.,SUBM,02:00,18 Nov 2018,flyweight-ufc-men
+Morales J.,Shelton E.,2.22,1.67,Shelton E.,PTS,00:30,11 Nov 2018,flyweight-ufc-men
+Pettis S.,Formiga J.,1.52,2.58,Formiga J.,PTS,01:30,07 Oct 2018,flyweight-ufc-men
+Sanchez R.,Brooks J.,3.31,1.35,Brooks J.,PTS,22:30,08 Sep 2018,flyweight-ufc-men
+Moraga J.,Figueiredo D.,2.42,1.6,Figueiredo D.,TKO,02:30,26 Aug 2018,flyweight-ufc-men
+Johnson D.,Cejudo H.,1.21,4.7,Cejudo H.,PTS,03:30,05 Aug 2018,flyweight-ufc-men
+Perez A.,Torres J.,1.67,2.24,Perez A.,KO,23:30,04 Aug 2018,flyweight-ufc-men
+Ortiz D.,Nicolau M.,2.59,1.53,Ortiz D.,KO,21:00,28 Jul 2018,flyweight-ufc-men
+Scoggins J.,Nurmagomedov S.,2.01,1.82,Nurmagomedov S.,PTS,00:30,15 Jul 2018,flyweight-ufc-men
+De La Rosa M.,Garcia E.,2.21,1.69,De La Rosa M.,SUBM,23:00,14 Jul 2018,flyweight-ufc-men
+Schnell M.,Inoue N.,2.6,1.52,Schnell M.,PTS,08:00,23 Jun 2018,flyweight-ufc-men
+Benavidez J.,Pettis S.,1.49,2.7,Pettis S.,PTS,22:45,09 Jun 2018,flyweight-ufc-men
+Brooks J.,Torres J.,2.29,1.65,Torres J.,KO,22:30,01 Jun 2018,flyweight-ufc-men
+Moreno B.,Pantoja A.,1.96,1.87,Pantoja A.,PTS,00:30,20 May 2018,flyweight-ufc-men
+Bibulatov M.,Sasaki Y.,,,canc.,canc.,00:30,22 Apr 2018,flyweight-ufc-men
+Reis W.,Moraga J.,,,PTS,PTS,01:00,15 Apr 2018,flyweight-ufc-men
+Shelton E.,Perez A.,,,PTS,PTS,00:15,25 Feb 2018,flyweight-ufc-men
+Sanchez R.,Sanchez J.,2.24,1.66,Sanchez R.,SUBM,00:00,19 Feb 2018,flyweight-ufc-men
+Formiga J.,Nguyen B.,1.83,1.96,Formiga J.,SUBM,00:00,11 Feb 2018,flyweight-ufc-men
+Figueiredo D.,Morales J.,1.63,2.27,Figueiredo D.,KO,23:30,03 Feb 2018,flyweight-ufc-men
+Ortiz D.,Pantoja A.,2.0,1.8,Ortiz D.,PTS,00:30,21 Jan 2018,flyweight-ufc-men
+Pantoja A.,Schnell M.,1.4,2.94,Pantoja A.,KO,08:00,21 Dec 2019,flyweight-ufc-men
+Pettis S.,Kara-France K.,,,canc.,canc.,03:00,15 Dec 2019,flyweight-ufc-men
+Moreno B.,Kara-France K.,2.33,1.6,Moreno B.,PTS,00:00,15 Dec 2019,flyweight-ufc-men
+Figueiredo D.,Elliott T.,1.53,2.6,Figueiredo D.,SUBM,23:00,12 Oct 2019,flyweight-ufc-men
+Moreno B.,Askarov A.,2.38,1.59,Draw,Draw,01:00,22 Sep 2019,flyweight-ufc-men
+Pettis S.,Nam T.,1.3,3.48,Pettis S.,PTS,22:00,21 Sep 2019,flyweight-ufc-men
+Kara-France K.,De La Rosa M.,1.49,2.69,Kara-France K.,PTS,11:00,31 Aug 2019,flyweight-ufc-men
+Bontorin R.,Paiva R.,1.92,1.88,Bontorin R.,TKO,22:30,10 Aug 2019,flyweight-ufc-men
+Espinosa J.,Schnell M.,1.7,2.15,Schnell M.,SUBM,17:30,03 Aug 2019,flyweight-ufc-men
+Pantoja A.,Figueiredo D.,1.79,2.05,Figueiredo D.,PTS,00:00,28 Jul 2019,flyweight-ufc-men
+Formiga J.,Benavidez J.,2.16,1.71,Benavidez J.,TKO,03:00,30 Jun 2019,flyweight-ufc-men
+Reis W.,Pantoja A.,2.35,1.62,Pantoja A.,TKO,01:00,14 Apr 2019,flyweight-ufc-men
+Formiga J.,Figueiredo D.,2.33,1.61,Formiga J.,PTS,01:00,24 Mar 2019,flyweight-ufc-men
+Shelton E.,Espinosa J.,1.68,2.19,Espinosa J.,PTS,21:00,23 Mar 2019,flyweight-ufc-men
+Kara-France K.,Paiva R.,1.4,3.01,Kara-France K.,PTS,01:30,10 Feb 2019,flyweight-ufc-men
+Bontorin R.,Bibulatov M.,3.72,1.28,Bontorin R.,PTS,22:00,02 Feb 2019,flyweight-ufc-men
+Cejudo H.,Dillashaw TJ,2.92,1.42,Cejudo H.,TKO,05:30,20 Jan 2019,flyweight-ufc-men
+Schnell M.,Nam T.,1.9,1.8,canc.,canc.,23:30,12 Sep 2020,flyweight-ufc-men
+Kape M.,Bontorin R.,,,canc.,canc.,23:00,15 Aug 2020,flyweight-ufc-men
+Figueiredo D.,Benavidez J.,1.41,2.87,Figueiredo D.,SUBM,02:00,19 Jul 2020,flyweight-ufc-men
+Doskalchuk A.,Ulanbekov T.,,,canc.,canc.,21:50,18 Jul 2020,flyweight-ufc-men
+Gordon M.,Albazi A.,2.22,1.67,Albazi A.,SUBM,21:30,18 Jul 2020,flyweight-ufc-men
+Elliott T.,Benoit R.,1.66,2.26,Elliott T.,PTS,03:30,16 Jul 2020,flyweight-ufc-men
+Zhumagalov Z.,Paiva R.,2.29,1.63,Paiva R.,PTS,23:00,11 Jul 2020,flyweight-ufc-men
+Espinosa J.,De La Rosa M.,1.59,2.39,Espinosa J.,PTS,01:00,14 Jun 2020,flyweight-ufc-men
+Nam T.,Adashev Z.,1.71,2.17,Nam T.,KO,23:15,13 Jun 2020,flyweight-ufc-men
+Zhumagalov Z.,Espinosa J.,,,canc.,canc.,15:00,13 Jun 2020,flyweight-ufc-men
+Formiga J.,Perez A.,2.11,1.74,Perez A.,TKO,23:00,06 Jun 2020,flyweight-ufc-men
+Elliott T.,Royval B.,1.62,2.33,Royval B.,SUBM,23:00,30 May 2020,flyweight-ufc-men
+Kara-France K.,Perez A.,,,canc.,canc.,21:00,16 May 2020,flyweight-ufc-men
+Formiga J.,Moreno B.,1.55,2.48,Moreno B.,PTS,21:45,14 Mar 2020,flyweight-ufc-men
+Benavidez J.,Figueiredo D.,1.64,2.27,Figueiredo D.,TKO,03:00,01 Mar 2020,flyweight-ufc-men
+Kara-France K.,Nam T.,1.37,3.08,Kara-France K.,PTS,22:00,22 Feb 2020,flyweight-ufc-men
+Borg R.,Bontorin R.,1.67,2.22,Borg R.,PTS,01:30,16 Feb 2020,flyweight-ufc-men
+De La Rosa M.,Paiva R.,3.09,1.38,Paiva R.,KO,22:00,15 Feb 2020,flyweight-ufc-men
+Espinosa J.,Perez A.,3.03,1.38,Perez A.,SUBM,02:00,26 Jan 2020,flyweight-ufc-men
+Elliott T.,Askarov A.,2.24,1.65,Askarov A.,PTS,01:30,19 Jan 2020,flyweight-ufc-men
+Dos Santos J.,Overeem A.,1.39,3.01,Overeem A.,TKO,01:00,20 Dec 2015,heavyweight-ufc-men
+Henrique L.,Ngannou F.,2.12,1.73,Ngannou F.,KO,20:30,19 Dec 2015,heavyweight-ufc-men
+Gonzaga G.,Erokhin K.,2.04,1.8,Gonzaga G.,PTS,22:00,11 Dec 2015,heavyweight-ufc-men
+Hunt M.,Silva A.,1.36,3.12,Hunt M.,TKO,03:00,15 Nov 2015,heavyweight-ufc-men
+Jordan S.,Magomedov R.,2.56,1.5,Magomedov R.,PTS,23:00,03 Oct 2015,heavyweight-ufc-men
+Barnett J.,Nelson R.,1.31,3.37,Barnett J.,PTS,02:00,27 Sep 2015,heavyweight-ufc-men
+Arlovski A.,Mir F.,1.59,2.33,Arlovski A.,PTS,02:00,06 Sep 2015,heavyweight-ufc-men
+Rosholt J.,Johnson T.,1.35,3.21,Rosholt J.,PTS,02:00,09 Aug 2015,heavyweight-ufc-men
+Silva A.,Palelei S.,2.62,1.48,Silva A.,TKO,02:00,02 Aug 2015,heavyweight-ufc-men
+Lewis D.,Abdurahimov S.,1.43,2.85,Lewis D.,TKO,02:00,10 Dec 2016,heavyweight-ufc-men
+Henrique L.,Colombo C.,1.36,2.9,Henrique L.,SUBM,02:00,20 Nov 2016,heavyweight-ufc-men
+Johnson T.,Volkov A.,1.71,2.16,Volkov A.,PTS,21:00,19 Nov 2016,heavyweight-ufc-men
+Struve S.,Omielanczuk D.,1.53,2.54,Struve S.,SUBM,02:00,09 Oct 2016,heavyweight-ufc-men
+Abdurahimov S.,Harris W.,1.68,2.13,Abdurahimov S.,PTS,01:00,02 Oct 2016,heavyweight-ufc-men
+East C.,Blaydes C.,2.91,1.42,Blaydes C.,TKO,23:15,01 Oct 2016,heavyweight-ufc-men
+Nelson R.,Silva A.,1.23,4.21,Nelson R.,KO,02:00,25 Sep 2016,heavyweight-ufc-men
+Miocic S.,Overeem A.,1.84,2.0,Miocic S.,KO,02:00,11 Sep 2016,heavyweight-ufc-men
+Arlovski A.,Barnett J.,2.2,1.67,Barnett J.,SUBM,19:00,03 Sep 2016,heavyweight-ufc-men
+Pesta V.,Tybura M.,2.0,1.82,Tybura M.,KO,00:00,07 Aug 2016,heavyweight-ufc-men
+Sherman C.,Ledet J.,2.03,1.79,Ledet J.,PTS,23:00,06 Aug 2016,heavyweight-ufc-men
+Hamilton A.,Grabowski D.,1.81,2.02,Hamilton A.,KO,00:00,31 Jul 2016,heavyweight-ufc-men
+Ngannou F.,Mihajlovic B.,1.16,5.39,Ngannou F.,TKO,00:00,24 Jul 2016,heavyweight-ufc-men
+Henrique L.,Smoliakov D.,2.15,1.7,Henrique L.,SUBM,20:00,23 Jul 2016,heavyweight-ufc-men
+Oleynik A.,Omielanczuk D.,1.46,2.72,Omielanczuk D.,PTS,01:00,14 Jul 2016,heavyweight-ufc-men
+Lesnar B.,Hunt M.,2.28,1.64,Lesnar B.,PTS,02:00,10 Jul 2016,heavyweight-ufc-men
+Nelson R.,Lewis D.,1.8,2.04,Lewis D.,PTS,02:00,08 Jul 2016,heavyweight-ufc-men
+De La Rocha Ch.,Milstead A.,3.2,1.35,Milstead A.,TKO,22:00,29 May 2016,heavyweight-ufc-men
+Werdum F.,Miocic S.,1.57,2.47,Miocic S.,KO,04:00,15 May 2016,heavyweight-ufc-men
+Overeem A.,Arlovski A.,1.42,2.85,Overeem A.,TKO,18:00,08 May 2016,heavyweight-ufc-men
+Harris W.,East C.,2.35,1.58,Harris W.,TKO,22:30,23 Apr 2016,heavyweight-ufc-men
+Johnson T.,Tybura M.,2.19,1.68,Johnson T.,PTS,18:00,10 Apr 2016,heavyweight-ufc-men
+Ngannou F.,Blaydes C.,2.15,1.7,Ngannou F.,TKO,18:00,10 Apr 2016,heavyweight-ufc-men
+Cannonier J.,Asker C.,1.6,2.31,Cannonier J.,KO,14:30,10 Apr 2016,heavyweight-ufc-men
+Hunt M.,Mir F.,1.78,2.02,Hunt M.,KO,02:00,20 Mar 2016,heavyweight-ufc-men
+Omielanczuk D.,Danho J.,1.81,1.98,Omielanczuk D.,PTS,17:45,27 Feb 2016,heavyweight-ufc-men
+Hamilton A.,Abdurahimov S.,,,PTS,PTS,02:00,22 Feb 2016,heavyweight-ufc-men
+Nelson R.,Rosholt J.,1.71,2.19,Nelson R.,PTS,03:00,07 Feb 2016,heavyweight-ufc-men
+Barnett J.,Rothwell B.,1.73,2.09,Rothwell B.,SUBM,01:00,31 Jan 2016,heavyweight-ufc-men
+Browne T.,Mitrione M.,1.57,2.42,Browne T.,KO,03:00,18 Jan 2016,heavyweight-ufc-men
+Miocic S.,Arlovski A.,1.47,2.71,Miocic S.,TKO,03:00,03 Jan 2016,heavyweight-ufc-men
+Overeem A.,Ngannou F.,2.78,1.43,Ngannou F.,KO,03:00,03 Dec 2017,heavyweight-ufc-men
+Asker C.,Hu Y.,1.39,3.02,Asker C.,SUBM,08:45,25 Nov 2017,heavyweight-ufc-men
+Werdum F.,Tybura M.,1.28,3.63,Werdum F.,PTS,03:00,19 Nov 2017,heavyweight-ufc-men
+Hamilton A.,Wieczorek A.,2.4,1.57,Wieczorek A.,PTS,23:30,18 Nov 2017,heavyweight-ufc-men
+Albini J.,Arlovski A.,1.3,3.47,Arlovski A.,PTS,03:00,12 Nov 2017,heavyweight-ufc-men
+Harris W.,Godbeer M.,1.26,3.82,Godbeer M.,TKO,00:00,05 Nov 2017,heavyweight-ufc-men
+Golm M.,Colombo C.,1.42,2.88,Golm M.,SUBM,22:00,28 Oct 2017,heavyweight-ufc-men
+Werdum F.,Harris W.,1.39,3.07,Werdum F.,SUBM,02:00,08 Oct 2017,heavyweight-ufc-men
+Harris W.,Godbeer M.,1.28,3.64,canc.,canc.,22:30,07 Oct 2017,heavyweight-ufc-men
+Ledet J.,Anyanwu A.,1.24,4.13,Ledet J.,PTS,02:00,17 Sep 2017,heavyweight-ufc-men
+Henrique L.,Bhullar A.,2.67,1.48,Bhullar A.,PTS,22:30,09 Sep 2017,heavyweight-ufc-men
+Volkov A.,Struve S.,1.78,2.01,Volkov A.,TKO,19:00,02 Sep 2017,heavyweight-ufc-men
+Grabowski D.,Sherman C.,3.0,1.4,Sherman C.,PTS,22:00,22 Jul 2017,heavyweight-ufc-men
+Mulheron J.,Willis J.,2.52,1.53,Willis J.,PTS,19:00,16 Jul 2017,heavyweight-ufc-men
+Omielanczuk D.,Blaydes C.,5.97,1.14,Blaydes C.,PTS,02:00,09 Jul 2017,heavyweight-ufc-men
+Browne T.,Oleynik A.,1.37,3.1,Oleynik A.,SUBM,00:00,09 Jul 2017,heavyweight-ufc-men
+Johnson J.,Fortuna M.,1.47,2.72,Johnson J.,PTS,01:00,08 Jul 2017,heavyweight-ufc-men
+Arlovski A.,Tybura M.,2.86,1.44,Tybura M.,PTS,13:20,17 Jun 2017,heavyweight-ufc-men
+Lewis D.,Hunt M.,1.59,2.4,Hunt M.,TKO,02:00,11 Jun 2017,heavyweight-ufc-men
+Miocic S.,Dos Santos J.,1.69,2.2,Miocic S.,TKO,02:00,14 May 2017,heavyweight-ufc-men
+Sherman C.,Coulter R.,1.89,1.92,Sherman C.,KO,22:15,13 May 2017,heavyweight-ufc-men
+Volkov A.,Nelson R.,1.61,2.33,Volkov A.,PTS,22:00,15 Apr 2017,heavyweight-ufc-men
+Omielanczuk D.,Johnson T.,2.67,1.48,Johnson T.,PTS,19:45,18 Mar 2017,heavyweight-ufc-men
+Overeem A.,Hunt M.,1.68,2.23,Overeem A.,KO,03:00,05 Mar 2017,heavyweight-ufc-men
+Tybura M.,Henrique L.,1.6,2.36,Tybura M.,TKO,01:00,05 Mar 2017,heavyweight-ufc-men
+Lewis D.,Browne T.,1.88,1.94,Lewis D.,KO,02:00,20 Feb 2017,heavyweight-ufc-men
+Tybura M.,Willis J.,,,canc.,canc.,23:30,11 Feb 2017,heavyweight-ufc-men
+Hamilton A.,Fortuna M.,1.45,2.77,Fortuna M.,KO,03:00,05 Feb 2017,heavyweight-ufc-men
+Arlovski A.,Ngannou F.,3.91,1.25,Ngannou F.,TKO,01:00,29 Jan 2017,heavyweight-ufc-men
+Oleynik A.,Pesta V.,1.67,2.19,Oleynik A.,SUBM,01:00,16 Jan 2017,heavyweight-ufc-men
+Harris W.,Sherman C.,1.69,2.16,Harris W.,KO,23:15,15 Jan 2017,heavyweight-ufc-men
+Arlovski A.,Harris W.,2.61,1.5,Harris W.,PTS,02:30,30 Dec 2018,heavyweight-ufc-men
+De La Rocha Ch.,Adams J.,4.25,1.22,Adams J.,TKO,20:30,15 Dec 2018,heavyweight-ufc-men
+Dos Santos J.,Tuivasa T.,1.63,2.31,Dos Santos J.,TKO,05:30,02 Dec 2018,heavyweight-ufc-men
+Frazier J.,Espino J.,2.4,1.57,Espino J.,SUBM,05:00,01 Dec 2018,heavyweight-ufc-men
+Blaydes C.,Ngannou F.,1.44,2.85,Ngannou F.,TKO,13:00,24 Nov 2018,heavyweight-ufc-men
+Cormier D.,Lewis D.,1.23,4.34,Cormier D.,SUBM,04:00,04 Nov 2018,heavyweight-ufc-men
+Wieczorek A.,Rogerio de Lima M.,1.57,2.51,Rogerio de Lima M.,PTS,23:00,03 Nov 2018,heavyweight-ufc-men
+Bhullar A.,Golm M.,1.63,2.32,Bhullar A.,PTS,22:00,27 Oct 2018,heavyweight-ufc-men
+Lewis D.,Volkov A.,2.43,1.58,Lewis D.,KO,02:30,07 Oct 2018,heavyweight-ufc-men
+Sakai A.,Sherman C.,1.46,2.8,Sakai A.,TKO,00:30,23 Sep 2018,heavyweight-ufc-men
+Hunt M.,Oleynik A.,1.77,2.05,Oleynik A.,SUBM,19:30,15 Sep 2018,heavyweight-ufc-men
+Tybura M.,Struve S.,1.46,2.77,Tybura M.,PTS,19:05,22 Jul 2018,heavyweight-ufc-men
+Dos Santos J.,Ivanov B.,1.54,2.58,Dos Santos J.,PTS,04:30,15 Jul 2018,heavyweight-ufc-men
+Miocic S.,Cormier D.,1.49,2.71,Cormier D.,KO,04:00,08 Jul 2018,heavyweight-ufc-men
+Arlovski A.,Tuivasa T.,2.81,1.46,Tuivasa T.,PTS,02:00,10 Jun 2018,heavyweight-ufc-men
+Coulter R.,De La Rocha Ch.,1.78,2.06,De La Rocha Ch.,TKO,23:30,09 Jun 2018,heavyweight-ufc-men
+Harris W.,Spitz D.,1.43,2.87,Harris W.,TKO,03:30,02 Jun 2018,heavyweight-ufc-men
+Oleynik A.,Albini J.,2.29,1.64,Oleynik A.,SUBM,01:30,13 May 2018,heavyweight-ufc-men
+Willis J.,Sherman C.,1.31,3.54,Willis J.,PTS,02:00,22 Apr 2018,heavyweight-ufc-men
+Bhullar A.,Wieczorek A.,,,SUBM,SUBM,23:30,14 Apr 2018,heavyweight-ufc-men
+Werdum F.,Volkov A.,1.48,2.7,Volkov A.,KO,22:00,17 Mar 2018,heavyweight-ufc-men
+Struve S.,Arlovski A.,1.53,2.53,Arlovski A.,PTS,03:30,04 Mar 2018,heavyweight-ufc-men
+Lewis D.,Tybura M.,2.0,1.81,Lewis D.,TKO,03:00,19 Feb 2018,heavyweight-ufc-men
+Hunt M.,Blaydes C.,2.44,1.58,Blaydes C.,PTS,04:00,11 Feb 2018,heavyweight-ufc-men
+Johnson T.,Golm M.,2.44,1.56,Johnson T.,PTS,02:30,04 Feb 2018,heavyweight-ufc-men
+Miocic S.,Ngannou F.,2.52,1.56,Miocic S.,PTS,04:30,21 Jan 2018,heavyweight-ufc-men
+Gane C.,Boser T.,1.15,5.31,Gane C.,PTS,09:30,21 Dec 2019,heavyweight-ufc-men
+Overeem A.,Rozenstruik J.,2.09,1.75,Rozenstruik J.,KO,04:30,08 Dec 2019,heavyweight-ufc-men
+Overeem A.,Harris W.,,,canc.,canc.,02:00,08 Dec 2019,heavyweight-ufc-men
+Volkov A.,Hardy G.,1.31,3.5,Volkov A.,PTS,21:00,09 Nov 2019,heavyweight-ufc-men
+Lewis D.,Ivanov B.,1.94,1.89,Lewis D.,PTS,02:30,03 Nov 2019,heavyweight-ufc-men
+Arlovski A.,Rozenstruik J.,2.24,1.65,Rozenstruik J.,KO,00:00,03 Nov 2019,heavyweight-ufc-men
+Hardy G.,Danho J.,,,canc.,canc.,21:00,26 Oct 2019,heavyweight-ufc-men
+Pavlovich S.,Greene M.,1.42,2.93,Pavlovich S.,TKO,10:30,26 Oct 2019,heavyweight-ufc-men
+Hardy G.,Sosoli B.,1.28,3.71,Draw,Draw,03:00,19 Oct 2019,heavyweight-ufc-men
+Spitz D.,Boser T.,2.15,1.71,Boser T.,PTS,22:00,18 Oct 2019,heavyweight-ufc-men
+Tuivasa T.,Spivak S.,1.32,3.45,Spivak S.,SUBM,02:30,06 Oct 2019,heavyweight-ufc-men
+Duffee T.,Hughes J.,2.08,1.77,Draw,Draw,01:30,15 Sep 2019,heavyweight-ufc-men
+Tybura M.,Sakai A.,2.0,1.82,Sakai A.,KO,23:30,14 Sep 2019,heavyweight-ufc-men
+Blaydes C.,Abdurahimov S.,1.2,4.61,Blaydes C.,TKO,18:30,07 Sep 2019,heavyweight-ufc-men
+Cormier D.,Miocic S.,1.73,2.13,Miocic S.,TKO,04:00,18 Aug 2019,heavyweight-ufc-men
+Gane C.,Pessoa R.,1.21,4.41,Gane C.,SUBM,23:30,10 Aug 2019,heavyweight-ufc-men
+Boser T.,Lemos G.,1.62,2.35,canc.,canc.,22:30,27 Jul 2019,heavyweight-ufc-men
+Oleynik A.,Harris W.,2.37,1.61,Harris W.,KO,03:00,21 Jul 2019,heavyweight-ufc-men
+Arlovski A.,Rothwell B.,2.53,1.54,Arlovski A.,PTS,01:00,21 Jul 2019,heavyweight-ufc-men
+Ngannou F.,Dos Santos J.,1.45,2.82,Ngannou F.,TKO,03:30,30 Jun 2019,heavyweight-ufc-men
+Greene M.,Albini J.,1.85,1.98,Greene M.,TKO,22:00,29 Jun 2019,heavyweight-ufc-men
+Crowder A.,Rozenstruik J.,2.89,1.42,Rozenstruik J.,KO,21:00,22 Jun 2019,heavyweight-ufc-men
+Tuivasa T.,Ivanov B.,1.63,2.31,Ivanov B.,PTS,02:00,09 Jun 2019,heavyweight-ufc-men
+Harris W.,Spivak S.,1.57,2.41,Harris W.,TKO,00:30,05 May 2019,heavyweight-ufc-men
+Bhullar A.,Adams J.,2.11,1.73,Bhullar A.,PTS,21:30,04 May 2019,heavyweight-ufc-men
+Hardy G.,Smoliakov D.,1.31,3.53,Hardy G.,TKO,03:00,28 Apr 2019,heavyweight-ufc-men
+Overeem A.,Oleynik A.,1.41,2.96,Overeem A.,TKO,19:30,20 Apr 2019,heavyweight-ufc-men
+Tybura M.,Abdurahimov S.,1.72,2.14,Abdurahimov S.,TKO,15:15,20 Apr 2019,heavyweight-ufc-men
+Blaydes C.,Willis J.,1.36,3.14,Blaydes C.,PTS,02:00,24 Mar 2019,heavyweight-ufc-men
+Lewis D.,Dos Santos J.,2.83,1.45,Dos Santos J.,TKO,04:00,10 Mar 2019,heavyweight-ufc-men
+Ivanov B.,Rothwell B.,2.0,1.85,Ivanov B.,PTS,02:30,10 Mar 2019,heavyweight-ufc-men
+Greene M.,Hughes J.,3.05,1.4,Greene M.,PTS,23:30,09 Mar 2019,heavyweight-ufc-men
+Struve S.,Rogerio de Lima M.,1.9,1.93,Struve S.,SUBM,21:00,23 Feb 2019,heavyweight-ufc-men
+Ngannou F.,Velasquez C.,2.55,1.52,Ngannou F.,KO,04:30,18 Feb 2019,heavyweight-ufc-men
+Albini J.,Sosnovskiy D.,,,canc.,canc.,02:00,03 Feb 2019,heavyweight-ufc-men
+Albini J.,Rozenstruik J.,1.73,2.13,Rozenstruik J.,TKO,23:30,02 Feb 2019,heavyweight-ufc-men
+Hardy G.,Crowder A.,1.2,4.71,Crowder A.,DQ,05:00,20 Jan 2019,heavyweight-ufc-men
+Romanov A.,Martinez R.,1.21,4.3,Romanov A.,SUBM,21:15,12 Sep 2020,heavyweight-ufc-men
+Overeem A.,Sakai A.,1.58,2.39,Overeem A.,TKO,01:30,06 Sep 2020,heavyweight-ufc-men
+Rogerio de Lima M.,Romanov A.,2.25,1.63,canc.,canc.,22:30,05 Sep 2020,heavyweight-ufc-men
+Saint Preux O.,Gamzatov S.,,,canc.,canc.,23:00,22 Aug 2020,heavyweight-ufc-men
+Miocic S.,Cormier D.,1.93,1.91,Miocic S.,PTS,04:00,16 Aug 2020,heavyweight-ufc-men
+Daukaus C.,Porter P.,1.96,1.86,Daukaus C.,TKO,23:30,15 Aug 2020,heavyweight-ufc-men
+Lewis D.,Oleynik A.,1.49,2.68,Lewis D.,TKO,03:00,09 Aug 2020,heavyweight-ufc-men
+Pavlovich S.,Gane C.,,,canc.,canc.,23:00,08 Aug 2020,heavyweight-ufc-men
+Werdum F.,Gustafsson A.,3.48,1.31,Werdum F.,SUBM,02:00,26 Jul 2020,heavyweight-ufc-men
+Collier J.,Aspinall T.,3.49,1.31,Aspinall T.,TKO,22:30,25 Jul 2020,heavyweight-ufc-men
+Spivak S.,Felipe C.,1.55,2.46,Spivak S.,PTS,21:00,18 Jul 2020,heavyweight-ufc-men
+Tybura M.,Grishin M.,1.72,2.13,Tybura M.,PTS,23:30,11 Jul 2020,heavyweight-ufc-men
+Tybura M.,Romanov A.,1.94,1.8,canc.,canc.,23:00,11 Jul 2020,heavyweight-ufc-men
+Villante G.,Greene M.,3.12,1.37,Greene M.,SUBM,01:30,28 Jun 2020,heavyweight-ufc-men
+Blaydes C.,Volkov A.,1.25,3.96,Blaydes C.,PTS,02:00,21 Jun 2020,heavyweight-ufc-men
+Ivanov B.,Sakai A.,1.97,1.85,Sakai A.,PTS,02:30,31 May 2020,heavyweight-ufc-men
+Overeem A.,Harris W.,2.28,1.65,Overeem A.,TKO,03:00,17 May 2020,heavyweight-ufc-men
+Mayes D.,Nascimento R.,1.9,1.91,Nascimento R.,SUBM,22:00,16 May 2020,heavyweight-ufc-men
+Rothwell B.,Saint Preux O.,2.23,1.69,Rothwell B.,PTS,02:30,14 May 2020,heavyweight-ufc-men
+Sherman C.,Villanueva I.,1.63,2.32,Sherman C.,TKO,22:00,13 May 2020,heavyweight-ufc-men
+Ngannou F.,Rozenstruik J.,1.38,3.11,Ngannou F.,KO,03:00,10 May 2020,heavyweight-ufc-men
+Werdum F.,Oleynik A.,1.31,3.5,Oleynik A.,PTS,01:00,10 May 2020,heavyweight-ufc-men
+Spivak S.,Felipe C.,,,canc.,canc.,21:00,09 May 2020,heavyweight-ufc-men
+Arlovski A.,Lins P.,,,canc.,canc.,21:00,02 May 2020,heavyweight-ufc-men
+Pessoa R.,Romanov A.,,,canc.,canc.,21:00,25 Apr 2020,heavyweight-ufc-men
+Hardy G.,De Castro Y.,,,canc.,canc.,02:00,19 Apr 2020,heavyweight-ufc-men
+Rothwell B.,Villante G.,,,canc.,canc.,02:00,19 Apr 2020,heavyweight-ufc-men
+Overeem A.,Harris W.,2.31,1.63,postp.,postp.,21:00,11 Apr 2020,heavyweight-ufc-men
+Boser T.,Hughes J.,,,postp.,postp.,22:00,28 Mar 2020,heavyweight-ufc-men
+Hardy G.,De Castro Y.,1.55,2.42,postp.,postp.,22:00,28 Mar 2020,heavyweight-ufc-men
+Collier J.,Aspinall T.,,,postp.,postp.,18:00,21 Mar 2020,heavyweight-ufc-men
+Tybura M.,Spivak S.,1.92,1.87,Tybura M.,PTS,23:30,29 Feb 2020,heavyweight-ufc-men
+Rogerio de Lima M.,Sosoli B.,1.63,2.32,Rogerio de Lima M.,TKO,01:00,23 Feb 2020,heavyweight-ufc-men
+Tafa J.,Adams J.,3.01,1.4,Tafa J.,TKO,04:00,09 Feb 2020,heavyweight-ufc-men
+Romanov A.,Martinez R.,1.21,4.3,Romanov A.,SUBM,21:15,12 Sep 2020,heavyweight-ufc-men
+Overeem A.,Sakai A.,1.58,2.39,Overeem A.,TKO,01:30,06 Sep 2020,heavyweight-ufc-men
+Rogerio de Lima M.,Romanov A.,2.25,1.63,canc.,canc.,22:30,05 Sep 2020,heavyweight-ufc-men
+Saint Preux O.,Gamzatov S.,,,canc.,canc.,23:00,22 Aug 2020,heavyweight-ufc-men
+Miocic S.,Cormier D.,1.93,1.91,Miocic S.,PTS,04:00,16 Aug 2020,heavyweight-ufc-men
+Daukaus C.,Porter P.,1.96,1.86,Daukaus C.,TKO,23:30,15 Aug 2020,heavyweight-ufc-men
+Lewis D.,Oleynik A.,1.49,2.68,Lewis D.,TKO,03:00,09 Aug 2020,heavyweight-ufc-men
+Pavlovich S.,Gane C.,,,canc.,canc.,23:00,08 Aug 2020,heavyweight-ufc-men
+Werdum F.,Gustafsson A.,3.48,1.31,Werdum F.,SUBM,02:00,26 Jul 2020,heavyweight-ufc-men
+Collier J.,Aspinall T.,3.49,1.31,Aspinall T.,TKO,22:30,25 Jul 2020,heavyweight-ufc-men
+Spivak S.,Felipe C.,1.55,2.46,Spivak S.,PTS,21:00,18 Jul 2020,heavyweight-ufc-men
+Tybura M.,Grishin M.,1.72,2.13,Tybura M.,PTS,23:30,11 Jul 2020,heavyweight-ufc-men
+Tybura M.,Romanov A.,1.94,1.8,canc.,canc.,23:00,11 Jul 2020,heavyweight-ufc-men
+Villante G.,Greene M.,3.12,1.37,Greene M.,SUBM,01:30,28 Jun 2020,heavyweight-ufc-men
+Blaydes C.,Volkov A.,1.25,3.96,Blaydes C.,PTS,02:00,21 Jun 2020,heavyweight-ufc-men
+Ivanov B.,Sakai A.,1.97,1.85,Sakai A.,PTS,02:30,31 May 2020,heavyweight-ufc-men
+Overeem A.,Harris W.,2.28,1.65,Overeem A.,TKO,03:00,17 May 2020,heavyweight-ufc-men
+Mayes D.,Nascimento R.,1.9,1.91,Nascimento R.,SUBM,22:00,16 May 2020,heavyweight-ufc-men
+Rothwell B.,Saint Preux O.,2.23,1.69,Rothwell B.,PTS,02:30,14 May 2020,heavyweight-ufc-men
+Sherman C.,Villanueva I.,1.63,2.32,Sherman C.,TKO,22:00,13 May 2020,heavyweight-ufc-men
+Ngannou F.,Rozenstruik J.,1.38,3.11,Ngannou F.,KO,03:00,10 May 2020,heavyweight-ufc-men
+Werdum F.,Oleynik A.,1.31,3.5,Oleynik A.,PTS,01:00,10 May 2020,heavyweight-ufc-men
+Spivak S.,Felipe C.,,,canc.,canc.,21:00,09 May 2020,heavyweight-ufc-men
+Arlovski A.,Lins P.,,,canc.,canc.,21:00,02 May 2020,heavyweight-ufc-men
+Pessoa R.,Romanov A.,,,canc.,canc.,21:00,25 Apr 2020,heavyweight-ufc-men
+Hardy G.,De Castro Y.,,,canc.,canc.,02:00,19 Apr 2020,heavyweight-ufc-men
+Rothwell B.,Villante G.,,,canc.,canc.,02:00,19 Apr 2020,heavyweight-ufc-men
+Overeem A.,Harris W.,2.31,1.63,postp.,postp.,21:00,11 Apr 2020,heavyweight-ufc-men
+Boser T.,Hughes J.,,,postp.,postp.,22:00,28 Mar 2020,heavyweight-ufc-men
+Hardy G.,De Castro Y.,1.55,2.42,postp.,postp.,22:00,28 Mar 2020,heavyweight-ufc-men
+Collier J.,Aspinall T.,,,postp.,postp.,18:00,21 Mar 2020,heavyweight-ufc-men
+Tybura M.,Spivak S.,1.92,1.87,Tybura M.,PTS,23:30,29 Feb 2020,heavyweight-ufc-men
+Rogerio de Lima M.,Sosoli B.,1.63,2.32,Rogerio de Lima M.,TKO,01:00,23 Feb 2020,heavyweight-ufc-men
+Tafa J.,Adams J.,3.01,1.4,Tafa J.,TKO,04:00,09 Feb 2020,heavyweight-ufc-men
+Perosh A.,Villante G.,4.82,1.18,Villante G.,KO,01:00,15 Nov 2015,light-heavyweight-ufc-men
+Maldonado F.,Anderson C.,4.97,1.18,Anderson C.,PTS,03:00,08 Nov 2015,light-heavyweight-ufc-men
+Bader R.,Evans R.,2.12,1.69,Bader R.,PTS,23:00,03 Oct 2015,light-heavyweight-ufc-men
+Blachowicz J.,Anderson C.,1.81,2.0,Anderson C.,PTS,02:00,06 Sep 2015,light-heavyweight-ufc-men
+Rogerio de Lima M.,Krylov N.,1.56,2.38,Krylov N.,TKO,23:00,23 Aug 2015,light-heavyweight-ufc-men
+Teixeira G.,Saint Preux O.,1.96,1.83,Teixeira G.,TKO,02:00,09 Aug 2015,light-heavyweight-ufc-men
+Rua M.,Nogueira A. R.,1.47,2.64,canc.,canc.,02:00,02 Aug 2015,light-heavyweight-ufc-men
+Da Silva L. H.,Craig P.,1.43,2.84,Craig P.,SUBM,23:00,17 Dec 2016,light-heavyweight-ufc-men
+Krylov N.,Cirkunov M.,1.9,1.89,Cirkunov M.,SUBM,01:00,11 Dec 2016,light-heavyweight-ufc-men
+Anderson C.,O'Connell S.,1.24,4.03,Anderson C.,TKO,02:00,10 Dec 2016,light-heavyweight-ufc-men
+Cutelaba I.,Cannonier J.,1.43,2.89,Cannonier J.,PTS,03:00,04 Dec 2016,light-heavyweight-ufc-men
+Stansbury J.,Clark D.,1.97,1.85,Clark D.,PTS,00:00,04 Dec 2016,light-heavyweight-ufc-men
+Rountree K.,Pedro T.,1.9,1.91,Pedro T.,SUBM,03:00,27 Nov 2016,light-heavyweight-ufc-men
+Bader R.,Nogueira A. R.,1.28,3.67,Bader R.,TKO,02:00,20 Nov 2016,light-heavyweight-ufc-men
+Barroso F.,Stewart D.,1.65,2.1,Stewart D.,TKO,00:00,20 Nov 2016,light-heavyweight-ufc-men
+Saint Preux O.,Manuwa J.,1.62,2.33,Manuwa J.,KO,02:00,09 Oct 2016,light-heavyweight-ufc-men
+Da Silva L. H.,Christensen J.,1.85,1.95,Da Silva L. H.,SUBM,01:00,02 Oct 2016,light-heavyweight-ufc-men
+Wilson J.,Cutelaba I.,2.21,1.67,Cutelaba I.,PTS,23:15,01 Oct 2016,light-heavyweight-ufc-men
+Trinaldo F.,Felder P.,1.75,2.1,Trinaldo F.,TKO,02:00,25 Sep 2016,light-heavyweight-ufc-men
+Bader R.,Latifi I.,1.54,2.54,Bader R.,TKO,19:00,03 Sep 2016,light-heavyweight-ufc-men
+Johnson A.,Teixeira G.,1.43,2.84,Johnson A.,KO,02:00,21 Aug 2016,light-heavyweight-ufc-men
+Krylov N.,Herman E.,1.42,2.9,Krylov N.,KO,00:00,31 Jul 2016,light-heavyweight-ufc-men
+Clark D.,Nicholson A.,1.44,2.84,Nicholson A.,KO,21:30,13 Jul 2016,light-heavyweight-ufc-men
+Cormier D.,Jones J.,,,canc.,canc.,02:00,10 Jul 2016,light-heavyweight-ufc-men
+Bosse S.,O'Connell S.,1.69,2.19,Bosse S.,PTS,02:30,19 Jun 2016,light-heavyweight-ufc-men
+Rua M.,Anderson C.,2.33,1.63,Rua M.,PTS,02:30,15 May 2016,light-heavyweight-ufc-men
+Nogueira A. R.,Cummins P.,2.9,1.42,Nogueira A. R.,KO,23:30,14 May 2016,light-heavyweight-ufc-men
+Krylov N.,Barroso F.,1.5,2.57,Krylov N.,SUBM,18:00,08 May 2016,light-heavyweight-ufc-men
+Jones J.,Saint Preux O.,1.14,5.88,Jones J.,PTS,02:00,24 Apr 2016,light-heavyweight-ufc-men
+Rogerio de Lima M.,Hester C.,1.78,2.04,Rogerio de Lima M.,SUBM,22:30,23 Apr 2016,light-heavyweight-ufc-men
+Teixeira G.,Evans R.,1.47,2.7,Teixeira G.,KO,00:00,17 Apr 2016,light-heavyweight-ufc-men
+Pokrajac I.,Blachowicz J.,3.73,1.27,Blachowicz J.,PTS,18:00,10 Apr 2016,light-heavyweight-ufc-men
+Anderson C.,Lawlor T.,1.33,3.38,Anderson C.,PTS,03:00,06 Mar 2016,light-heavyweight-ufc-men
+Saint Preux O.,Cavalcante R.,1.27,3.91,Saint Preux O.,PTS,04:00,07 Feb 2016,light-heavyweight-ufc-men
+Johnson A.,Bader R.,1.38,3.05,Johnson A.,KO,01:00,31 Jan 2016,light-heavyweight-ufc-men
+Barroso F.,Edilov A.,,,canc.,canc.,23:00,17 Jan 2016,light-heavyweight-ufc-men
+Latifi I.,O'Connell S.,1.36,3.13,Latifi I.,KO,23:00,17 Jan 2016,light-heavyweight-ufc-men
+Rountree K.,Oleksiejczuk M.,1.29,3.54,Oleksiejczuk M.,PTS,01:00,31 Dec 2017,light-heavyweight-ufc-men
+Teixeira G.,Cirkunov M.,2.35,1.58,Teixeira G.,TKO,01:00,17 Dec 2017,light-heavyweight-ufc-men
+Cannonier J.,Blachowicz J.,1.51,2.49,Blachowicz J.,PTS,22:00,16 Dec 2017,light-heavyweight-ufc-men
+Kimball J.,Reyes D.,,,SUBM,SUBM,01:00,03 Dec 2017,light-heavyweight-ufc-men
+Collier J.,Fortuna M.,2.96,1.4,Collier J.,PTS,23:30,11 Nov 2017,light-heavyweight-ufc-men
+Saint Preux O.,Anderson C.,1.6,2.33,Saint Preux O.,KO,00:00,05 Nov 2017,light-heavyweight-ufc-men
+Blachowicz J.,Clark D.,2.26,1.62,Blachowicz J.,SUBM,19:00,21 Oct 2017,light-heavyweight-ufc-men
+Saint Preux O.,Okami Y.,1.2,4.49,Saint Preux O.,SUBM,02:00,23 Sep 2017,light-heavyweight-ufc-men
+Latifi I.,Pedro T.,2.17,1.69,Latifi I.,PTS,02:00,10 Sep 2017,light-heavyweight-ufc-men
+Barroso F.,Rakic A.,2.22,1.66,Rakic A.,PTS,15:30,02 Sep 2017,light-heavyweight-ufc-men
+Cormier D.,Jones J.,3.23,1.35,Draw,Draw,02:00,30 Jul 2017,light-heavyweight-ufc-men
+Cummins P.,Villante G.,2.67,1.49,Cummins P.,PTS,00:00,23 Jul 2017,light-heavyweight-ufc-men
+Rountree K.,Craig P.,1.59,2.4,Rountree K.,KO,19:00,16 Jul 2017,light-heavyweight-ufc-men
+Bochnovic J.,Giles T.,3.25,1.36,Giles T.,KO,22:30,08 Jul 2017,light-heavyweight-ufc-men
+Herman E.,Dollaway CB,2.46,1.56,Dollaway CB,PTS,23:00,07 Jul 2017,light-heavyweight-ufc-men
+Christensen J.,Reyes D.,3.63,1.31,Reyes D.,TKO,01:00,26 Jun 2017,light-heavyweight-ufc-men
+Stansbury J.,Kimball J.,1.61,2.37,Kimball J.,TKO,21:30,25 Jun 2017,light-heavyweight-ufc-men
+Cutelaba I.,Da Silva L. H.,1.35,3.35,Cutelaba I.,KO,02:00,11 Jun 2017,light-heavyweight-ufc-men
+Gustafsson A.,Teixeira G.,1.34,3.39,Gustafsson A.,KO,17:00,28 May 2017,light-heavyweight-ufc-men
+Christensen J.,Antigulov G.,4.23,1.24,Antigulov G.,SUBM,22:15,13 May 2017,light-heavyweight-ufc-men
+Saint Preux O.,Rogerio de Lima M.,1.58,2.39,Saint Preux O.,SUBM,02:00,23 Apr 2017,light-heavyweight-ufc-men
+Clark D.,Collier J.,1.71,2.15,Clark D.,PTS,20:00,15 Apr 2017,light-heavyweight-ufc-men
+Cormier D.,Johnson A.,2.08,1.76,Cormier D.,SUBM,02:00,09 Apr 2017,light-heavyweight-ufc-men
+Manuwa J.,Anderson C.,1.64,2.34,Manuwa J.,KO,22:55,18 Mar 2017,light-heavyweight-ufc-men
+Rua M.,Villante G.,1.66,2.24,Rua M.,TKO,03:00,12 Mar 2017,light-heavyweight-ufc-men
+Evans R.,Kelly D.,1.43,2.91,Kelly D.,PTS,03:00,05 Mar 2017,light-heavyweight-ufc-men
+Pedro T.,Craig P.,1.73,2.14,Pedro T.,TKO,23:30,04 Mar 2017,light-heavyweight-ufc-men
+Teixeira G.,Cannonier J.,1.44,2.85,Teixeira G.,PTS,03:00,12 Feb 2017,light-heavyweight-ufc-men
+Saint Preux O.,Oezdemir V.,1.28,3.7,Oezdemir V.,PTS,03:00,05 Feb 2017,light-heavyweight-ufc-men
+Jolly D.,Rountree K.,2.42,1.57,Rountree K.,KO,00:00,05 Feb 2017,light-heavyweight-ufc-men
+Da Silva L. H.,Johnson J.,2.67,1.47,Johnson J.,PTS,22:00,28 Jan 2017,light-heavyweight-ufc-men
+Mihajlovic B.,Christensen J.,2.91,1.41,Christensen J.,TKO,23:15,15 Jan 2017,light-heavyweight-ufc-men
+Jones J.,Gustafsson A.,1.33,3.36,Jones J.,TKO,05:00,30 Dec 2018,light-heavyweight-ufc-men
+Milstead A.,Rodriguez M.,1.81,2.01,Rodriguez M.,TKO,21:30,15 Dec 2018,light-heavyweight-ufc-men
+Manuwa J.,Santos T.,2.6,1.51,Santos T.,KO,03:00,09 Dec 2018,light-heavyweight-ufc-men
+Clark D.,Rakic A.,5.1,1.17,Rakic A.,TKO,23:00,08 Dec 2018,light-heavyweight-ufc-men
+Rua M.,Pedro T.,4.74,1.19,Rua M.,TKO,04:30,02 Dec 2018,light-heavyweight-ufc-men
+Rountree K.,Walker J.,1.52,2.62,Walker J.,KO,04:30,18 Nov 2018,light-heavyweight-ufc-men
+Oezdemir V.,Smith A.,1.62,2.37,Smith A.,SUBM,04:30,28 Oct 2018,light-heavyweight-ufc-men
+Villante G.,Herman E.,1.43,2.88,Villante G.,PTS,02:30,28 Oct 2018,light-heavyweight-ufc-men
+Saint Preux O.,Reyes D.,3.04,1.4,Reyes D.,PTS,03:00,07 Oct 2018,light-heavyweight-ufc-men
+Santos T.,Anders E.,1.53,2.61,Santos T.,TKO,04:30,23 Sep 2018,light-heavyweight-ufc-men
+Henrique L.,Spann R.,2.17,1.71,Spann R.,PTS,01:00,23 Sep 2018,light-heavyweight-ufc-men
+Blachowicz J.,Krylov N.,2.25,1.64,Blachowicz J.,SUBM,19:00,15 Sep 2018,light-heavyweight-ufc-men
+Antigulov G.,Cutelaba I.,2.0,1.85,Cutelaba I.,TKO,22:00,28 Jul 2018,light-heavyweight-ufc-men
+Rua M.,Smith A.,2.38,1.61,Smith A.,KO,20:35,22 Jul 2018,light-heavyweight-ufc-men
+Ledet J.,Rakic A.,1.87,1.93,Rakic A.,PTS,16:00,22 Jul 2018,light-heavyweight-ufc-men
+Saki G.,Rountree K.,1.67,2.24,Rountree K.,TKO,02:00,08 Jul 2018,light-heavyweight-ufc-men
+Saint Preux O.,Pedro T.,2.24,1.68,Saint Preux O.,SUBM,12:30,23 Jun 2018,light-heavyweight-ufc-men
+Evans R.,Smith A.,2.92,1.43,Smith A.,KO,23:00,09 Jun 2018,light-heavyweight-ufc-men
+Villante G.,Alvey S.,2.22,1.67,Alvey S.,PTS,02:00,02 Jun 2018,light-heavyweight-ufc-men
+Cannonier J.,Reyes D.,2.79,1.48,Reyes D.,TKO,03:00,20 May 2018,light-heavyweight-ufc-men
+Anderson C.,Cummins P.,1.68,2.25,Anderson C.,PTS,00:00,22 Apr 2018,light-heavyweight-ufc-men
+Clark D.,Rodriguez M.,1.97,1.87,Clark D.,PTS,23:00,07 Apr 2018,light-heavyweight-ufc-men
+Manuwa J.,Blachowicz J.,1.54,2.48,Blachowicz J.,PTS,21:30,17 Mar 2018,light-heavyweight-ufc-men
+Johnson J.,Milstead A.,1.39,3.02,Johnson J.,PTS,00:00,04 Mar 2018,light-heavyweight-ufc-men
+Saint Preux O.,Latifi I.,,,SUBM,SUBM,03:00,25 Feb 2018,light-heavyweight-ufc-men
+Alvey S.,Prachnio M.,,,KO,KO,00:45,25 Feb 2018,light-heavyweight-ufc-men
+Pedro T.,Safarov S.,1.33,3.31,Pedro T.,SUBM,02:00,11 Feb 2018,light-heavyweight-ufc-men
+Cormier D.,Oezdemir V.,1.28,3.77,Cormier D.,TKO,04:00,21 Jan 2018,light-heavyweight-ufc-men
+Oezdemir V.,Rakic A.,2.26,1.66,Oezdemir V.,PTS,12:00,21 Dec 2019,light-heavyweight-ufc-men
+Menifield A.,Smith T.,,,canc.,canc.,02:00,08 Dec 2019,light-heavyweight-ufc-men
+Blachowicz J.,Souza R.,1.6,2.36,Blachowicz J.,PTS,03:00,17 Nov 2019,light-heavyweight-ufc-men
+Nogueira A. R.,Smith T.,,,canc.,canc.,22:00,16 Nov 2019,light-heavyweight-ufc-men
+Ibragimov K.,Herman E.,1.5,2.59,Herman E.,PTS,20:00,09 Nov 2019,light-heavyweight-ufc-men
+Herman E.,Antigulov G.,,,canc.,canc.,17:00,09 Nov 2019,light-heavyweight-ufc-men
+Anderson C.,Walker J.,2.4,1.57,Anderson C.,TKO,01:00,03 Nov 2019,light-heavyweight-ufc-men
+Weidman C.,Reyes D.,2.52,1.54,Reyes D.,KO,04:00,19 Oct 2019,light-heavyweight-ufc-men
+Clark D.,Spann R.,2.46,1.58,Spann R.,SUBM,00:00,13 Oct 2019,light-heavyweight-ufc-men
+Cutelaba I.,Rountree K.,1.96,1.88,Cutelaba I.,TKO,19:00,28 Sep 2019,light-heavyweight-ufc-men
+Moreira V.,Craig P.,1.9,1.91,Craig P.,SUBM,21:30,21 Sep 2019,light-heavyweight-ufc-men
+Teixeira G.,Krylov N.,1.99,1.85,Teixeira G.,PTS,02:00,15 Sep 2019,light-heavyweight-ufc-men
+Jung D. U.,Ibragimov K.,3.13,1.38,Jung D. U.,SUBM,08:30,31 Aug 2019,light-heavyweight-ufc-men
+Safarov S.,Jung D. U.,,,canc.,canc.,07:00,31 Aug 2019,light-heavyweight-ufc-men
+Oezdemir V.,Latifi I.,1.59,2.39,Oezdemir V.,KO,01:00,11 Aug 2019,light-heavyweight-ufc-men
+Alvey S.,Farias de Abreu K.,2.48,1.56,Farias de Abreu K.,PTS,23:30,20 Jul 2019,light-heavyweight-ufc-men
+Rodriguez M.,Allan J.,1.23,4.25,Allan J.,PTS,23:30,13 Jul 2019,light-heavyweight-ufc-men
+Jones J.,Santos T.,1.17,5.13,Jones J.,PTS,04:00,07 Jul 2019,light-heavyweight-ufc-men
+Ledet J.,Lungiambula D.,,,canc.,canc.,01:00,30 Jun 2019,light-heavyweight-ufc-men
+Anders E.,Moreira V.,1.3,3.58,Anders E.,KO,00:00,30 Jun 2019,light-heavyweight-ufc-men
+Lungiambula D.,Townsend D.,1.28,3.76,Lungiambula D.,TKO,23:00,29 Jun 2019,light-heavyweight-ufc-men
+Gustafsson A.,Smith A.,1.32,3.38,Smith A.,SUBM,19:00,01 Jun 2019,light-heavyweight-ufc-men
+Clark D.,Stosic D.,1.87,1.93,Clark D.,PTS,14:30,01 Jun 2019,light-heavyweight-ufc-men
+Cummins P.,Herman E.,1.39,2.97,Herman E.,TKO,22:00,18 May 2019,light-heavyweight-ufc-men
+Barcelos R.,Nurmagomedov S.,,,canc.,canc.,02:00,12 May 2019,light-heavyweight-ufc-men
+Teixeira G.,Cutelaba I.,1.86,1.98,Teixeira G.,SUBM,02:00,28 Apr 2019,light-heavyweight-ufc-men
+Edilov A.,Clark D.,,,canc.,canc.,18:00,20 Apr 2019,light-heavyweight-ufc-men
+Antigulov G.,Dolidze R.,,,canc.,canc.,14:45,20 Apr 2019,light-heavyweight-ufc-men
+Anders E.,Rountree K.,1.53,2.56,Rountree K.,PTS,03:00,14 Apr 2019,light-heavyweight-ufc-men
+Nzechukwu K.,Craig P.,1.54,2.5,Craig P.,SUBM,23:30,30 Mar 2019,light-heavyweight-ufc-men
+Oezdemir V.,Reyes D.,3.04,1.38,Reyes D.,PTS,21:30,16 Mar 2019,light-heavyweight-ufc-men
+Safarov S.,Saki G.,,,canc.,canc.,17:00,16 Mar 2019,light-heavyweight-ufc-men
+Jones J.,Smith A.,1.13,6.38,Jones J.,PTS,05:00,03 Mar 2019,light-heavyweight-ufc-men
+Oezdemir V.,Rakic A.,2.26,1.66,Oezdemir V.,PTS,12:00,21 Dec 2019,light-heavyweight-ufc-men
+Menifield A.,Smith T.,,,canc.,canc.,02:00,08 Dec 2019,light-heavyweight-ufc-men
+Blachowicz J.,Souza R.,1.6,2.36,Blachowicz J.,PTS,03:00,17 Nov 2019,light-heavyweight-ufc-men
+Nogueira A. R.,Smith T.,,,canc.,canc.,22:00,16 Nov 2019,light-heavyweight-ufc-men
+Ibragimov K.,Herman E.,1.5,2.59,Herman E.,PTS,20:00,09 Nov 2019,light-heavyweight-ufc-men
+Herman E.,Antigulov G.,,,canc.,canc.,17:00,09 Nov 2019,light-heavyweight-ufc-men
+Anderson C.,Walker J.,2.4,1.57,Anderson C.,TKO,01:00,03 Nov 2019,light-heavyweight-ufc-men
+Weidman C.,Reyes D.,2.52,1.54,Reyes D.,KO,04:00,19 Oct 2019,light-heavyweight-ufc-men
+Clark D.,Spann R.,2.46,1.58,Spann R.,SUBM,00:00,13 Oct 2019,light-heavyweight-ufc-men
+Cutelaba I.,Rountree K.,1.96,1.88,Cutelaba I.,TKO,19:00,28 Sep 2019,light-heavyweight-ufc-men
+Moreira V.,Craig P.,1.9,1.91,Craig P.,SUBM,21:30,21 Sep 2019,light-heavyweight-ufc-men
+Teixeira G.,Krylov N.,1.99,1.85,Teixeira G.,PTS,02:00,15 Sep 2019,light-heavyweight-ufc-men
+Jung D. U.,Ibragimov K.,3.13,1.38,Jung D. U.,SUBM,08:30,31 Aug 2019,light-heavyweight-ufc-men
+Safarov S.,Jung D. U.,,,canc.,canc.,07:00,31 Aug 2019,light-heavyweight-ufc-men
+Oezdemir V.,Latifi I.,1.59,2.39,Oezdemir V.,KO,01:00,11 Aug 2019,light-heavyweight-ufc-men
+Alvey S.,Farias de Abreu K.,2.48,1.56,Farias de Abreu K.,PTS,23:30,20 Jul 2019,light-heavyweight-ufc-men
+Rodriguez M.,Allan J.,1.23,4.25,Allan J.,PTS,23:30,13 Jul 2019,light-heavyweight-ufc-men
+Jones J.,Santos T.,1.17,5.13,Jones J.,PTS,04:00,07 Jul 2019,light-heavyweight-ufc-men
+Ledet J.,Lungiambula D.,,,canc.,canc.,01:00,30 Jun 2019,light-heavyweight-ufc-men
+Anders E.,Moreira V.,1.3,3.58,Anders E.,KO,00:00,30 Jun 2019,light-heavyweight-ufc-men
+Lungiambula D.,Townsend D.,1.28,3.76,Lungiambula D.,TKO,23:00,29 Jun 2019,light-heavyweight-ufc-men
+Gustafsson A.,Smith A.,1.32,3.38,Smith A.,SUBM,19:00,01 Jun 2019,light-heavyweight-ufc-men
+Clark D.,Stosic D.,1.87,1.93,Clark D.,PTS,14:30,01 Jun 2019,light-heavyweight-ufc-men
+Cummins P.,Herman E.,1.39,2.97,Herman E.,TKO,22:00,18 May 2019,light-heavyweight-ufc-men
+Barcelos R.,Nurmagomedov S.,,,canc.,canc.,02:00,12 May 2019,light-heavyweight-ufc-men
+Teixeira G.,Cutelaba I.,1.86,1.98,Teixeira G.,SUBM,02:00,28 Apr 2019,light-heavyweight-ufc-men
+Edilov A.,Clark D.,,,canc.,canc.,18:00,20 Apr 2019,light-heavyweight-ufc-men
+Antigulov G.,Dolidze R.,,,canc.,canc.,14:45,20 Apr 2019,light-heavyweight-ufc-men
+Anders E.,Rountree K.,1.53,2.56,Rountree K.,PTS,03:00,14 Apr 2019,light-heavyweight-ufc-men
+Nzechukwu K.,Craig P.,1.54,2.5,Craig P.,SUBM,23:30,30 Mar 2019,light-heavyweight-ufc-men
+Oezdemir V.,Reyes D.,3.04,1.38,Reyes D.,PTS,21:30,16 Mar 2019,light-heavyweight-ufc-men
+Safarov S.,Saki G.,,,canc.,canc.,17:00,16 Mar 2019,light-heavyweight-ufc-men
+Jones J.,Smith A.,1.13,6.38,Jones J.,PTS,05:00,03 Mar 2019,light-heavyweight-ufc-men
+Herman E.,Rodriguez M.,2.96,1.41,Herman E.,SUBM,01:00,13 Sep 2020,light-heavyweight-ufc-men
+Herman E.,Allan J.,,,canc.,canc.,22:00,12 Sep 2020,light-heavyweight-ufc-men
+Smith A.,Rakic A.,3.08,1.38,Rakic A.,PTS,03:00,30 Aug 2020,light-heavyweight-ufc-men
+Rodriguez M.,Prachnio M.,1.41,2.91,Rodriguez M.,TKO,01:30,23 Aug 2020,light-heavyweight-ufc-men
+Villanueva I.,Wright J.,1.96,1.84,Wright J.,TKO,23:00,22 Aug 2020,light-heavyweight-ufc-men
+Herman E.,Meerschaert G.,2.34,1.58,canc.,canc.,00:00,02 Aug 2020,light-heavyweight-ufc-men
+Jung D. U.,Herman E.,,,canc.,canc.,23:00,01 Aug 2020,light-heavyweight-ufc-men
+Rua M.,Nogueira A. R.,1.45,2.83,Rua M.,PTS,02:30,26 Jul 2020,light-heavyweight-ufc-men
+Ibragimov K.,Dolidze R.,2.31,1.61,Dolidze R.,TKO,23:30,18 Jul 2020,light-heavyweight-ufc-men
+Bukauskas M.,Moreira V.,,,canc.,canc.,00:40,16 Jul 2020,light-heavyweight-ufc-men
+Gonzalez J.,Bergh K.,,,canc.,canc.,23:00,15 Jul 2020,light-heavyweight-ufc-men
+Oezdemir V.,Prochazka J.,1.55,2.48,Prochazka J.,KO,01:30,12 Jul 2020,light-heavyweight-ufc-men
+Antigulov G.,Farias de Abreu K.,,,canc.,canc.,15:00,13 Jun 2020,light-heavyweight-ufc-men
+Menifield A.,Clark D.,1.42,2.88,Clark D.,PTS,22:30,06 Jun 2020,light-heavyweight-ufc-men
+Hill J.,Farias de Abreu K.,1.76,2.08,Hill J.,TKO,23:30,30 May 2020,light-heavyweight-ufc-men
+Smith A.,Teixeira G.,1.47,2.75,Teixeira G.,TKO,03:00,14 May 2020,light-heavyweight-ufc-men
+Spann R.,Alvey S.,1.26,4.0,Spann R.,PTS,22:30,09 May 2020,light-heavyweight-ufc-men
+Jung D. U.,Herman E.,,,canc.,canc.,21:00,02 May 2020,light-heavyweight-ufc-men
+Cutelaba I.,Saint Preux O.,,,canc.,canc.,21:00,25 Apr 2020,light-heavyweight-ufc-men
+Teixeira G.,Smith A.,,,canc.,canc.,21:00,25 Apr 2020,light-heavyweight-ufc-men
+Cutelaba I.,Ankalaev M.,,,canc.,canc.,02:00,19 Apr 2020,light-heavyweight-ufc-men
+Rountree K.,Alvey S.,1.34,3.2,postp.,postp.,22:00,28 Mar 2020,light-heavyweight-ufc-men
+Craig P.,Spann R.,,,postp.,postp.,18:00,21 Mar 2020,light-heavyweight-ufc-men
+Walker J.,Krylov N.,1.62,2.34,Krylov N.,PTS,22:50,14 Mar 2020,light-heavyweight-ufc-men
+Cutelaba I.,Ankalaev M.,2.69,1.47,Ankalaev M.,TKO,02:00,01 Mar 2020,light-heavyweight-ufc-men
+Crute J.,Oleksiejczuk M.,1.98,1.84,Crute J.,SUBM,02:00,23 Feb 2020,light-heavyweight-ufc-men
+Pedro T.,Moreira V.,,,canc.,canc.,20:00,22 Feb 2020,light-heavyweight-ufc-men
+Anderson C.,Blachowicz J.,1.43,2.85,Blachowicz J.,KO,03:30,16 Feb 2020,light-heavyweight-ufc-men
+Clark D.,Townsend D.,1.24,4.07,Clark D.,PTS,23:00,15 Feb 2020,light-heavyweight-ufc-men
+Jones J.,Reyes D.,1.19,4.78,Jones J.,PTS,05:00,09 Feb 2020,light-heavyweight-ufc-men
+Saint Preux O.,Spann R.,,,canc.,canc.,22:00,08 Feb 2020,light-heavyweight-ufc-men
+Hill J.,Stosic D.,1.74,2.06,Hill J.,PTS,01:00,26 Jan 2020,light-heavyweight-ufc-men
+Camur A.,Ledet J.,1.79,2.04,Camur A.,PTS,00:30,19 Jan 2020,light-heavyweight-ufc-men
+Freire P.,Anderson D.,1.77,2.03,Anderson D.,PTS,02:00,05 Dec 2015,lightweight-bellator-men
+Thomson J.,Villaseca P.,1.06,8.15,Thomson J.,TKO,02:00,05 Dec 2015,lightweight-bellator-men
+Girtz B.,Campos D.,1.62,2.23,Girtz B.,TKO,02:00,21 Nov 2015,lightweight-bellator-men
+Brooks W.,Held M.,1.3,3.32,Brooks W.,PTS,01:00,07 Nov 2015,lightweight-bellator-men
+Couture R.,Gonzalez N.,,,canc.,canc.,01:00,26 Sep 2015,lightweight-bellator-men
+Thomson J.,Bronzoulis M.,1.09,6.5,Thomson J.,TKO,01:00,20 Sep 2015,lightweight-bellator-men
+Anderson D.,Primus B.,,,PTS,PTS,01:00,29 Aug 2015,lightweight-bellator-men
+Guillard M.,Girtz B.,1.27,3.5,Girtz B.,PTS,01:00,29 Aug 2015,lightweight-bellator-men
+Yamauchi G.,Mircea V.,1.16,5.28,Yamauchi G.,SUBM,21:00,10 Dec 2016,lightweight-bellator-men
+Chandler M.,Henderson B.,1.57,2.35,Chandler M.,PTS,02:00,20 Nov 2016,lightweight-bellator-men
+Yamauchi G.,Couture R.,1.31,3.53,Yamauchi G.,SUBM,01:00,22 Oct 2016,lightweight-bellator-men
+Campos D.,Chan D.,1.77,2.03,Campos D.,PTS,01:00,17 Sep 2016,lightweight-bellator-men
+Henderson B.,Freire P.,1.36,3.15,Henderson B.,TKO,02:00,27 Aug 2016,lightweight-bellator-men
+Guillard M.,Rickels D.,2.33,1.58,Guillard M.,KO,01:00,23 Jul 2016,lightweight-bellator-men
+Chandler M.,Freire P.,1.35,2.91,Chandler M.,KO,01:00,25 Jun 2016,lightweight-bellator-men
+Held M.,Jansen D.,,,PTS,PTS,01:00,21 May 2016,lightweight-bellator-men
+Piccolotti A.,Wood R.,1.22,4.14,Piccolotti A.,SUBM,00:00,15 May 2016,lightweight-bellator-men
+Primus B.,Santos G.,1.48,2.55,Primus B.,PTS,00:00,23 Apr 2016,lightweight-bellator-men
+Rickels D.,Cooper B.,1.17,4.83,Rickels D.,TKO,02:00,27 Feb 2016,lightweight-bellator-men
+Petley J.,Monarch L.,,,PTS,PTS,21:00,15 Dec 2017,lightweight-bellator-men
+Girtz B.,Jelcic L.,,,KO,KO,20:00,09 Dec 2017,lightweight-bellator-men
+Awad S.,Freeman Z.,,,TKO,TKO,02:00,04 Nov 2017,lightweight-bellator-men
+Quinn R.,Surin M.,1.67,2.18,Quinn R.,PTS,01:00,21 Oct 2017,lightweight-bellator-men
+Kozola S.,Banks C.,,,PTS,PTS,01:00,07 Oct 2017,lightweight-bellator-men
+Henderson B.,Freire P.,1.46,2.7,Freire P.,PTS,01:00,24 Sep 2017,lightweight-bellator-men
+Girtz B.,Campos D.,2.19,1.66,Campos D.,TKO,01:00,15 Jul 2017,lightweight-bellator-men
+Chandler M.,Primus B.,1.13,6.05,Primus B.,TKO,02:00,25 Jun 2017,lightweight-bellator-men
+Desir B.,Grebb N.,,,KO,KO,22:00,24 Jun 2017,lightweight-bellator-men
+Chan D.,Mircea V.,,,PTS,PTS,20:00,08 Apr 2017,lightweight-bellator-men
+Kozola S.,Roberts J.,1.56,2.45,Kozola S.,TKO,01:00,01 Apr 2017,lightweight-bellator-men
+Pfister C.,Gary J.,,,SUBM,SUBM,02:00,04 Mar 2017,lightweight-bellator-men
+Jackson N.,Gonzalez C.,,,PTS,PTS,02:00,19 Feb 2017,lightweight-bellator-men
+Farley C.,Breeden M.,,,TKO,TKO,02:00,28 Jan 2017,lightweight-bellator-men
+Campos D.,Anderson D.,2.75,1.44,Campos D.,PTS,02:00,22 Jan 2017,lightweight-bellator-men
+Segura M.,Aaron T.,,,KO,KO,02:00,22 Jan 2017,lightweight-bellator-men
+Barca D.,Hopps I.,,,PTS,PTS,02:00,16 Dec 2018,lightweight-bellator-men
+Dung N.,Oliveira K.,3.0,1.3,Dung N.,TKO,02:00,16 Dec 2018,lightweight-bellator-men
+Pieper B.,Avila C.,1.45,2.41,Avila C.,SUBM,02:00,15 Dec 2018,lightweight-bellator-men
+Henderson B.,Awad S.,1.26,3.88,Henderson B.,PTS,02:30,14 Oct 2018,lightweight-bellator-men
+Ferguson K.,Browning C.,1.11,6.58,Browning C.,TKO,01:30,13 Oct 2018,lightweight-bellator-men
+Freire P.,Huerta R.,1.08,8.62,Freire P.,KO,01:00,22 Sep 2018,lightweight-bellator-men
+Edminister B.,Taylor L.,,,SUBM,SUBM,23:15,21 Sep 2018,lightweight-bellator-men
+Nawrocki T.,Morales O.,,,KO,KO,00:00,18 Aug 2018,lightweight-bellator-men
+Peatrowsky M.,Phathaem K.,,,PTS,PTS,23:45,17 Aug 2018,lightweight-bellator-men
+Morris W.,Williams C.,1.12,5.25,Morris W.,PTS,22:30,13 Jul 2018,lightweight-bellator-men
+Kozola S.,Walker R.,1.5,2.4,Kozola S.,TKO,21:00,13 Jul 2018,lightweight-bellator-men
+Rosales J.,Jones J.,,,PTS,PTS,03:30,30 Jun 2018,lightweight-bellator-men
+Leary C.,Green T.,,,TKO,TKO,20:00,25 May 2018,lightweight-bellator-men
+Banks C.,Piccolotti A.,,,SUBM,SUBM,04:00,13 May 2018,lightweight-bellator-men
+Bennett J.,Stusse D.,,,TKO,TKO,22:00,28 Apr 2018,lightweight-bellator-men
+Chandler M.,Girtz B.,1.11,6.45,Chandler M.,SUBM,01:00,14 Apr 2018,lightweight-bellator-men
+Henderson B.,Huerta R.,1.09,6.0,Henderson B.,SUBM,20:00,06 Apr 2018,lightweight-bellator-men
+Freire P.,Campos D.,1.46,2.7,Freire P.,TKO,02:00,17 Feb 2018,lightweight-bellator-men
+Richardson R.,Leon R. A.,,,TKO,TKO,02:00,17 Feb 2018,lightweight-bellator-men
+Awad S.,Ambrose J. J.,1.41,2.79,Awad S.,PTS,02:00,27 Jan 2018,lightweight-bellator-men
+Padilla C.,Green G.,,,SUBM,SUBM,03:00,21 Jan 2018,lightweight-bellator-men
+Chandler M.,Yamauchi G.,1.39,2.93,Chandler M.,PTS,02:00,21 Jan 2018,lightweight-bellator-men
+Henderson B.,Chandler M.,,,canc.,canc.,12:00,29 Dec 2019,lightweight-bellator-men
+Uesako H.,Yachi Y.,,,TKO,TKO,06:00,29 Dec 2019,lightweight-bellator-men
+Yamauchi G.,Cruickshank D.,1.21,4.4,Yamauchi G.,SUBM,03:00,29 Dec 2019,lightweight-bellator-men
+Dung N.,Zane Z.,,,PTS,PTS,03:00,22 Dec 2019,lightweight-bellator-men
+Brazier T.,Bak S.,2.02,1.79,Bak S.,PTS,22:00,23 Nov 2019,lightweight-bellator-men
+Bungard C.,Brander B.,,,SUBM,SUBM,17:45,23 Nov 2019,lightweight-bellator-men
+Wilde T.,Leary C.,1.73,2.04,Wilde T.,PTS,16:45,23 Nov 2019,lightweight-bellator-men
+Huerta R.,Outlaw S.,4.65,1.18,Outlaw S.,PTS,20:30,14 Nov 2019,lightweight-bellator-men
+Newell N.,Muro M.,,,PTS,PTS,03:30,27 Oct 2019,lightweight-bellator-men
+Surin M.,Powell D.,,,SUBM,SUBM,01:45,27 Oct 2019,lightweight-bellator-men
+Nallo M.,Mota K.,,,TKO,TKO,00:00,26 Oct 2019,lightweight-bellator-men
+Mousah K.,Macedo da Silva R.,,,PTS,PTS,20:00,12 Oct 2019,lightweight-bellator-men
+Tokov V.,Hastings B.,,,PTS,PTS,03:45,05 Oct 2019,lightweight-bellator-men
+Awad S.,Yamauchi G.,4.35,1.22,Yamauchi G.,SUBM,02:00,05 Oct 2019,lightweight-bellator-men
+Jones J.,Clark D.,,,SUBM,SUBM,01:15,29 Sep 2019,lightweight-bellator-men
+Henderson B.,Jury M.,,,PTS,PTS,03:00,28 Sep 2019,lightweight-bellator-men
+Scope R.,Queally P.,1.39,2.98,Queally P.,TKO,21:05,27 Sep 2019,lightweight-bellator-men
+Piccolotti A.,Smith J.,,,SUBM,SUBM,00:40,08 Sep 2019,lightweight-bellator-men
+Gozali A.,Muravitskiy E.,,,SUBM,SUBM,00:00,25 Aug 2019,lightweight-bellator-men
+Newell N.,Browning C.,,,SUBM,SUBM,22:15,24 Aug 2019,lightweight-bellator-men
+Agazarm A.,Landin J.,,,SUBM,SUBM,00:30,13 Jul 2019,lightweight-bellator-men
+Varga G.,Taylor J.,,,TKO,TKO,23:40,12 Jul 2019,lightweight-bellator-men
+Chalmers A.,Freeman F.,,,SUBM,SUBM,21:15,22 Jun 2019,lightweight-bellator-men
+Brazier T.,Botti A.,,,SUBM,SUBM,16:00,22 Jun 2019,lightweight-bellator-men
+Chandler M.,Freire P.,,,TKO,TKO,03:00,12 May 2019,lightweight-bellator-men
+Primus B.,Wilde T.,1.2,4.33,Primus B.,SUBM,22:30,04 May 2019,lightweight-bellator-men
+Henderson B.,Piccolotti A.,1.27,3.78,Henderson B.,PTS,02:30,28 Apr 2019,lightweight-bellator-men
+Awad S.,Girtz B.,1.43,2.78,Girtz B.,PTS,02:30,30 Mar 2019,lightweight-bellator-men
+Tokov V.,Walker R.,,,PTS,PTS,23:00,22 Mar 2019,lightweight-bellator-men
+Queally P.,Price M.,1.22,4.0,Price M.,PTS,22:00,23 Feb 2019,lightweight-bellator-men
+Freire P.,Scope R.,1.2,4.56,Freire P.,PTS,23:30,09 Feb 2019,lightweight-bellator-men
+Brazier T.,Bungard C.,1.13,6.13,Bungard C.,SUBM,22:30,09 Feb 2019,lightweight-bellator-men
+Campos D.,Diggs K.,2.01,1.8,Diggs K.,KO,02:00,13 Sep 2020,lightweight-bellator-men
+Tokov V.,Gonzalez C.,,,PTS,PTS,01:00,22 Aug 2020,lightweight-bellator-men
+Piccolotti A.,Outlaw S.,1.66,2.2,Outlaw S.,PTS,23:30,21 Aug 2020,lightweight-bellator-men
+Chandler M.,Henderson B.,1.4,2.9,Chandler M.,KO,03:30,08 Aug 2020,lightweight-bellator-men
+Dung N.,Campbell C.,,,TKO,TKO,23:45,07 Aug 2020,lightweight-bellator-men
+Chandler M.,Henderson B.,,,canc.,canc.,21:00,06 Jun 2020,lightweight-bellator-men
+Davis A.,Wilde T.,,,postp.,postp.,15:00,16 May 2020,lightweight-bellator-men
+Outlaw S.,Piccolotti A.,,,canc.,canc.,21:00,09 May 2020,lightweight-bellator-men
+Newell N.,Zane Z.,1.55,2.52,postp.,postp.,02:00,14 Mar 2020,lightweight-bellator-men
+Mota K.,Andrews N.,,,postp.,postp.,00:15,14 Mar 2020,lightweight-bellator-men
+Primus B.,Bungard C.,,,SUBM,SUBM,05:00,23 Feb 2020,lightweight-bellator-men
+Chalmers A.,Clem A.,1.44,2.76,Clem A.,PTS,22:00,22 Feb 2020,lightweight-bellator-men
+Mulpeter P.,Crawford D.,,,canc.,canc.,20:00,22 Feb 2020,lightweight-bellator-men
+Taylor A.,Avila C.,,,PTS,PTS,02:15,26 Jan 2020,lightweight-bellator-men
+Seixas R.,Clark D.,1.67,2.23,Seixas R.,KO,00:45,26 Jan 2020,lightweight-bellator-men
+Dos Anjos R.,Cerrone D.,1.52,2.57,Dos Anjos R.,TKO,01:00,20 Dec 2015,lightweight-ufc-men
+Lentz N.,Castillo D.,1.8,2.04,Lentz N.,PTS,22:00,19 Dec 2015,lightweight-ufc-men
+Santos L.,Lee K.,5.35,1.17,Santos L.,TKO,01:00,13 Dec 2015,lightweight-ufc-men
+Makdessi J.,Medeiros Y.,1.57,2.38,Medeiros Y.,PTS,23:00,12 Dec 2015,lightweight-ufc-men
+Barboza E.,Ferguson T.,2.48,1.54,Ferguson T.,SUBM,23:00,11 Dec 2015,lightweight-ufc-men
+Miller J.,Chiesa M.,2.13,1.71,Chiesa M.,TKO,03:00,11 Dec 2015,lightweight-ufc-men
+Bang T. H.,Kuntz L.,4.23,1.22,Bang T. H.,PTS,10:00,28 Nov 2015,lightweight-ufc-men
+Escudero E.,Silva L.,2.23,1.67,Silva L.,PTS,03:00,22 Nov 2015,lightweight-ufc-men
+Lazaro V.,Prazeres M.,2.02,1.78,Prazeres M.,PTS,00:00,22 Nov 2015,lightweight-ufc-men
+Matthews J.,Arreola A.,1.09,7.15,Matthews J.,TKO,01:00,15 Nov 2015,lightweight-ufc-men
+Moontasri J.,Zafir A.,1.26,3.77,Moontasri J.,TKO,23:15,14 Nov 2015,lightweight-ufc-men
+Burns G.,Magomedov R.,2.67,1.49,Magomedov R.,PTS,03:00,08 Nov 2015,lightweight-ufc-men
+Cabral Y.,Case J.,3.08,1.37,Case J.,PTS,01:00,08 Nov 2015,lightweight-ufc-men
+Parke N.,Madadi R.,1.44,2.74,Parke N.,PTS,20:00,24 Oct 2015,lightweight-ufc-men
+Ray S.,Lebout M.,1.18,4.61,Ray S.,PTS,17:00,24 Oct 2015,lightweight-ufc-men
+Martins A.,Makhachev I.,2.25,1.64,Martins A.,KO,23:00,03 Oct 2015,lightweight-ufc-men
+Hein N.,Kasuya Y.,1.27,3.59,Hein N.,PTS,00:00,27 Sep 2015,lightweight-ufc-men
+Pearson R.,Felder P.,4.28,1.21,Pearson R.,PTS,00:00,06 Sep 2015,lightweight-ufc-men
+Laprise C.,Trinaldo F.,1.26,3.79,Trinaldo F.,TKO,01:00,24 Aug 2015,lightweight-ufc-men
+Stout S.,Perez F.,2.06,1.72,Perez F.,TKO,23:00,23 Aug 2015,lightweight-ufc-men
+Johnson M.,Dariush B.,1.6,2.3,Dariush B.,PTS,02:00,09 Aug 2015,lightweight-ufc-men
+Franca G.,Bruno F.,1.54,2.46,Franca G.,TKO,02:00,02 Aug 2015,lightweight-ufc-men
+Emmett J.,Holtzman S.,1.53,2.53,Emmett J.,PTS,23:00,17 Dec 2016,lightweight-ufc-men
+Aubin-Mercier O.,Dober D.,1.56,2.41,Aubin-Mercier O.,SUBM,01:00,11 Dec 2016,lightweight-ufc-men
+Makdessi J.,Vannata L.,2.61,1.49,Vannata L.,KO,23:30,10 Dec 2016,lightweight-ufc-men
+Perez F.,Diakiese M.,3.3,1.33,Diakiese M.,PTS,22:30,09 Dec 2016,lightweight-ufc-men
+Matthews J.,Holbrook A.,1.21,4.42,Holbrook A.,PTS,03:00,27 Nov 2016,lightweight-ufc-men
+Pearson R.,Ray S.,1.91,1.89,Ray S.,PTS,21:00,19 Nov 2016,lightweight-ufc-men
+Alvarez E.,McGregor C.,2.48,1.57,McGregor C.,TKO,06:20,13 Nov 2016,lightweight-ufc-men
+Bravo M.,Puelles C.,1.86,1.94,Bravo M.,TKO,02:00,06 Nov 2016,lightweight-ufc-men
+Dos Anjos R.,Ferguson T.,1.68,2.19,Ferguson T.,PTS,02:00,06 Nov 2016,lightweight-ufc-men
+Reyes M. P.,Novelli J.,1.54,2.49,Reyes M. P.,PTS,22:30,05 Nov 2016,lightweight-ufc-men
+Sajewski L.,Diakiese M.,3.37,1.32,Diakiese M.,TKO,22:30,08 Oct 2016,lightweight-ufc-men
+Brooks W.,Oliveira A.,1.32,3.43,Oliveira A.,TKO,03:00,02 Oct 2016,lightweight-ufc-men
+Burns G.,Prazeres M.,1.41,2.89,Prazeres M.,PTS,00:00,25 Sep 2016,lightweight-ufc-men
+Franca G.,Gillespie G.,1.72,2.12,Gillespie G.,PTS,22:30,24 Sep 2016,lightweight-ufc-men
+Dunham E.,Glenn R.,1.28,3.75,Dunham E.,PTS,02:00,18 Sep 2016,lightweight-ufc-men
+Wade C.,Makhachev I.,2.1,1.72,Makhachev I.,PTS,02:00,18 Sep 2016,lightweight-ufc-men
+Dober D.,Gonzalez J.,1.63,2.33,Dober D.,KO,00:00,11 Sep 2016,lightweight-ufc-men
+Medeiros Y.,Spencer S.,1.73,2.11,Medeiros Y.,SUBM,23:00,10 Sep 2016,lightweight-ufc-men
+Hein N.,Bang T. H.,1.31,3.56,Hein N.,PTS,19:00,03 Sep 2016,lightweight-ufc-men
+Lauzon J.,Miller J.,1.68,2.22,Miller J.,PTS,00:00,28 Aug 2016,lightweight-ufc-men
+Campbell S.,Silva F.,1.66,2.23,Silva F.,TKO,22:00,27 Aug 2016,lightweight-ufc-men
+Laprise C.,Gouti T.,1.31,3.4,Laprise C.,TKO,21:00,27 Aug 2016,lightweight-ufc-men
+Teymur D.,Novelli J.,1.72,2.12,Teymur D.,TKO,00:00,07 Aug 2016,lightweight-ufc-men
+Arzamendia C.,Brown D.,1.97,1.83,Brown D.,KO,23:00,30 Jul 2016,lightweight-ufc-men
+Barboza E.,Melendez G.,1.44,2.86,Barboza E.,PTS,00:00,24 Jul 2016,lightweight-ufc-men
+Prazeres M.,Cottrell J.,1.42,2.87,Prazeres M.,PTS,22:00,23 Jul 2016,lightweight-ufc-men
+Ferguson T.,Chiesa M.,,,canc.,canc.,01:00,14 Jul 2016,lightweight-ufc-men
+Holtzman S.,Pfister C.,1.36,3.19,Holtzman S.,PTS,23:00,13 Jul 2016,lightweight-ufc-men
+Northcutt S.,Marin E.,1.21,4.53,Northcutt S.,PTS,00:00,10 Jul 2016,lightweight-ufc-men
+Gomi T.,Miller J.,3.29,1.34,Miller J.,TKO,22:30,09 Jul 2016,lightweight-ufc-men
+Brooks W.,Pearson R.,1.27,3.94,Brooks W.,PTS,02:00,09 Jul 2016,lightweight-ufc-men
+Matthews J.,Lee K.,1.64,2.3,Lee K.,KO,00:00,09 Jul 2016,lightweight-ufc-men
+Dos Anjos R.,Alvarez E.,1.3,3.59,Alvarez E.,KO,02:00,08 Jul 2016,lightweight-ufc-men
+Burns G.,Sajewski L.,1.37,3.15,Burns G.,SUBM,22:30,07 Jul 2016,lightweight-ufc-men
+Emmett J.,Holtzman S.,1.53,2.53,Emmett J.,PTS,23:00,17 Dec 2016,lightweight-ufc-men
+Aubin-Mercier O.,Dober D.,1.56,2.41,Aubin-Mercier O.,SUBM,01:00,11 Dec 2016,lightweight-ufc-men
+Makdessi J.,Vannata L.,2.61,1.49,Vannata L.,KO,23:30,10 Dec 2016,lightweight-ufc-men
+Perez F.,Diakiese M.,3.3,1.33,Diakiese M.,PTS,22:30,09 Dec 2016,lightweight-ufc-men
+Matthews J.,Holbrook A.,1.21,4.42,Holbrook A.,PTS,03:00,27 Nov 2016,lightweight-ufc-men
+Pearson R.,Ray S.,1.91,1.89,Ray S.,PTS,21:00,19 Nov 2016,lightweight-ufc-men
+Alvarez E.,McGregor C.,2.48,1.57,McGregor C.,TKO,06:20,13 Nov 2016,lightweight-ufc-men
+Bravo M.,Puelles C.,1.86,1.94,Bravo M.,TKO,02:00,06 Nov 2016,lightweight-ufc-men
+Dos Anjos R.,Ferguson T.,1.68,2.19,Ferguson T.,PTS,02:00,06 Nov 2016,lightweight-ufc-men
+Reyes M. P.,Novelli J.,1.54,2.49,Reyes M. P.,PTS,22:30,05 Nov 2016,lightweight-ufc-men
+Sajewski L.,Diakiese M.,3.37,1.32,Diakiese M.,TKO,22:30,08 Oct 2016,lightweight-ufc-men
+Brooks W.,Oliveira A.,1.32,3.43,Oliveira A.,TKO,03:00,02 Oct 2016,lightweight-ufc-men
+Burns G.,Prazeres M.,1.41,2.89,Prazeres M.,PTS,00:00,25 Sep 2016,lightweight-ufc-men
+Franca G.,Gillespie G.,1.72,2.12,Gillespie G.,PTS,22:30,24 Sep 2016,lightweight-ufc-men
+Dunham E.,Glenn R.,1.28,3.75,Dunham E.,PTS,02:00,18 Sep 2016,lightweight-ufc-men
+Wade C.,Makhachev I.,2.1,1.72,Makhachev I.,PTS,02:00,18 Sep 2016,lightweight-ufc-men
+Dober D.,Gonzalez J.,1.63,2.33,Dober D.,KO,00:00,11 Sep 2016,lightweight-ufc-men
+Medeiros Y.,Spencer S.,1.73,2.11,Medeiros Y.,SUBM,23:00,10 Sep 2016,lightweight-ufc-men
+Hein N.,Bang T. H.,1.31,3.56,Hein N.,PTS,19:00,03 Sep 2016,lightweight-ufc-men
+Lauzon J.,Miller J.,1.68,2.22,Miller J.,PTS,00:00,28 Aug 2016,lightweight-ufc-men
+Campbell S.,Silva F.,1.66,2.23,Silva F.,TKO,22:00,27 Aug 2016,lightweight-ufc-men
+Laprise C.,Gouti T.,1.31,3.4,Laprise C.,TKO,21:00,27 Aug 2016,lightweight-ufc-men
+Teymur D.,Novelli J.,1.72,2.12,Teymur D.,TKO,00:00,07 Aug 2016,lightweight-ufc-men
+Arzamendia C.,Brown D.,1.97,1.83,Brown D.,KO,23:00,30 Jul 2016,lightweight-ufc-men
+Barboza E.,Melendez G.,1.44,2.86,Barboza E.,PTS,00:00,24 Jul 2016,lightweight-ufc-men
+Prazeres M.,Cottrell J.,1.42,2.87,Prazeres M.,PTS,22:00,23 Jul 2016,lightweight-ufc-men
+Ferguson T.,Chiesa M.,,,canc.,canc.,01:00,14 Jul 2016,lightweight-ufc-men
+Holtzman S.,Pfister C.,1.36,3.19,Holtzman S.,PTS,23:00,13 Jul 2016,lightweight-ufc-men
+Northcutt S.,Marin E.,1.21,4.53,Northcutt S.,PTS,00:00,10 Jul 2016,lightweight-ufc-men
+Gomi T.,Miller J.,3.29,1.34,Miller J.,TKO,22:30,09 Jul 2016,lightweight-ufc-men
+Brooks W.,Pearson R.,1.27,3.94,Brooks W.,PTS,02:00,09 Jul 2016,lightweight-ufc-men
+Matthews J.,Lee K.,1.64,2.3,Lee K.,KO,00:00,09 Jul 2016,lightweight-ufc-men
+Dos Anjos R.,Alvarez E.,1.3,3.59,Alvarez E.,KO,02:00,08 Jul 2016,lightweight-ufc-men
+Burns G.,Sajewski L.,1.37,3.15,Burns G.,SUBM,22:30,07 Jul 2016,lightweight-ufc-men
+Hooker D.,Diakiese M.,2.53,1.52,Hooker D.,SUBM,03:00,31 Dec 2017,lightweight-ufc-men
+Makdessi J.,Trujillo A.,2.42,1.55,Makdessi J.,PTS,22:00,16 Dec 2017,lightweight-ufc-men
+Holtzman S.,Horcher D.,1.73,2.1,Holtzman S.,PTS,03:00,10 Dec 2017,lightweight-ufc-men
+Gruetzemacher C.,Ramos D.,4.06,1.23,Ramos D.,SUBM,23:30,09 Dec 2017,lightweight-ufc-men
+Alvarez E.,Gaethje J.,2.48,1.54,Alvarez E.,KO,03:00,03 Dec 2017,lightweight-ufc-men
+Teymur D.,Klose D.,1.72,2.15,Teymur D.,PTS,01:00,03 Dec 2017,lightweight-ufc-men
+Lentz N.,Brooks W.,4.47,1.2,Lentz N.,SUBM,01:00,19 Nov 2017,lightweight-ufc-men
+Lauzon J.,Guida C.,1.99,1.81,Guida C.,TKO,03:00,12 Nov 2017,lightweight-ufc-men
+Northcutt S.,Quinones M.,1.53,2.53,Northcutt S.,PTS,01:00,12 Nov 2017,lightweight-ufc-men
+Vick J.,Duffy J.,2.36,1.59,Vick J.,TKO,00:00,05 Nov 2017,lightweight-ufc-men
+Trinaldo F.,Miller J.,1.46,2.68,Trinaldo F.,PTS,02:00,29 Oct 2017,lightweight-ufc-men
+Held M.,Haqparast N.,1.22,4.15,Held M.,PTS,15:45,21 Oct 2017,lightweight-ufc-men
+Dariush B.,Dunham E.,1.42,2.81,Draw,Draw,02:00,08 Oct 2017,lightweight-ufc-men
+Brooks W.,Lentz N.,1.25,3.93,canc.,canc.,00:00,08 Oct 2017,lightweight-ufc-men
+Gomi T.,Kim D. H.,3.96,1.25,Kim D. H.,TKO,02:00,23 Sep 2017,lightweight-ufc-men
+Gillespie G.,Gonzalez J.,1.21,4.38,Gillespie G.,SUBM,02:00,17 Sep 2017,lightweight-ufc-men
+Saggo J.,Burns G.,2.24,1.65,Burns G.,KO,23:30,16 Sep 2017,lightweight-ufc-men
+Clarke M.,White A.,2.72,1.45,White A.,TKO,22:30,09 Sep 2017,lightweight-ufc-men
+Gouti T.,Holbrook A.,2.44,1.56,Gouti T.,TKO,15:30,02 Sep 2017,lightweight-ufc-men
+Prazeres M.,Burnell M.,1.28,3.75,Prazeres M.,SUBM,15:30,02 Sep 2017,lightweight-ufc-men
+Bravo M.,Bandenay H.,1.32,3.46,Bandenay H.,KO,02:00,06 Aug 2017,lightweight-ufc-men
+Herrera A.,Rinaldi J.,2.78,1.46,Rinaldi J.,SUBM,23:00,05 Aug 2017,lightweight-ufc-men
+Burkman J.,Dober D.,3.47,1.31,Dober D.,KO,22:30,29 Jul 2017,lightweight-ufc-men
+Wade C.,Perez F.,1.31,3.58,Wade C.,PTS,20:00,22 Jul 2017,lightweight-ufc-men
+Ray S.,Felder P.,1.55,2.51,Felder P.,KO,19:00,16 Jul 2017,lightweight-ufc-men
+Pettis A.,Miller J.,1.44,2.88,Pettis A.,PTS,02:00,09 Jul 2017,lightweight-ufc-men
+Diakiese M.,Klose D.,1.4,2.98,Klose D.,PTS,01:00,08 Jul 2017,lightweight-ufc-men
+Chiesa M.,Lee K.,2.06,1.78,Lee K.,SUBM,01:00,26 Jun 2017,lightweight-ufc-men
+Guida C.,Koch E.,3.79,1.28,Guida C.,PTS,23:00,25 Jun 2017,lightweight-ufc-men
+Martin A.,Case J.,1.77,2.09,Martin A.,PTS,21:30,25 Jun 2017,lightweight-ufc-men
+Gomi T.,Tuck J.,3.56,1.3,Tuck J.,SUBM,11:30,17 Jun 2017,lightweight-ufc-men
+Hooker D.,Pearson R.,1.67,2.23,Hooker D.,KO,02:00,11 Jun 2017,lightweight-ufc-men
+Kim D. H.,Gouti T.,1.8,2.0,canc.,canc.,23:00,10 Jun 2017,lightweight-ufc-men
+Madadi R.,Silva J.,2.41,1.58,Silva J.,PTS,15:00,28 May 2017,lightweight-ufc-men
+Alvarez E.,Poirier D.,2.04,1.8,Draw,Draw,00:00,14 May 2017,lightweight-ufc-men
+Hooker D.,Diakiese M.,2.53,1.52,Hooker D.,SUBM,03:00,31 Dec 2017,lightweight-ufc-men
+Makdessi J.,Trujillo A.,2.42,1.55,Makdessi J.,PTS,22:00,16 Dec 2017,lightweight-ufc-men
+Holtzman S.,Horcher D.,1.73,2.1,Holtzman S.,PTS,03:00,10 Dec 2017,lightweight-ufc-men
+Gruetzemacher C.,Ramos D.,4.06,1.23,Ramos D.,SUBM,23:30,09 Dec 2017,lightweight-ufc-men
+Alvarez E.,Gaethje J.,2.48,1.54,Alvarez E.,KO,03:00,03 Dec 2017,lightweight-ufc-men
+Teymur D.,Klose D.,1.72,2.15,Teymur D.,PTS,01:00,03 Dec 2017,lightweight-ufc-men
+Lentz N.,Brooks W.,4.47,1.2,Lentz N.,SUBM,01:00,19 Nov 2017,lightweight-ufc-men
+Lauzon J.,Guida C.,1.99,1.81,Guida C.,TKO,03:00,12 Nov 2017,lightweight-ufc-men
+Northcutt S.,Quinones M.,1.53,2.53,Northcutt S.,PTS,01:00,12 Nov 2017,lightweight-ufc-men
+Vick J.,Duffy J.,2.36,1.59,Vick J.,TKO,00:00,05 Nov 2017,lightweight-ufc-men
+Trinaldo F.,Miller J.,1.46,2.68,Trinaldo F.,PTS,02:00,29 Oct 2017,lightweight-ufc-men
+Held M.,Haqparast N.,1.22,4.15,Held M.,PTS,15:45,21 Oct 2017,lightweight-ufc-men
+Dariush B.,Dunham E.,1.42,2.81,Draw,Draw,02:00,08 Oct 2017,lightweight-ufc-men
+Brooks W.,Lentz N.,1.25,3.93,canc.,canc.,00:00,08 Oct 2017,lightweight-ufc-men
+Gomi T.,Kim D. H.,3.96,1.25,Kim D. H.,TKO,02:00,23 Sep 2017,lightweight-ufc-men
+Gillespie G.,Gonzalez J.,1.21,4.38,Gillespie G.,SUBM,02:00,17 Sep 2017,lightweight-ufc-men
+Saggo J.,Burns G.,2.24,1.65,Burns G.,KO,23:30,16 Sep 2017,lightweight-ufc-men
+Clarke M.,White A.,2.72,1.45,White A.,TKO,22:30,09 Sep 2017,lightweight-ufc-men
+Gouti T.,Holbrook A.,2.44,1.56,Gouti T.,TKO,15:30,02 Sep 2017,lightweight-ufc-men
+Prazeres M.,Burnell M.,1.28,3.75,Prazeres M.,SUBM,15:30,02 Sep 2017,lightweight-ufc-men
+Bravo M.,Bandenay H.,1.32,3.46,Bandenay H.,KO,02:00,06 Aug 2017,lightweight-ufc-men
+Herrera A.,Rinaldi J.,2.78,1.46,Rinaldi J.,SUBM,23:00,05 Aug 2017,lightweight-ufc-men
+Burkman J.,Dober D.,3.47,1.31,Dober D.,KO,22:30,29 Jul 2017,lightweight-ufc-men
+Wade C.,Perez F.,1.31,3.58,Wade C.,PTS,20:00,22 Jul 2017,lightweight-ufc-men
+Ray S.,Felder P.,1.55,2.51,Felder P.,KO,19:00,16 Jul 2017,lightweight-ufc-men
+Pettis A.,Miller J.,1.44,2.88,Pettis A.,PTS,02:00,09 Jul 2017,lightweight-ufc-men
+Diakiese M.,Klose D.,1.4,2.98,Klose D.,PTS,01:00,08 Jul 2017,lightweight-ufc-men
+Chiesa M.,Lee K.,2.06,1.78,Lee K.,SUBM,01:00,26 Jun 2017,lightweight-ufc-men
+Guida C.,Koch E.,3.79,1.28,Guida C.,PTS,23:00,25 Jun 2017,lightweight-ufc-men
+Martin A.,Case J.,1.77,2.09,Martin A.,PTS,21:30,25 Jun 2017,lightweight-ufc-men
+Gomi T.,Tuck J.,3.56,1.3,Tuck J.,SUBM,11:30,17 Jun 2017,lightweight-ufc-men
+Hooker D.,Pearson R.,1.67,2.23,Hooker D.,KO,02:00,11 Jun 2017,lightweight-ufc-men
+Kim D. H.,Gouti T.,1.8,2.0,canc.,canc.,23:00,10 Jun 2017,lightweight-ufc-men
+Madadi R.,Silva J.,2.41,1.58,Silva J.,PTS,15:00,28 May 2017,lightweight-ufc-men
+Alvarez E.,Poirier D.,2.04,1.8,Draw,Draw,00:00,14 May 2017,lightweight-ufc-men
+Penn BJ,Hall R.,4.42,1.21,Hall R.,SUBM,01:00,30 Dec 2018,lightweight-ufc-men
+Lee K.,Iaquinta A.,1.3,3.56,Iaquinta A.,PTS,02:30,16 Dec 2018,lightweight-ufc-men
+Miller J.,Oliveira C.,3.39,1.32,Oliveira C.,SUBM,01:00,16 Dec 2018,lightweight-ufc-men
+Green B.,Klose D.,3.01,1.38,Klose D.,PTS,23:30,15 Dec 2018,lightweight-ufc-men
+Aubin-Mercier O.,Burns G.,1.75,2.09,Burns G.,PTS,02:00,09 Dec 2018,lightweight-ufc-men
+Hirota M.,Giagos C.,,,PTS,PTS,01:30,02 Dec 2018,lightweight-ufc-men
+Ismagulov D.,Gorgees A.,1.18,4.78,Ismagulov D.,PTS,00:00,02 Dec 2018,lightweight-ufc-men
+Roberts R.,Horcher D.,1.31,3.47,Roberts R.,SUBM,00:30,01 Dec 2018,lightweight-ufc-men
+Powell D.,Pinedo J.,2.75,1.47,Pinedo J.,PTS,00:30,18 Nov 2018,lightweight-ufc-men
+Dariush B.,Moises T.,1.63,2.31,Dariush B.,PTS,04:00,11 Nov 2018,lightweight-ufc-men
+Ramos D.,Gunther J.,1.1,7.17,Ramos D.,SUBM,01:30,11 Nov 2018,lightweight-ufc-men
+Frevola M.,Vannata L.,3.09,1.39,Draw,Draw,23:45,03 Nov 2018,lightweight-ufc-men
+Gouti T.,Haqparast N.,6.32,1.13,Haqparast N.,PTS,01:00,28 Oct 2018,lightweight-ufc-men
+Edwards T.,Madge D.,1.22,4.42,Madge D.,KO,22:30,27 Oct 2018,lightweight-ufc-men
+Nurmagomedov K.,McGregor C.,1.53,2.66,Nurmagomedov K.,SUBM,04:30,07 Oct 2018,lightweight-ufc-men
+Holtzman S.,Patrick A.,3.39,1.33,Holtzman S.,KO,00:00,07 Oct 2018,lightweight-ufc-men
+Maynard G.,Lentz N.,2.88,1.43,Lentz N.,TKO,23:00,06 Oct 2018,lightweight-ufc-men
+Oliveira C.,Giagos C.,1.23,4.27,Oliveira C.,SUBM,02:00,23 Sep 2018,lightweight-ufc-men
+Khabilov R.,Johnson K.,1.14,6.19,Khabilov R.,PTS,16:30,15 Sep 2018,lightweight-ufc-men
+Miller J.,White A.,2.47,1.58,Miller J.,SUBM,23:30,08 Sep 2018,lightweight-ufc-men
+Gaethje J.,Vick J.,2.24,1.69,Gaethje J.,KO,04:30,26 Aug 2018,lightweight-ufc-men
+Dober D.,Tuck J.,1.43,2.95,Dober D.,PTS,23:00,25 Aug 2018,lightweight-ufc-men
+Alvarez E.,Poirier D.,2.45,1.57,Poirier D.,TKO,01:30,29 Jul 2018,lightweight-ufc-men
+Johnson K.,Makhachev I.,5.32,1.17,Makhachev I.,SUBM,22:30,28 Jul 2018,lightweight-ufc-men
+Powell D.,Herrera A.,1.9,1.92,Powell D.,TKO,20:00,28 Jul 2018,lightweight-ufc-men
+Haqparast N.,Diakiese M.,2.45,1.57,Haqparast N.,PTS,18:35,22 Jul 2018,lightweight-ufc-men
+Chiesa M.,Pettis A.,1.57,2.5,Pettis A.,SUBM,02:30,08 Jul 2018,lightweight-ufc-men
+Hooker D.,Burns G.,1.86,1.99,Hooker D.,KO,23:30,07 Jul 2018,lightweight-ufc-men
+Pena L.,Smullen R.,1.26,4.1,Pena L.,SUBM,00:30,07 Jul 2018,lightweight-ufc-men
+Guida C.,Oliveira C.,2.2,1.69,Oliveira C.,SUBM,22:30,09 Jun 2018,lightweight-ufc-men
+Gillespie G.,Pichel V.,1.22,4.36,Gillespie G.,SUBM,04:00,02 Jun 2018,lightweight-ufc-men
+Green D.,Tibau G.,1.31,3.54,Green D.,PTS,00:00,02 Jun 2018,lightweight-ufc-men
+Puelles C.,Silva F.,3.5,1.32,Puelles C.,SUBM,22:00,19 May 2018,lightweight-ufc-men
+Ramos D.,Hein N.,1.56,2.49,Ramos D.,SUBM,01:00,13 May 2018,lightweight-ufc-men
+Barboza E.,Lee K.,2.28,1.63,Lee K.,TKO,02:00,22 Apr 2018,lightweight-ufc-men
+Penn BJ,Hall R.,4.42,1.21,Hall R.,SUBM,01:00,30 Dec 2018,lightweight-ufc-men
+Lee K.,Iaquinta A.,1.3,3.56,Iaquinta A.,PTS,02:30,16 Dec 2018,lightweight-ufc-men
+Miller J.,Oliveira C.,3.39,1.32,Oliveira C.,SUBM,01:00,16 Dec 2018,lightweight-ufc-men
+Green B.,Klose D.,3.01,1.38,Klose D.,PTS,23:30,15 Dec 2018,lightweight-ufc-men
+Aubin-Mercier O.,Burns G.,1.75,2.09,Burns G.,PTS,02:00,09 Dec 2018,lightweight-ufc-men
+Hirota M.,Giagos C.,,,PTS,PTS,01:30,02 Dec 2018,lightweight-ufc-men
+Ismagulov D.,Gorgees A.,1.18,4.78,Ismagulov D.,PTS,00:00,02 Dec 2018,lightweight-ufc-men
+Roberts R.,Horcher D.,1.31,3.47,Roberts R.,SUBM,00:30,01 Dec 2018,lightweight-ufc-men
+Powell D.,Pinedo J.,2.75,1.47,Pinedo J.,PTS,00:30,18 Nov 2018,lightweight-ufc-men
+Dariush B.,Moises T.,1.63,2.31,Dariush B.,PTS,04:00,11 Nov 2018,lightweight-ufc-men
+Ramos D.,Gunther J.,1.1,7.17,Ramos D.,SUBM,01:30,11 Nov 2018,lightweight-ufc-men
+Frevola M.,Vannata L.,3.09,1.39,Draw,Draw,23:45,03 Nov 2018,lightweight-ufc-men
+Gouti T.,Haqparast N.,6.32,1.13,Haqparast N.,PTS,01:00,28 Oct 2018,lightweight-ufc-men
+Edwards T.,Madge D.,1.22,4.42,Madge D.,KO,22:30,27 Oct 2018,lightweight-ufc-men
+Nurmagomedov K.,McGregor C.,1.53,2.66,Nurmagomedov K.,SUBM,04:30,07 Oct 2018,lightweight-ufc-men
+Holtzman S.,Patrick A.,3.39,1.33,Holtzman S.,KO,00:00,07 Oct 2018,lightweight-ufc-men
+Maynard G.,Lentz N.,2.88,1.43,Lentz N.,TKO,23:00,06 Oct 2018,lightweight-ufc-men
+Oliveira C.,Giagos C.,1.23,4.27,Oliveira C.,SUBM,02:00,23 Sep 2018,lightweight-ufc-men
+Khabilov R.,Johnson K.,1.14,6.19,Khabilov R.,PTS,16:30,15 Sep 2018,lightweight-ufc-men
+Miller J.,White A.,2.47,1.58,Miller J.,SUBM,23:30,08 Sep 2018,lightweight-ufc-men
+Gaethje J.,Vick J.,2.24,1.69,Gaethje J.,KO,04:30,26 Aug 2018,lightweight-ufc-men
+Dober D.,Tuck J.,1.43,2.95,Dober D.,PTS,23:00,25 Aug 2018,lightweight-ufc-men
+Alvarez E.,Poirier D.,2.45,1.57,Poirier D.,TKO,01:30,29 Jul 2018,lightweight-ufc-men
+Johnson K.,Makhachev I.,5.32,1.17,Makhachev I.,SUBM,22:30,28 Jul 2018,lightweight-ufc-men
+Powell D.,Herrera A.,1.9,1.92,Powell D.,TKO,20:00,28 Jul 2018,lightweight-ufc-men
+Haqparast N.,Diakiese M.,2.45,1.57,Haqparast N.,PTS,18:35,22 Jul 2018,lightweight-ufc-men
+Chiesa M.,Pettis A.,1.57,2.5,Pettis A.,SUBM,02:30,08 Jul 2018,lightweight-ufc-men
+Hooker D.,Burns G.,1.86,1.99,Hooker D.,KO,23:30,07 Jul 2018,lightweight-ufc-men
+Pena L.,Smullen R.,1.26,4.1,Pena L.,SUBM,00:30,07 Jul 2018,lightweight-ufc-men
+Guida C.,Oliveira C.,2.2,1.69,Oliveira C.,SUBM,22:30,09 Jun 2018,lightweight-ufc-men
+Gillespie G.,Pichel V.,1.22,4.36,Gillespie G.,SUBM,04:00,02 Jun 2018,lightweight-ufc-men
+Green D.,Tibau G.,1.31,3.54,Green D.,PTS,00:00,02 Jun 2018,lightweight-ufc-men
+Puelles C.,Silva F.,3.5,1.32,Puelles C.,SUBM,22:00,19 May 2018,lightweight-ufc-men
+Ramos D.,Hein N.,1.56,2.49,Ramos D.,SUBM,01:00,13 May 2018,lightweight-ufc-men
+Barboza E.,Lee K.,2.28,1.63,Lee K.,TKO,02:00,22 Apr 2018,lightweight-ufc-men
+Morales O.,Ma Dong Hyun,1.46,2.71,Morales O.,PTS,08:30,21 Dec 2019,lightweight-ufc-men
+Solecki J.,Wiman M.,1.27,3.77,Solecki J.,PTS,23:30,07 Dec 2019,lightweight-ufc-men
+Oliveira C.,Gordon J.,1.24,4.02,Oliveira C.,KO,02:00,17 Nov 2019,lightweight-ufc-men
+Trinaldo F.,Green B.,1.73,2.11,Trinaldo F.,PTS,23:30,16 Nov 2019,lightweight-ufc-men
+Khabilov R.,Khandozhko S.,1.41,2.92,Khabilov R.,PTS,18:00,09 Nov 2019,lightweight-ufc-men
+Yakovlev A.,Roberts R.,2.07,1.76,Roberts R.,PTS,16:30,09 Nov 2019,lightweight-ufc-men
+Lee K.,Gillespie G.,2.36,1.6,Lee K.,KO,02:00,03 Nov 2019,lightweight-ufc-men
+Johnson M.,Ray S.,1.38,3.14,Ray S.,PTS,14:00,26 Oct 2019,lightweight-ufc-men
+Fiziev R.,White A.,1.52,2.57,Fiziev R.,PTS,11:30,26 Oct 2019,lightweight-ufc-men
+Lauzon J.,Pearce J.,2.51,1.55,Lauzon J.,TKO,02:30,19 Oct 2019,lightweight-ufc-men
+Pena L.,Frevola M.,1.58,2.48,Frevola M.,PTS,01:30,13 Oct 2019,lightweight-ufc-men
+Gifford T.,Davis M.,3.32,1.34,Davis M.,KO,21:00,12 Oct 2019,lightweight-ufc-men
+Iaquinta A.,Hooker D.,2.16,1.72,Hooker D.,PTS,03:00,06 Oct 2019,lightweight-ufc-men
+Mullarkey J.,Riddell B.,2.39,1.59,Riddell B.,PTS,23:15,05 Oct 2019,lightweight-ufc-men
+O. Madsen M.,Belluardo D.,1.14,5.75,O. Madsen M.,TKO,20:00,28 Sep 2019,lightweight-ufc-men
+Puelles C.,Mariano M.,1.3,3.54,Puelles C.,PTS,21:00,21 Sep 2019,lightweight-ufc-men
+Cerrone D.,Gaethje J.,2.52,1.55,Gaethje J.,TKO,02:30,15 Sep 2019,lightweight-ufc-men
+Prepolec K.,Hubbard A.,2.11,1.74,Hubbard A.,PTS,21:00,14 Sep 2019,lightweight-ufc-men
+Madge D.,Mustafaev M.,,,canc.,canc.,02:00,08 Sep 2019,lightweight-ufc-men
+Nurmagomedov K.,Poirier D.,1.23,4.38,Nurmagomedov K.,SUBM,20:00,07 Sep 2019,lightweight-ufc-men
+Makhachev I.,Ramos D.,1.26,3.99,Makhachev I.,PTS,19:00,07 Sep 2019,lightweight-ufc-men
+Azaitar O.,Packalen T.,1.48,2.66,Azaitar O.,KO,16:00,07 Sep 2019,lightweight-ufc-men
+Ismagulov D.,Moises T.,1.46,2.75,Ismagulov D.,PTS,08:00,31 Aug 2019,lightweight-ufc-men
+Makdessi J.,Smith D.,,,canc.,canc.,02:00,18 Aug 2019,lightweight-ufc-men
+Smith D.,Worthy K.,1.1,7.04,Worthy K.,TKO,01:30,18 Aug 2019,lightweight-ufc-men
+Vargas R.,Silva A.,3.42,1.32,Silva A.,PTS,21:30,10 Aug 2019,lightweight-ufc-men
+Miller J.,Guida C.,1.64,2.3,Miller J.,SUBM,21:00,03 Aug 2019,lightweight-ufc-men
+Holtzman S.,Kim D. H.,1.23,4.19,Holtzman S.,TKO,19:30,03 Aug 2019,lightweight-ufc-men
+Aubin-Mercier O.,Tsarukyan A.,2.41,1.59,Tsarukyan A.,PTS,02:30,28 Jul 2019,lightweight-ufc-men
+Vick J.,Hooker D.,2.17,1.72,Hooker D.,KO,02:00,21 Jul 2019,lightweight-ufc-men
+Dariush B.,Klose D.,,,canc.,canc.,21:00,13 Jul 2019,lightweight-ufc-men
+Roberts R.,Pichel V.,1.37,3.16,Pichel V.,PTS,02:00,30 Jun 2019,lightweight-ufc-men
+Gordon J.,Moret D.,1.29,3.67,Gordon J.,PTS,23:30,29 Jun 2019,lightweight-ufc-men
+Wiman M.,Pena L.,3.87,1.26,Pena L.,TKO,21:30,22 Jun 2019,lightweight-ufc-men
+Ferguson T.,Cerrone D.,1.49,2.71,Ferguson T.,TKO,03:00,09 Jun 2019,lightweight-ufc-men
+Giagos C.,Hadzovic D.,2.4,1.58,Giagos C.,PTS,17:30,01 Jun 2019,lightweight-ufc-men
+Morales O.,Ma Dong Hyun,1.46,2.71,Morales O.,PTS,08:30,21 Dec 2019,lightweight-ufc-men
+Solecki J.,Wiman M.,1.27,3.77,Solecki J.,PTS,23:30,07 Dec 2019,lightweight-ufc-men
+Oliveira C.,Gordon J.,1.24,4.02,Oliveira C.,KO,02:00,17 Nov 2019,lightweight-ufc-men
+Trinaldo F.,Green B.,1.73,2.11,Trinaldo F.,PTS,23:30,16 Nov 2019,lightweight-ufc-men
+Khabilov R.,Khandozhko S.,1.41,2.92,Khabilov R.,PTS,18:00,09 Nov 2019,lightweight-ufc-men
+Yakovlev A.,Roberts R.,2.07,1.76,Roberts R.,PTS,16:30,09 Nov 2019,lightweight-ufc-men
+Lee K.,Gillespie G.,2.36,1.6,Lee K.,KO,02:00,03 Nov 2019,lightweight-ufc-men
+Johnson M.,Ray S.,1.38,3.14,Ray S.,PTS,14:00,26 Oct 2019,lightweight-ufc-men
+Fiziev R.,White A.,1.52,2.57,Fiziev R.,PTS,11:30,26 Oct 2019,lightweight-ufc-men
+Lauzon J.,Pearce J.,2.51,1.55,Lauzon J.,TKO,02:30,19 Oct 2019,lightweight-ufc-men
+Pena L.,Frevola M.,1.58,2.48,Frevola M.,PTS,01:30,13 Oct 2019,lightweight-ufc-men
+Gifford T.,Davis M.,3.32,1.34,Davis M.,KO,21:00,12 Oct 2019,lightweight-ufc-men
+Iaquinta A.,Hooker D.,2.16,1.72,Hooker D.,PTS,03:00,06 Oct 2019,lightweight-ufc-men
+Mullarkey J.,Riddell B.,2.39,1.59,Riddell B.,PTS,23:15,05 Oct 2019,lightweight-ufc-men
+O. Madsen M.,Belluardo D.,1.14,5.75,O. Madsen M.,TKO,20:00,28 Sep 2019,lightweight-ufc-men
+Puelles C.,Mariano M.,1.3,3.54,Puelles C.,PTS,21:00,21 Sep 2019,lightweight-ufc-men
+Cerrone D.,Gaethje J.,2.52,1.55,Gaethje J.,TKO,02:30,15 Sep 2019,lightweight-ufc-men
+Prepolec K.,Hubbard A.,2.11,1.74,Hubbard A.,PTS,21:00,14 Sep 2019,lightweight-ufc-men
+Madge D.,Mustafaev M.,,,canc.,canc.,02:00,08 Sep 2019,lightweight-ufc-men
+Nurmagomedov K.,Poirier D.,1.23,4.38,Nurmagomedov K.,SUBM,20:00,07 Sep 2019,lightweight-ufc-men
+Makhachev I.,Ramos D.,1.26,3.99,Makhachev I.,PTS,19:00,07 Sep 2019,lightweight-ufc-men
+Azaitar O.,Packalen T.,1.48,2.66,Azaitar O.,KO,16:00,07 Sep 2019,lightweight-ufc-men
+Ismagulov D.,Moises T.,1.46,2.75,Ismagulov D.,PTS,08:00,31 Aug 2019,lightweight-ufc-men
+Makdessi J.,Smith D.,,,canc.,canc.,02:00,18 Aug 2019,lightweight-ufc-men
+Smith D.,Worthy K.,1.1,7.04,Worthy K.,TKO,01:30,18 Aug 2019,lightweight-ufc-men
+Vargas R.,Silva A.,3.42,1.32,Silva A.,PTS,21:30,10 Aug 2019,lightweight-ufc-men
+Miller J.,Guida C.,1.64,2.3,Miller J.,SUBM,21:00,03 Aug 2019,lightweight-ufc-men
+Holtzman S.,Kim D. H.,1.23,4.19,Holtzman S.,TKO,19:30,03 Aug 2019,lightweight-ufc-men
+Aubin-Mercier O.,Tsarukyan A.,2.41,1.59,Tsarukyan A.,PTS,02:30,28 Jul 2019,lightweight-ufc-men
+Vick J.,Hooker D.,2.17,1.72,Hooker D.,KO,02:00,21 Jul 2019,lightweight-ufc-men
+Dariush B.,Klose D.,,,canc.,canc.,21:00,13 Jul 2019,lightweight-ufc-men
+Roberts R.,Pichel V.,1.37,3.16,Pichel V.,PTS,02:00,30 Jun 2019,lightweight-ufc-men
+Gordon J.,Moret D.,1.29,3.67,Gordon J.,PTS,23:30,29 Jun 2019,lightweight-ufc-men
+Wiman M.,Pena L.,3.87,1.26,Pena L.,TKO,21:30,22 Jun 2019,lightweight-ufc-men
+Ferguson T.,Cerrone D.,1.49,2.71,Ferguson T.,TKO,03:00,09 Jun 2019,lightweight-ufc-men
+Giagos C.,Hadzovic D.,2.4,1.58,Giagos C.,PTS,17:30,01 Jun 2019,lightweight-ufc-men
+Worthy K.,Azaitar O.,1.87,1.93,Azaitar O.,TKO,02:00,13 Sep 2020,lightweight-ufc-men
+Patrick A.,Vargas R.,,,canc.,canc.,00:00,13 Sep 2020,lightweight-ufc-men
+Roberts R.,Croom K.,1.2,4.57,Croom K.,SUBM,22:30,12 Sep 2020,lightweight-ufc-men
+Weaver B.,Turner J.,3.98,1.25,Turner J.,SUBM,22:00,12 Sep 2020,lightweight-ufc-men
+Moises T.,Turner J.,1.59,2.33,canc.,canc.,00:00,06 Sep 2020,lightweight-ufc-men
+Hubbard A.,Solecki J.,1.85,1.95,Solecki J.,SUBM,23:30,22 Aug 2020,lightweight-ufc-men
+Miller J.,Pichel V.,2.05,1.78,Pichel V.,PTS,01:30,16 Aug 2020,lightweight-ufc-men
+Dariush B.,Holtzman S.,1.47,2.73,Dariush B.,KO,01:00,09 Aug 2020,lightweight-ufc-men
+Haqparast N.,Munoz A.,1.39,2.95,Haqparast N.,PTS,23:30,08 Aug 2020,lightweight-ufc-men
+Green B.,Vannata L.,2.24,1.65,Green B.,PTS,01:30,02 Aug 2020,lightweight-ufc-men
+Trinaldo F.,Herbert J.,1.96,1.84,Trinaldo F.,TKO,23:30,25 Jul 2020,lightweight-ufc-men
+Diakiese M.,Fiziev R.,1.57,2.42,Fiziev R.,PTS,01:00,19 Jul 2020,lightweight-ufc-men
+Alvarez J.,Duffy J.,3.35,1.33,Alvarez J.,SUBM,22:30,18 Jul 2020,lightweight-ufc-men
+Santos L.,Bogatov R.,1.54,2.5,Santos L.,PTS,00:00,12 Jul 2020,lightweight-ufc-men
+Poirier D.,Hooker D.,1.41,2.93,Poirier D.,PTS,02:30,28 Jun 2020,lightweight-ufc-men
+Pena L.,Worthy K.,1.39,2.99,Worthy K.,SUBM,23:30,27 Jun 2020,lightweight-ufc-men
+Roberts R.,Miller J.,1.39,3.01,Miller J.,SUBM,00:00,21 Jun 2020,lightweight-ufc-men
+Guida C.,Green B.,3.18,1.36,Green B.,PTS,23:30,20 Jun 2020,lightweight-ufc-men
+Camacho F.,Jaynes J.,1.3,3.53,Jaynes J.,TKO,21:30,20 Jun 2020,lightweight-ufc-men
+Hubbard A.,Solecki J.,,,canc.,canc.,21:00,20 Jun 2020,lightweight-ufc-men
+Rosa C.,Aguilar K.,2.52,1.54,Rosa C.,PTS,02:00,14 Jun 2020,lightweight-ufc-men
+Dunham E.,Burns H.,2.91,1.42,Burns H.,SUBM,22:00,06 Jun 2020,lightweight-ufc-men
+Roberts R.,Weaver B.,1.28,3.75,Roberts R.,SUBM,01:30,31 May 2020,lightweight-ufc-men
+Poirier D.,Hooker D.,,,canc.,canc.,21:00,16 May 2020,lightweight-ufc-men
+Dober D.,Hernandez A.,1.71,2.19,Dober D.,TKO,02:00,14 May 2020,lightweight-ufc-men
+Benitez G.,Morales O.,2.41,1.58,Morales O.,PTS,23:00,13 May 2020,lightweight-ufc-men
+Ferguson T.,Gaethje J.,1.43,2.92,Gaethje J.,TKO,04:00,10 May 2020,lightweight-ufc-men
+Ferreira C. D.,Dober D.,,,canc.,canc.,21:00,02 May 2020,lightweight-ufc-men
+Frevola M.,Roberts R.,,,canc.,canc.,21:00,25 Apr 2020,lightweight-ufc-men
+Johnson M.,Dunham E.,,,canc.,canc.,21:00,25 Apr 2020,lightweight-ufc-men
+Ferguson T.,Gaethje J.,,,canc.,canc.,02:00,19 Apr 2020,lightweight-ufc-men
+Johnson M.,Worthy K.,,,canc.,canc.,02:00,19 Apr 2020,lightweight-ufc-men
+Nurmagomedov K.,Ferguson T.,1.32,3.45,canc.,canc.,02:00,19 Apr 2020,lightweight-ufc-men
+Ramos D.,Tsarukyan A.,,,postp.,postp.,21:00,11 Apr 2020,lightweight-ufc-men
+Diakiese M.,Herbert J.,,,postp.,postp.,18:00,21 Mar 2020,lightweight-ufc-men
+Lee K.,Oliveira C.,1.7,2.19,Oliveira C.,SUBM,00:05,15 Mar 2020,lightweight-ufc-men
+Worthy K.,Azaitar O.,1.87,1.93,Azaitar O.,TKO,02:00,13 Sep 2020,lightweight-ufc-men
+Patrick A.,Vargas R.,,,canc.,canc.,00:00,13 Sep 2020,lightweight-ufc-men
+Roberts R.,Croom K.,1.2,4.57,Croom K.,SUBM,22:30,12 Sep 2020,lightweight-ufc-men
+Weaver B.,Turner J.,3.98,1.25,Turner J.,SUBM,22:00,12 Sep 2020,lightweight-ufc-men
+Moises T.,Turner J.,1.59,2.33,canc.,canc.,00:00,06 Sep 2020,lightweight-ufc-men
+Hubbard A.,Solecki J.,1.85,1.95,Solecki J.,SUBM,23:30,22 Aug 2020,lightweight-ufc-men
+Miller J.,Pichel V.,2.05,1.78,Pichel V.,PTS,01:30,16 Aug 2020,lightweight-ufc-men
+Dariush B.,Holtzman S.,1.47,2.73,Dariush B.,KO,01:00,09 Aug 2020,lightweight-ufc-men
+Haqparast N.,Munoz A.,1.39,2.95,Haqparast N.,PTS,23:30,08 Aug 2020,lightweight-ufc-men
+Green B.,Vannata L.,2.24,1.65,Green B.,PTS,01:30,02 Aug 2020,lightweight-ufc-men
+Trinaldo F.,Herbert J.,1.96,1.84,Trinaldo F.,TKO,23:30,25 Jul 2020,lightweight-ufc-men
+Diakiese M.,Fiziev R.,1.57,2.42,Fiziev R.,PTS,01:00,19 Jul 2020,lightweight-ufc-men
+Alvarez J.,Duffy J.,3.35,1.33,Alvarez J.,SUBM,22:30,18 Jul 2020,lightweight-ufc-men
+Santos L.,Bogatov R.,1.54,2.5,Santos L.,PTS,00:00,12 Jul 2020,lightweight-ufc-men
+Poirier D.,Hooker D.,1.41,2.93,Poirier D.,PTS,02:30,28 Jun 2020,lightweight-ufc-men
+Pena L.,Worthy K.,1.39,2.99,Worthy K.,SUBM,23:30,27 Jun 2020,lightweight-ufc-men
+Roberts R.,Miller J.,1.39,3.01,Miller J.,SUBM,00:00,21 Jun 2020,lightweight-ufc-men
+Guida C.,Green B.,3.18,1.36,Green B.,PTS,23:30,20 Jun 2020,lightweight-ufc-men
+Camacho F.,Jaynes J.,1.3,3.53,Jaynes J.,TKO,21:30,20 Jun 2020,lightweight-ufc-men
+Hubbard A.,Solecki J.,,,canc.,canc.,21:00,20 Jun 2020,lightweight-ufc-men
+Rosa C.,Aguilar K.,2.52,1.54,Rosa C.,PTS,02:00,14 Jun 2020,lightweight-ufc-men
+Dunham E.,Burns H.,2.91,1.42,Burns H.,SUBM,22:00,06 Jun 2020,lightweight-ufc-men
+Roberts R.,Weaver B.,1.28,3.75,Roberts R.,SUBM,01:30,31 May 2020,lightweight-ufc-men
+Poirier D.,Hooker D.,,,canc.,canc.,21:00,16 May 2020,lightweight-ufc-men
+Dober D.,Hernandez A.,1.71,2.19,Dober D.,TKO,02:00,14 May 2020,lightweight-ufc-men
+Benitez G.,Morales O.,2.41,1.58,Morales O.,PTS,23:00,13 May 2020,lightweight-ufc-men
+Ferguson T.,Gaethje J.,1.43,2.92,Gaethje J.,TKO,04:00,10 May 2020,lightweight-ufc-men
+Ferreira C. D.,Dober D.,,,canc.,canc.,21:00,02 May 2020,lightweight-ufc-men
+Frevola M.,Roberts R.,,,canc.,canc.,21:00,25 Apr 2020,lightweight-ufc-men
+Johnson M.,Dunham E.,,,canc.,canc.,21:00,25 Apr 2020,lightweight-ufc-men
+Ferguson T.,Gaethje J.,,,canc.,canc.,02:00,19 Apr 2020,lightweight-ufc-men
+Johnson M.,Worthy K.,,,canc.,canc.,02:00,19 Apr 2020,lightweight-ufc-men
+Nurmagomedov K.,Ferguson T.,1.32,3.45,canc.,canc.,02:00,19 Apr 2020,lightweight-ufc-men
+Ramos D.,Tsarukyan A.,,,postp.,postp.,21:00,11 Apr 2020,lightweight-ufc-men
+Diakiese M.,Herbert J.,,,postp.,postp.,18:00,21 Mar 2020,lightweight-ufc-men
+Lee K.,Oliveira C.,1.7,2.19,Oliveira C.,SUBM,00:05,15 Mar 2020,lightweight-ufc-men
+Dollaway CB,Marquardt N.,1.24,4.15,Marquardt N.,KO,22:00,19 Dec 2015,middleweight-ufc-men
+Souza R.,Romero Y.,1.68,2.19,Romero Y.,PTS,03:00,13 Dec 2015,middleweight-ufc-men
+Alves W.,Covington C.,1.98,1.82,Alves W.,SUBM,01:00,13 Dec 2015,middleweight-ufc-men
+Theodorou E.,Santos T.,1.43,2.87,Santos T.,PTS,03:00,11 Dec 2015,middleweight-ufc-men
+Carlos Junior A.,Casey K.,1.31,3.45,Draw,Draw,23:45,10 Dec 2015,middleweight-ufc-men
+Yang D.,Collier J.,2.06,1.76,Yang D.,TKO,10:00,28 Nov 2015,middleweight-ufc-men
+Urbina H.,Fabinski B.,2.78,1.43,Fabinski B.,PTS,01:00,22 Nov 2015,middleweight-ufc-men
+Hall U.,Whittaker R.,1.6,2.34,Whittaker R.,PTS,03:00,15 Nov 2015,middleweight-ufc-men
+Kelly D.,Montgomery S.,3.07,1.37,Kelly D.,PTS,23:15,14 Nov 2015,middleweight-ufc-men
+Belfort V.,Henderson D.,1.3,3.51,Belfort V.,KO,03:00,08 Nov 2015,middleweight-ufc-men
+Askham S.,Jotko K.,1.68,2.14,Jotko K.,PTS,17:00,24 Oct 2015,middleweight-ufc-men
+Mousasi G.,Hall U.,1.18,4.65,Hall U.,TKO,02:00,27 Sep 2015,middleweight-ufc-men
+Riggs J.,Stallings R.,2.75,1.45,Riggs J.,TKO,23:00,05 Sep 2015,middleweight-ufc-men
+Brunson D.,Alvey S.,1.23,4.16,Brunson D.,KO,02:00,09 Aug 2015,middleweight-ufc-men
+Hall U.,Bamgbose O.,1.25,4.0,Hall U.,KO,02:00,09 Aug 2015,middleweight-ufc-men
+Miranda V.,Hester C.,2.19,1.66,Miranda V.,TKO,23:00,01 Aug 2015,middleweight-ufc-men
+Carlos Junior A.,Vettori M.,1.76,2.06,Carlos Junior A.,PTS,01:00,31 Dec 2016,middleweight-ufc-men
+Kennedy T.,Gastelum K.,1.74,2.1,Gastelum K.,TKO,03:00,11 Dec 2016,middleweight-ufc-men
+Berish K.,Janes R.,2.71,1.46,Janes R.,PTS,22:30,09 Dec 2016,middleweight-ufc-men
+Sanchez A.,Smith T.,1.49,2.6,Sanchez A.,PTS,22:30,09 Dec 2016,middleweight-ufc-men
+Mutapcic E.,Smith A.,1.99,1.84,Smith A.,TKO,00:00,04 Dec 2016,middleweight-ufc-men
+Brunson D.,Whittaker R.,1.9,1.91,Whittaker R.,TKO,03:00,27 Nov 2016,middleweight-ufc-men
+Ferreira C.,Hermansson J.,2.14,1.7,Ferreira C.,SUBM,02:00,20 Nov 2016,middleweight-ufc-men
+Mousasi G.,Hall U.,1.17,5.05,Mousasi G.,TKO,21:00,19 Nov 2016,middleweight-ufc-men
+Weidman C.,Romero Y.,1.45,2.82,Romero Y.,KO,03:55,13 Nov 2016,middleweight-ufc-men
+Alvey S.,Nicholson A.,1.49,2.61,Alvey S.,PTS,22:30,05 Nov 2016,middleweight-ufc-men
+Belfort V.,Mousasi G.,3.51,1.31,Mousasi G.,TKO,02:00,09 Oct 2016,middleweight-ufc-men
+Marquardt N.,McCrory T.,2.18,1.7,Marquardt N.,KO,23:15,01 Oct 2016,middleweight-ufc-men
+Santos T.,Spicely E.,1.15,5.71,Spicely E.,SUBM,02:00,25 Sep 2016,middleweight-ufc-men
+Hall U.,Brunson D.,2.62,1.5,Brunson D.,TKO,02:00,18 Sep 2016,middleweight-ufc-men
+Dollaway CB,Barroso F.,,,canc.,canc.,00:00,11 Sep 2016,middleweight-ufc-men
+Askham S.,Hermansson J.,1.92,1.88,Hermansson J.,PTS,15:45,03 Sep 2016,middleweight-ufc-men
+Alvey S.,Casey K.,1.41,2.9,Alvey S.,TKO,22:00,27 Aug 2016,middleweight-ufc-men
+Janes R.,Hunter A.,,,canc.,canc.,21:00,27 Aug 2016,middleweight-ufc-men
+Uda A.,Vettori M.,2.37,1.59,Vettori M.,SUBM,22:30,20 Aug 2016,middleweight-ufc-men
+Leites T.,Camozzi Ch.,1.54,2.51,Leites T.,SUBM,02:00,07 Aug 2016,middleweight-ufc-men
+Boetsch T.,Samman J.,2.91,1.41,Boetsch T.,TKO,01:00,14 Jul 2016,middleweight-ufc-men
+Alvey S.,Spicely E.,1.35,3.23,Alvey S.,SUBM,23:00,13 Jul 2016,middleweight-ufc-men
+Mousasi G.,Santos T.,1.38,3.07,Mousasi G.,KO,22:30,09 Jul 2016,middleweight-ufc-men
+McCrory T.,Jotko K.,1.56,2.44,Jotko K.,KO,00:30,19 Jun 2016,middleweight-ufc-men
+Theodorou E.,Alvey S.,1.4,2.98,Theodorou E.,PTS,22:45,18 Jun 2016,middleweight-ufc-men
+Rockhold L.,Bisping M.,1.15,5.89,Bisping M.,KO,04:00,05 Jun 2016,middleweight-ufc-men
+Casey K.,Mutapcic E.,2.19,1.68,Draw,Draw,22:45,04 Jun 2016,middleweight-ufc-men
+Camozzi Ch.,Miranda V.,2.11,1.72,Camozzi Ch.,PTS,01:00,30 May 2016,middleweight-ufc-men
+Collier J.,Uda A.,2.0,1.8,Collier J.,KO,23:00,29 May 2016,middleweight-ufc-men
+Souza R.,Belfort V.,1.33,3.47,Souza R.,KO,03:30,15 May 2016,middleweight-ufc-men
+Marquardt N.,Santos T.,3.76,1.29,Santos T.,KO,01:00,15 May 2016,middleweight-ufc-men
+Cedenblad M.,McLellan G.,1.32,3.34,Cedenblad M.,TKO,16:00,08 May 2016,middleweight-ufc-men
+Whittaker R.,Natal R.,1.3,3.53,Whittaker R.,PTS,02:00,24 Apr 2016,middleweight-ufc-men
+Ferreira C.,Bamgbose O.,2.57,1.5,Ferreira C.,PTS,20:00,16 Apr 2016,middleweight-ufc-men
+Di Chirico A.,Velickovic B.,2.53,1.52,Velickovic B.,PTS,14:30,10 Apr 2016,middleweight-ufc-men
+Te-Huna J.,Bosse S.,1.39,2.99,Bosse S.,KO,02:00,20 Mar 2016,middleweight-ufc-men
+Miranda V.,Guimaraes M.,1.31,3.52,Miranda V.,TKO,01:00,06 Mar 2016,middleweight-ufc-men
+Carlos Junior A.,Vettori M.,1.76,2.06,Carlos Junior A.,PTS,01:00,31 Dec 2016,middleweight-ufc-men
+Kennedy T.,Gastelum K.,1.74,2.1,Gastelum K.,TKO,03:00,11 Dec 2016,middleweight-ufc-men
+Berish K.,Janes R.,2.71,1.46,Janes R.,PTS,22:30,09 Dec 2016,middleweight-ufc-men
+Sanchez A.,Smith T.,1.49,2.6,Sanchez A.,PTS,22:30,09 Dec 2016,middleweight-ufc-men
+Mutapcic E.,Smith A.,1.99,1.84,Smith A.,TKO,00:00,04 Dec 2016,middleweight-ufc-men
+Brunson D.,Whittaker R.,1.9,1.91,Whittaker R.,TKO,03:00,27 Nov 2016,middleweight-ufc-men
+Ferreira C.,Hermansson J.,2.14,1.7,Ferreira C.,SUBM,02:00,20 Nov 2016,middleweight-ufc-men
+Mousasi G.,Hall U.,1.17,5.05,Mousasi G.,TKO,21:00,19 Nov 2016,middleweight-ufc-men
+Weidman C.,Romero Y.,1.45,2.82,Romero Y.,KO,03:55,13 Nov 2016,middleweight-ufc-men
+Alvey S.,Nicholson A.,1.49,2.61,Alvey S.,PTS,22:30,05 Nov 2016,middleweight-ufc-men
+Belfort V.,Mousasi G.,3.51,1.31,Mousasi G.,TKO,02:00,09 Oct 2016,middleweight-ufc-men
+Marquardt N.,McCrory T.,2.18,1.7,Marquardt N.,KO,23:15,01 Oct 2016,middleweight-ufc-men
+Santos T.,Spicely E.,1.15,5.71,Spicely E.,SUBM,02:00,25 Sep 2016,middleweight-ufc-men
+Hall U.,Brunson D.,2.62,1.5,Brunson D.,TKO,02:00,18 Sep 2016,middleweight-ufc-men
+Dollaway CB,Barroso F.,,,canc.,canc.,00:00,11 Sep 2016,middleweight-ufc-men
+Askham S.,Hermansson J.,1.92,1.88,Hermansson J.,PTS,15:45,03 Sep 2016,middleweight-ufc-men
+Alvey S.,Casey K.,1.41,2.9,Alvey S.,TKO,22:00,27 Aug 2016,middleweight-ufc-men
+Janes R.,Hunter A.,,,canc.,canc.,21:00,27 Aug 2016,middleweight-ufc-men
+Uda A.,Vettori M.,2.37,1.59,Vettori M.,SUBM,22:30,20 Aug 2016,middleweight-ufc-men
+Leites T.,Camozzi Ch.,1.54,2.51,Leites T.,SUBM,02:00,07 Aug 2016,middleweight-ufc-men
+Boetsch T.,Samman J.,2.91,1.41,Boetsch T.,TKO,01:00,14 Jul 2016,middleweight-ufc-men
+Alvey S.,Spicely E.,1.35,3.23,Alvey S.,SUBM,23:00,13 Jul 2016,middleweight-ufc-men
+Mousasi G.,Santos T.,1.38,3.07,Mousasi G.,KO,22:30,09 Jul 2016,middleweight-ufc-men
+McCrory T.,Jotko K.,1.56,2.44,Jotko K.,KO,00:30,19 Jun 2016,middleweight-ufc-men
+Theodorou E.,Alvey S.,1.4,2.98,Theodorou E.,PTS,22:45,18 Jun 2016,middleweight-ufc-men
+Rockhold L.,Bisping M.,1.15,5.89,Bisping M.,KO,04:00,05 Jun 2016,middleweight-ufc-men
+Casey K.,Mutapcic E.,2.19,1.68,Draw,Draw,22:45,04 Jun 2016,middleweight-ufc-men
+Camozzi Ch.,Miranda V.,2.11,1.72,Camozzi Ch.,PTS,01:00,30 May 2016,middleweight-ufc-men
+Collier J.,Uda A.,2.0,1.8,Collier J.,KO,23:00,29 May 2016,middleweight-ufc-men
+Souza R.,Belfort V.,1.33,3.47,Souza R.,KO,03:30,15 May 2016,middleweight-ufc-men
+Marquardt N.,Santos T.,3.76,1.29,Santos T.,KO,01:00,15 May 2016,middleweight-ufc-men
+Cedenblad M.,McLellan G.,1.32,3.34,Cedenblad M.,TKO,16:00,08 May 2016,middleweight-ufc-men
+Whittaker R.,Natal R.,1.3,3.53,Whittaker R.,PTS,02:00,24 Apr 2016,middleweight-ufc-men
+Ferreira C.,Bamgbose O.,2.57,1.5,Ferreira C.,PTS,20:00,16 Apr 2016,middleweight-ufc-men
+Di Chirico A.,Velickovic B.,2.53,1.52,Velickovic B.,PTS,14:30,10 Apr 2016,middleweight-ufc-men
+Te-Huna J.,Bosse S.,1.39,2.99,Bosse S.,KO,02:00,20 Mar 2016,middleweight-ufc-men
+Miranda V.,Guimaraes M.,1.31,3.52,Miranda V.,TKO,01:00,06 Mar 2016,middleweight-ufc-men
+Vettori M.,Akhmedov O.,1.42,2.86,Draw,Draw,01:00,31 Dec 2017,middleweight-ufc-men
+Di Chirico A.,Bamgbose O.,1.74,2.07,Di Chirico A.,KO,22:00,16 Dec 2017,middleweight-ufc-men
+Anders E.,Perez Echeimberg M.,1.25,3.9,Anders E.,PTS,03:00,10 Dec 2017,middleweight-ufc-men
+Neto A. B.,Giles T.,3.1,1.36,Giles T.,KO,23:30,09 Dec 2017,middleweight-ufc-men
+Sanchez A.,Janes R.,1.18,5.0,Janes R.,TKO,03:00,02 Dec 2017,middleweight-ufc-men
+Bisping M.,Gastelum K.,3.29,1.33,Gastelum K.,KO,12:00,25 Nov 2017,middleweight-ufc-men
+Theodorou E.,Kelly D.,1.32,3.36,Theodorou E.,PTS,03:00,19 Nov 2017,middleweight-ufc-men
+Marquardt N.,Ferreira C.,3.19,1.34,Ferreira C.,PTS,03:00,12 Nov 2017,middleweight-ufc-men
+Stewart D.,Roberson K.,2.81,1.44,Roberson K.,SUBM,23:30,11 Nov 2017,middleweight-ufc-men
+Bisping M.,St-Pierre G.,1.9,1.89,St-Pierre G.,SUBM,02:00,05 Nov 2017,middleweight-ufc-men
+Brunson D.,Machida L.,1.6,2.34,Brunson D.,KO,02:00,29 Oct 2017,middleweight-ufc-men
+Carlos Junior A.,Marshman J.,1.2,4.38,Carlos Junior A.,SUBM,23:00,28 Oct 2017,middleweight-ufc-men
+Alvey S.,Emeev R.,2.33,1.59,Emeev R.,PTS,15:45,21 Oct 2017,middleweight-ufc-men
+Leites T.,Tavares B.,2.47,1.53,Tavares B.,PTS,22:30,07 Oct 2017,middleweight-ufc-men
+Lombard H.,Smith A.,2.3,1.63,Smith A.,KO,02:00,17 Sep 2017,middleweight-ufc-men
+Jotko K.,Hall U.,1.47,2.69,Hall U.,TKO,00:00,17 Sep 2017,middleweight-ufc-men
+Bahadurzada S.,Wilkinson R.,1.71,2.13,Bahadurzada S.,TKO,19:00,02 Sep 2017,middleweight-ufc-men
+Alvey S.,Evans R.,1.73,2.14,Alvey S.,PTS,02:00,06 Aug 2017,middleweight-ufc-men
+Weidman C.,Gastelum K.,2.31,1.63,Weidman C.,SUBM,00:00,23 Jul 2017,middleweight-ufc-men
+Natal R.,Anders E.,2.01,1.81,Anders E.,KO,22:00,22 Jul 2017,middleweight-ufc-men
+Marshman J.,Janes R.,1.19,4.83,Marshman J.,PTS,19:00,16 Jul 2017,middleweight-ufc-men
+Romero Y.,Whittaker R.,2.0,1.83,Whittaker R.,PTS,02:00,09 Jul 2017,middleweight-ufc-men
+Tavares B.,Theodorou E.,1.91,1.91,Tavares B.,PTS,01:00,08 Jul 2017,middleweight-ufc-men
+Boetsch T.,Hendricks J.,2.31,1.62,Boetsch T.,TKO,01:00,26 Jun 2017,middleweight-ufc-men
+Miranda V.,Vettori M.,3.84,1.28,Vettori M.,PTS,23:00,25 Jun 2017,middleweight-ufc-men
+Brunson D.,Kelly D.,1.36,3.21,Brunson D.,KO,02:00,11 Jun 2017,middleweight-ufc-men
+Belfort V.,Marquardt N.,1.58,2.42,Belfort V.,PTS,02:00,04 Jun 2017,middleweight-ufc-men
+Carlos Junior A.,Spicely E.,1.31,3.53,Carlos Junior A.,SUBM,00:00,04 Jun 2017,middleweight-ufc-men
+Hermansson J.,Nicholson A.,1.6,2.37,Hermansson J.,TKO,17:00,28 May 2017,middleweight-ufc-men
+Jotko K.,Branch D.,1.62,2.36,Branch D.,PTS,02:00,14 May 2017,middleweight-ufc-men
+Leites T.,Alvey S.,1.81,1.99,Leites T.,PTS,00:00,23 Apr 2017,middleweight-ufc-men
+Souza R.,Whittaker R.,1.37,3.12,Whittaker R.,TKO,00:00,16 Apr 2017,middleweight-ufc-men
+Smith A.,Sanchez A.,3.62,1.29,Smith A.,KO,20:00,15 Apr 2017,middleweight-ufc-men
+Weidman C.,Mousasi G.,2.01,1.8,Mousasi G.,TKO,02:00,09 Apr 2017,middleweight-ufc-men
+Scott B.,Askham S.,2.3,1.62,Scott B.,PTS,18:25,18 Mar 2017,middleweight-ufc-men
+Belfort V.,Gastelum K.,3.8,1.28,Gastelum K.,TKO,03:00,12 Mar 2017,middleweight-ufc-men
+McLellan G.,Costa P. H.,3.59,1.3,Costa P. H.,TKO,00:00,12 Mar 2017,middleweight-ufc-men
+Hendricks J.,Lombard H.,1.94,1.87,Hendricks J.,PTS,02:00,20 Feb 2017,middleweight-ufc-men
+Marshman J.,Santos T.,2.4,1.59,Santos T.,TKO,00:00,20 Feb 2017,middleweight-ufc-men
+Vettori M.,Akhmedov O.,1.42,2.86,Draw,Draw,01:00,31 Dec 2017,middleweight-ufc-men
+Di Chirico A.,Bamgbose O.,1.74,2.07,Di Chirico A.,KO,22:00,16 Dec 2017,middleweight-ufc-men
+Anders E.,Perez Echeimberg M.,1.25,3.9,Anders E.,PTS,03:00,10 Dec 2017,middleweight-ufc-men
+Neto A. B.,Giles T.,3.1,1.36,Giles T.,KO,23:30,09 Dec 2017,middleweight-ufc-men
+Sanchez A.,Janes R.,1.18,5.0,Janes R.,TKO,03:00,02 Dec 2017,middleweight-ufc-men
+Bisping M.,Gastelum K.,3.29,1.33,Gastelum K.,KO,12:00,25 Nov 2017,middleweight-ufc-men
+Theodorou E.,Kelly D.,1.32,3.36,Theodorou E.,PTS,03:00,19 Nov 2017,middleweight-ufc-men
+Marquardt N.,Ferreira C.,3.19,1.34,Ferreira C.,PTS,03:00,12 Nov 2017,middleweight-ufc-men
+Stewart D.,Roberson K.,2.81,1.44,Roberson K.,SUBM,23:30,11 Nov 2017,middleweight-ufc-men
+Bisping M.,St-Pierre G.,1.9,1.89,St-Pierre G.,SUBM,02:00,05 Nov 2017,middleweight-ufc-men
+Brunson D.,Machida L.,1.6,2.34,Brunson D.,KO,02:00,29 Oct 2017,middleweight-ufc-men
+Carlos Junior A.,Marshman J.,1.2,4.38,Carlos Junior A.,SUBM,23:00,28 Oct 2017,middleweight-ufc-men
+Alvey S.,Emeev R.,2.33,1.59,Emeev R.,PTS,15:45,21 Oct 2017,middleweight-ufc-men
+Leites T.,Tavares B.,2.47,1.53,Tavares B.,PTS,22:30,07 Oct 2017,middleweight-ufc-men
+Lombard H.,Smith A.,2.3,1.63,Smith A.,KO,02:00,17 Sep 2017,middleweight-ufc-men
+Jotko K.,Hall U.,1.47,2.69,Hall U.,TKO,00:00,17 Sep 2017,middleweight-ufc-men
+Bahadurzada S.,Wilkinson R.,1.71,2.13,Bahadurzada S.,TKO,19:00,02 Sep 2017,middleweight-ufc-men
+Alvey S.,Evans R.,1.73,2.14,Alvey S.,PTS,02:00,06 Aug 2017,middleweight-ufc-men
+Weidman C.,Gastelum K.,2.31,1.63,Weidman C.,SUBM,00:00,23 Jul 2017,middleweight-ufc-men
+Natal R.,Anders E.,2.01,1.81,Anders E.,KO,22:00,22 Jul 2017,middleweight-ufc-men
+Marshman J.,Janes R.,1.19,4.83,Marshman J.,PTS,19:00,16 Jul 2017,middleweight-ufc-men
+Romero Y.,Whittaker R.,2.0,1.83,Whittaker R.,PTS,02:00,09 Jul 2017,middleweight-ufc-men
+Tavares B.,Theodorou E.,1.91,1.91,Tavares B.,PTS,01:00,08 Jul 2017,middleweight-ufc-men
+Boetsch T.,Hendricks J.,2.31,1.62,Boetsch T.,TKO,01:00,26 Jun 2017,middleweight-ufc-men
+Miranda V.,Vettori M.,3.84,1.28,Vettori M.,PTS,23:00,25 Jun 2017,middleweight-ufc-men
+Brunson D.,Kelly D.,1.36,3.21,Brunson D.,KO,02:00,11 Jun 2017,middleweight-ufc-men
+Belfort V.,Marquardt N.,1.58,2.42,Belfort V.,PTS,02:00,04 Jun 2017,middleweight-ufc-men
+Carlos Junior A.,Spicely E.,1.31,3.53,Carlos Junior A.,SUBM,00:00,04 Jun 2017,middleweight-ufc-men
+Hermansson J.,Nicholson A.,1.6,2.37,Hermansson J.,TKO,17:00,28 May 2017,middleweight-ufc-men
+Jotko K.,Branch D.,1.62,2.36,Branch D.,PTS,02:00,14 May 2017,middleweight-ufc-men
+Leites T.,Alvey S.,1.81,1.99,Leites T.,PTS,00:00,23 Apr 2017,middleweight-ufc-men
+Souza R.,Whittaker R.,1.37,3.12,Whittaker R.,TKO,00:00,16 Apr 2017,middleweight-ufc-men
+Smith A.,Sanchez A.,3.62,1.29,Smith A.,KO,20:00,15 Apr 2017,middleweight-ufc-men
+Weidman C.,Mousasi G.,2.01,1.8,Mousasi G.,TKO,02:00,09 Apr 2017,middleweight-ufc-men
+Scott B.,Askham S.,2.3,1.62,Scott B.,PTS,18:25,18 Mar 2017,middleweight-ufc-men
+Belfort V.,Gastelum K.,3.8,1.28,Gastelum K.,TKO,03:00,12 Mar 2017,middleweight-ufc-men
+McLellan G.,Costa P. H.,3.59,1.3,Costa P. H.,TKO,00:00,12 Mar 2017,middleweight-ufc-men
+Hendricks J.,Lombard H.,1.94,1.87,Hendricks J.,PTS,02:00,20 Feb 2017,middleweight-ufc-men
+Marshman J.,Santos T.,2.4,1.59,Santos T.,TKO,00:00,20 Feb 2017,middleweight-ufc-men
+Hall U.,Lewis B.,2.24,1.67,Hall U.,KO,00:00,30 Dec 2018,middleweight-ufc-men
+Meerschaert G.,Hermansson J.,2.37,1.58,Hermansson J.,SUBM,22:30,15 Dec 2018,middleweight-ufc-men
+Theodorou E.,Anders E.,1.79,2.03,Theodorou E.,PTS,01:00,09 Dec 2018,middleweight-ufc-men
+Stewart D.,Shahbazyan E.,1.92,1.9,Shahbazyan E.,PTS,03:30,01 Dec 2018,middleweight-ufc-men
+Holland K.,Phillips J.,1.18,4.95,Holland K.,SUBM,08:45,24 Nov 2018,middleweight-ufc-men
+Ferreira C.,Heinisch I.,1.51,2.6,Heinisch I.,PTS,04:00,18 Nov 2018,middleweight-ufc-men
+Weidman C.,Souza R.,1.57,2.44,Souza R.,TKO,03:30,04 Nov 2018,middleweight-ufc-men
+Roberson K.,Marshman J.,1.31,3.55,Roberson K.,PTS,02:30,04 Nov 2018,middleweight-ufc-men
+Leites T.,Lombard H.,1.71,2.2,Leites T.,PTS,23:00,22 Sep 2018,middleweight-ufc-men
+Murtazaliev K.,Dollaway CB,1.58,2.44,Murtazaliev K.,TKO,17:30,15 Sep 2018,middleweight-ufc-men
+Byrd C.,Stewart D.,1.52,2.6,Stewart D.,TKO,00:00,09 Sep 2018,middleweight-ufc-men
+Anders E.,Williams T.,1.1,7.71,Anders E.,KO,02:00,26 Aug 2018,middleweight-ufc-men
+Santos T.,Holland K.,1.29,3.71,Santos T.,PTS,02:00,05 Aug 2018,middleweight-ufc-men
+Miranda V.,Azaitar A.,2.74,1.47,Azaitar A.,PTS,19:35,22 Jul 2018,middleweight-ufc-men
+Hall U.,Costa P. H.,3.59,1.31,Costa P. H.,TKO,01:30,08 Jul 2018,middleweight-ufc-men
+Tavares B.,Adesanya I.,1.95,1.89,Adesanya I.,PTS,04:00,07 Jul 2018,middleweight-ufc-men
+Meerschaert G.,Piechota O.,2.94,1.42,Meerschaert G.,SUBM,22:30,06 Jul 2018,middleweight-ufc-men
+Whittaker R.,Romero Y.,1.38,3.15,Whittaker R.,PTS,04:00,10 Jun 2018,middleweight-ufc-men
+Spicely E.,Stewart D.,1.59,2.37,Stewart D.,TKO,17:00,27 May 2018,middleweight-ufc-men
+Theodorou E.,Smith T.,1.25,3.95,Theodorou E.,PTS,14:30,27 May 2018,middleweight-ufc-men
+Souza R.,Gastelum K.,1.8,2.05,Gastelum K.,PTS,03:30,13 May 2018,middleweight-ufc-men
+Ferreira C.,Roberson K.,1.74,2.15,Ferreira C.,SUBM,01:45,13 May 2018,middleweight-ufc-men
+Leites T.,Hermansson J.,2.14,1.74,Hermansson J.,TKO,23:30,12 May 2018,middleweight-ufc-men
+Branch D.,Santos T.,2.48,1.56,Branch D.,KO,02:00,22 Apr 2018,middleweight-ufc-men
+Adesanya I.,Vettori M.,1.39,3.08,Adesanya I.,PTS,02:30,15 Apr 2018,middleweight-ufc-men
+Jotko K.,Tavares B.,,,TKO,TKO,00:30,15 Apr 2018,middleweight-ufc-men
+Phillips J.,Byrd C.,1.9,1.91,Byrd C.,SUBM,20:00,17 Mar 2018,middleweight-ufc-men
+Dollaway CB,Lombard H.,2.01,1.8,Dollaway CB,TKO,01:30,04 Mar 2018,middleweight-ufc-men
+Burkman J.,Morono A.,3.7,1.28,Morono A.,SUBM,23:00,18 Feb 2018,middleweight-ufc-men
+Romero Y.,Rockhold L.,2.55,1.54,Romero Y.,KO,05:00,11 Feb 2018,middleweight-ufc-men
+Machida L.,Anders E.,3.15,1.38,Machida L.,PTS,04:30,04 Feb 2018,middleweight-ufc-men
+Souza R.,Brunson D.,1.9,1.9,Souza R.,KO,04:30,28 Jan 2018,middleweight-ufc-men
+Park J. Y.,Barriault M.,2.06,1.76,Park J. Y.,PTS,10:30,21 Dec 2019,middleweight-ufc-men
+Heinisch I.,Akhmedov O.,1.8,2.02,Akhmedov O.,PTS,01:30,15 Dec 2019,middleweight-ufc-men
+Soriano P.,Piechota O.,1.88,1.93,Soriano P.,KO,23:30,14 Dec 2019,middleweight-ufc-men
+Muradov M.,Smith T.,1.22,4.27,Muradov M.,KO,22:30,07 Dec 2019,middleweight-ufc-men
+Arroyo A.,Muniz A.,2.04,1.8,Muniz A.,PTS,01:30,17 Nov 2019,middleweight-ufc-men
+Arroyo A.,Holland K.,,,canc.,canc.,22:00,16 Nov 2019,middleweight-ufc-men
+Gamzatov S.,Farias de Abreu K.,1.65,2.17,Gamzatov S.,PTS,19:00,09 Nov 2019,middleweight-ufc-men
+Gastelum K.,Till D.,1.46,2.77,Till D.,PTS,03:30,03 Nov 2019,middleweight-ufc-men
+Tavares B.,Shahbazyan E.,2.29,1.62,Shahbazyan E.,KO,00:00,03 Nov 2019,middleweight-ufc-men
+Heinisch I.,Tavares B.,,,canc.,canc.,12:00,26 Oct 2019,middleweight-ufc-men
+Winn D.,Stewart D.,1.79,2.06,Stewart D.,PTS,01:30,19 Oct 2019,middleweight-ufc-men
+Holland K.,Allen B.,1.63,2.32,Allen B.,SUBM,22:30,18 Oct 2019,middleweight-ufc-men
+Anders E.,Meerschaert G.,1.71,2.17,Anders E.,PTS,01:00,13 Oct 2019,middleweight-ufc-men
+Vettori M.,Sanchez A.,1.26,3.92,Vettori M.,PTS,21:30,12 Oct 2019,middleweight-ufc-men
+Whittaker R.,Adesanya I.,1.96,1.86,Adesanya I.,KO,03:30,06 Oct 2019,middleweight-ufc-men
+Di Chirico A.,Sobotta P.,,,canc.,canc.,21:00,28 Sep 2019,middleweight-ufc-men
+Amedovski A.,Phillips J.,1.78,2.06,Phillips J.,KO,17:30,28 Sep 2019,middleweight-ufc-men
+Hall U.,Carlos Junior A.,3.08,1.39,Hall U.,PTS,00:30,15 Sep 2019,middleweight-ufc-men
+Sanchez A.,Vettori M.,,,canc.,canc.,22:30,14 Sep 2019,middleweight-ufc-men
+Yandiev A.,Soriano P.,,,canc.,canc.,02:00,08 Sep 2019,middleweight-ufc-men
+Akhmedov O.,Cummings Z.,1.81,1.99,Akhmedov O.,PTS,14:30,07 Sep 2019,middleweight-ufc-men
+Park J. Y.,Hernandez A.,2.25,1.66,Hernandez A.,SUBM,09:30,31 Aug 2019,middleweight-ufc-men
+Romero Y.,Costa P. H.,1.67,2.24,Costa P. H.,PTS,03:00,18 Aug 2019,middleweight-ufc-men
+Vieira R.,Piechota O.,1.45,2.77,Vieira R.,SUBM,00:30,11 Aug 2019,middleweight-ufc-men
+Giles T.,Meerschaert G.,1.57,2.45,Meerschaert G.,SUBM,20:00,03 Aug 2019,middleweight-ufc-men
+Barriault M.,Jotko K.,2.44,1.58,Jotko K.,PTS,02:00,28 Jul 2019,middleweight-ufc-men
+Roberson K.,Turman W.,1.47,2.71,Roberson K.,PTS,00:30,14 Jul 2019,middleweight-ufc-men
+Roberson K.,Phillips J.,,,canc.,canc.,21:00,13 Jul 2019,middleweight-ufc-men
+Shahbazyan E.,Marshman J.,1.16,5.37,Shahbazyan E.,SUBM,23:15,06 Jul 2019,middleweight-ufc-men
+Winn D.,Perez Echeimberg M.,,,canc.,canc.,01:00,23 Jun 2019,middleweight-ufc-men
+Holland K.,Di Chirico A.,1.45,2.78,Holland K.,PTS,23:00,22 Jun 2019,middleweight-ufc-men
+Lewis B.,Stewart D.,1.57,2.44,Stewart D.,PTS,22:45,08 Jun 2019,middleweight-ufc-men
+Carlos Junior A.,Heinisch I.,1.57,2.4,Heinisch I.,PTS,01:00,19 May 2019,middleweight-ufc-men
+Cummings Z.,Giles T.,2.41,1.57,Cummings Z.,SUBM,21:15,18 May 2019,middleweight-ufc-men
+Cannonier J.,Silva A.,1.85,1.98,Cannonier J.,TKO,03:30,12 May 2019,middleweight-ufc-men
+Brunson D.,Theodorou E.,1.93,1.87,Brunson D.,PTS,02:00,05 May 2019,middleweight-ufc-men
+Souza R.,Hermansson J.,1.46,2.78,Hermansson J.,PTS,03:30,28 Apr 2019,middleweight-ufc-men
+Park J. Y.,Barriault M.,2.06,1.76,Park J. Y.,PTS,10:30,21 Dec 2019,middleweight-ufc-men
+Heinisch I.,Akhmedov O.,1.8,2.02,Akhmedov O.,PTS,01:30,15 Dec 2019,middleweight-ufc-men
+Soriano P.,Piechota O.,1.88,1.93,Soriano P.,KO,23:30,14 Dec 2019,middleweight-ufc-men
+Muradov M.,Smith T.,1.22,4.27,Muradov M.,KO,22:30,07 Dec 2019,middleweight-ufc-men
+Arroyo A.,Muniz A.,2.04,1.8,Muniz A.,PTS,01:30,17 Nov 2019,middleweight-ufc-men
+Arroyo A.,Holland K.,,,canc.,canc.,22:00,16 Nov 2019,middleweight-ufc-men
+Gamzatov S.,Farias de Abreu K.,1.65,2.17,Gamzatov S.,PTS,19:00,09 Nov 2019,middleweight-ufc-men
+Gastelum K.,Till D.,1.46,2.77,Till D.,PTS,03:30,03 Nov 2019,middleweight-ufc-men
+Tavares B.,Shahbazyan E.,2.29,1.62,Shahbazyan E.,KO,00:00,03 Nov 2019,middleweight-ufc-men
+Heinisch I.,Tavares B.,,,canc.,canc.,12:00,26 Oct 2019,middleweight-ufc-men
+Winn D.,Stewart D.,1.79,2.06,Stewart D.,PTS,01:30,19 Oct 2019,middleweight-ufc-men
+Holland K.,Allen B.,1.63,2.32,Allen B.,SUBM,22:30,18 Oct 2019,middleweight-ufc-men
+Anders E.,Meerschaert G.,1.71,2.17,Anders E.,PTS,01:00,13 Oct 2019,middleweight-ufc-men
+Vettori M.,Sanchez A.,1.26,3.92,Vettori M.,PTS,21:30,12 Oct 2019,middleweight-ufc-men
+Whittaker R.,Adesanya I.,1.96,1.86,Adesanya I.,KO,03:30,06 Oct 2019,middleweight-ufc-men
+Di Chirico A.,Sobotta P.,,,canc.,canc.,21:00,28 Sep 2019,middleweight-ufc-men
+Amedovski A.,Phillips J.,1.78,2.06,Phillips J.,KO,17:30,28 Sep 2019,middleweight-ufc-men
+Hall U.,Carlos Junior A.,3.08,1.39,Hall U.,PTS,00:30,15 Sep 2019,middleweight-ufc-men
+Sanchez A.,Vettori M.,,,canc.,canc.,22:30,14 Sep 2019,middleweight-ufc-men
+Yandiev A.,Soriano P.,,,canc.,canc.,02:00,08 Sep 2019,middleweight-ufc-men
+Akhmedov O.,Cummings Z.,1.81,1.99,Akhmedov O.,PTS,14:30,07 Sep 2019,middleweight-ufc-men
+Park J. Y.,Hernandez A.,2.25,1.66,Hernandez A.,SUBM,09:30,31 Aug 2019,middleweight-ufc-men
+Romero Y.,Costa P. H.,1.67,2.24,Costa P. H.,PTS,03:00,18 Aug 2019,middleweight-ufc-men
+Vieira R.,Piechota O.,1.45,2.77,Vieira R.,SUBM,00:30,11 Aug 2019,middleweight-ufc-men
+Giles T.,Meerschaert G.,1.57,2.45,Meerschaert G.,SUBM,20:00,03 Aug 2019,middleweight-ufc-men
+Barriault M.,Jotko K.,2.44,1.58,Jotko K.,PTS,02:00,28 Jul 2019,middleweight-ufc-men
+Roberson K.,Turman W.,1.47,2.71,Roberson K.,PTS,00:30,14 Jul 2019,middleweight-ufc-men
+Roberson K.,Phillips J.,,,canc.,canc.,21:00,13 Jul 2019,middleweight-ufc-men
+Shahbazyan E.,Marshman J.,1.16,5.37,Shahbazyan E.,SUBM,23:15,06 Jul 2019,middleweight-ufc-men
+Winn D.,Perez Echeimberg M.,,,canc.,canc.,01:00,23 Jun 2019,middleweight-ufc-men
+Holland K.,Di Chirico A.,1.45,2.78,Holland K.,PTS,23:00,22 Jun 2019,middleweight-ufc-men
+Lewis B.,Stewart D.,1.57,2.44,Stewart D.,PTS,22:45,08 Jun 2019,middleweight-ufc-men
+Carlos Junior A.,Heinisch I.,1.57,2.4,Heinisch I.,PTS,01:00,19 May 2019,middleweight-ufc-men
+Cummings Z.,Giles T.,2.41,1.57,Cummings Z.,SUBM,21:15,18 May 2019,middleweight-ufc-men
+Cannonier J.,Silva A.,1.85,1.98,Cannonier J.,TKO,03:30,12 May 2019,middleweight-ufc-men
+Brunson D.,Theodorou E.,1.93,1.87,Brunson D.,PTS,02:00,05 May 2019,middleweight-ufc-men
+Souza R.,Hermansson J.,1.46,2.78,Hermansson J.,PTS,03:30,28 Apr 2019,middleweight-ufc-men
+Fabinski B.,Muniz A.,1.66,2.21,Muniz A.,SUBM,23:00,05 Sep 2020,middleweight-ufc-men
+Pitolo M.,Kasanganay I.,2.22,1.66,Kasanganay I.,PTS,00:30,30 Aug 2020,middleweight-ufc-men
+Cummings Z.,Di Chirico A.,2.11,1.73,Cummings Z.,PTS,23:30,29 Aug 2020,middleweight-ufc-men
+Romero Y.,Hall U.,,,canc.,canc.,23:00,22 Aug 2020,middleweight-ufc-men
+Whittaker R.,Till D.,,,canc.,canc.,23:00,15 Aug 2020,middleweight-ufc-men
+Akhmedov O.,Weidman C.,2.22,1.67,Weidman C.,PTS,02:30,09 Aug 2020,middleweight-ufc-men
+Holland K.,Buckley J.,1.21,4.49,Holland K.,TKO,00:00,09 Aug 2020,middleweight-ufc-men
+Sanchez A.,Turman W.,2.16,1.7,Sanchez A.,KO,23:00,08 Aug 2020,middleweight-ufc-men
+Brunson D.,Shahbazyan E.,3.87,1.26,Brunson D.,TKO,03:00,02 Aug 2020,middleweight-ufc-men
+Giles T.,Park J. Y.,,,canc.,canc.,23:00,01 Aug 2020,middleweight-ufc-men
+Whittaker R.,Till D.,1.73,2.14,Whittaker R.,PTS,03:00,26 Jul 2020,middleweight-ufc-men
+Hermansson J.,Gastelum K.,1.9,1.91,Hermansson J.,SUBM,01:30,19 Jul 2020,middleweight-ufc-men
+Phillips J.,Chimaev K.,4.5,1.21,Chimaev K.,SUBM,01:30,16 Jul 2020,middleweight-ufc-men
+Allen B.,Daukaus K.,1.32,3.37,Allen B.,PTS,01:00,28 Jun 2020,middleweight-ufc-men
+Heinisch I.,Allen B.,,,canc.,canc.,21:00,27 Jun 2020,middleweight-ufc-men
+Barriault M.,Piechota O.,1.8,2.01,Barriault M.,TKO,22:30,20 Jun 2020,middleweight-ufc-men
+Roberson K.,Vettori M.,2.8,1.46,Vettori M.,SUBM,02:30,14 Jun 2020,middleweight-ufc-men
+Heinisch I.,Meerschaert G.,1.73,2.13,Heinisch I.,TKO,01:00,07 Jun 2020,middleweight-ufc-men
+Anders E.,Jotko K.,2.11,1.74,Jotko K.,PTS,01:30,17 May 2020,middleweight-ufc-men
+Soriano P.,Hernandez A.,,,canc.,canc.,21:00,16 May 2020,middleweight-ufc-men
+Roberson K.,Vettori M.,2.62,1.52,canc.,canc.,01:00,14 May 2020,middleweight-ufc-men
+Hall U.,Souza R.,,,canc.,canc.,00:00,10 May 2020,middleweight-ufc-men
+Weidman C.,Hermansson J.,,,canc.,canc.,21:00,02 May 2020,middleweight-ufc-men
+Cummings Z.,Sanchez A.,,,canc.,canc.,21:00,25 Apr 2020,middleweight-ufc-men
+Muradov M.,Roberson K.,,,canc.,canc.,02:00,19 Apr 2020,middleweight-ufc-men
+Brunson D.,Shahbazyan E.,2.82,1.42,postp.,postp.,21:00,11 Apr 2020,middleweight-ufc-men
+Soriano P.,Spicely E.,,,canc.,canc.,22:00,28 Mar 2020,middleweight-ufc-men
+Holland K.,Marshman J.,,,postp.,postp.,18:00,21 Mar 2020,middleweight-ufc-men
+Stewart D.,Vettori M.,,,postp.,postp.,18:00,21 Mar 2020,middleweight-ufc-men
+Tavares B.,Carlos Junior A.,,,canc.,canc.,22:00,14 Mar 2020,middleweight-ufc-men
+Adesanya I.,Romero Y.,1.33,3.27,Adesanya I.,PTS,05:00,08 Mar 2020,middleweight-ufc-men
+Winn D.,Meerschaert G.,1.74,2.1,Meerschaert G.,SUBM,01:00,08 Mar 2020,middleweight-ufc-men
+Brunson D.,Shahbazyan E.,,,canc.,canc.,22:00,07 Mar 2020,middleweight-ufc-men
+Allen B.,Breese T.,2.22,1.66,Allen B.,TKO,00:00,01 Mar 2020,middleweight-ufc-men
+Giles T.,Arroyo A.,,,canc.,canc.,02:30,09 Feb 2020,middleweight-ufc-men
+Lewis B.,Townsend D.,1.24,3.99,Lewis B.,PTS,00:30,26 Jan 2020,middleweight-ufc-men
+Fabinski B.,Muniz A.,1.66,2.21,Muniz A.,SUBM,23:00,05 Sep 2020,middleweight-ufc-men
+Pitolo M.,Kasanganay I.,2.22,1.66,Kasanganay I.,PTS,00:30,30 Aug 2020,middleweight-ufc-men
+Cummings Z.,Di Chirico A.,2.11,1.73,Cummings Z.,PTS,23:30,29 Aug 2020,middleweight-ufc-men
+Romero Y.,Hall U.,,,canc.,canc.,23:00,22 Aug 2020,middleweight-ufc-men
+Whittaker R.,Till D.,,,canc.,canc.,23:00,15 Aug 2020,middleweight-ufc-men
+Akhmedov O.,Weidman C.,2.22,1.67,Weidman C.,PTS,02:30,09 Aug 2020,middleweight-ufc-men
+Holland K.,Buckley J.,1.21,4.49,Holland K.,TKO,00:00,09 Aug 2020,middleweight-ufc-men
+Sanchez A.,Turman W.,2.16,1.7,Sanchez A.,KO,23:00,08 Aug 2020,middleweight-ufc-men
+Brunson D.,Shahbazyan E.,3.87,1.26,Brunson D.,TKO,03:00,02 Aug 2020,middleweight-ufc-men
+Giles T.,Park J. Y.,,,canc.,canc.,23:00,01 Aug 2020,middleweight-ufc-men
+Whittaker R.,Till D.,1.73,2.14,Whittaker R.,PTS,03:00,26 Jul 2020,middleweight-ufc-men
+Hermansson J.,Gastelum K.,1.9,1.91,Hermansson J.,SUBM,01:30,19 Jul 2020,middleweight-ufc-men
+Phillips J.,Chimaev K.,4.5,1.21,Chimaev K.,SUBM,01:30,16 Jul 2020,middleweight-ufc-men
+Allen B.,Daukaus K.,1.32,3.37,Allen B.,PTS,01:00,28 Jun 2020,middleweight-ufc-men
+Heinisch I.,Allen B.,,,canc.,canc.,21:00,27 Jun 2020,middleweight-ufc-men
+Barriault M.,Piechota O.,1.8,2.01,Barriault M.,TKO,22:30,20 Jun 2020,middleweight-ufc-men
+Roberson K.,Vettori M.,2.8,1.46,Vettori M.,SUBM,02:30,14 Jun 2020,middleweight-ufc-men
+Heinisch I.,Meerschaert G.,1.73,2.13,Heinisch I.,TKO,01:00,07 Jun 2020,middleweight-ufc-men
+Anders E.,Jotko K.,2.11,1.74,Jotko K.,PTS,01:30,17 May 2020,middleweight-ufc-men
+Soriano P.,Hernandez A.,,,canc.,canc.,21:00,16 May 2020,middleweight-ufc-men
+Roberson K.,Vettori M.,2.62,1.52,canc.,canc.,01:00,14 May 2020,middleweight-ufc-men
+Hall U.,Souza R.,,,canc.,canc.,00:00,10 May 2020,middleweight-ufc-men
+Weidman C.,Hermansson J.,,,canc.,canc.,21:00,02 May 2020,middleweight-ufc-men
+Cummings Z.,Sanchez A.,,,canc.,canc.,21:00,25 Apr 2020,middleweight-ufc-men
+Muradov M.,Roberson K.,,,canc.,canc.,02:00,19 Apr 2020,middleweight-ufc-men
+Brunson D.,Shahbazyan E.,2.82,1.42,postp.,postp.,21:00,11 Apr 2020,middleweight-ufc-men
+Soriano P.,Spicely E.,,,canc.,canc.,22:00,28 Mar 2020,middleweight-ufc-men
+Holland K.,Marshman J.,,,postp.,postp.,18:00,21 Mar 2020,middleweight-ufc-men
+Stewart D.,Vettori M.,,,postp.,postp.,18:00,21 Mar 2020,middleweight-ufc-men
+Tavares B.,Carlos Junior A.,,,canc.,canc.,22:00,14 Mar 2020,middleweight-ufc-men
+Adesanya I.,Romero Y.,1.33,3.27,Adesanya I.,PTS,05:00,08 Mar 2020,middleweight-ufc-men
+Winn D.,Meerschaert G.,1.74,2.1,Meerschaert G.,SUBM,01:00,08 Mar 2020,middleweight-ufc-men
+Brunson D.,Shahbazyan E.,,,canc.,canc.,22:00,07 Mar 2020,middleweight-ufc-men
+Allen B.,Breese T.,2.22,1.66,Allen B.,TKO,00:00,01 Mar 2020,middleweight-ufc-men
+Giles T.,Arroyo A.,,,canc.,canc.,02:30,09 Feb 2020,middleweight-ufc-men
+Lewis B.,Townsend D.,1.24,3.99,Lewis B.,PTS,00:30,26 Jan 2020,middleweight-ufc-men
+Edwards L.,Usman K.,3.18,1.36,Usman K.,PTS,20:30,19 Dec 2015,welterweight-ufc-men
+Maia D.,Nelson G.,2.02,1.8,Maia D.,PTS,03:00,13 Dec 2015,welterweight-ufc-men
+McGee C.,Junior M. A.,1.56,2.43,McGee C.,PTS,23:00,12 Dec 2015,welterweight-ufc-men
+LaFlare R.,Pierce M.,1.44,2.83,LaFlare R.,PTS,23:00,11 Dec 2015,welterweight-ufc-men
+Akhmedov O.,Moraes S.,1.71,2.14,Moraes S.,TKO,23:45,10 Dec 2015,welterweight-ufc-men
+Ponzinibbio S.,Stahl A.,1.52,2.55,Ponzinibbio S.,TKO,23:45,10 Dec 2015,welterweight-ufc-men
+Kim D. H.,Waters D.,,,KO,KO,20:00,28 Nov 2015,welterweight-ufc-men
+Henderson B.,Masvidal J.,1.41,2.91,Henderson B.,PTS,13:00,28 Nov 2015,welterweight-ufc-men
+Magny N.,Gastelum K.,3.36,1.32,Magny N.,PTS,03:00,22 Nov 2015,welterweight-ufc-men
+Ramos V.,Herrera A.,1.57,2.37,Herrera A.,KO,00:00,22 Nov 2015,welterweight-ufc-men
+Noke K.,Sobotta P.,2.81,1.43,Noke K.,TKO,01:00,15 Nov 2015,welterweight-ufc-men
+Walsh R.,Kennedy S.,1.26,3.79,Walsh R.,PTS,23:15,14 Nov 2015,welterweight-ufc-men
+Andrade V.,Umalatov G.,2.05,1.75,Andrade V.,PTS,23:30,07 Nov 2015,welterweight-ufc-men
+Dalby N.,Till D.,1.97,1.78,Draw,Draw,20:00,24 Oct 2015,welterweight-ufc-men
+Hendricks J.,Woodley T.,,,canc.,canc.,23:00,03 Oct 2015,welterweight-ufc-men
+Anzai S.,Zapata R.,1.85,1.92,Anzai S.,TKO,00:00,27 Sep 2015,welterweight-ufc-men
+Aubin-Mercier O.,Sims T.,1.41,2.84,Aubin-Mercier O.,PTS,01:00,24 Aug 2015,welterweight-ufc-men
+Magny N.,Silva E.,2.51,1.51,Magny N.,PTS,01:00,24 Aug 2015,welterweight-ufc-men
+Alves W.,Taleb N.,1.35,3.16,Alves W.,TKO,00:00,02 Aug 2015,welterweight-ufc-men
+Kim D. H.,Saffiedine T.,1.67,2.19,Kim D. H.,PTS,03:00,31 Dec 2016,welterweight-ufc-men
+Pyle M.,Garcia A.,2.58,1.5,Garcia A.,KO,01:00,31 Dec 2016,welterweight-ufc-men
+Oliveira A.,Means T.,1.68,2.17,Draw,Draw,00:30,31 Dec 2016,welterweight-ufc-men
+Jouban A.,Perry M.,2.15,1.7,Jouban A.,PTS,01:00,18 Dec 2016,welterweight-ufc-men
+Barberena B.,Covington C.,3.88,1.26,Covington C.,PTS,23:00,17 Dec 2016,welterweight-ufc-men
+Velickovic B.,Aliev S.,,,PTS,PTS,21:30,17 Dec 2016,welterweight-ufc-men
+Cerrone D.,Brown M.,1.32,3.36,Cerrone D.,KO,03:00,11 Dec 2016,welterweight-ufc-men
+Brown R.,Camozzi B.,1.59,2.34,Brown R.,TKO,22:30,09 Dec 2016,welterweight-ufc-men
+Ellenberger J.,Masvidal J.,2.84,1.43,Masvidal J.,TKO,03:00,04 Dec 2016,welterweight-ufc-men
+Noke K.,Akhmedov O.,2.06,1.77,Akhmedov O.,PTS,03:00,27 Nov 2016,welterweight-ufc-men
+Alves W.,Usman K.,2.62,1.49,Usman K.,PTS,02:00,20 Nov 2016,welterweight-ufc-men
+Cummings Z.,Yakovlev A.,1.58,2.38,Cummings Z.,SUBM,17:15,19 Nov 2016,welterweight-ufc-men
+Woodley T.,Thompson S.,2.92,1.46,Draw,Draw,05:30,13 Nov 2016,welterweight-ufc-men
+Luque V.,Muhammad B.,1.85,1.96,Luque V.,KO,01:00,13 Nov 2016,welterweight-ufc-men
+Montano E.,Griffin M.,2.15,1.7,Griffin M.,TKO,00:00,06 Nov 2016,welterweight-ufc-men
+Edwards L.,Tumenov A.,2.96,1.4,Edwards L.,SUBM,00:00,09 Oct 2016,welterweight-ufc-men
+Roberts D.,Perry M.,1.86,1.94,Perry M.,KO,22:30,08 Oct 2016,welterweight-ufc-men
+Burkman J.,Ottow Z.,1.4,2.98,Ottow Z.,PTS,03:00,02 Oct 2016,welterweight-ufc-men
+Silva E.,Chagas L.,2.07,1.76,Silva E.,PTS,00:00,25 Sep 2016,welterweight-ufc-men
+Luque V.,Urbina H.,1.18,4.93,Luque V.,KO,22:30,24 Sep 2016,welterweight-ufc-men
+Carneiro R.,Robertson K.,2.04,1.8,Carneiro R.,PTS,02:00,18 Sep 2016,welterweight-ufc-men
+Montano E.,Brown R.,4.77,1.19,Brown R.,SUBM,23:00,17 Sep 2016,welterweight-ufc-men
+Brooks P.,Gall M.,4.07,1.24,Gall M.,SUBM,02:00,11 Sep 2016,welterweight-ufc-men
+Ayari J.,Wallhead J.,2.15,1.69,Ayari J.,PTS,15:45,03 Sep 2016,welterweight-ufc-men
+Maia D.,Condit C.,1.98,1.83,Maia D.,SUBM,00:00,28 Aug 2016,welterweight-ufc-men
+Diaz N.,McGregor C.,2.21,1.68,McGregor C.,PTS,02:00,21 Aug 2016,welterweight-ufc-men
+Means T.,Homasi S.,1.24,4.15,Means T.,KO,02:00,21 Aug 2016,welterweight-ufc-men
+Story R.,Cerrone D.,2.1,1.71,Cerrone D.,KO,02:00,21 Aug 2016,welterweight-ufc-men
+Covington C.,Griffin M.,1.29,3.63,Covington C.,TKO,22:30,20 Aug 2016,welterweight-ufc-men
+Ponzinibbio S.,Cummings Z.,1.79,2.05,Ponzinibbio S.,PTS,02:00,07 Aug 2016,welterweight-ufc-men
+Brown M.,Ellenberger J.,1.33,3.34,Ellenberger J.,TKO,02:00,31 Jul 2016,welterweight-ufc-men
+Pearson R.,Masvidal J.,3.06,1.39,Masvidal J.,PTS,00:00,31 Jul 2016,welterweight-ufc-men
+Graves M.,Velickovic B.,1.42,2.9,Draw,Draw,23:00,30 Jul 2016,welterweight-ufc-men
+Kim D. H.,Saffiedine T.,1.67,2.19,Kim D. H.,PTS,03:00,31 Dec 2016,welterweight-ufc-men
+Pyle M.,Garcia A.,2.58,1.5,Garcia A.,KO,01:00,31 Dec 2016,welterweight-ufc-men
+Oliveira A.,Means T.,1.68,2.17,Draw,Draw,00:30,31 Dec 2016,welterweight-ufc-men
+Jouban A.,Perry M.,2.15,1.7,Jouban A.,PTS,01:00,18 Dec 2016,welterweight-ufc-men
+Barberena B.,Covington C.,3.88,1.26,Covington C.,PTS,23:00,17 Dec 2016,welterweight-ufc-men
+Velickovic B.,Aliev S.,,,PTS,PTS,21:30,17 Dec 2016,welterweight-ufc-men
+Cerrone D.,Brown M.,1.32,3.36,Cerrone D.,KO,03:00,11 Dec 2016,welterweight-ufc-men
+Brown R.,Camozzi B.,1.59,2.34,Brown R.,TKO,22:30,09 Dec 2016,welterweight-ufc-men
+Ellenberger J.,Masvidal J.,2.84,1.43,Masvidal J.,TKO,03:00,04 Dec 2016,welterweight-ufc-men
+Noke K.,Akhmedov O.,2.06,1.77,Akhmedov O.,PTS,03:00,27 Nov 2016,welterweight-ufc-men
+Alves W.,Usman K.,2.62,1.49,Usman K.,PTS,02:00,20 Nov 2016,welterweight-ufc-men
+Cummings Z.,Yakovlev A.,1.58,2.38,Cummings Z.,SUBM,17:15,19 Nov 2016,welterweight-ufc-men
+Woodley T.,Thompson S.,2.92,1.46,Draw,Draw,05:30,13 Nov 2016,welterweight-ufc-men
+Luque V.,Muhammad B.,1.85,1.96,Luque V.,KO,01:00,13 Nov 2016,welterweight-ufc-men
+Montano E.,Griffin M.,2.15,1.7,Griffin M.,TKO,00:00,06 Nov 2016,welterweight-ufc-men
+Edwards L.,Tumenov A.,2.96,1.4,Edwards L.,SUBM,00:00,09 Oct 2016,welterweight-ufc-men
+Roberts D.,Perry M.,1.86,1.94,Perry M.,KO,22:30,08 Oct 2016,welterweight-ufc-men
+Burkman J.,Ottow Z.,1.4,2.98,Ottow Z.,PTS,03:00,02 Oct 2016,welterweight-ufc-men
+Silva E.,Chagas L.,2.07,1.76,Silva E.,PTS,00:00,25 Sep 2016,welterweight-ufc-men
+Luque V.,Urbina H.,1.18,4.93,Luque V.,KO,22:30,24 Sep 2016,welterweight-ufc-men
+Carneiro R.,Robertson K.,2.04,1.8,Carneiro R.,PTS,02:00,18 Sep 2016,welterweight-ufc-men
+Montano E.,Brown R.,4.77,1.19,Brown R.,SUBM,23:00,17 Sep 2016,welterweight-ufc-men
+Brooks P.,Gall M.,4.07,1.24,Gall M.,SUBM,02:00,11 Sep 2016,welterweight-ufc-men
+Ayari J.,Wallhead J.,2.15,1.69,Ayari J.,PTS,15:45,03 Sep 2016,welterweight-ufc-men
+Maia D.,Condit C.,1.98,1.83,Maia D.,SUBM,00:00,28 Aug 2016,welterweight-ufc-men
+Diaz N.,McGregor C.,2.21,1.68,McGregor C.,PTS,02:00,21 Aug 2016,welterweight-ufc-men
+Means T.,Homasi S.,1.24,4.15,Means T.,KO,02:00,21 Aug 2016,welterweight-ufc-men
+Story R.,Cerrone D.,2.1,1.71,Cerrone D.,KO,02:00,21 Aug 2016,welterweight-ufc-men
+Covington C.,Griffin M.,1.29,3.63,Covington C.,TKO,22:30,20 Aug 2016,welterweight-ufc-men
+Ponzinibbio S.,Cummings Z.,1.79,2.05,Ponzinibbio S.,PTS,02:00,07 Aug 2016,welterweight-ufc-men
+Brown M.,Ellenberger J.,1.33,3.34,Ellenberger J.,TKO,02:00,31 Jul 2016,welterweight-ufc-men
+Pearson R.,Masvidal J.,3.06,1.39,Masvidal J.,PTS,00:00,31 Jul 2016,welterweight-ufc-men
+Graves M.,Velickovic B.,1.42,2.9,Draw,Draw,23:00,30 Jul 2016,welterweight-ufc-men
+Condit C.,Magny N.,1.69,2.19,Magny N.,PTS,03:00,31 Dec 2017,welterweight-ufc-men
+Lawler R.,Dos Anjos R.,1.94,1.85,Dos Anjos R.,PTS,01:00,17 Dec 2017,welterweight-ufc-men
+Laprise C.,Bofando G.,1.63,2.26,Laprise C.,TKO,22:00,16 Dec 2017,welterweight-ufc-men
+Taleb N.,Roberts D.,1.66,2.19,Taleb N.,KO,21:00,16 Dec 2017,welterweight-ufc-men
+Homasi S.,Alhassan R.,,,TKO,TKO,01:00,03 Dec 2017,welterweight-ufc-men
+Salikhov M.,Garcia A.,1.45,2.76,Garcia A.,SUBM,12:00,25 Nov 2017,welterweight-ufc-men
+Matthews J.,Velickovic B.,1.67,2.18,Matthews J.,PTS,03:00,19 Nov 2017,welterweight-ufc-men
+Brown D.,Camacho F.,2.13,1.72,Camacho F.,PTS,01:00,19 Nov 2017,welterweight-ufc-men
+Brown M.,Sanchez D.,1.26,3.69,Brown M.,KO,03:00,12 Nov 2017,welterweight-ufc-men
+McGee C.,Strickland S.,3.2,1.34,Strickland S.,PTS,23:30,11 Nov 2017,welterweight-ufc-men
+Thompson S.,Masvidal J.,1.53,2.49,Thompson S.,PTS,02:00,05 Nov 2017,welterweight-ufc-men
+Brown R.,Gall M.,1.96,1.84,Brown R.,PTS,00:00,05 Nov 2017,welterweight-ufc-men
+Maia D.,Covington C.,2.05,1.77,Covington C.,PTS,02:00,29 Oct 2017,welterweight-ufc-men
+Luque V.,Price N.,1.73,2.08,Luque V.,SUBM,23:00,28 Oct 2017,welterweight-ufc-men
+Cerrone D.,Till D.,1.64,2.27,Till D.,TKO,19:00,21 Oct 2017,welterweight-ufc-men
+Anzai S.,Jumeau L.,3.01,1.39,Anzai S.,PTS,00:00,23 Sep 2017,welterweight-ufc-men
+Abe D.,Lim H. G.,2.03,1.8,Abe D.,PTS,23:30,22 Sep 2017,welterweight-ufc-men
+Perry M.,Reyes A.,1.2,4.59,Perry M.,KO,02:00,17 Sep 2017,welterweight-ufc-men
+Magny N.,Dos Anjos R.,2.62,1.48,Dos Anjos R.,SUBM,02:00,10 Sep 2017,welterweight-ufc-men
+Edwards L.,Barberena B.,1.37,3.04,Edwards L.,PTS,19:00,02 Sep 2017,welterweight-ufc-men
+Jouban A.,Price N.,1.57,2.41,Price N.,TKO,02:00,06 Aug 2017,welterweight-ufc-men
+Lawler R.,Cerrone D.,1.61,2.33,Lawler R.,PTS,02:00,30 Jul 2017,welterweight-ufc-men
+Good L.,Zaleski E.,1.59,2.37,Zaleski E.,PTS,22:00,22 Jul 2017,welterweight-ufc-men
+Nelson G.,Ponzinibbio S.,1.55,2.49,Ponzinibbio S.,KO,19:00,16 Jul 2017,welterweight-ufc-men
+Ward C.,Bofando G.,2.7,1.48,Bofando G.,KO,17:00,16 Jul 2017,welterweight-ufc-men
+Mein J.,Muhammad B.,2.13,1.74,Muhammad B.,PTS,00:00,09 Jul 2017,welterweight-ufc-men
+Lima D.,Taylor J.,2.23,1.66,Taylor J.,SUBM,01:00,08 Jul 2017,welterweight-ufc-men
+Krause J.,Gallicchio T.,1.21,4.48,Krause J.,PTS,23:00,07 Jul 2017,welterweight-ufc-men
+Means T.,Garcia A.,1.33,3.44,Means T.,PTS,01:00,26 Jun 2017,welterweight-ufc-men
+Kim D. H.,Covington C.,3.0,1.42,Covington C.,PTS,12:45,17 Jun 2017,welterweight-ufc-men
+Jumeau L.,Steele D.,2.5,1.56,Jumeau L.,PTS,00:00,11 Jun 2017,welterweight-ufc-men
+Medeiros Y.,Silva E.,1.72,2.17,Medeiros Y.,TKO,02:00,04 Jun 2017,welterweight-ufc-men
+Chagas L.,Wallhead J.,1.37,3.24,Chagas L.,SUBM,22:30,03 Jun 2017,welterweight-ufc-men
+Alhassan R.,Akhmedov O.,1.39,3.05,Akhmedov O.,PTS,17:00,28 May 2017,welterweight-ufc-men
+Condit C.,Magny N.,1.69,2.19,Magny N.,PTS,03:00,31 Dec 2017,welterweight-ufc-men
+Lawler R.,Dos Anjos R.,1.94,1.85,Dos Anjos R.,PTS,01:00,17 Dec 2017,welterweight-ufc-men
+Laprise C.,Bofando G.,1.63,2.26,Laprise C.,TKO,22:00,16 Dec 2017,welterweight-ufc-men
+Taleb N.,Roberts D.,1.66,2.19,Taleb N.,KO,21:00,16 Dec 2017,welterweight-ufc-men
+Homasi S.,Alhassan R.,,,TKO,TKO,01:00,03 Dec 2017,welterweight-ufc-men
+Salikhov M.,Garcia A.,1.45,2.76,Garcia A.,SUBM,12:00,25 Nov 2017,welterweight-ufc-men
+Matthews J.,Velickovic B.,1.67,2.18,Matthews J.,PTS,03:00,19 Nov 2017,welterweight-ufc-men
+Brown D.,Camacho F.,2.13,1.72,Camacho F.,PTS,01:00,19 Nov 2017,welterweight-ufc-men
+Brown M.,Sanchez D.,1.26,3.69,Brown M.,KO,03:00,12 Nov 2017,welterweight-ufc-men
+McGee C.,Strickland S.,3.2,1.34,Strickland S.,PTS,23:30,11 Nov 2017,welterweight-ufc-men
+Thompson S.,Masvidal J.,1.53,2.49,Thompson S.,PTS,02:00,05 Nov 2017,welterweight-ufc-men
+Brown R.,Gall M.,1.96,1.84,Brown R.,PTS,00:00,05 Nov 2017,welterweight-ufc-men
+Maia D.,Covington C.,2.05,1.77,Covington C.,PTS,02:00,29 Oct 2017,welterweight-ufc-men
+Luque V.,Price N.,1.73,2.08,Luque V.,SUBM,23:00,28 Oct 2017,welterweight-ufc-men
+Cerrone D.,Till D.,1.64,2.27,Till D.,TKO,19:00,21 Oct 2017,welterweight-ufc-men
+Anzai S.,Jumeau L.,3.01,1.39,Anzai S.,PTS,00:00,23 Sep 2017,welterweight-ufc-men
+Abe D.,Lim H. G.,2.03,1.8,Abe D.,PTS,23:30,22 Sep 2017,welterweight-ufc-men
+Perry M.,Reyes A.,1.2,4.59,Perry M.,KO,02:00,17 Sep 2017,welterweight-ufc-men
+Magny N.,Dos Anjos R.,2.62,1.48,Dos Anjos R.,SUBM,02:00,10 Sep 2017,welterweight-ufc-men
+Edwards L.,Barberena B.,1.37,3.04,Edwards L.,PTS,19:00,02 Sep 2017,welterweight-ufc-men
+Jouban A.,Price N.,1.57,2.41,Price N.,TKO,02:00,06 Aug 2017,welterweight-ufc-men
+Lawler R.,Cerrone D.,1.61,2.33,Lawler R.,PTS,02:00,30 Jul 2017,welterweight-ufc-men
+Good L.,Zaleski E.,1.59,2.37,Zaleski E.,PTS,22:00,22 Jul 2017,welterweight-ufc-men
+Nelson G.,Ponzinibbio S.,1.55,2.49,Ponzinibbio S.,KO,19:00,16 Jul 2017,welterweight-ufc-men
+Ward C.,Bofando G.,2.7,1.48,Bofando G.,KO,17:00,16 Jul 2017,welterweight-ufc-men
+Mein J.,Muhammad B.,2.13,1.74,Muhammad B.,PTS,00:00,09 Jul 2017,welterweight-ufc-men
+Lima D.,Taylor J.,2.23,1.66,Taylor J.,SUBM,01:00,08 Jul 2017,welterweight-ufc-men
+Krause J.,Gallicchio T.,1.21,4.48,Krause J.,PTS,23:00,07 Jul 2017,welterweight-ufc-men
+Means T.,Garcia A.,1.33,3.44,Means T.,PTS,01:00,26 Jun 2017,welterweight-ufc-men
+Kim D. H.,Covington C.,3.0,1.42,Covington C.,PTS,12:45,17 Jun 2017,welterweight-ufc-men
+Jumeau L.,Steele D.,2.5,1.56,Jumeau L.,PTS,00:00,11 Jun 2017,welterweight-ufc-men
+Medeiros Y.,Silva E.,1.72,2.17,Medeiros Y.,TKO,02:00,04 Jun 2017,welterweight-ufc-men
+Chagas L.,Wallhead J.,1.37,3.24,Chagas L.,SUBM,22:30,03 Jun 2017,welterweight-ufc-men
+Alhassan R.,Akhmedov O.,1.39,3.05,Akhmedov O.,PTS,17:00,28 May 2017,welterweight-ufc-men
+Condit C.,Chiesa M.,2.1,1.76,Chiesa M.,SUBM,04:00,30 Dec 2018,welterweight-ufc-men
+Millender C.,Bahadurzada S.,1.65,2.24,Millender C.,PTS,23:30,29 Dec 2018,welterweight-ufc-men
+Ottow Z.,Grant D.,3.29,1.34,Ottow Z.,PTS,00:30,16 Dec 2018,welterweight-ufc-men
+Oliveira A.,Nelson G.,2.21,1.68,Nelson G.,SUBM,04:00,09 Dec 2018,welterweight-ufc-men
+Laprise C.,Lima D.,1.25,4.03,Lima D.,KO,00:30,09 Dec 2018,welterweight-ufc-men
+Matthews J.,Martin A.,1.73,2.13,Martin A.,SUBM,04:00,02 Dec 2018,welterweight-ufc-men
+Nakamura K.,Touahri S.,1.58,2.4,Nakamura K.,PTS,00:30,02 Dec 2018,welterweight-ufc-men
+Means T.,Rainey R.,1.26,3.77,Means T.,TKO,00:00,01 Dec 2018,welterweight-ufc-men
+Jingliang L.,Zawada D.,1.51,2.59,Jingliang L.,TKO,11:30,24 Nov 2018,welterweight-ufc-men
+Magny N.,Ponzinibbio S.,2.95,1.42,Ponzinibbio S.,KO,05:30,18 Nov 2018,welterweight-ufc-men
+Staropoli L.,Aldana H.,1.98,1.89,Staropoli L.,PTS,01:00,18 Nov 2018,welterweight-ufc-men
+Cerrone D.,Perry M.,2.69,1.48,Cerrone D.,SUBM,05:00,11 Nov 2018,welterweight-ufc-men
+Good L.,Saunders B.,1.15,5.41,Good L.,KO,00:00,04 Nov 2018,welterweight-ufc-men
+Garcia A.,McGee C.,1.42,2.92,McGee C.,PTS,02:00,28 Oct 2018,welterweight-ufc-men
+Luque V.,Turner J.,1.14,5.88,Luque V.,KO,01:00,07 Oct 2018,welterweight-ufc-men
+LaFlare R.,Martin A.,1.74,2.11,Martin A.,KO,22:30,06 Oct 2018,welterweight-ufc-men
+Oliveira A.,Pedersoli C.,1.21,4.68,Oliveira A.,TKO,04:00,23 Sep 2018,welterweight-ufc-men
+Zaleski E.,Vendramini L.,1.11,7.04,Zaleski E.,KO,22:45,22 Sep 2018,welterweight-ufc-men
+Kunchenko A.,Alves T.,1.2,4.66,Kunchenko A.,PTS,18:00,15 Sep 2018,welterweight-ufc-men
+Woodley T.,Till D.,1.93,1.92,Woodley T.,SUBM,04:00,09 Sep 2018,welterweight-ufc-men
+Sanchez D.,White C.,2.73,1.48,Sanchez D.,PTS,23:45,08 Sep 2018,welterweight-ufc-men
+Ellenberger J.,Barberena B.,4.37,1.24,Barberena B.,TKO,03:00,26 Aug 2018,welterweight-ufc-men
+Gall M.,Sullivan G.,1.3,3.7,Gall M.,SUBM,00:00,26 Aug 2018,welterweight-ufc-men
+Mein J.,Morono A.,1.71,2.2,Mein J.,PTS,23:30,28 Jul 2018,welterweight-ufc-men
+Zawada D.,Roberts D.,2.93,1.42,Roberts D.,PTS,18:05,22 Jul 2018,welterweight-ufc-men
+Northcutt S.,Ottow Z.,1.73,2.17,Northcutt S.,KO,04:00,15 Jul 2018,welterweight-ufc-men
+Felder P.,Perry M.,1.63,2.36,Perry M.,PTS,03:00,08 Jul 2018,welterweight-ufc-men
+Cerrone D.,Edwards L.,2.89,1.45,Edwards L.,PTS,13:00,23 Jun 2018,welterweight-ufc-men
+Song K.,Aldana H.,1.36,3.28,Song K.,TKO,09:30,23 Jun 2018,welterweight-ufc-men
+Dos Anjos R.,Covington C.,2.22,1.69,Covington C.,PTS,03:00,10 Jun 2018,welterweight-ufc-men
+Ellenberger J.,Saunders B.,1.56,2.44,Saunders B.,TKO,03:00,02 Jun 2018,welterweight-ufc-men
+Thompson S.,Till D.,1.66,2.27,Till D.,PTS,19:30,27 May 2018,welterweight-ufc-men
+Condit C.,Chiesa M.,2.1,1.76,Chiesa M.,SUBM,04:00,30 Dec 2018,welterweight-ufc-men
+Millender C.,Bahadurzada S.,1.65,2.24,Millender C.,PTS,23:30,29 Dec 2018,welterweight-ufc-men
+Ottow Z.,Grant D.,3.29,1.34,Ottow Z.,PTS,00:30,16 Dec 2018,welterweight-ufc-men
+Oliveira A.,Nelson G.,2.21,1.68,Nelson G.,SUBM,04:00,09 Dec 2018,welterweight-ufc-men
+Laprise C.,Lima D.,1.25,4.03,Lima D.,KO,00:30,09 Dec 2018,welterweight-ufc-men
+Matthews J.,Martin A.,1.73,2.13,Martin A.,SUBM,04:00,02 Dec 2018,welterweight-ufc-men
+Nakamura K.,Touahri S.,1.58,2.4,Nakamura K.,PTS,00:30,02 Dec 2018,welterweight-ufc-men
+Means T.,Rainey R.,1.26,3.77,Means T.,TKO,00:00,01 Dec 2018,welterweight-ufc-men
+Jingliang L.,Zawada D.,1.51,2.59,Jingliang L.,TKO,11:30,24 Nov 2018,welterweight-ufc-men
+Magny N.,Ponzinibbio S.,2.95,1.42,Ponzinibbio S.,KO,05:30,18 Nov 2018,welterweight-ufc-men
+Staropoli L.,Aldana H.,1.98,1.89,Staropoli L.,PTS,01:00,18 Nov 2018,welterweight-ufc-men
+Cerrone D.,Perry M.,2.69,1.48,Cerrone D.,SUBM,05:00,11 Nov 2018,welterweight-ufc-men
+Good L.,Saunders B.,1.15,5.41,Good L.,KO,00:00,04 Nov 2018,welterweight-ufc-men
+Garcia A.,McGee C.,1.42,2.92,McGee C.,PTS,02:00,28 Oct 2018,welterweight-ufc-men
+Luque V.,Turner J.,1.14,5.88,Luque V.,KO,01:00,07 Oct 2018,welterweight-ufc-men
+LaFlare R.,Martin A.,1.74,2.11,Martin A.,KO,22:30,06 Oct 2018,welterweight-ufc-men
+Oliveira A.,Pedersoli C.,1.21,4.68,Oliveira A.,TKO,04:00,23 Sep 2018,welterweight-ufc-men
+Zaleski E.,Vendramini L.,1.11,7.04,Zaleski E.,KO,22:45,22 Sep 2018,welterweight-ufc-men
+Kunchenko A.,Alves T.,1.2,4.66,Kunchenko A.,PTS,18:00,15 Sep 2018,welterweight-ufc-men
+Woodley T.,Till D.,1.93,1.92,Woodley T.,SUBM,04:00,09 Sep 2018,welterweight-ufc-men
+Sanchez D.,White C.,2.73,1.48,Sanchez D.,PTS,23:45,08 Sep 2018,welterweight-ufc-men
+Ellenberger J.,Barberena B.,4.37,1.24,Barberena B.,TKO,03:00,26 Aug 2018,welterweight-ufc-men
+Gall M.,Sullivan G.,1.3,3.7,Gall M.,SUBM,00:00,26 Aug 2018,welterweight-ufc-men
+Mein J.,Morono A.,1.71,2.2,Mein J.,PTS,23:30,28 Jul 2018,welterweight-ufc-men
+Zawada D.,Roberts D.,2.93,1.42,Roberts D.,PTS,18:05,22 Jul 2018,welterweight-ufc-men
+Northcutt S.,Ottow Z.,1.73,2.17,Northcutt S.,KO,04:00,15 Jul 2018,welterweight-ufc-men
+Felder P.,Perry M.,1.63,2.36,Perry M.,PTS,03:00,08 Jul 2018,welterweight-ufc-men
+Cerrone D.,Edwards L.,2.89,1.45,Edwards L.,PTS,13:00,23 Jun 2018,welterweight-ufc-men
+Song K.,Aldana H.,1.36,3.28,Song K.,TKO,09:30,23 Jun 2018,welterweight-ufc-men
+Dos Anjos R.,Covington C.,2.22,1.69,Covington C.,PTS,03:00,10 Jun 2018,welterweight-ufc-men
+Ellenberger J.,Saunders B.,1.56,2.44,Saunders B.,TKO,03:00,02 Jun 2018,welterweight-ufc-men
+Thompson S.,Till D.,1.66,2.27,Till D.,PTS,19:30,27 May 2018,welterweight-ufc-men
+Usman K.,Covington C.,1.49,2.68,Usman K.,TKO,05:00,15 Dec 2019,welterweight-ufc-men
+Neal G.,Perry M.,1.37,3.14,Neal G.,TKO,02:30,15 Dec 2019,welterweight-ufc-men
+Condit C.,Gall M.,,,canc.,canc.,02:00,08 Dec 2019,welterweight-ufc-men
+Moraes S.,Krause J.,2.6,1.5,Krause J.,KO,00:30,17 Nov 2019,welterweight-ufc-men
+Imadaev Z.,Roberts D.,1.44,2.81,Roberts D.,KO,20:30,09 Nov 2019,welterweight-ufc-men
+Nurmagomedov A.,Zawada D.,1.3,3.5,Zawada D.,SUBM,17:00,09 Nov 2019,welterweight-ufc-men
+Masvidal J.,Diaz N.,1.68,2.22,Masvidal J.,TKO,04:00,03 Nov 2019,welterweight-ufc-men
+Good L.,Rencountre C.,1.83,1.98,Good L.,TKO,23:00,02 Nov 2019,welterweight-ufc-men
+Maia D.,Askren B.,2.36,1.62,Maia D.,SUBM,14:30,26 Oct 2019,welterweight-ufc-men
+Brady S.,McGee C.,1.53,2.59,Brady S.,PTS,23:00,18 Oct 2019,welterweight-ufc-men
+Vick J.,Price N.,2.25,1.66,Price N.,KO,00:30,13 Oct 2019,welterweight-ufc-men
+Griffin M.,Morono A.,1.76,2.05,Morono A.,PTS,23:30,12 Oct 2019,welterweight-ufc-men
+Jumeau L.,Lima D.,2.23,1.68,Lima D.,PTS,02:00,06 Oct 2019,welterweight-ufc-men
+Potter C.,Pitolo M.,3.67,1.29,Potter C.,PTS,00:30,06 Oct 2019,welterweight-ufc-men
+Nelson G.,Alves T.,,,canc.,canc.,21:00,28 Sep 2019,welterweight-ufc-men
+Dalby N.,Oliveira A.,2.22,1.69,Dalby N.,PTS,18:00,28 Sep 2019,welterweight-ufc-men
+Pereira M.,Connelly T.,1.18,4.92,Connelly T.,PTS,01:00,15 Sep 2019,welterweight-ufc-men
+Pereira M.,Khandozhko S.,,,canc.,canc.,01:00,14 Sep 2019,welterweight-ufc-men
+Muhammad B.,Sato T.,1.26,3.99,Muhammad B.,SUBM,15:30,07 Sep 2019,welterweight-ufc-men
+Jingliang L.,Zaleski E.,3.22,1.36,Jingliang L.,TKO,11:30,31 Aug 2019,welterweight-ufc-men
+Pettis A.,Diaz N.,1.74,2.12,Diaz N.,PTS,03:30,18 Aug 2019,welterweight-ufc-men
+Luque V.,Perry M.,1.43,2.86,Luque V.,PTS,02:00,11 Aug 2019,welterweight-ufc-men
+Burns G.,Kunchenko A.,2.19,1.68,Burns G.,PTS,21:15,10 Aug 2019,welterweight-ufc-men
+da Silva C. H.,Emeev R.,,,canc.,canc.,00:00,04 Aug 2019,welterweight-ufc-men
+Covington C.,Lawler R.,1.35,3.29,Covington C.,PTS,21:30,03 Aug 2019,welterweight-ufc-men
+Gall M.,Touahri S.,2.01,1.81,Gall M.,PTS,18:30,03 Aug 2019,welterweight-ufc-men
+Neal G.,Price N.,1.29,3.67,Neal G.,TKO,03:30,28 Jul 2019,welterweight-ufc-men
+Koch E.,Stewart K.,1.84,2.0,Koch E.,PTS,23:00,27 Jul 2019,welterweight-ufc-men
+Dos Anjos R.,Edwards L.,1.98,1.85,Edwards L.,PTS,03:30,21 Jul 2019,welterweight-ufc-men
+Masvidal J.,Askren B.,2.81,1.45,Masvidal J.,KO,03:00,07 Jul 2019,welterweight-ufc-men
+Naurdiev I.,Rencountre C.,1.17,5.12,Rencountre C.,PTS,22:45,06 Jul 2019,welterweight-ufc-men
+Maia D.,Martin A.,1.55,2.49,Maia D.,PTS,02:30,30 Jun 2019,welterweight-ufc-men
+Usman K.,Covington C.,1.49,2.68,Usman K.,TKO,05:00,15 Dec 2019,welterweight-ufc-men
+Neal G.,Perry M.,1.37,3.14,Neal G.,TKO,02:30,15 Dec 2019,welterweight-ufc-men
+Condit C.,Gall M.,,,canc.,canc.,02:00,08 Dec 2019,welterweight-ufc-men
+Moraes S.,Krause J.,2.6,1.5,Krause J.,KO,00:30,17 Nov 2019,welterweight-ufc-men
+Imadaev Z.,Roberts D.,1.44,2.81,Roberts D.,KO,20:30,09 Nov 2019,welterweight-ufc-men
+Nurmagomedov A.,Zawada D.,1.3,3.5,Zawada D.,SUBM,17:00,09 Nov 2019,welterweight-ufc-men
+Masvidal J.,Diaz N.,1.68,2.22,Masvidal J.,TKO,04:00,03 Nov 2019,welterweight-ufc-men
+Good L.,Rencountre C.,1.83,1.98,Good L.,TKO,23:00,02 Nov 2019,welterweight-ufc-men
+Maia D.,Askren B.,2.36,1.62,Maia D.,SUBM,14:30,26 Oct 2019,welterweight-ufc-men
+Brady S.,McGee C.,1.53,2.59,Brady S.,PTS,23:00,18 Oct 2019,welterweight-ufc-men
+Vick J.,Price N.,2.25,1.66,Price N.,KO,00:30,13 Oct 2019,welterweight-ufc-men
+Griffin M.,Morono A.,1.76,2.05,Morono A.,PTS,23:30,12 Oct 2019,welterweight-ufc-men
+Jumeau L.,Lima D.,2.23,1.68,Lima D.,PTS,02:00,06 Oct 2019,welterweight-ufc-men
+Potter C.,Pitolo M.,3.67,1.29,Potter C.,PTS,00:30,06 Oct 2019,welterweight-ufc-men
+Nelson G.,Alves T.,,,canc.,canc.,21:00,28 Sep 2019,welterweight-ufc-men
+Dalby N.,Oliveira A.,2.22,1.69,Dalby N.,PTS,18:00,28 Sep 2019,welterweight-ufc-men
+Pereira M.,Connelly T.,1.18,4.92,Connelly T.,PTS,01:00,15 Sep 2019,welterweight-ufc-men
+Pereira M.,Khandozhko S.,,,canc.,canc.,01:00,14 Sep 2019,welterweight-ufc-men
+Muhammad B.,Sato T.,1.26,3.99,Muhammad B.,SUBM,15:30,07 Sep 2019,welterweight-ufc-men
+Jingliang L.,Zaleski E.,3.22,1.36,Jingliang L.,TKO,11:30,31 Aug 2019,welterweight-ufc-men
+Pettis A.,Diaz N.,1.74,2.12,Diaz N.,PTS,03:30,18 Aug 2019,welterweight-ufc-men
+Luque V.,Perry M.,1.43,2.86,Luque V.,PTS,02:00,11 Aug 2019,welterweight-ufc-men
+Burns G.,Kunchenko A.,2.19,1.68,Burns G.,PTS,21:15,10 Aug 2019,welterweight-ufc-men
+da Silva C. H.,Emeev R.,,,canc.,canc.,00:00,04 Aug 2019,welterweight-ufc-men
+Covington C.,Lawler R.,1.35,3.29,Covington C.,PTS,21:30,03 Aug 2019,welterweight-ufc-men
+Gall M.,Touahri S.,2.01,1.81,Gall M.,PTS,18:30,03 Aug 2019,welterweight-ufc-men
+Neal G.,Price N.,1.29,3.67,Neal G.,TKO,03:30,28 Jul 2019,welterweight-ufc-men
+Koch E.,Stewart K.,1.84,2.0,Koch E.,PTS,23:00,27 Jul 2019,welterweight-ufc-men
+Dos Anjos R.,Edwards L.,1.98,1.85,Edwards L.,PTS,03:30,21 Jul 2019,welterweight-ufc-men
+Masvidal J.,Askren B.,2.81,1.45,Masvidal J.,KO,03:00,07 Jul 2019,welterweight-ufc-men
+Naurdiev I.,Rencountre C.,1.17,5.12,Rencountre C.,PTS,22:45,06 Jul 2019,welterweight-ufc-men
+Maia D.,Martin A.,1.55,2.49,Maia D.,PTS,02:30,30 Jun 2019,welterweight-ufc-men
+Barberena B.,Ivy A.,1.4,2.96,Barberena B.,PTS,21:30,12 Sep 2020,welterweight-ufc-men
+Pereira M.,Imadaev Z.,1.72,2.12,Pereira M.,SUBM,00:30,06 Sep 2020,welterweight-ufc-men
+Lawler R.,Magny N.,2.97,1.4,Magny N.,PTS,02:30,30 Aug 2020,welterweight-ufc-men
+Neal G.,Magny N.,,,canc.,canc.,23:00,29 Aug 2020,welterweight-ufc-men
+Grant D.,Rodriguez D.,2.65,1.48,Rodriguez D.,KO,00:30,23 Aug 2020,welterweight-ufc-men
+Grant D.,Born C.,,,canc.,canc.,23:00,22 Aug 2020,welterweight-ufc-men
+Semelsberger M.,Rowe P.,,,canc.,canc.,23:00,22 Aug 2020,welterweight-ufc-men
+Staropoli L.,Imadaev Z.,,,canc.,canc.,23:00,15 Aug 2020,welterweight-ufc-men
+Means T.,Staropoli L.,2.24,1.66,Means T.,PTS,00:30,09 Aug 2020,welterweight-ufc-men
+Luque V.,Brown R.,1.51,2.58,Luque V.,KO,02:00,02 Aug 2020,welterweight-ufc-men
+Oliveira A.,Sobotta P.,1.74,2.13,Oliveira A.,PTS,00:30,26 Jul 2020,welterweight-ufc-men
+Emeev R.,Rakhmonov S.,,,canc.,canc.,00:00,26 Jul 2020,welterweight-ufc-men
+Dalby N.,Ronson J.,1.35,3.21,Ronson J.,SUBM,23:00,25 Jul 2020,welterweight-ufc-men
+Alhassan R.,Lazzez M.,1.29,3.66,Lazzez M.,PTS,02:00,16 Jul 2020,welterweight-ufc-men
+Usman K.,Masvidal J.,1.36,3.25,Usman K.,PTS,04:00,12 Jul 2020,welterweight-ufc-men
+Usman K.,Burns G.,,,canc.,canc.,23:00,11 Jul 2020,welterweight-ufc-men
+Perry M.,Gall M.,1.31,3.48,Perry M.,PTS,02:00,28 Jun 2020,welterweight-ufc-men
+Sato T.,Witt J.,1.37,3.07,Sato T.,KO,23:00,27 Jun 2020,welterweight-ufc-men
+Good L.,Muhammad B.,2.01,1.81,Muhammad B.,PTS,00:30,21 Jun 2020,welterweight-ufc-men
+Aguilera C.,Ivy A.,2.66,1.49,Aguilera C.,TKO,23:00,13 Jun 2020,welterweight-ufc-men
+Magny N.,Martin A.,1.69,2.18,Magny N.,PTS,02:30,07 Jun 2020,welterweight-ufc-men
+Woodley T.,Burns G.,1.54,2.52,Burns G.,PTS,03:00,31 May 2020,welterweight-ufc-men
+Holland K.,Rodriguez D.,,,canc.,canc.,21:00,30 May 2020,welterweight-ufc-men
+Brown M.,Baeza M.,2.24,1.66,Baeza M.,KO,00:30,17 May 2020,welterweight-ufc-men
+Cerrone D.,Pettis A.,2.2,1.7,Pettis A.,PTS,01:30,10 May 2020,welterweight-ufc-men
+Luque V.,Price N.,1.39,3.09,Luque V.,TKO,23:30,09 May 2020,welterweight-ufc-men
+Martin A.,Zawada D.,,,canc.,canc.,21:00,25 Apr 2020,welterweight-ufc-men
+Good L.,Muhammad B.,,,canc.,canc.,02:00,19 Apr 2020,welterweight-ufc-men
+Luque V.,Brown R.,1.55,2.42,postp.,postp.,21:00,11 Apr 2020,welterweight-ufc-men
+Williams C.,Rowe P.,,,postp.,postp.,21:00,11 Apr 2020,welterweight-ufc-men
+Brown M.,Baeza M.,2.68,1.46,postp.,postp.,22:00,28 Mar 2020,welterweight-ufc-men
+Rakhmonov S.,Fabinski B.,,,postp.,postp.,18:00,21 Mar 2020,welterweight-ufc-men
+Woodley T.,Edwards L.,,,postp.,postp.,18:00,21 Mar 2020,welterweight-ufc-men
+Maia D.,Burns G.,2.26,1.64,Burns G.,TKO,23:45,14 Mar 2020,welterweight-ufc-men
+Magny N.,Jingliang L.,2.44,1.57,Magny N.,PTS,03:30,08 Mar 2020,welterweight-ufc-men
+Barberena B.,Ivy A.,1.4,2.96,Barberena B.,PTS,21:30,12 Sep 2020,welterweight-ufc-men
+Pereira M.,Imadaev Z.,1.72,2.12,Pereira M.,SUBM,00:30,06 Sep 2020,welterweight-ufc-men
+Lawler R.,Magny N.,2.97,1.4,Magny N.,PTS,02:30,30 Aug 2020,welterweight-ufc-men
+Neal G.,Magny N.,,,canc.,canc.,23:00,29 Aug 2020,welterweight-ufc-men
+Grant D.,Rodriguez D.,2.65,1.48,Rodriguez D.,KO,00:30,23 Aug 2020,welterweight-ufc-men
+Grant D.,Born C.,,,canc.,canc.,23:00,22 Aug 2020,welterweight-ufc-men
+Semelsberger M.,Rowe P.,,,canc.,canc.,23:00,22 Aug 2020,welterweight-ufc-men
+Staropoli L.,Imadaev Z.,,,canc.,canc.,23:00,15 Aug 2020,welterweight-ufc-men
+Means T.,Staropoli L.,2.24,1.66,Means T.,PTS,00:30,09 Aug 2020,welterweight-ufc-men
+Luque V.,Brown R.,1.51,2.58,Luque V.,KO,02:00,02 Aug 2020,welterweight-ufc-men
+Oliveira A.,Sobotta P.,1.74,2.13,Oliveira A.,PTS,00:30,26 Jul 2020,welterweight-ufc-men
+Emeev R.,Rakhmonov S.,,,canc.,canc.,00:00,26 Jul 2020,welterweight-ufc-men
+Dalby N.,Ronson J.,1.35,3.21,Ronson J.,SUBM,23:00,25 Jul 2020,welterweight-ufc-men
+Alhassan R.,Lazzez M.,1.29,3.66,Lazzez M.,PTS,02:00,16 Jul 2020,welterweight-ufc-men
+Usman K.,Masvidal J.,1.36,3.25,Usman K.,PTS,04:00,12 Jul 2020,welterweight-ufc-men
+Usman K.,Burns G.,,,canc.,canc.,23:00,11 Jul 2020,welterweight-ufc-men
+Perry M.,Gall M.,1.31,3.48,Perry M.,PTS,02:00,28 Jun 2020,welterweight-ufc-men
+Sato T.,Witt J.,1.37,3.07,Sato T.,KO,23:00,27 Jun 2020,welterweight-ufc-men
+Good L.,Muhammad B.,2.01,1.81,Muhammad B.,PTS,00:30,21 Jun 2020,welterweight-ufc-men
+Aguilera C.,Ivy A.,2.66,1.49,Aguilera C.,TKO,23:00,13 Jun 2020,welterweight-ufc-men
+Magny N.,Martin A.,1.69,2.18,Magny N.,PTS,02:30,07 Jun 2020,welterweight-ufc-men
+Woodley T.,Burns G.,1.54,2.52,Burns G.,PTS,03:00,31 May 2020,welterweight-ufc-men
+Holland K.,Rodriguez D.,,,canc.,canc.,21:00,30 May 2020,welterweight-ufc-men
+Brown M.,Baeza M.,2.24,1.66,Baeza M.,KO,00:30,17 May 2020,welterweight-ufc-men
+Cerrone D.,Pettis A.,2.2,1.7,Pettis A.,PTS,01:30,10 May 2020,welterweight-ufc-men
+Luque V.,Price N.,1.39,3.09,Luque V.,TKO,23:30,09 May 2020,welterweight-ufc-men
+Martin A.,Zawada D.,,,canc.,canc.,21:00,25 Apr 2020,welterweight-ufc-men
+Good L.,Muhammad B.,,,canc.,canc.,02:00,19 Apr 2020,welterweight-ufc-men
+Luque V.,Brown R.,1.55,2.42,postp.,postp.,21:00,11 Apr 2020,welterweight-ufc-men
+Williams C.,Rowe P.,,,postp.,postp.,21:00,11 Apr 2020,welterweight-ufc-men
+Brown M.,Baeza M.,2.68,1.46,postp.,postp.,22:00,28 Mar 2020,welterweight-ufc-men
+Rakhmonov S.,Fabinski B.,,,postp.,postp.,18:00,21 Mar 2020,welterweight-ufc-men
+Woodley T.,Edwards L.,,,postp.,postp.,18:00,21 Mar 2020,welterweight-ufc-men
+Maia D.,Burns G.,2.26,1.64,Burns G.,TKO,23:45,14 Mar 2020,welterweight-ufc-men
+Magny N.,Jingliang L.,2.44,1.57,Magny N.,PTS,03:30,08 Mar 2020,welterweight-ufc-men
