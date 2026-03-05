@@ -1,0 +1,257 @@
+/* === Premium Muted Slate/Forest Green Style === */
+        :root {
+            --primary-color: #4a5d4e;
+            /* Muted Forest Green */
+            --bs-primary: #4a5d4e;
+            /* Bootstrap Override */
+            --bs-primary-rgb: 74, 93, 78;
+            --sidebar-bg: rgba(255, 255, 255, 0.92);
+        }
+
+        body {
+            /* Subtle breathing mesh gradient */
+            background: linear-gradient(-45deg, #e5e9e4, #d5ded7, #e8ece7, #d8e0da);
+            background-size: 400% 400%;
+            animation: gradientBG 15s ease infinite;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            overflow-x: hidden;
+            min-height: 100vh;
+        }
+
+        @keyframes gradientBG {
+            0% {
+                background-position: 0% 50%;
+            }
+
+            50% {
+                background-position: 100% 50%;
+            }
+
+            100% {
+                background-position: 0% 50%;
+            }
+        }
+
+        /* --- Override Bootstrap Colors --- */
+        .btn-primary {
+            background-color: var(--bs-primary);
+            border-color: var(--bs-primary);
+        }
+
+        .btn-primary:hover,
+        .btn-primary:focus {
+            background-color: #3b4b3f;
+            border-color: #3b4b3f;
+        }
+
+        .btn-outline-primary {
+            color: var(--bs-primary);
+            border-color: var(--bs-primary);
+        }
+
+        .btn-outline-primary:hover {
+            background-color: var(--bs-primary);
+            color: white;
+        }
+
+        .text-primary {
+            color: var(--bs-primary) !important;
+        }
+
+        .bg-primary {
+            background-color: var(--bs-primary) !important;
+            color: white !important;
+        }
+
+        /* --- Navbar Styles --- */
+        .navbar {
+            background: rgba(255, 255, 255, 0.85) !important;
+            backdrop-filter: blur(12px);
+            -webkit-backdrop-filter: blur(12px);
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.03);
+            border-bottom: 1px solid rgba(255, 255, 255, 0.4);
+            z-index: 1050;
+            /* Ensure Navbar stays above Sidebar */
+        }
+
+        /* --- Sidebar Styles --- */
+        #sidebar {
+            width: 250px;
+            height: 100vh;
+            background: var(--sidebar-bg);
+            backdrop-filter: blur(10px);
+            -webkit-backdrop-filter: blur(10px);
+            position: fixed;
+            top: 0;
+            left: 0;
+            border-right: 1px solid rgba(0, 0, 0, 0.05);
+            padding-top: 70px;
+            transition: all 0.3s cubic-bezier(0.25, 0.8, 0.25, 1);
+            z-index: 1040;
+            /* Lower than Navbar */
+            margin-left: 0;
+        }
+
+        #sidebar a {
+            padding: 15px 25px;
+            text-decoration: none;
+            color: #5c665e;
+            display: block;
+            border-left: 4px solid transparent;
+            transition: all 0.2s ease;
+        }
+
+        #sidebar a:hover {
+            background-color: rgba(74, 93, 78, 0.06);
+            color: var(--primary-color);
+            border-left-color: rgba(74, 93, 78, 0.3);
+        }
+
+        #sidebar a.active {
+            background-color: rgba(74, 93, 78, 0.12);
+            color: var(--primary-color);
+            border-left-color: var(--primary-color);
+            font-weight: 600;
+        }
+
+        /* --- Main Content Area --- */
+        #main-content {
+            margin-left: 250px;
+            padding: 100px 30px 40px 30px;
+            min-height: 100vh;
+            transition: all 0.3s cubic-bezier(0.25, 0.8, 0.25, 1);
+        }
+
+        /* Sidebar Toggle Classes for Desktop */
+        #sidebar.active {
+            margin-left: -250px !important;
+        }
+
+        #main-content.active {
+            margin-left: 0 !important;
+            width: 100%;
+        }
+
+        /* --- Responsive Behavior --- */
+        @media (max-width: 768px) {
+            #sidebar {
+                margin-left: -250px;
+            }
+
+            #sidebar.active {
+                margin-left: 0 !important;
+                z-index: 1060;
+                /* Bring above navbar on mobile */
+                box-shadow: 5px 0 20px rgba(0, 0, 0, 0.08);
+            }
+
+            #main-content {
+                margin-left: 0;
+            }
+        }
+
+        /* --- Table Overflow Handling --- */
+        .table-fixed {
+            width: 100%;
+        }
+
+        @media (min-width: 992px) {
+            .table-fixed {
+                table-layout: fixed;
+            }
+        }
+
+        .text-wrap-title {
+            word-break: break-word;
+            white-space: normal;
+        }
+
+        .text-truncate-desc {
+            max-width: 250px;
+            white-space: nowrap;
+            overflow: hidden;
+            text-overflow: ellipsis;
+            display: inline-block;
+            vertical-align: bottom;
+        }
+
+        /* --- General Card Styles --- */
+        .card {
+            border: none;
+            border-radius: 12px;
+            background: rgba(255, 255, 255, 0.85);
+            backdrop-filter: blur(10px);
+            -webkit-backdrop-filter: blur(10px);
+            box-shadow: 0 4px 15px rgba(0, 0, 0, 0.03);
+        }
+
+        /* --- Glassmorphism Login Specific --- */
+        #loginSection {
+            min-height: 100vh;
+            display: flex;
+            align-items: center;
+            margin-top: -50px;
+            /* Offset to perfectly center */
+        }
+
+        #loginSection .card {
+            background: rgba(255, 255, 255, 0.5);
+            /* extra transparent */
+            backdrop-filter: blur(16px);
+            -webkit-backdrop-filter: blur(16px);
+            border: 1px solid rgba(255, 255, 255, 0.6);
+            box-shadow: 0 10px 40px rgba(0, 0, 0, 0.08);
+            border-radius: 16px;
+            transition: transform 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+        }
+
+        #loginSection .card:focus-within {
+            transform: scale(1.02);
+            /* Pop out slightly when typing */
+        }
+
+        #loginSection input.form-control {
+            background: rgba(255, 255, 255, 0.6);
+            border: 1px solid rgba(255, 255, 255, 0.8);
+            border-radius: 8px;
+            transition: all 0.3s ease;
+        }
+
+        #loginSection input.form-control:focus {
+            background: rgba(255, 255, 255, 0.95);
+            box-shadow: 0 0 0 4px rgba(74, 93, 78, 0.15);
+            border-color: var(--primary-color);
+        }
+
+        /* Modals Glassmorphism */
+        .modal-content {
+            border: none;
+            border-radius: 14px;
+            background: rgba(255, 255, 255, 0.95);
+            backdrop-filter: blur(15px);
+            box-shadow: 0 15px 45px rgba(0, 0, 0, 0.1);
+        }
+
+        .modal-header {
+            border-bottom: 1px solid rgba(0, 0, 0, 0.05);
+            background: transparent !important;
+        }
+
+        /* --- Loading Spinner --- */
+        #loader {
+            position: fixed;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background: rgba(255, 255, 255, 0.5);
+            backdrop-filter: blur(4px);
+            z-index: 9999;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+
+        .hidden {
+            display: none !important;
+        }

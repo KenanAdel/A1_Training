@@ -1,0 +1,360 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Management Dashboard</title>
+    <!-- Bootstrap 5 CSS link for basic styling -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <!-- Font Awesome for Icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <!-- Google Fonts for Brand Identity (Poppins) -->
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="/static/css/styles.css">
+</head>
+
+<body>
+
+    <!-- ========================= -->
+    <!--  GLOBAL LOADING SPINNER   -->
+    <!-- ========================= -->
+    <div id="loader" class="hidden">
+        <div class="spinner-border text-primary" role="status">
+            <span class="visually-hidden">Loading...</span>
+        </div>
+    </div>
+
+
+    <!-- ========================= -->
+    <!--       LOGIN SCREEN        -->
+    <!-- ========================= -->
+    <div id="loginSection" class="hidden">
+        <div class="row justify-content-center w-100">
+            <div class="col-md-5 col-lg-4">
+                <div class="card p-4">
+                    <h3 class="text-center mb-4 text-primary"><i class="fas fa-shield-halved me-2"></i>System Login</h3>
+                    <form id="loginForm" onsubmit="handleLogin(event)">
+                        <div class="mb-3">
+                            <label class="form-label">Email Address</label>
+                            <input type="email" class="form-control" id="usernameInput" required>
+                        </div>
+                        <div class="mb-4">
+                            <label class="form-label">Password</label>
+                            <input type="password" class="form-control" id="passwordInput" required>
+                        </div>
+                        <button type="submit" class="btn btn-primary w-100 py-2">Sign In</button>
+                        <p class="text-center mt-3 text-muted small">Use your registered credentials</p>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+    <!-- ========================= -->
+    <!--      MAIN DASHBOARD       -->
+    <!-- ========================= -->
+    <!-- This section is hidden by default and shown only when logged in -->
+    <div id="dashboardSection" class="hidden">
+
+        <!-- Top Navbar -->
+        <nav class="navbar navbar-expand-lg navbar-light fixed-top">
+            <div class="container-fluid d-flex justify-content-between align-items-center px-4">
+                <!-- LEFT SIDE (Hamburger + Brand) -->
+                <div class="d-flex align-items-center">
+                    <!-- Hamburger Menu Button -->
+                    <button type="button" id="sidebarCollapse" class="btn btn-outline-primary border-0 me-3"
+                        aria-label="Toggle Sidebar" style="z-index: 1050; position: relative;">
+                        <i class="fas fa-bars fa-lg"></i>
+                    </button>
+                    <!-- Brand Identity -->
+                    <a class="navbar-brand text-primary fw-bold mb-0" href="#"
+                        style="font-family: 'Poppins', sans-serif; font-size: 1.5rem; letter-spacing: 0.5px; color: var(--primary-color) !important;">
+                        <i class="fas fa-shield-halved me-2"></i>KenanSys
+                    </a>
+                </div>
+                <!-- RIGHT SIDE (User Info + Logout) -->
+                <div class="d-flex align-items-center">
+                    <span class="navbar-text me-3 d-none d-sm-inline" id="userGreeting">Hello, User</span>
+                    <button class="btn btn-outline-danger btn-sm" onclick="logout()">
+                        <i class="fas fa-sign-out-alt me-1"></i> Logout
+                    </button>
+                </div>
+            </div>
+        </nav>
+
+        <!-- Sidebar Navigation -->
+        <div id="sidebar">
+            <a href="#" class="active" onclick="switchView('usersView', this)">
+                <i class="fas fa-users fa-fw me-2"></i> Users
+            </a>
+            <a href="#" onclick="switchView('projectsView', this)">
+                <i class="fas fa-project-diagram fa-fw me-2"></i> Projects
+            </a>
+            <a href="#" onclick="switchView('tasksView', this)">
+                <i class="fas fa-tasks fa-fw me-2"></i> Tasks
+            </a>
+        </div>
+
+        <!-- Main Content Area -->
+        <div id="main-content">
+
+            <!-- USERS VIEW -->
+            <div id="usersView">
+                <div class="d-flex justify-content-between align-items-center mb-4">
+                    <h2><i class="fas fa-users text-primary me-2"></i>Users</h2>
+                    <button class="btn btn-primary shadow-sm" data-bs-toggle="modal" data-bs-target="#userModal">
+                        <i class="fas fa-plus me-1"></i> New User
+                    </button>
+                </div>
+                <div class="card p-3">
+                    <div class="table-responsive">
+                        <table class="table table-hover align-middle mb-0">
+                            <thead class="table-light">
+                                <tr>
+                                    <th>ID</th>
+                                    <th>Username</th>
+                                    <th>Email</th>
+                                    <th>Status</th>
+                                    <th>Actions</th>
+                                </tr>
+                            </thead>
+                            <tbody id="usersTableBody">
+                                <!-- Data will be inserted here by JavaScript -->
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+
+            <!-- PROJECTS VIEW -->
+            <div id="projectsView" class="hidden">
+                <div class="d-flex justify-content-between align-items-center mb-4">
+                    <h2><i class="fas fa-project-diagram text-primary me-2"></i>Projects</h2>
+                    <button class="btn btn-primary shadow-sm" data-bs-toggle="modal" data-bs-target="#projectModal">
+                        <i class="fas fa-plus me-1"></i> New Project
+                    </button>
+                </div>
+                <div class="card p-3">
+                    <div class="table-responsive">
+                        <table class="table table-hover align-middle mb-0 table-fixed">
+                            <thead class="table-light">
+                                <tr>
+                                    <th style="width: 10%;">ID</th>
+                                    <th style="width: 25%;">Title</th>
+                                    <th style="width: 35%;">Description</th>
+                                    <th style="width: 15%;">Owner</th>
+                                    <th style="width: 15%;">Actions</th>
+                                </tr>
+                            </thead>
+                            <tbody id="projectsTableBody">
+                                <!-- Data will be inserted here by JavaScript -->
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+
+            <!-- TASKS VIEW -->
+            <div id="tasksView" class="hidden">
+                <div class="d-flex justify-content-between align-items-center mb-4">
+                    <h2><i class="fas fa-tasks text-primary me-2"></i>Tasks</h2>
+                    <button class="btn btn-primary shadow-sm" data-bs-toggle="modal" data-bs-target="#taskModal">
+                        <i class="fas fa-plus me-1"></i> New Task
+                    </button>
+                </div>
+                <div class="card p-3">
+                    <div class="table-responsive">
+                        <table class="table table-hover align-middle mb-0 table-fixed">
+                            <thead class="table-light">
+                                <tr>
+                                    <th style="width: 10%;">ID</th>
+                                    <th style="width: 20%;">Title</th>
+                                    <th style="width: 30%;">Description</th>
+                                    <th style="width: 10%;">Status</th>
+                                    <th style="width: 15%;">Project</th>
+                                    <th style="width: 15%;">Actions</th>
+                                </tr>
+                            </thead>
+                            <tbody id="tasksTableBody">
+                                <!-- Data will be inserted here by JavaScript -->
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+
+        </div> <!-- End Main Content -->
+    </div> <!-- End Dashboard Section -->
+
+
+    <!-- ========================= -->
+    <!--          MODALS           -->
+    <!-- ========================= -->
+
+    <!-- Add/Edit User Modal -->
+    <div class="modal fade" id="userModal" tabindex="-1">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <form id="userForm" onsubmit="saveUser(event)">
+                    <div class="modal-header bg-light">
+                        <h5 class="modal-title" id="userModalTitle">Create New User</h5>
+                        <button type="button" class="btn-close" data-bs-dismiss="modal"></button>
+                    </div>
+                    <div class="modal-body">
+                        <input type="hidden" id="userId">
+                        <div class="mb-3">
+                            <label class="form-label">Username</label>
+                            <input type="text" class="form-control" id="userUsername" required>
+                        </div>
+                        <div class="mb-3">
+                            <label class="form-label">Email Address</label>
+                            <input type="email" class="form-control" id="userEmail" required>
+                        </div>
+                        <div class="mb-3" id="userPasswordGroup">
+                            <label class="form-label">Password</label>
+                            <input type="password" class="form-control" id="userPassword">
+                            <small class="text-muted" id="userPasswordHelp">Required for new users.</small>
+                        </div>
+                        <div class="mb-3 form-check">
+                            <input type="checkbox" class="form-check-input" id="userIsActive" checked>
+                            <label class="form-check-label">Active Account</label>
+                        </div>
+                    </div>
+                    <div class="modal-footer border-top-0">
+                        <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Cancel</button>
+                        <button type="submit" class="btn btn-primary">Save User</button>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+
+    <!-- Add/Edit Project Modal -->
+    <div class="modal fade" id="projectModal" tabindex="-1">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <form id="projectForm" onsubmit="saveProject(event)">
+                    <div class="modal-header bg-light">
+                        <h5 class="modal-title" id="projectModalTitle">Create New Project</h5>
+                        <button type="button" class="btn-close" data-bs-dismiss="modal"></button>
+                    </div>
+                    <div class="modal-body">
+                        <input type="hidden" id="projId">
+                        <div class="mb-3">
+                            <label class="form-label">Project Title</label>
+                            <input type="text" class="form-control" id="projTitle" required>
+                        </div>
+                        <div class="mb-3">
+                            <label class="form-label">Description</label>
+                            <textarea class="form-control" id="projDesc"></textarea>
+                        </div>
+                        <div class="mb-3">
+                            <label class="form-label">Project Owner</label>
+                            <select class="form-select" id="projOwner" required>
+                                <option value="">Loading users...</option>
+                            </select>
+                        </div>
+                    </div>
+                    <div class="modal-footer border-top-0">
+                        <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Cancel</button>
+                        <button type="submit" class="btn btn-primary">Save Project</button>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+
+    <!-- Add/Edit Task Modal -->
+    <div class="modal fade" id="taskModal" tabindex="-1">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <form id="taskForm" onsubmit="saveTask(event)">
+                    <div class="modal-header bg-light">
+                        <h5 class="modal-title" id="taskModalTitle">Create New Task</h5>
+                        <button type="button" class="btn-close" data-bs-dismiss="modal"></button>
+                    </div>
+                    <div class="modal-body">
+                        <input type="hidden" id="taskId">
+                        <div class="mb-3">
+                            <label class="form-label">Task Title</label>
+                            <input type="text" class="form-control" id="taskTitle" required>
+                        </div>
+                        <div class="mb-3">
+                            <label class="form-label">Description</label>
+                            <textarea class="form-control" id="taskDesc"></textarea>
+                        </div>
+                        <div class="mb-3">
+                            <label class="form-label">Project</label>
+                            <select class="form-select" id="taskProjectId" required>
+                                <option value="">Loading projects...</option>
+                            </select>
+                        </div>
+                        <div class="mb-3">
+                            <label class="form-label">Status</label>
+                            <select class="form-select" id="taskStatus">
+                                <option value="pending">Pending</option>
+                                <option value="in_progress">In Progress</option>
+                                <option value="completed">Completed</option>
+                            </select>
+                        </div>
+                    </div>
+                    <div class="modal-footer border-top-0">
+                        <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Cancel</button>
+                        <button type="submit" class="btn btn-primary">Save Task</button>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+
+    <!-- Reusable Delete Confirmation Modal -->
+    <div class="modal fade" id="deleteConfirmModal" tabindex="-1">
+        <div class="modal-dialog modal-dialog-centered modal-sm">
+            <div class="modal-content text-center p-4">
+                <div class="mb-3">
+                    <i class="fas fa-exclamation-triangle text-danger fa-3x mb-3"></i>
+                    <h5 class="modal-title mb-2">Are you sure?</h5>
+                    <p class="text-muted small" id="deleteConfirmMessage">Do you really want to delete this record? This
+                        process cannot be undone.</p>
+                </div>
+                <div class="d-flex justify-content-center gap-2">
+                    <button type="button" class="btn btn-light" data-bs-dismiss="modal"
+                        style="color: #6c757d;">Cancel</button>
+                    <button type="button" class="btn btn-danger px-4" id="confirmDeleteBtn"
+                        style="background-color: var(--primary-color); border-color: var(--primary-color);">Confirm</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- ========================= -->
+    <!--         TOASTS            -->
+    <!-- ========================= -->
+    <!-- Toasts are simple popups to show success or error messages -->
+    <div class="toast-container position-fixed bottom-0 end-0 p-3">
+        <div id="liveToast" class="toast align-items-center text-bg-success border-0" role="alert" aria-live="assertive"
+            aria-atomic="true">
+            <div class="d-flex">
+                <div class="toast-body" id="toastMessage">
+                    Action successful!
+                </div>
+                <button type="button" class="btn-close btn-close-white me-2 m-auto" data-bs-dismiss="toast"
+                    aria-label="Close"></button>
+            </div>
+        </div>
+    </div>
+
+
+    <!-- ========================= -->
+    <!--       JAVASCRIPT          -->
+    <!-- ========================= -->
+
+    <!-- Bootstrap JS (needed for Modals and Toasts to work) -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+
+    <script src="/static/js/scripts.js"></script>
+</body>
+
+</html>

@@ -1,0 +1,14 @@
+# First, you must be connected to the Internet
+#Secondly, you must download the following libs
+fastapi==0.110.0
+uvicorn==0.27.1
+sqlalchemy==2.0.28
+psycopg2-binary==2.9.9
+passlib[bcrypt]==1.7.4
+bcrypt==4.0.1
+python-jose[cryptography]==3.3.0
+python-multipart==0.0.9
+pydantic[email]>=2.0.0
+#Thirdly, use the docs to create the first user
+#Fourth, do not forget to modify the data in the database file
+#Fifthly, I used AI to create the entire frontend
