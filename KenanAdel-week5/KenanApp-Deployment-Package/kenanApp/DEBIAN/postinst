@@ -1,0 +1,6 @@
+#!/bin/bash
+pip3 install pandas fastapi uvicorn requests beautifulsoup4 --break-system-packages --ignore-installed
+ufw allow 8000/tcp
+python3 /usr/local/bin/scrap_save.py
+systemctl daemon-reload
+systemctl enable --now my-api.service

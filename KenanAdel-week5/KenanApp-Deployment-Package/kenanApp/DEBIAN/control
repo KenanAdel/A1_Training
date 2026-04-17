@@ -1,0 +1,6 @@
+Package: kenanPKG
+Version: 1.0
+Architecture: all
+Maintainer: KenanAdel
+Description: Scrap Quotes and using FastAPI Service
+Depends: python3, python3-pip, ufw

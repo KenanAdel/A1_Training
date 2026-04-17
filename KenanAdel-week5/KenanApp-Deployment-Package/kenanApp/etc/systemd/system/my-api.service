@@ -1,0 +1,12 @@
+[Unit]
+Description=Quotes FastAPI Service
+After=network.target
+
+[Service]
+WorkingDirectory=/usr/local/bin
+ExecStart=/usr/bin/python3 -m uvicorn my_api:app --host 0.0.0.0 --port 8000
+Restart=always
+User=root
+
+[Install]
+WantedBy=multi-user.target
