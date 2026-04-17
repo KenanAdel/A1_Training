@@ -26,7 +26,7 @@ def home():
 
 
 @app.get("/quotes")
-def get_all_quotes_by_author():
+def get_all_quotes():
     data = get_data()
     return data
 
